@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Endelig fredag, og endelig ny musik bl.a. med debutalbum fra GUZO, Christopher p\u00e5 Kdrama soundtrack og ny hip hop fra Wesmo, Belly og mange flere!!!",
+  "description": "Endelig fredag, og endelig ny musik bl.a. med debutalbum fra GUZO og ny hip hop fra Wesmo, Belly og mange flere!!!",
   "name": "New Music Friday Denmark",
   "tracks": [
     {
@@ -122370,7 +122370,7 @@
       ],
       "date_added": "2026-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 190476,
       "name": "Just Because (Nine to Six : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/2Uvz3LstH9r7mlKDU9yZWb"
@@ -151464,12 +151464,12 @@
       },
       "artists": [
         {
-          "name": "Cam Stockman",
-          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
-        },
-        {
           "name": "Sidney Charles",
           "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        },
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
         },
         {
           "name": "Eliza Rose",
@@ -200920,6 +200920,24 @@
       "duration_ms": 150500,
       "name": "Sober Love",
       "url": "https://open.spotify.com/track/68sQfgn2MTUxMwo5iXOxWK"
+    },
+    {
+      "album": {
+        "name": "Social Arv",
+        "url": "https://open.spotify.com/album/6pagvO70myUEjL8cUgXoYT"
+      },
+      "artists": [
+        {
+          "name": "Standart",
+          "url": "https://open.spotify.com/artist/0a9vXvrnthVu0cNNV4Xyub"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179625,
+      "name": "Social Arv",
+      "url": "https://open.spotify.com/track/0p7QwDVkBPjjjwRAcxhVEr"
     },
     {
       "album": {

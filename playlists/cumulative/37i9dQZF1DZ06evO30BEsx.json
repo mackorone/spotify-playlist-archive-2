@@ -1162,6 +1162,32 @@
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114333,
+      "name": "Elfman: Fifty Shades of Grey: Shades of Grey",
+      "url": "https://open.spotify.com/track/2pqxzxqjQE8nHwnUXgrw0I"
+    },
+    {
+      "album": {
+        "name": "Danny Elfman: Cello Concerto & Film Music",
+        "url": "https://open.spotify.com/album/7kZ5FcQnPYmA5WQVjlsxaK"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
           "name": "Lionel Bringuier",
           "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         },
@@ -2224,7 +2250,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 91093,
       "name": "Prelude and Fugue in D Major, BWV 850: I. Prelude",
       "url": "https://open.spotify.com/track/7cFXFkxxeIDCu52cP2QBUB"

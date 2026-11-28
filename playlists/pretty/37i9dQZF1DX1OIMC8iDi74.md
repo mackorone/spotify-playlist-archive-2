@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🩷 with ISOxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,628 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,564 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 58 | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X) | 3:29 |
 | 59 | [No Brakes](https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [No Brakes](https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3) | 1:48 |
 | 60 | [NASTY](https://open.spotify.com/track/5bLtHN2kDNecQc1J4bVwgK) | [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J) | [NASTY](https://open.spotify.com/album/7n9AqmiAkhwFbWNFaS9BZP) | 2:48 |
-| 61 | [Insanity](https://open.spotify.com/track/3du1ULb91ZeCuAnEet30Z0) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Insanity](https://open.spotify.com/album/3K4Tpg7rhiJoLjjiHCjkii) | 3:42 |
-| 62 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 |
+| 61 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 |
+| 62 | [Insanity](https://open.spotify.com/track/3du1ULb91ZeCuAnEet30Z0) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Insanity](https://open.spotify.com/album/3K4Tpg7rhiJoLjjiHCjkii) | 3:42 |
 | 63 | [HACKING THE GATE](https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME](https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li) | 2:53 |
 | 64 | [Picante](https://open.spotify.com/track/2OieKfzEmyyTKZyBUsZAg4) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [FT.](https://open.spotify.com/album/2NUmsuURs9rtHr8CS1IUU4) | 3:21 |
 | 65 | [HORSEPOWER](https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9) | [HORSEPOWER](https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw) | 3:06 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 92 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
 | 93 | [Throw Ya Body](https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tej](https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL), [Avani Satra](https://open.spotify.com/artist/0jSQsnwKwjMY1x4xqDZ6Vp) | [Throw Ya Body](https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg) | 2:51 |
 | 94 | [Science \- seak\. Remix](https://open.spotify.com/track/3H0eXU9QeHvPZYbICAixWH) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [seak.](https://open.spotify.com/artist/1xMLf4dirFospBkrg0r50J) | [Science \- The Remixes](https://open.spotify.com/album/28QAmAjPu79r3g7RKdthJH) | 2:47 |
-| 95 | [GOIN' ALL THE WAY](https://open.spotify.com/track/0y7coha2WoxWkEBsKVfBBz) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [GOIN' ALL THE WAY](https://open.spotify.com/album/1vsUmqCmrUZl37jF0Vq9ou) | 3:36 |
-| 96 | [Work](https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [imellem](https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw) | 2:33 |
+| 95 | [Work](https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [imellem](https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw) | 2:33 |
+| 96 | [GOIN' ALL THE WAY](https://open.spotify.com/track/0y7coha2WoxWkEBsKVfBBz) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [GOIN' ALL THE WAY](https://open.spotify.com/album/1vsUmqCmrUZl37jF0Vq9ou) | 3:36 |
 | 97 | [CHAINSAW](https://open.spotify.com/track/1ydsW0MBvHFnYHZkPABatN) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI), [Basstrick](https://open.spotify.com/artist/2g6IRi1Nu7TGzm2WhSggta) | [CULT CHROME II](https://open.spotify.com/album/2fMzDNj8s4y3AgemvaKtsp) | 3:04 |
-| 98 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
-| 99 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
+| 98 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
+| 99 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
 | 100 | [Dozer](https://open.spotify.com/track/57FuwSCElE898TwZAXS4Wn) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Dozer](https://open.spotify.com/album/5IoHFM2WHRB4oytlJa86gn) | 2:52 |
 
 Snapshot ID: `AAAAAE1j8QwXTkg1BsFxyqOz2b148NZJ`

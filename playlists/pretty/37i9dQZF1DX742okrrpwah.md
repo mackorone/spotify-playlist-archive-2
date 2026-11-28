@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > RnBoi, Marine, Ofenbach x Norma Jean Martin, Franglish et Louane au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,466 likes - 89 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,979 likes - 89 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 57 | [Doudou an mwen](https://open.spotify.com/track/26b6xSeGbv8OoxCBhkriT7) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Doudou an mwen](https://open.spotify.com/album/7bmL12wjCr92NzZ0E4e1jx) | 3:20 |
 | 58 | [Grime](https://open.spotify.com/track/3pxB4IONUahnhgOF7wgctg) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Blake Light](https://open.spotify.com/artist/3Eg3uKwUyxwvM57CW2skbr) | [Grime](https://open.spotify.com/album/7cMxE5ozlgG0m0E2IQe6ZI) | 2:25 |
 | 59 | [Moves \(with Jhené Aiko\)](https://open.spotify.com/track/3pHqs2CmdJS74NgPM8nDel) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Vault 6](https://open.spotify.com/album/55x70IxJx3dtwgUDpAF1Fo) | 3:12 |
-| 60 | [Batman](https://open.spotify.com/track/6xbm3SABfyvW2MQD4wj5Bd) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Batman](https://open.spotify.com/album/6uARLMmJtcFedhaCV500Sj) | 3:46 |
+| 60 | [BATMAN](https://open.spotify.com/track/6xbm3SABfyvW2MQD4wj5Bd) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [BATMAN](https://open.spotify.com/album/6uARLMmJtcFedhaCV500Sj) | 3:46 |
 | 61 | [Jean Slim](https://open.spotify.com/track/0dVoqYFf3UPnA0LL1Mrqeq) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [CRUSH](https://open.spotify.com/album/7fG1tEw3OQO72MlpXYGg0N) | 2:50 |
 | 62 | [Love Dub Down](https://open.spotify.com/track/7ubDR7HC0BWU4Cl1uWpp6B) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Love Dub Down](https://open.spotify.com/album/6G25T1DW1TRt3NYnW0gc6S) | 2:56 |
 | 63 | [Lord of Lords](https://open.spotify.com/track/3AcvOxzSi4lcL5DJIg0VcX) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Lord of Lords](https://open.spotify.com/album/7r3bUn5QpU08Mv1ISXgF8a) | 4:28 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 74 | [Rendez\-vous au 51](https://open.spotify.com/track/2ExV98mKHvluwn3jDgpL7k) | [Hermance](https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS) | [Rendez\-vous au 51](https://open.spotify.com/album/5t0a7BfD0l2jZY2eumI8KR) | 3:30 |
 | 75 | [JAB](https://open.spotify.com/track/5K6175MZ5IOgb3vLFx4M2o) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [JD](https://open.spotify.com/artist/0qcbI7oxRa27auD5l0dY57) | [JAB](https://open.spotify.com/album/63t6q5oRqWZRsdGLn6Ntpk) | 2:00 |
 | 76 | [The Portal](https://open.spotify.com/track/5jQJndGHgUi5HcbTi3gOjs) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [GMS](https://open.spotify.com/artist/1jLsr1sNO2WshuzmSibSIt), [Age of Acid](https://open.spotify.com/artist/0YogsXKqBux48FK5lqYY9F) | [The Portal EP](https://open.spotify.com/album/1I1YX0pkJIFLYUF5JcEmph) | 10:42 |
-| 77 | [Après le silence...](https://open.spotify.com/track/3gvHNCsKzB5i0haXpM2NKS) | [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg), [MASTA](https://open.spotify.com/artist/5qrcWXxLiTl4tustyWMnke) | [Après le silence...](https://open.spotify.com/album/4lO20gMDSsCL0CFbUjC9n3) | 4:33 |
+| 77 | [Après le silence...](https://open.spotify.com/track/3gvHNCsKzB5i0haXpM2NKS) | [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg), [Masta](https://open.spotify.com/artist/0b0LkTGyw4LGv0FS8hc0s6) | [Après le silence...](https://open.spotify.com/album/4lO20gMDSsCL0CFbUjC9n3) | 4:33 |
 | 78 | [Twilight Room](https://open.spotify.com/track/46GsFIa135TatApguVf4VO) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Twilight Room](https://open.spotify.com/album/1oNZdcyNJQFtAjYOVNsJlT) | 3:36 |
 | 79 | [ON S’AIME](https://open.spotify.com/track/1kWCjsP4uumbqIXMxO4QaB) | [Martin Luminet](https://open.spotify.com/artist/3DziNI4JX4VMQQOkuAq24y) | [ON S’AIME](https://open.spotify.com/album/3r2MN6DmX5rSS5jUOfu3nr) | 3:29 |
 | 80 | [Disparaître](https://open.spotify.com/track/2w8zt3mBOcgD9AftcMaUtI) | [Tout le monde s'appelle clara](https://open.spotify.com/artist/5kgtXjB4gzuQbcMMNV6z3n) | [Disparaître](https://open.spotify.com/album/0JHe5X2xIUozToFlOLKzIL) | 2:44 |

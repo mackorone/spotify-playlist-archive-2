@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Buffalo Traffic Jam",
-  "num_followers": 954583,
+  "num_followers": 954554,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEJKr5HDpSWuwYGLjNsSKCxNtXb0",
+  "snapshot_id": "AAAAAFR1dAiXhNhqYFC8eLNZitszjJvb",
   "tracks": [
     {
       "added_at": "2026-11-20 16:57:16",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2uSgEGeb0j2xQiqj7wA2xm"
     },
     {
+      "added_at": "2026-11-27 10:00:28",
+      "album": {
+        "name": "Everything On Fire",
+        "url": "https://open.spotify.com/album/4mMXxB95GryASboT4X11jV"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Everything On Fire",
+      "url": "https://open.spotify.com/track/004G3nON9ejsOF4Fnb5eX3"
+    },
+    {
       "added_at": "2026-10-09 04:02:34",
       "album": {
         "name": "Do Better",
@@ -39,6 +55,22 @@
       "duration_ms": 211000,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
+    },
+    {
+      "added_at": "2026-11-27 10:00:28",
+      "album": {
+        "name": "Goth Rave",
+        "url": "https://open.spotify.com/album/2vrQ3X57McmWG6AzjO4HZX"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 196321,
+      "name": "Goth Rave",
+      "url": "https://open.spotify.com/track/42NrToIoZCMQ7GjSsx3cKD"
     },
     {
       "added_at": "2026-11-20 16:57:16",
@@ -57,20 +89,40 @@
       "url": "https://open.spotify.com/track/4JtMzcsJc7nAzxX6I2MJuY"
     },
     {
-      "added_at": "2026-11-20 16:57:16",
+      "added_at": "2026-11-27 10:00:28",
       "album": {
-        "name": "Sweet Tooth Sugar High",
-        "url": "https://open.spotify.com/album/5q4FvUELBTC66mkRSPILqY"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/1MA32hbzAwq74luWckcPDs"
       },
       "artists": [
         {
-          "name": "Chance Emerson",
-          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
         }
       ],
-      "duration_ms": 166440,
-      "name": "Sweet Tooth Sugar High",
-      "url": "https://open.spotify.com/track/3ZcN5U1u7Lh7bcdeE2NC0p"
+      "duration_ms": 204257,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3KAupxPNje3nKAA5kSvovD"
+    },
+    {
+      "added_at": "2026-10-09 04:02:34",
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "added_at": "2026-10-09 04:02:34",
@@ -91,6 +143,38 @@
       "duration_ms": 185583,
       "name": "Call Home",
       "url": "https://open.spotify.com/track/0E8KC0cKuIdj9NjaDBooVc"
+    },
+    {
+      "added_at": "2026-11-20 16:57:16",
+      "album": {
+        "name": "Sweet Tooth Sugar High",
+        "url": "https://open.spotify.com/album/5q4FvUELBTC66mkRSPILqY"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Sweet Tooth Sugar High",
+      "url": "https://open.spotify.com/track/3ZcN5U1u7Lh7bcdeE2NC0p"
+    },
+    {
+      "added_at": "2026-10-09 04:02:34",
+      "album": {
+        "name": "Is This Heaven? (Extended)",
+        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 169121,
+      "name": "Good At Leaving",
+      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
     },
     {
       "added_at": "2026-10-09 04:02:34",
@@ -123,26 +207,6 @@
       "duration_ms": 179303,
       "name": "Wild Woman",
       "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
-    },
-    {
-      "added_at": "2026-10-09 04:02:34",
-      "album": {
-        "name": "Draw You Out",
-        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "The Hunger Games",
-          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
-        }
-      ],
-      "duration_ms": 255984,
-      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
-      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "added_at": "2026-10-09 04:02:34",
@@ -191,22 +255,6 @@
       "duration_ms": 250865,
       "name": "End Of Your Love",
       "url": "https://open.spotify.com/track/5pXwBJIXdskly7dogEQUKw"
-    },
-    {
-      "added_at": "2026-10-09 04:02:34",
-      "album": {
-        "name": "Is This Heaven? (Extended)",
-        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 169121,
-      "name": "Good At Leaving",
-      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
     },
     {
       "added_at": "2026-10-09 04:02:34",
@@ -1103,22 +1151,6 @@
     {
       "added_at": "2026-10-09 04:02:34",
       "album": {
-        "name": "dog with a bone",
-        "url": "https://open.spotify.com/album/3c14lJapQ31AQxcjn5k6pR"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
-        }
-      ],
-      "duration_ms": 200060,
-      "name": "dog with a bone",
-      "url": "https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD"
-    },
-    {
-      "added_at": "2026-10-09 04:02:34",
-      "album": {
         "name": "The Place We Met",
         "url": "https://open.spotify.com/album/1yxDsE7ViQ8yEVrnXi6PBh"
       },
@@ -1599,22 +1631,6 @@
     {
       "added_at": "2026-10-09 04:02:34",
       "album": {
-        "name": "Exit Strategy",
-        "url": "https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 261026,
-      "name": "Undo Me",
-      "url": "https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r"
-    },
-    {
-      "added_at": "2026-10-09 04:02:34",
-      "album": {
         "name": "Easy Street",
         "url": "https://open.spotify.com/album/2bKTADz2Vsmr6jvKzSsEFq"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 188230,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/04FZ1kLHEr2YsHDQXWI9Zx"
-    },
-    {
-      "added_at": "2026-10-09 04:02:34",
-      "album": {
-        "name": "Canaries in a Coal Mine",
-        "url": "https://open.spotify.com/album/33UCr0zXoaacNfDUcznxxX"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 217229,
-      "name": "Canaries in a Coal Mine",
-      "url": "https://open.spotify.com/track/4JFPamq2IExOgg7mZV6XRs"
     }
   ],
   "unique_name": "Folk Pop",

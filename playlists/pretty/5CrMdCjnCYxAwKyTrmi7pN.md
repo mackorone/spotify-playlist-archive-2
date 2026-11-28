@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain](/playlists/plain/5CrMdCjnCYxAwKyTrmi7pN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5CrMdCjnCYxAwKyTrmi7pN)
 
-### [HERFST 2026](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
+### [WINTER 2026](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
 
-> Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...
+> Warme songs voor de koude dagen! Met muziek van Sienna Spiro , John Mayer,  MEAU en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 130,626 likes - 103 songs - 6 hr 0 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 130,614 likes - 103 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 | 102 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
 | 103 | [Look at My Life](https://open.spotify.com/track/4Yf6QS1hjFWT1qMqvpzNcK) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 3:10 |
 
-Snapshot ID: `AAA+lcEMsxqkGe/s9HXJSiaGbM69MYYY`
+Snapshot ID: `AAA+liueGdOrCo8AOAzm9pivL7dVy4+s`

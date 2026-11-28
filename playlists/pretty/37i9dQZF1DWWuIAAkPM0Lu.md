@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 ### [New Music Friday Denmark](https://open.spotify.com/playlist/37i9dQZF1DWWuIAAkPM0Lu)
 
-> Endelig fredag, og endelig ny musik bl.a\. med debutalbum fra GUZO, Christopher på Kdrama soundtrack og ny hip hop fra Wesmo, Belly og mange flere!!!
+> Endelig fredag, og endelig ny musik bl.a\. med debutalbum fra GUZO og ny hip hop fra Wesmo, Belly og mange flere!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,882 likes - 93 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,917 likes - 93 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,17 +16,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 6 | [Makabelly](https://open.spotify.com/track/54HkhQpVRb2IdSHgJ4VgVN) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Makabelly](https://open.spotify.com/album/116s4eQvhU9DFfI79KvdDw) | 2:23 |
 | 7 | [OUT OF MY MIND](https://open.spotify.com/track/4MXFcXnEb4JzG6h4vpiUWB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [OUT OF MY MIND](https://open.spotify.com/album/2AGYicRLaEgTE3eoe8CztA) | 1:46 |
 | 8 | [internet $tar](https://open.spotify.com/track/3damZUbfnwGhQKQYtukVyL) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Grand Theft Auto VI: The Album \(Deluxe Edition\)](https://open.spotify.com/album/2O7j5mKjiyJRLNUo4RZKzs) | 3:25 |
-| 9 | [Just Because \(Nine to Six : Original Television Soundtrack\)](https://open.spotify.com/track/2Uvz3LstH9r7mlKDU9yZWb) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Nine to Six, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/66bGa9gTJc8PJDBRlRVZsb) | 3:10 |
-| 10 | [4MATIC](https://open.spotify.com/track/2hAtdnCXAsVuFjdUWMFCSl) | [Forty](https://open.spotify.com/artist/3KoqqxDnw3bcWJi0JAJZVl) | [4MATIC](https://open.spotify.com/album/0ptUVKc19SK5duOo2EZmBc) | 1:58 |
-| 11 | [Moves \(with Jhené Aiko\)](https://open.spotify.com/track/3pHqs2CmdJS74NgPM8nDel) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Vault 6](https://open.spotify.com/album/55x70IxJx3dtwgUDpAF1Fo) | 3:12 |
-| 12 | [Lie For Me](https://open.spotify.com/track/6CRdL7T5zLTzuKwwNqhkfa) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Long Way Home](https://open.spotify.com/album/0pe1IhCBa259ryvQITblYO) | 2:30 |
-| 13 | [Whiskey](https://open.spotify.com/track/02738G92Zhe8W7iCVxyVgY) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Whiskey](https://open.spotify.com/album/2BnIG9ZtR8aB4kbPZAITOk) | 2:53 |
-| 14 | [KJU](https://open.spotify.com/track/12ij2t4HgHF1AR9YV6HjzN) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d), [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [KJU](https://open.spotify.com/album/6mCZlW4KGCgQ9w4lalsbYg) | 2:26 |
-| 15 | [99 Lives](https://open.spotify.com/track/3fF0dHEDUDgSyVglTLW5s3) | [Blondage](https://open.spotify.com/artist/44XhQBXnAIhby5VC4GRo81) | [99 Lives](https://open.spotify.com/album/4Jw4iV4aObtj1MVbZPIVAx) | 3:18 |
-| 16 | [SELV TAK](https://open.spotify.com/track/57EW7qcMcUNSf50Sd4TYVf) | [Ferslev](https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ) | [SELV TAK](https://open.spotify.com/album/7fFje9gJUsPMUKA13todi5) | 2:15 |
-| 17 | [Memo](https://open.spotify.com/track/2sfbUZrbgKtGG32q5cDSCt) | [Astrid Matthesen](https://open.spotify.com/artist/2DQ9yWHmT4sWYbMRtXae6C) | [Memo](https://open.spotify.com/album/5GR5rOaGVQdkWJ8ueFM6C7) | 4:11 |
-| 18 | [Band](https://open.spotify.com/track/2Gz4c8wVrfpIq0eJHXz91p) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Band](https://open.spotify.com/album/2MmlbUxJqM7FC49KIURRsq) | 2:38 |
-| 19 | [Tænker Du På Mig?](https://open.spotify.com/track/5IC0GWUBVd52Q4EkTciuet) | [Lippe](https://open.spotify.com/artist/7EPhmvvqs37w88QArWUy26) | [Tænker Du På Mig?](https://open.spotify.com/album/1RVwtNHwIsWPXv3uXD9ZUC) | 2:59 |
+| 9 | [4MATIC](https://open.spotify.com/track/2hAtdnCXAsVuFjdUWMFCSl) | [Forty](https://open.spotify.com/artist/3KoqqxDnw3bcWJi0JAJZVl) | [4MATIC](https://open.spotify.com/album/0ptUVKc19SK5duOo2EZmBc) | 1:58 |
+| 10 | [Moves \(with Jhené Aiko\)](https://open.spotify.com/track/3pHqs2CmdJS74NgPM8nDel) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Vault 6](https://open.spotify.com/album/55x70IxJx3dtwgUDpAF1Fo) | 3:12 |
+| 11 | [Lie For Me](https://open.spotify.com/track/6CRdL7T5zLTzuKwwNqhkfa) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Long Way Home](https://open.spotify.com/album/0pe1IhCBa259ryvQITblYO) | 2:30 |
+| 12 | [Whiskey](https://open.spotify.com/track/02738G92Zhe8W7iCVxyVgY) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Whiskey](https://open.spotify.com/album/2BnIG9ZtR8aB4kbPZAITOk) | 2:53 |
+| 13 | [KJU](https://open.spotify.com/track/12ij2t4HgHF1AR9YV6HjzN) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d), [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [KJU](https://open.spotify.com/album/6mCZlW4KGCgQ9w4lalsbYg) | 2:26 |
+| 14 | [99 Lives](https://open.spotify.com/track/3fF0dHEDUDgSyVglTLW5s3) | [Blondage](https://open.spotify.com/artist/44XhQBXnAIhby5VC4GRo81) | [99 Lives](https://open.spotify.com/album/4Jw4iV4aObtj1MVbZPIVAx) | 3:18 |
+| 15 | [SELV TAK](https://open.spotify.com/track/57EW7qcMcUNSf50Sd4TYVf) | [Ferslev](https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ) | [SELV TAK](https://open.spotify.com/album/7fFje9gJUsPMUKA13todi5) | 2:15 |
+| 16 | [Memo](https://open.spotify.com/track/2sfbUZrbgKtGG32q5cDSCt) | [Astrid Matthesen](https://open.spotify.com/artist/2DQ9yWHmT4sWYbMRtXae6C) | [Memo](https://open.spotify.com/album/5GR5rOaGVQdkWJ8ueFM6C7) | 4:11 |
+| 17 | [Band](https://open.spotify.com/track/2Gz4c8wVrfpIq0eJHXz91p) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Band](https://open.spotify.com/album/2MmlbUxJqM7FC49KIURRsq) | 2:38 |
+| 18 | [Tænker Du På Mig?](https://open.spotify.com/track/5IC0GWUBVd52Q4EkTciuet) | [Lippe](https://open.spotify.com/artist/7EPhmvvqs37w88QArWUy26) | [Tænker Du På Mig?](https://open.spotify.com/album/1RVwtNHwIsWPXv3uXD9ZUC) | 2:59 |
+| 19 | [Social Arv](https://open.spotify.com/track/0p7QwDVkBPjjjwRAcxhVEr) | [Standart](https://open.spotify.com/artist/0a9vXvrnthVu0cNNV4Xyub) | [Social Arv](https://open.spotify.com/album/6pagvO70myUEjL8cUgXoYT) | 2:59 |
 | 20 | [Soldier Boy \(Soulja Boy\)](https://open.spotify.com/track/6AAjwyHrrYRZZ6IZVRtL7N) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr) | [Soldier Boy \(Soulja Boy\)](https://open.spotify.com/album/70byjpLUDzW8TsxEU5qSaE) | 2:18 |
 | 21 | [Sev Beni](https://open.spotify.com/track/6AiK00wuaXeVUx9gNw1JTu) | [Visti's Vinyl Collective](https://open.spotify.com/artist/6WL26DCfDfQdOeZFWtVDBl), [Luna Ersahin](https://open.spotify.com/artist/7pzX8VX54FkHWQg3omfAZK) | [Sev Beni](https://open.spotify.com/album/4ESSKHtusdAPmQByI7gm8K) | 3:41 |
 | 22 | [Dare to talk](https://open.spotify.com/track/0vSovpy2oSbWg9z6hhj02h) | [Zoumer](https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB) | [Dare to talk](https://open.spotify.com/album/7oFKuh1onKn1DaHb99sC6B) | 2:23 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 61 | [Dead Man](https://open.spotify.com/track/7LP9538tGYfNZZdw13ejqu) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [Dead Man](https://open.spotify.com/album/2CWInYBhjuPpBYeMYe0DjS) | 3:19 |
 | 62 | [Another Year](https://open.spotify.com/track/4Yqb6sPH48bk4bgfmeNEkX) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Another Year](https://open.spotify.com/album/2KgVr6wmqGUYm157iGvMQt) | 3:45 |
 | 63 | [The Blue Highway](https://open.spotify.com/track/764pP56hJhQD7E10zqPCiI) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [fabric presents Palms Trax](https://open.spotify.com/album/7tEyX9FCWKC0XHa2Wf04Ai) | 5:50 |
-| 64 | [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 |
+| 64 | [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 |
 | 65 | [Don't Talk to Me Until I've Had My Abortion](https://open.spotify.com/track/3f1wjvvxHs7tlbyKZsz8De) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Don't Talk to Me Until I've Had My Abortion](https://open.spotify.com/album/2BmM2GY6hJvuwiccD83vGz) | 3:30 |
 | 66 | [NÚSTALGI](https://open.spotify.com/track/5aJdJgryH3iTv1IZfdKUSN) | [AGGRASOPPAR](https://open.spotify.com/artist/2W1qr5rplLiGVNmB5xHO3o) | [NÚSTALGIA](https://open.spotify.com/album/1LRWdA91un0hbfbZ8PN4j1) | 2:38 |
 | 67 | [Love Dub Down](https://open.spotify.com/track/7ubDR7HC0BWU4Cl1uWpp6B) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Love Dub Down](https://open.spotify.com/album/6G25T1DW1TRt3NYnW0gc6S) | 2:56 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 92 | [INY MINY](https://open.spotify.com/track/1xXIinroqwX3g5u6zJtJkg) | [AM STAR](https://open.spotify.com/artist/51XFNpHouCVcu0XOXFARs4) | [INY MINY](https://open.spotify.com/album/4TX5cIm5sfuo5GTiyh1eql) | 3:02 |
 | 93 | [Red Wine](https://open.spotify.com/track/154fvzRLj3qesMqt20mm8k) | [Sally Week](https://open.spotify.com/artist/453S4398k8gbkMaaTiqBN6) | [Red Wine](https://open.spotify.com/album/0GacvWsO3OutZO0sXs4CsO) | 3:14 |
 
-Snapshot ID: `AAAAAAztx5nd08FOWnGwFWE4z6dTr+CF`
+Snapshot ID: `AAAAAOVhUKxKQkR3mPlZtVmjr0CCPmlo`

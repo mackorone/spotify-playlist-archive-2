@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Kinga Wo\u0142oszyn",
-  "num_followers": 26823,
+  "num_followers": 26843,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,38 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
+        "name": "Wykrzycz\u0119",
+        "url": "https://open.spotify.com/album/0ds7DrxR0VOswOsQ6v9o5N"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 150702,
+      "name": "Wykrzycz\u0119",
+      "url": "https://open.spotify.com/track/4JEp8d6WuX6J79ONaOinI3"
+    },
+    {
+      "added_at": "2026-11-26 23:02:09",
+      "album": {
+        "name": "DESZCZOWE DNI",
+        "url": "https://open.spotify.com/album/2pf5ReLVqOuttfhzAr4g4j"
+      },
+      "artists": [
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "DESZCZOWE DNI",
+      "url": "https://open.spotify.com/track/0orsG9bSOEiG0EDB6ujAEU"
+    },
+    {
+      "added_at": "2026-11-26 23:02:09",
+      "album": {
         "name": "Ca\u0142\u0105 noc",
         "url": "https://open.spotify.com/album/25zHLYu9pqBujSBajPWRgH"
       },
@@ -367,50 +399,18 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
-        "name": "DESZCZOWE DNI",
-        "url": "https://open.spotify.com/album/2pf5ReLVqOuttfhzAr4g4j"
+        "name": "DECOUPAGE",
+        "url": "https://open.spotify.com/album/0nvI9aOunkqNbrFQP2bTrS"
       },
       "artists": [
         {
-          "name": "FANKA",
-          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
         }
       ],
-      "duration_ms": 170769,
-      "name": "DESZCZOWE DNI",
-      "url": "https://open.spotify.com/track/0orsG9bSOEiG0EDB6ujAEU"
-    },
-    {
-      "added_at": "2026-11-26 23:02:09",
-      "album": {
-        "name": "Wykrzycz\u0119",
-        "url": "https://open.spotify.com/album/0ds7DrxR0VOswOsQ6v9o5N"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 150702,
-      "name": "Wykrzycz\u0119",
-      "url": "https://open.spotify.com/track/4JEp8d6WuX6J79ONaOinI3"
-    },
-    {
-      "added_at": "2026-11-26 23:02:09",
-      "album": {
-        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
-        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
-      },
-      "artists": [
-        {
-          "name": "Julia Rocka",
-          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "OPIUM",
-      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
+      "duration_ms": 211890,
+      "name": "Ile od Ciebie mog\u0119 dosta\u0107",
+      "url": "https://open.spotify.com/track/6SvahwkQA71sUYcYHN0PnP"
     },
     {
       "added_at": "2026-11-26 23:02:09",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
+        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
+        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "OPIUM",
+      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
+    },
+    {
+      "added_at": "2026-11-26 23:02:09",
+      "album": {
         "name": "Ojciec",
         "url": "https://open.spotify.com/album/6djqQIwf8OpYjzATZf7tCx"
       },
@@ -443,6 +459,38 @@
       "duration_ms": 246683,
       "name": "Ojciec",
       "url": "https://open.spotify.com/track/5w8OlXrEsSfusHUYWeWUmv"
+    },
+    {
+      "added_at": "2026-11-26 23:02:09",
+      "album": {
+        "name": "Penelope",
+        "url": "https://open.spotify.com/album/10X4hOBNy3A7Be9greQvQG"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/5dw4iTokDEV51ub7k3FDE3"
+    },
+    {
+      "added_at": "2026-11-26 23:02:09",
+      "album": {
+        "name": "Jak z gwiazd",
+        "url": "https://open.spotify.com/album/1w9O9JUJ2yUfJEV631wVB9"
+      },
+      "artists": [
+        {
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Jak z gwiazd",
+      "url": "https://open.spotify.com/track/36t70DEVEIoJbtghud7dMI"
     },
     {
       "added_at": "2026-11-26 23:02:09",
@@ -463,18 +511,18 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
-        "name": "DECOUPAGE",
-        "url": "https://open.spotify.com/album/0nvI9aOunkqNbrFQP2bTrS"
+        "name": "luvvv<3",
+        "url": "https://open.spotify.com/album/4hGf7Tx2EYgdb4wzDI9oay"
       },
       "artists": [
         {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+          "name": "ggluv",
+          "url": "https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D"
         }
       ],
-      "duration_ms": 211890,
-      "name": "Ile od Ciebie mog\u0119 dosta\u0107",
-      "url": "https://open.spotify.com/track/6SvahwkQA71sUYcYHN0PnP"
+      "duration_ms": 120685,
+      "name": "luvvv<3",
+      "url": "https://open.spotify.com/track/49duYLA0Ro10jlqgoPG7s3"
     },
     {
       "added_at": "2026-11-26 23:02:09",
@@ -503,22 +551,6 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
-        "name": "luvvv<3",
-        "url": "https://open.spotify.com/album/4hGf7Tx2EYgdb4wzDI9oay"
-      },
-      "artists": [
-        {
-          "name": "ggluv",
-          "url": "https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D"
-        }
-      ],
-      "duration_ms": 120685,
-      "name": "luvvv<3",
-      "url": "https://open.spotify.com/track/49duYLA0Ro10jlqgoPG7s3"
-    },
-    {
-      "added_at": "2026-11-26 23:02:09",
-      "album": {
         "name": "To zabola\u0142o",
         "url": "https://open.spotify.com/album/0q568p4Sn8OPCA1J9Y8vnn"
       },
@@ -531,22 +563,6 @@
       "duration_ms": 193846,
       "name": "To zabola\u0142o",
       "url": "https://open.spotify.com/track/3rJJtexpt4wYgbBd92jpgE"
-    },
-    {
-      "added_at": "2026-11-26 23:02:09",
-      "album": {
-        "name": "Penelope",
-        "url": "https://open.spotify.com/album/10X4hOBNy3A7Be9greQvQG"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Penelope",
-      "url": "https://open.spotify.com/track/5dw4iTokDEV51ub7k3FDE3"
     },
     {
       "added_at": "2026-11-26 23:02:09",
@@ -567,18 +583,18 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
-        "name": "Jak z gwiazd",
-        "url": "https://open.spotify.com/album/1w9O9JUJ2yUfJEV631wVB9"
+        "name": "nie wierz\u0119 w bajki",
+        "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
       },
       "artists": [
         {
-          "name": "Maciej Musia\u0142owski",
-          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+          "name": "Qncicka",
+          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
         }
       ],
-      "duration_ms": 186923,
-      "name": "Jak z gwiazd",
-      "url": "https://open.spotify.com/track/36t70DEVEIoJbtghud7dMI"
+      "duration_ms": 192679,
+      "name": "nie wierz\u0119 w bajki",
+      "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
     },
     {
       "added_at": "2026-11-26 23:02:09",
@@ -599,22 +615,6 @@
       "duration_ms": 144000,
       "name": "MAM TO",
       "url": "https://open.spotify.com/track/0QL7cweJhjP0JGNMgKrpwa"
-    },
-    {
-      "added_at": "2026-11-26 23:02:09",
-      "album": {
-        "name": "nie wierz\u0119 w bajki",
-        "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
-      },
-      "artists": [
-        {
-          "name": "Qncicka",
-          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
-        }
-      ],
-      "duration_ms": 192679,
-      "name": "nie wierz\u0119 w bajki",
-      "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
     },
     {
       "added_at": "2026-11-26 23:02:09",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
-        "name": "Ruchy pe\u0142ne d\u017awi\u0119ku",
-        "url": "https://open.spotify.com/album/79Ei0b2LJYNQ1py2VxFqSk"
-      },
-      "artists": [
-        {
-          "name": "dezydery",
-          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
-        }
-      ],
-      "duration_ms": 173926,
-      "name": "Ruchy pe\u0142ne d\u017awi\u0119ku",
-      "url": "https://open.spotify.com/track/2P5bFUdYdTZq13FIRbqdzo"
-    },
-    {
-      "added_at": "2026-11-26 23:02:09",
-      "album": {
         "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
         "url": "https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
-        "name": "Parasolka",
-        "url": "https://open.spotify.com/album/1V2yU8T8TMLdo11yrkws3C"
+        "name": "Ruchy pe\u0142ne d\u017awi\u0119ku",
+        "url": "https://open.spotify.com/album/79Ei0b2LJYNQ1py2VxFqSk"
       },
       "artists": [
         {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
         }
       ],
-      "duration_ms": 185986,
-      "name": "Parasolka",
-      "url": "https://open.spotify.com/track/7ArKXOg6lAKARi5xC1QkEZ"
+      "duration_ms": 173926,
+      "name": "Ruchy pe\u0142ne d\u017awi\u0119ku",
+      "url": "https://open.spotify.com/track/2P5bFUdYdTZq13FIRbqdzo"
     },
     {
       "added_at": "2026-11-26 23:02:09",
@@ -735,6 +719,22 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
+        "name": "Parasolka",
+        "url": "https://open.spotify.com/album/1V2yU8T8TMLdo11yrkws3C"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Parasolka",
+      "url": "https://open.spotify.com/track/7ArKXOg6lAKARi5xC1QkEZ"
+    },
+    {
+      "added_at": "2026-11-26 23:02:09",
+      "album": {
         "name": "sad, alone?",
         "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 161904,
       "name": "sad, alone?",
       "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
+    },
+    {
+      "added_at": "2026-11-26 23:02:09",
+      "album": {
+        "name": "WRACAM",
+        "url": "https://open.spotify.com/album/6TFgaFmp2zH7Fi63BwTJca"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "duration_ms": 222959,
+      "name": "Ona",
+      "url": "https://open.spotify.com/track/6RwyGj5J4WH4MQtZXOevbL"
     },
     {
       "added_at": "2026-11-26 23:02:09",
@@ -871,22 +887,6 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
-        "name": "WRACAM",
-        "url": "https://open.spotify.com/album/6TFgaFmp2zH7Fi63BwTJca"
-      },
-      "artists": [
-        {
-          "name": "Jeremi Sikorski",
-          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
-        }
-      ],
-      "duration_ms": 222959,
-      "name": "Ona",
-      "url": "https://open.spotify.com/track/6RwyGj5J4WH4MQtZXOevbL"
-    },
-    {
-      "added_at": "2026-11-26 23:02:09",
-      "album": {
         "name": "pelagia",
         "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
       },
@@ -959,26 +959,18 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
-        "name": "mo\u017cemorze",
-        "url": "https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3"
+        "name": "Moulin Rouge",
+        "url": "https://open.spotify.com/album/519i4BHq8cnRC8Xq78k6zT"
       },
       "artists": [
         {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        },
-        {
-          "name": "prze\u015bwit",
-          "url": "https://open.spotify.com/artist/48pF8m5m2dDUQHlP1WiU7f"
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
         }
       ],
-      "duration_ms": 159529,
-      "name": "mo\u017cemorze",
-      "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
+      "duration_ms": 178909,
+      "name": "Moulin Rouge",
+      "url": "https://open.spotify.com/track/2gyPFCycuWJz2VBEhWsiy2"
     },
     {
       "added_at": "2026-11-26 23:02:09",
@@ -1019,6 +1011,30 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
+        "name": "mo\u017cemorze",
+        "url": "https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        },
+        {
+          "name": "prze\u015bwit",
+          "url": "https://open.spotify.com/artist/48pF8m5m2dDUQHlP1WiU7f"
+        }
+      ],
+      "duration_ms": 159529,
+      "name": "mo\u017cemorze",
+      "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
+    },
+    {
+      "added_at": "2026-11-26 23:02:09",
+      "album": {
         "name": "kim mam by\u0107?",
         "url": "https://open.spotify.com/album/5lrhYfmlcjk0eGOaw6ItOt"
       },
@@ -1035,78 +1051,6 @@
       "duration_ms": 203888,
       "name": "kim mam by\u0107?",
       "url": "https://open.spotify.com/track/4bN4eZWTCASsnzf8vK27oc"
-    },
-    {
-      "added_at": "2026-11-26 23:02:09",
-      "album": {
-        "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
-        "url": "https://open.spotify.com/album/4lPVJXmnxw2amQKC3QFP3p"
-      },
-      "artists": [
-        {
-          "name": "Karolina Charko",
-          "url": "https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q"
-        },
-        {
-          "name": "Profanumbeats",
-          "url": "https://open.spotify.com/artist/4DuanqZYQj4sQbvuQBtiHp"
-        }
-      ],
-      "duration_ms": 258296,
-      "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
-      "url": "https://open.spotify.com/track/12UEAXlefpq8xaxOSROOZL"
-    },
-    {
-      "added_at": "2026-11-26 23:02:09",
-      "album": {
-        "name": "Bez dw\u00f3ch zda\u0144",
-        "url": "https://open.spotify.com/album/64xzI4eafR1fvsKpNCCtHS"
-      },
-      "artists": [
-        {
-          "name": "Filip Mettler",
-          "url": "https://open.spotify.com/artist/1kKPq1YS7msHsIOmFr7d9r"
-        },
-        {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
-        }
-      ],
-      "duration_ms": 179636,
-      "name": "Bez dw\u00f3ch zda\u0144",
-      "url": "https://open.spotify.com/track/6dzN6hJv8xDvhPkXy2D8G4"
-    },
-    {
-      "added_at": "2026-11-26 23:02:09",
-      "album": {
-        "name": "Moulin Rouge",
-        "url": "https://open.spotify.com/album/519i4BHq8cnRC8Xq78k6zT"
-      },
-      "artists": [
-        {
-          "name": "Hania",
-          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Moulin Rouge",
-      "url": "https://open.spotify.com/track/2gyPFCycuWJz2VBEhWsiy2"
-    },
-    {
-      "added_at": "2026-11-26 23:02:09",
-      "album": {
-        "name": "Je\u015bli co\u015b ma by\u0107",
-        "url": "https://open.spotify.com/album/0c39eUKo9o1CurcJM20rfz"
-      },
-      "artists": [
-        {
-          "name": "Zofia Alaya",
-          "url": "https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Je\u015bli co\u015b ma by\u0107",
-      "url": "https://open.spotify.com/track/4682JPUNG75eyc65Ophq5w"
     },
     {
       "added_at": "2026-11-26 23:02:09",
@@ -1131,18 +1075,74 @@
     {
       "added_at": "2026-11-26 23:02:09",
       "album": {
-        "name": "Piosenki o mi\u0142o\u015bci: nieopowiedziane historie",
-        "url": "https://open.spotify.com/album/5QaZJ1J9BnydfGkap544U3"
+        "name": "Bez dw\u00f3ch zda\u0144",
+        "url": "https://open.spotify.com/album/64xzI4eafR1fvsKpNCCtHS"
       },
       "artists": [
         {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+          "name": "Filip Mettler",
+          "url": "https://open.spotify.com/artist/1kKPq1YS7msHsIOmFr7d9r"
+        },
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
         }
       ],
-      "duration_ms": 159483,
-      "name": "Komary i motyle",
-      "url": "https://open.spotify.com/track/7cud2e1GJUa6xePY02ANpK"
+      "duration_ms": 179636,
+      "name": "Bez dw\u00f3ch zda\u0144",
+      "url": "https://open.spotify.com/track/6dzN6hJv8xDvhPkXy2D8G4"
+    },
+    {
+      "added_at": "2026-11-26 23:02:09",
+      "album": {
+        "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
+        "url": "https://open.spotify.com/album/4lPVJXmnxw2amQKC3QFP3p"
+      },
+      "artists": [
+        {
+          "name": "Karolina Charko",
+          "url": "https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q"
+        },
+        {
+          "name": "Profanumbeats",
+          "url": "https://open.spotify.com/artist/4DuanqZYQj4sQbvuQBtiHp"
+        }
+      ],
+      "duration_ms": 258296,
+      "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
+      "url": "https://open.spotify.com/track/12UEAXlefpq8xaxOSROOZL"
+    },
+    {
+      "added_at": "2026-11-26 23:02:09",
+      "album": {
+        "name": "Je\u015bli co\u015b ma by\u0107",
+        "url": "https://open.spotify.com/album/0c39eUKo9o1CurcJM20rfz"
+      },
+      "artists": [
+        {
+          "name": "Zofia Alaya",
+          "url": "https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Je\u015bli co\u015b ma by\u0107",
+      "url": "https://open.spotify.com/track/4682JPUNG75eyc65Ophq5w"
+    },
+    {
+      "added_at": "2026-11-26 23:02:09",
+      "album": {
+        "name": "Plamy",
+        "url": "https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "duration_ms": 211705,
+      "name": "\u017bebro",
+      "url": "https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk"
     }
   ],
   "unique_name": "up next",

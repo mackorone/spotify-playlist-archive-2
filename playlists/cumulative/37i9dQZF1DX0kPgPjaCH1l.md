@@ -2,7 +2,7 @@
 
 ### [afro adura ](https://open.spotify.com/playlist/37i9dQZF1DX0kPgPjaCH1l)
 
-> Baba God, run am 🙏\. <br/>Cover: FOLA
+> Baba God, run am 🙏\. <br/>Cover: Yedika
 
 200 songs - 9 hr 22 min
 

@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 137620,
       "name": "Ghostface Killah",
       "url": "https://open.spotify.com/track/5tEdOJbKBTR8vibjz1cHTF"
@@ -5573,6 +5573,32 @@
     },
     {
       "album": {
+        "name": "Known Unknowns",
+        "url": "https://open.spotify.com/album/0MMY5flz23tDZV1kRs1PgM"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "ON MY MIND",
+      "url": "https://open.spotify.com/track/25v1BkW3CbJeGm7rgWSx18"
+    },
+    {
+      "album": {
         "name": "On Top",
         "url": "https://open.spotify.com/album/3F9ZTXMumebU1qkltpEqg1"
       },
@@ -7518,7 +7544,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 169875,
       "name": "TOP DAWG",
       "url": "https://open.spotify.com/track/6utrzFB2h4OTocXYng2V4M"
@@ -7974,6 +8000,28 @@
       "duration_ms": 177313,
       "name": "WYS",
       "url": "https://open.spotify.com/track/5GG8UKvp8FzRSM21DSNl5M"
+    },
+    {
+      "album": {
+        "name": "Xyz",
+        "url": "https://open.spotify.com/album/7re8biApDmCZwoq3sD4YqQ"
+      },
+      "artists": [
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
+        },
+        {
+          "name": "Arvin Beatz",
+          "url": "https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "XYZ",
+      "url": "https://open.spotify.com/track/64cKGPrHXNM05AiRLX3Pm0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > la nuova scena pop 🇮🇹 Rizzo e le sue foto bellissime in cover 🎀
 
-1,685 songs - 3 day 8 hr 44 min
+1,686 songs - 3 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Due città](https://open.spotify.com/track/0pKGqyTeOU8X1yWas2fysJ) | [Lucy](https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P) | [Due città](https://open.spotify.com/album/28miBXg5kOFeEOxHOXKKVY) | 2:18 | 2024-06-27 | 2024-08-23 |
 | [Due come noi due](https://open.spotify.com/track/6BZvp54X7G243O4QyFMal4) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Due come noi due](https://open.spotify.com/album/1JUn9SHjOvWXTaQZjBruJA) | 3:19 | 2026-10-15 |  |
 | [Due occhi come i tuoi](https://open.spotify.com/track/4guJCmLShbX30plrdOiuBF) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [Due occhi come i tuoi](https://open.spotify.com/album/4BifGLatggNZcKmmOh2Gap) | 3:05 | 2025-09-18 | 2025-10-24 |
+| [Due siga \(feat\. Sgribaz\)](https://open.spotify.com/track/2wzKI79hs4eMQ3WxEFUEO4) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi), [Frenkie G](https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k) | [CONTROCIELO](https://open.spotify.com/album/48CQHXETpbCXCp4BzMakdr) | 2:44 | 2026-11-27 |  |
 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 | 2025-06-12 | 2025-11-28 |
 | [E tu chi sei?](https://open.spotify.com/track/4y9yUKmowzt0OjO3l8Flft) | [Sesto](https://open.spotify.com/artist/7t0RRpVgrHHQHzomLDSgge) | [E tu chi sei?](https://open.spotify.com/album/4FNADaRFz4R9JUySK7TGp9) | 2:04 | 2026-02-19 | 2026-03-27 |
 | [echo](https://open.spotify.com/track/3ifNyXqb7qGcG3py1IyAo3) | [leoluca](https://open.spotify.com/artist/6uoBNsycy2K9rz6rxUE20h) | [echo](https://open.spotify.com/album/3YXyCF3bGireRzLGkfIHJj) | 3:01 | 2025-01-09 | 2025-01-31 |

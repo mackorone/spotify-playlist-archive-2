@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-28",
-  "description": "Die sch\u00f6nsten Lieder f\u00fcr den Laternenumzug \u2728",
-  "name": "Familienzeit: Laternenlieder",
+  "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
+  "name": "Familienzeit: Winter",
   "tracks": [
     {
       "album": {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 211586,
       "name": "24 T\u00fcrchen",
       "url": "https://open.spotify.com/track/3BXBI1g61AtNE0xIhJ6ONE"
@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 185866,
       "name": "Abends, wenn es dunkel wird",
       "url": "https://open.spotify.com/track/4gkkfbLfHnqPprH5ym6HhZ"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 252760,
       "name": "Ach, Martin, gib halt mal was her (Kinderlied f\u00fcr Sankt Martin)",
       "url": "https://open.spotify.com/track/77Np5dJUNWI97A7BSCeaOy"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 148173,
       "name": "Advent",
       "url": "https://open.spotify.com/track/02wFNl5sVJGCB7NwAhyWCj"
@@ -234,10 +234,32 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/42YhIdgYETPgj3Rnr6C2Zt"
+    },
+    {
+      "album": {
+        "name": "Alle im Haus",
+        "url": "https://open.spotify.com/album/37CgNyd6JNrBDz4HPkh7GK"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        },
+        {
+          "name": "Cl\u00fcsi",
+          "url": "https://open.spotify.com/artist/48PvJeAt2fvXzJaiZ7ha7Q"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185004,
+      "name": "Alle im Haus",
+      "url": "https://open.spotify.com/track/4j9ntpwPOfLB63RJuJGaQb"
     },
     {
       "album": {
@@ -252,7 +274,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 157333,
       "name": "Alle Jahre wieder",
       "url": "https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG"
@@ -296,7 +318,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 67906,
       "name": "Alle Leut'",
       "url": "https://open.spotify.com/track/1PnCE1OnD4o7cy1lBdJJlL"
@@ -438,7 +460,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 129640,
       "name": "Backe, Backe Kuchen",
       "url": "https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ"
@@ -460,7 +482,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 86160,
       "name": "Backe, backe Kuchen (I)",
       "url": "https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp"
@@ -704,8 +726,8 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
-      "duration_ms": 178750,
+      "date_removed": null,
+      "duration_ms": 178793,
       "name": "Christmas Bells",
       "url": "https://open.spotify.com/track/2NIn9H6pH7hNkt5pA3xOuU"
     },
@@ -838,7 +860,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 156253,
       "name": "Danke",
       "url": "https://open.spotify.com/track/2rsGUdNRjx9W3PYO4M4CeZ"
@@ -968,7 +990,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 161698,
       "name": "Das Lied der Wichtel",
       "url": "https://open.spotify.com/track/53gMRf5oKm8n34LOlzY5MQ"
@@ -1048,7 +1070,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 235266,
       "name": "Das muss wohl der Winter sein (Giraffenaffensong)",
       "url": "https://open.spotify.com/track/7thgF1Ao0hvEkDmqMboZ7I"
@@ -1420,7 +1442,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 109940,
       "name": "Der Herbst ist da",
       "url": "https://open.spotify.com/track/7xJPa1jms8mgBnxuxKmVuw"
@@ -1486,7 +1508,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 224933,
       "name": "Der kleine Trommler",
       "url": "https://open.spotify.com/track/0LXTNutQUlPhrFkdVu5BR4"
@@ -1548,7 +1570,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 158124,
       "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
       "url": "https://open.spotify.com/track/1FE1QAZadTxlzYznstQthF"
@@ -1886,7 +1908,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 179179,
       "name": "Die krassesten Schlitten",
       "url": "https://open.spotify.com/track/0hK6Ouhs3AKP1O7ma26ECE"
@@ -1922,7 +1944,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 213186,
       "name": "Die Laterne hat heut ihren gro\u00dfen Tag",
       "url": "https://open.spotify.com/track/7BC42JI3FLtA8hhuTl7TyY"
@@ -1958,7 +1980,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 203546,
       "name": "Die Laternenzeit",
       "url": "https://open.spotify.com/track/28T1cmoXgh7Nh7YqxSo2hY"
@@ -2012,7 +2034,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Die Schlittenfahrt",
       "url": "https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS"
@@ -2212,7 +2234,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 103413,
       "name": "Durch die Stra\u00dfen auf und nieder",
       "url": "https://open.spotify.com/track/3uggKtoiuOZPtBp2HKFRUg"
@@ -2274,7 +2296,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 174640,
       "name": "Ein armer Mann - Sankt Martins Lied",
       "url": "https://open.spotify.com/track/279lKqSAa6Ozxr7204yxg5"
@@ -2310,7 +2332,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 201380,
       "name": "Ein kleines Licht",
       "url": "https://open.spotify.com/track/2RowFACdokspBh35bUB10Y"
@@ -2354,7 +2376,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 147013,
       "name": "Eine Muh, eine M\u00e4h",
       "url": "https://open.spotify.com/track/45qP9cYtZI1pcxo0kzvkAh"
@@ -2430,7 +2452,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 273725,
       "name": "Eisb\u00e4rn (Kinderlied zum Winter)",
       "url": "https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi"
@@ -2448,7 +2470,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 191114,
       "name": "Elf Emil",
       "url": "https://open.spotify.com/track/3bdXxEGeXdnAkJdvDXSUcU"
@@ -2482,7 +2504,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 193886,
       "name": "Endlich wieder Weihnachten (feat. Katharina Hirschberg, Harriet Herbig-Matten)",
       "url": "https://open.spotify.com/track/0o6QOa5hplEw5kmtHYoFID"
@@ -2526,7 +2548,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 151512,
       "name": "Es dauert nicht mehr lang",
       "url": "https://open.spotify.com/track/7yy6vkKP5JogHDYEidLFaN"
@@ -2591,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "Es schneit",
+        "url": "https://open.spotify.com/album/2hoQoM9oUkPts6zySiAVYI"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Es schneit",
+      "url": "https://open.spotify.com/track/1FteL0Rj7iLQMLdf0bDZDm"
+    },
+    {
+      "album": {
         "name": "Winterkinder ...auf der Suche nach Weihnachten",
         "url": "https://open.spotify.com/album/7h4CEzgecVSP9JwpFepdx6"
       },
@@ -2609,7 +2649,7 @@
     },
     {
       "album": {
-        "name": "Benjamin Bl\u00fcmchen singt Weihnachtslieder",
+        "name": "Benjamin Bl\u00fcmchen Weihnachtslieder",
         "url": "https://open.spotify.com/album/4HkEFBWpnJbQXzIrbdNBFN"
       },
       "artists": [
@@ -2620,7 +2660,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 123750,
       "name": "Es schneit (Benjamins Version)",
       "url": "https://open.spotify.com/track/1BgpWen8dbwJiK4EKMoubg"
@@ -2642,6 +2682,24 @@
       "duration_ms": 123879,
       "name": "Farben sind f\u00fcr alle da",
       "url": "https://open.spotify.com/track/6KZGys3AguPnmO6GbRHbbR"
+    },
+    {
+      "album": {
+        "name": "Weihnachten unter Wasser XXL-Edition *** 2026",
+        "url": "https://open.spotify.com/album/174QM1gHhhWImDFduoN2FK"
+      },
+      "artists": [
+        {
+          "name": "SpongeBob Schwammkopf",
+          "url": "https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167981,
+      "name": "Fast ist es Weihnachten (Merry Christmas)",
+      "url": "https://open.spotify.com/track/67HWH8CPX4Q1ocIiwXF0mj"
     },
     {
       "album": {
@@ -2802,7 +2860,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 207800,
       "name": "Fitness f\u00fcr den Weihnachtsmann",
       "url": "https://open.spotify.com/track/1SLrrOKbkb5iceQYVKCVyg"
@@ -2922,7 +2980,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 175600,
       "name": "Frohe Weihnachten",
       "url": "https://open.spotify.com/track/7eUu6tZyNoJ5RVe7qlo0Ir"
@@ -2940,7 +2998,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Frosty The Snowman",
       "url": "https://open.spotify.com/track/4kzzkf98gOSdTMjgs0Ize1"
@@ -2958,7 +3016,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 126013,
       "name": "Frosty, der Schneemann",
       "url": "https://open.spotify.com/track/1ubGwObUS4Pvq8ksXH076j"
@@ -2976,7 +3034,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 161733,
       "name": "Fr\u00f6hliche Weihnacht \u00fcberall",
       "url": "https://open.spotify.com/track/71XOtd7ceMQJ6eGtJQ8UzT"
@@ -3399,6 +3457,24 @@
     },
     {
       "album": {
+        "name": "Alle lieben Weihnachtslieder (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/06ElR9CQnjxIybMwokygnk"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186536,
+      "name": "Hallo Weihnachtsmann, wie k\u00f6nnen Rentiere fliegen?",
+      "url": "https://open.spotify.com/track/3G4GbLKieLNf7Pmwtf3yK2"
+    },
+    {
+      "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/4cRPlJQgUtC5Gdnq9IeYIL"
       },
@@ -3582,7 +3658,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 140666,
       "name": "Have A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/7b0KnScryOgaV9uKTWpeUm"
@@ -3636,7 +3712,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 140064,
       "name": "Hejo, guter alter Mond",
       "url": "https://open.spotify.com/track/3JT4E5EIhMckQxeNNKH2jn"
@@ -3734,7 +3810,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 168653,
       "name": "Heut Nacht hat's geschneit",
       "url": "https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g"
@@ -3778,7 +3854,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 173725,
       "name": "Heute feiern wir den Martinstag",
       "url": "https://open.spotify.com/track/3hkKopyrwEzTPsT8UAzEYf"
@@ -3814,7 +3890,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 103503,
       "name": "Heute leuchten die Laternen",
       "url": "https://open.spotify.com/track/6x80tbpHq4m42mYcqIdd87"
@@ -3832,7 +3908,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 128250,
       "name": "Hexen Laternenlauf",
       "url": "https://open.spotify.com/track/6PO8tFwarbJoG3XRU0Uv1y"
@@ -4256,7 +4332,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 238146,
       "name": "Ich geh mit meiner Laterne",
       "url": "https://open.spotify.com/track/41VsHvhdX0cd4IF9TqKeyy"
@@ -4274,7 +4350,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 219920,
       "name": "Ich geh mit meiner Laterne",
       "url": "https://open.spotify.com/track/2pZzhA5c2KD8CDYJUKDJht"
@@ -4292,7 +4368,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 228387,
       "name": "Ich geh mit meiner Laterne",
       "url": "https://open.spotify.com/track/2zx5rwYZe5oJ74TPi3l3PL"
@@ -4328,7 +4404,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 109106,
       "name": "Ich hab eine feine Laterne",
       "url": "https://open.spotify.com/track/5D6VL3ggSYvdj4zauqWw9Q"
@@ -4416,7 +4492,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 151346,
       "name": "Ich lieb' die Weihnachtszeit",
       "url": "https://open.spotify.com/track/6sso0VEvluZjDKaUlYWhL1"
@@ -4438,7 +4514,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 151304,
       "name": "Ich liebe alle Sterne (Laternenlied)",
       "url": "https://open.spotify.com/track/7Mwi1YiX4xp2Bo6654p2Sf"
@@ -4476,13 +4552,17 @@
           "url": "https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X"
         },
         {
+          "name": "Unter meinem Bett",
+          "url": "https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7"
+        },
+        {
           "name": "WIM",
           "url": "https://open.spotify.com/artist/5jCFF91eZDDh1NS9gfQW4F"
         }
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 191866,
       "name": "Ich will Schnee",
       "url": "https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61"
@@ -4730,7 +4810,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 111266,
       "name": "Im Sommer",
       "url": "https://open.spotify.com/track/0TVycvoTx7UQIooIU01PwE"
@@ -4838,7 +4918,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 177423,
       "name": "In der Schlumpfenb\u00e4ckerei",
       "url": "https://open.spotify.com/track/2sUEgIEUXVFTOvi74Ov916"
@@ -4994,7 +5074,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/0caSruLqxxGi59rkMPQAn6"
@@ -5016,7 +5096,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 173840,
       "name": "Jingle Bells, Schlittenfahrt im Schnee",
       "url": "https://open.spotify.com/track/3kOrUgcXj6kg7biLCocVPR"
@@ -5258,7 +5338,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 156760,
       "name": "Kekse",
       "url": "https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R"
@@ -5280,7 +5360,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 92146,
       "name": "KiKANiNCHEN-Weihnachtslied",
       "url": "https://open.spotify.com/track/5CfOAeldmtNqbNTubbTr7c"
@@ -5378,7 +5458,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 237826,
       "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
       "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
@@ -5426,7 +5506,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 181280,
       "name": "Klingelingeling (feat. Dominikus Weilede)",
       "url": "https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE"
@@ -5560,7 +5640,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 224013,
       "name": "Kommt, wir wolln Laterne laufen",
       "url": "https://open.spotify.com/track/0lq8zosTqXuSTkhk3ASVvl"
@@ -5732,7 +5812,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 208422,
       "name": "La-Li-La-Lu-Laterne",
       "url": "https://open.spotify.com/track/4IGeKVHyQEfkdIZDNV8nyf"
@@ -5826,7 +5906,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 165546,
       "name": "Lasst uns froh und munter sein",
       "url": "https://open.spotify.com/track/13q5iVQZzinrazFCAG1yFE"
@@ -5884,7 +5964,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 92613,
       "name": "Laternchen, Laternchen",
       "url": "https://open.spotify.com/track/02iM95Tu2YT4dsuWwIQkke"
@@ -5902,7 +5982,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 161145,
       "name": "Laterne laufen",
       "url": "https://open.spotify.com/track/4rgP4H4yJLXLK1wdAfJbBc"
@@ -5942,7 +6022,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 111555,
       "name": "Laterne, Laterne",
       "url": "https://open.spotify.com/track/4n6yduZsktKq51KWnIzVlK"
@@ -5990,7 +6070,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 106546,
       "name": "Laterne, Laterne",
       "url": "https://open.spotify.com/track/7qKlhndhP3XIHhHvkaYbWw"
@@ -6008,7 +6088,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 137280,
       "name": "Laterne, Laterne (Sonne, Mond und Sterne)",
       "url": "https://open.spotify.com/track/7KKcKW99q3tmeXILTIFfGe"
@@ -6026,7 +6106,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 233660,
       "name": "Laternen leuchten \u00fcberall",
       "url": "https://open.spotify.com/track/3ZEWBsTwEl6erQxRQPlzte"
@@ -6044,7 +6124,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 209440,
       "name": "Laternen-Samba",
       "url": "https://open.spotify.com/track/3sDC7lry4LTbgdKhHlCOQU"
@@ -6066,7 +6146,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 203744,
       "name": "Laternenleuchten",
       "url": "https://open.spotify.com/track/2k9OMhs7GmFNm7p4N0ns2W"
@@ -6084,7 +6164,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 121640,
       "name": "Laternenlied",
       "url": "https://open.spotify.com/track/20o4nshih0sr4mXXT2lYOf"
@@ -6136,7 +6216,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 116520,
       "name": "Laternenrock",
       "url": "https://open.spotify.com/track/2DibYDRLVDu780mKjVsRO0"
@@ -6154,7 +6234,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 148610,
       "name": "Laternensong",
       "url": "https://open.spotify.com/track/3bAGyIRfkgqHYFCaajDsQg"
@@ -6172,7 +6252,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 132928,
       "name": "Laternentanz",
       "url": "https://open.spotify.com/track/5Xt6lMmqyF9f6ntMxQcm1d"
@@ -6234,7 +6314,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 205226,
       "name": "Leise rieselt der Schnee",
       "url": "https://open.spotify.com/track/5ElQqxkOJVS1sGSw7Xycsm"
@@ -6256,7 +6336,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 131076,
       "name": "Li-la-Lichterfest",
       "url": "https://open.spotify.com/track/6Ghfx94nfsrGk1u19gNBZ6"
@@ -6274,7 +6354,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 85386,
       "name": "Licht in der Laterne",
       "url": "https://open.spotify.com/track/0IxjQyVjG13PNDBXL7Ja1L"
@@ -6292,7 +6372,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 241133,
       "name": "Lichterkinder",
       "url": "https://open.spotify.com/track/0iLyAlInsomkzvxAMYlS6R"
@@ -6544,7 +6624,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 125600,
       "name": "Milli und Molli",
       "url": "https://open.spotify.com/track/1X8Wh9IsMmRHfGRv6JFvaM"
@@ -6819,6 +6899,24 @@
     },
     {
       "album": {
+        "name": "Morgen, Kinder, wirds was geben",
+        "url": "https://open.spotify.com/album/48fkwPVJyjpL92VHElxFSR"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158649,
+      "name": "Morgen, Kinder, wirds was geben",
+      "url": "https://open.spotify.com/track/42q2WHl4d9747HHiZJK2CC"
+    },
+    {
+      "album": {
         "name": "Unter meinem Bett. Best Of",
         "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
       },
@@ -6924,7 +7022,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 144293,
       "name": "Nikolaus, Nikolaus",
       "url": "https://open.spotify.com/track/5m2iD9ImK5TxjScasHLo9H"
@@ -6956,11 +7054,15 @@
         {
           "name": "Enno Bunger",
           "url": "https://open.spotify.com/artist/0aiAgFPJcZggIkSUGDFdkD"
+        },
+        {
+          "name": "Unter meinem Bett",
+          "url": "https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7"
         }
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 221560,
       "name": "O je, Tannenbaum!",
       "url": "https://open.spotify.com/track/3UpOay0ipJUvhzk8YFeHl1"
@@ -6978,7 +7080,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 150426,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/2qgt9DvHOd9Yu4BgUdtZ63"
@@ -7340,7 +7442,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 176026,
       "name": "Pl\u00e4tzchenduft liegt in der Luft",
       "url": "https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB"
@@ -7552,7 +7654,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 168817,
       "name": "Reiter in der Nacht",
       "url": "https://open.spotify.com/track/1s7peZNlVYW608hXOHtwk8"
@@ -7570,7 +7672,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 127333,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/57XIECPD5LwZyRbQ16Vnnr"
@@ -7640,7 +7742,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 185840,
       "name": "Rudolf, das kleine Rentier",
       "url": "https://open.spotify.com/track/6KOT5wByCmM7y9Y7r5PNwJ"
@@ -7684,7 +7786,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 153257,
       "name": "Sankt Martin",
       "url": "https://open.spotify.com/track/6YEsxLIExeOZICC4xWDcLJ"
@@ -7710,7 +7812,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 148468,
       "name": "Sankt Martin ritt durch Schnee und Wind",
       "url": "https://open.spotify.com/track/2dHszQtG14VkXm4XTOJT2o"
@@ -7728,7 +7830,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 205177,
       "name": "Sankt Martin St. Martin",
       "url": "https://open.spotify.com/track/6oNQp4PMCIqnSnuiyJl4Qf"
@@ -7800,7 +7902,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 123346,
       "name": "Schnee",
       "url": "https://open.spotify.com/track/0xyWp9BsedFZpdR9f74t74"
@@ -7836,7 +7938,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 201893,
       "name": "Schneeballschlacht",
       "url": "https://open.spotify.com/track/10dVgwpVEyUqXLhxn9eFzR"
@@ -7872,7 +7974,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 88160,
       "name": "Schneefl\u00f6ckchen",
       "url": "https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE"
@@ -7890,7 +7992,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 184173,
       "name": "Schneefl\u00f6ckchen",
       "url": "https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw"
@@ -7930,6 +8032,24 @@
       "duration_ms": 207466,
       "name": "Schokoladeneis",
       "url": "https://open.spotify.com/track/1mERxFZxRWNOXbryNKlIRW"
+    },
+    {
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr den Winter und Weihnachten",
+        "url": "https://open.spotify.com/album/4G2NqjwZmldv6JYeg7cy66"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183974,
+      "name": "Schwuppdiwupp - Das Winter-Mitmachlied",
+      "url": "https://open.spotify.com/track/6kiGLj6PNP1y0Y2ZGS7GUY"
     },
     {
       "album": {
@@ -8236,7 +8356,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 182906,
       "name": "Sonne, Mond und Sterne",
       "url": "https://open.spotify.com/track/4rsdmYSwg7nxCSkb4GEn5J"
@@ -8254,7 +8374,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 150960,
       "name": "Sonne, Mond und Sterne",
       "url": "https://open.spotify.com/track/7K5yVlLdF8T5qyIX8WLdOz"
@@ -8316,7 +8436,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 138750,
       "name": "Spuren im Schnee",
       "url": "https://open.spotify.com/track/62o6dJHwohn5vvPKE3EWUh"
@@ -8334,7 +8454,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 103614,
       "name": "Stell die Stiefel raus",
       "url": "https://open.spotify.com/track/60pcT7fU0vW5Y6TutUGw1P"
@@ -8454,7 +8574,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 200306,
       "name": "S\u00fc\u00dfer die Glocken nie klingen",
       "url": "https://open.spotify.com/track/3QQuRIW0s88lpjy3g5lCtE"
@@ -8572,7 +8692,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 185680,
       "name": "Tanzen unterm Weihnachtsbaum (feat. Katharina Hirschberg, Harriet Herbig-Matten)",
       "url": "https://open.spotify.com/track/5fEVVIUV3T10ToGnbIJDbW"
@@ -8848,7 +8968,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 160226,
       "name": "Unterm Mistelzweig (feat. Benjamin Weygand)",
       "url": "https://open.spotify.com/track/4sXOfEpZb3oMt40KQ8KfNq"
@@ -9044,7 +9164,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 146142,
       "name": "Wann wird es Winter?",
       "url": "https://open.spotify.com/track/4z29oJTUjxv60CDkPeG8wG"
@@ -9156,7 +9276,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 195280,
       "name": "Weihnachten im Zoo",
       "url": "https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn"
@@ -9174,7 +9294,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 135903,
       "name": "Weihnachtskeksrakete",
       "url": "https://open.spotify.com/track/6DPOcTGIXmnjv1zAQXJToS"
@@ -9210,7 +9330,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 139487,
       "name": "Weihnachtssong (Santa Claus Rap)",
       "url": "https://open.spotify.com/track/19FbU9S8eTXqtwiBRlOJIH"
@@ -9232,7 +9352,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 152546,
       "name": "Weihnachtszeit, Kinderzeit",
       "url": "https://open.spotify.com/track/0IHclLb62TS7CauAJJ4SU5"
@@ -9512,7 +9632,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 207093,
       "name": "Willst du einen Schneemann bauen?",
       "url": "https://open.spotify.com/track/5xkRXWqt8MAXh6wlhE3ODp"
@@ -9552,7 +9672,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 168973,
       "name": "Winter Wunderland",
       "url": "https://open.spotify.com/track/0QFXMMvONbv8W9XARH4Oxb"
@@ -9610,7 +9730,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 211469,
       "name": "Winterzeit",
       "url": "https://open.spotify.com/track/1FMOeO9KbVRD6vlkGWB4Jn"
@@ -9628,7 +9748,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 122120,
       "name": "Winterzeit",
       "url": "https://open.spotify.com/track/5hrDo5pej0NZIc6IZIWME5"
@@ -9653,7 +9773,7 @@
     },
     {
       "album": {
-        "name": "Benjamin Bl\u00fcmchen singt Weihnachtslieder",
+        "name": "Benjamin Bl\u00fcmchen Weihnachtslieder",
         "url": "https://open.spotify.com/album/4HkEFBWpnJbQXzIrbdNBFN"
       },
       "artists": [
@@ -9664,7 +9784,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 157602,
       "name": "Winterzeit (Benjamins Version)",
       "url": "https://open.spotify.com/track/508MExeDwgnFMRrBefLyve"
@@ -9686,7 +9806,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 194133,
       "name": "Wir halten die Laternen",
       "url": "https://open.spotify.com/track/4BSk3N9P8FKiZzWKlBSP4M"
@@ -9744,7 +9864,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 150202,
       "name": "Wir leuchten zusammen",
       "url": "https://open.spotify.com/track/31llVx9c5b3iJiLuSIE98h"
@@ -9814,7 +9934,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 169627,
       "name": "Wir sind die Wichtel",
       "url": "https://open.spotify.com/track/5Z4oTHTkzt1hDD5DO0jzB0"
@@ -9868,7 +9988,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 203794,
       "name": "Wo ist der Schneemann?",
       "url": "https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M"
@@ -9890,7 +10010,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Wo wohnt der Weihnachtsmann",
       "url": "https://open.spotify.com/track/15xIwpdEjDBeVU0u51NAeh"
@@ -9948,10 +10068,32 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 213600,
       "name": "Wundersch\u00f6ne Weihnachtszeit",
       "url": "https://open.spotify.com/track/3eneVHkg8zT9pKjp1fOiJ1"
+    },
+    {
+      "album": {
+        "name": "Wunschzettel",
+        "url": "https://open.spotify.com/album/1GClfE1OCrf0lmqg5ocKP2"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        },
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199924,
+      "name": "Wunschzettel",
+      "url": "https://open.spotify.com/track/0lenSKo4eH46yEVWtXHVRd"
     },
     {
       "album": {
@@ -9986,7 +10128,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 178733,
       "name": "W\u00e4r' Dezember doch f\u00fcr immer (feat. Katharina Hirschberg, Harriet Herbig-Matten, Holger Stockhaus)",
       "url": "https://open.spotify.com/track/4TkCKWiZLp3krxx7aD6vrp"

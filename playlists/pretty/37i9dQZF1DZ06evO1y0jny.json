@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAA2JpXUeQJy1MWxRTj1WRWZ",
+  "snapshot_id": "awd2gAAAAAB0WQN8ioGhvC6tICoKX+eF",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 205678,
-      "name": "Pikake Launa Ole",
-      "url": "https://open.spotify.com/track/1JdKOattrqKfyHitqxNvza"
+      "duration_ms": 138000,
+      "name": "Eleu Mikimiki",
+      "url": "https://open.spotify.com/track/2rJ22DZjY656aEpQ9OlD5h"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Eleu Mikimiki",
-      "url": "https://open.spotify.com/track/2rJ22DZjY656aEpQ9OlD5h"
+      "duration_ms": 205678,
+      "name": "Pikake Launa Ole",
+      "url": "https://open.spotify.com/track/1JdKOattrqKfyHitqxNvza"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Le\u02bba",
-        "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
+        "name": "Ua K\u014d, Ua \u02bb\u0100ina",
+        "url": "https://open.spotify.com/album/058d63dGkeAAWpEsHovZov"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 156432,
-      "name": "Heha Waipi\u02bbo",
-      "url": "https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh"
+      "duration_ms": 212415,
+      "name": "No \u02bb\u0100nela U\u02bbilani, He Inoa",
+      "url": "https://open.spotify.com/track/4GpEb52SHnvTBEZNG07UbD"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ua K\u014d, Ua \u02bb\u0100ina",
-        "url": "https://open.spotify.com/album/058d63dGkeAAWpEsHovZov"
-      },
-      "artists": [
-        {
-          "name": "Keauhou",
-          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
-        }
-      ],
-      "duration_ms": 212415,
-      "name": "No \u02bb\u0100nela U\u02bbilani, He Inoa",
-      "url": "https://open.spotify.com/track/4GpEb52SHnvTBEZNG07UbD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Le\u02bba",
         "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
       },
@@ -260,9 +244,25 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 192795,
-      "name": "Ku\u02bbu Ipo Onaona",
-      "url": "https://open.spotify.com/track/1mkJROOWWEhGilNP9d4pVr"
+      "duration_ms": 156432,
+      "name": "Heha Waipi\u02bbo",
+      "url": "https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ua K\u014d, Ua \u02bb\u0100ina",
+        "url": "https://open.spotify.com/album/058d63dGkeAAWpEsHovZov"
+      },
+      "artists": [
+        {
+          "name": "Keauhou",
+          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
+        }
+      ],
+      "duration_ms": 188067,
+      "name": "Kapi\u02bbolani P\u0101ka",
+      "url": "https://open.spotify.com/track/33viZQGMaRtqCzBCAD28sd"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Le\u02bba",
+        "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
+      },
+      "artists": [
+        {
+          "name": "Keauhou",
+          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
+        }
+      ],
+      "duration_ms": 192795,
+      "name": "Ku\u02bbu Ipo Onaona",
+      "url": "https://open.spotify.com/track/1mkJROOWWEhGilNP9d4pVr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ua K\u014d, Ua \u02bb\u0100ina",
         "url": "https://open.spotify.com/album/058d63dGkeAAWpEsHovZov"
       },
@@ -308,25 +324,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 188067,
-      "name": "Kapi\u02bbolani P\u0101ka",
-      "url": "https://open.spotify.com/track/33viZQGMaRtqCzBCAD28sd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K\u016bha\u02bbo Maunakea",
-        "url": "https://open.spotify.com/album/59nqTMWkBplZCBqsXwBBcY"
-      },
-      "artists": [
-        {
-          "name": "Keauhou",
-          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Na Puuwai Haokila",
-      "url": "https://open.spotify.com/track/5I0FPQKECMecGJTkney4jd"
+      "duration_ms": 108674,
+      "name": "Molokini Hula",
+      "url": "https://open.spotify.com/track/7zcWp3M2RKV8uVQ8IFmhog"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ua K\u014d, Ua \u02bb\u0100ina",
-        "url": "https://open.spotify.com/album/058d63dGkeAAWpEsHovZov"
-      },
-      "artists": [
-        {
-          "name": "Keauhou",
-          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
-        }
-      ],
-      "duration_ms": 108674,
-      "name": "Molokini Hula",
-      "url": "https://open.spotify.com/track/7zcWp3M2RKV8uVQ8IFmhog"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disney Hawaiian Album ~DA BEST!~",
         "url": "https://open.spotify.com/album/0A7jcBToDjWVYphBypyghi"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 106106,
       "name": "It's a Small World - Hawaiian Version",
       "url": "https://open.spotify.com/track/7jmFUb4cFl2qzvfODI8Ne0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ua K\u014d, Ua \u02bb\u0100ina",
+        "url": "https://open.spotify.com/album/058d63dGkeAAWpEsHovZov"
+      },
+      "artists": [
+        {
+          "name": "Keauhou",
+          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
+        }
+      ],
+      "duration_ms": 215285,
+      "name": "M\u0101puana Ku\u02bbu Aloha",
+      "url": "https://open.spotify.com/track/1EQrkFOyJHOaIbPlq9aC1X"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K\u016bha\u02bbo Maunakea",
+        "url": "https://open.spotify.com/album/59nqTMWkBplZCBqsXwBBcY"
+      },
+      "artists": [
+        {
+          "name": "Keauhou",
+          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Na Puuwai Haokila",
+      "url": "https://open.spotify.com/track/5I0FPQKECMecGJTkney4jd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Le\u02bba",
         "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 150819,
       "name": "Koni Au i ka Wai / Ka Ipo Laua\u02bbe",
       "url": "https://open.spotify.com/track/3NIoUqAtDrrLT8nFpndYmT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ua K\u014d, Ua \u02bb\u0100ina",
-        "url": "https://open.spotify.com/album/058d63dGkeAAWpEsHovZov"
-      },
-      "artists": [
-        {
-          "name": "Keauhou",
-          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
-        }
-      ],
-      "duration_ms": 215285,
-      "name": "M\u0101puana Ku\u02bbu Aloha",
-      "url": "https://open.spotify.com/track/1EQrkFOyJHOaIbPlq9aC1X"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 187178,
-      "name": "Wehiwehi M\u0101noa",
-      "url": "https://open.spotify.com/track/5amwFXDIBc9BCvncknwE9r"
+      "duration_ms": 163073,
+      "name": "Aloha Maunalua",
+      "url": "https://open.spotify.com/track/7aJyIjBzgbnK88VNZXf6gO"
     },
     {
       "added_at": null,

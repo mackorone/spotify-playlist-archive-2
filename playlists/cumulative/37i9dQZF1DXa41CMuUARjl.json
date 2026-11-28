@@ -467126,32 +467126,6 @@
     {
       "album": {
         "name": "More Than A Friend",
-        "url": "https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS"
-      },
-      "artists": [
-        {
-          "name": "Cam Stockman",
-          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
-        },
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        },
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "date_added": "2026-11-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218488,
-      "name": "More Than A Friend",
-      "url": "https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn"
-    },
-    {
-      "album": {
-        "name": "More Than A Friend",
         "url": "https://open.spotify.com/album/426ESTUvVdCwRoTZ95PIxw"
       },
       "artists": [
@@ -467170,6 +467144,32 @@
       "duration_ms": 200028,
       "name": "More Than A Friend",
       "url": "https://open.spotify.com/track/0gVlXqAE1HRkbcCDDFzJSg"
+    },
+    {
+      "album": {
+        "name": "More Than A Friend",
+        "url": "https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        },
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218488,
+      "name": "More Than A Friend",
+      "url": "https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn"
     },
     {
       "album": {

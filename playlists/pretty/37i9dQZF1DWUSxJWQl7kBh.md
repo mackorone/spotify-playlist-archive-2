@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Como la birria de Estela, hoy andamos al puro vergazo 🙏🏽✨ Raúl Beltrán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,996 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,098 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

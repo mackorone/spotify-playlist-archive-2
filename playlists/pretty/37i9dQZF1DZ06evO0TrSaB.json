@@ -1,12 +1,12 @@
 {
   "description": "This is Jai'Len Josey. The essential tracks, all in one playlist.",
-  "num_followers": 237,
+  "num_followers": 274,
   "original_name": "This Is Jai'Len Josey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAB3RfcKR1r/CJdl2iLlqQOf",
+  "snapshot_id": "awd2gAAAAABU3QieMbT8KFNpD2ZY8k+i",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5tRH929SEHDYOHg4Ky1Y0a"
+        "name": "Southern Delicacy",
+        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
       },
       "artists": [
-        {
-          "name": "Davion Farris",
-          "url": "https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI"
-        },
         {
           "name": "Jai'Len Josey",
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 230928,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/6WxxFT9MzFntsebivQkxXB"
+      "duration_ms": 197610,
+      "name": "Southern Delicacy",
+      "url": "https://open.spotify.com/track/3TzHYI4SvydLcaQxGJZ7Mm"
     },
     {
       "added_at": null,
@@ -99,18 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Southern Delicacy",
-        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5tRH929SEHDYOHg4Ky1Y0a"
       },
       "artists": [
+        {
+          "name": "Davion Farris",
+          "url": "https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI"
+        },
         {
           "name": "Jai'Len Josey",
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 197610,
-      "name": "Southern Delicacy",
-      "url": "https://open.spotify.com/track/3TzHYI4SvydLcaQxGJZ7Mm"
+      "duration_ms": 230928,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/6WxxFT9MzFntsebivQkxXB"
     },
     {
       "added_at": null,
@@ -127,6 +127,38 @@
       "duration_ms": 238737,
       "name": "Can You Do It for Me?",
       "url": "https://open.spotify.com/track/70QhXL1osJ7lRfIqZ1Doux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Southern Delicacy",
+        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 160843,
+      "name": "Willie's Interlude",
+      "url": "https://open.spotify.com/track/3DsCXUEP6VLzzMUEZ1SbBA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serial Romantic",
+        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 249002,
+      "name": "Truce",
+      "url": "https://open.spotify.com/track/0DUW0A9xuu1yKCaXCQVPSw"
     },
     {
       "added_at": null,
@@ -151,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serial Romantic",
-        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
+        "name": "Conversations From A Payphone",
+        "url": "https://open.spotify.com/album/0T4Z5y6addAX9snpSlDNr7"
       },
       "artists": [
         {
@@ -160,9 +192,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 249002,
-      "name": "Truce",
-      "url": "https://open.spotify.com/track/0DUW0A9xuu1yKCaXCQVPSw"
+      "duration_ms": 280495,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/1perwA1K2XAy6wSRzrVW7Q"
     },
     {
       "added_at": null,
@@ -183,38 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conversations From A Payphone",
-        "url": "https://open.spotify.com/album/0T4Z5y6addAX9snpSlDNr7"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 280495,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/1perwA1K2XAy6wSRzrVW7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Illustrations",
-        "url": "https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 174700,
-      "name": "When We Jump",
-      "url": "https://open.spotify.com/track/5YNYX1iBbTXfbFDZLrPXEU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serial Romantic",
         "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
       },
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Southern Delicacy",
-        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
+        "name": "Illustrations",
+        "url": "https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 160843,
-      "name": "Willie's Interlude",
-      "url": "https://open.spotify.com/track/3DsCXUEP6VLzzMUEZ1SbBA"
+      "duration_ms": 174700,
+      "name": "When We Jump",
+      "url": "https://open.spotify.com/track/5YNYX1iBbTXfbFDZLrPXEU"
     },
     {
       "added_at": null,
@@ -287,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Few Things",
-        "url": "https://open.spotify.com/album/0byh8hdr3vZyWZ8mfeu8fN"
+        "name": "Southern Delicacy",
+        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
       },
       "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
         {
           "name": "Jai'Len Josey",
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 201600,
-      "name": "A Few Things",
-      "url": "https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE"
+      "duration_ms": 123810,
+      "name": "Man In Your Bed",
+      "url": "https://open.spotify.com/track/2NNJpaJ8DRYJy5IY35MQWE"
     },
     {
       "added_at": null,
@@ -316,25 +312,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 205942,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/0NkgPNxtAU3aryEc57NnWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Southern Delicacy",
-        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 123810,
-      "name": "Man In Your Bed",
-      "url": "https://open.spotify.com/track/2NNJpaJ8DRYJy5IY35MQWE"
+      "duration_ms": 159212,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/5XL0u4OlkzjotTazxDzjNL"
     },
     {
       "added_at": null,
@@ -375,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serial Romantic",
-        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 159212,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/5XL0u4OlkzjotTazxDzjNL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Southern Delicacy",
         "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
       },
@@ -403,6 +367,22 @@
       "duration_ms": 230635,
       "name": "Pay For My Drink",
       "url": "https://open.spotify.com/track/50AACYCHYrN9v3r2NmZ1Am"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serial Romantic",
+        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 205942,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/0NkgPNxtAU3aryEc57NnWr"
     },
     {
       "added_at": null,
@@ -439,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Southern Delicacy",
+        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 180795,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/20Qi5xqrPlQXAW7wzn72gG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1 of 1",
         "url": "https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj"
       },
@@ -459,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Southern Delicacy",
-        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 180795,
-      "name": "Take Me Higher",
-      "url": "https://open.spotify.com/track/20Qi5xqrPlQXAW7wzn72gG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Illustrations",
         "url": "https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 400391,
       "name": "Fall",
       "url": "https://open.spotify.com/track/6INqijEvx76YGUVYYRCyPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Few Things",
+        "url": "https://open.spotify.com/album/3WsKR6yPEDVmkB4auGVWwv"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "A Few Things",
+      "url": "https://open.spotify.com/track/2OsQEM8BSFHky9SmDgmocL"
     },
     {
       "added_at": null,

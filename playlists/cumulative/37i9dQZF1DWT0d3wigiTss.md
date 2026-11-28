@@ -4,7 +4,7 @@
 
 > Adormecer ao som relaxante da chuva.
 
-471 songs - 21 hr 45 min
+471 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Piogga](https://open.spotify.com/track/0ZRTBESw4BjX22iOcU3kRx) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Gocce](https://open.spotify.com/album/7Meq6WVLcmNcK9r4Sn3WvQ) | 2:39 | 2023-06-15 |  |
 | [Pluie](https://open.spotify.com/track/5zrFoTd0OrqDJEEM64MiOK) | [Visceral Rain](https://open.spotify.com/artist/0iXGgjkn97AolhD6yR3FbO) | [Pluie](https://open.spotify.com/album/17oeulbqVr9dySNbGKqsVT) | 2:42 | 2025-12-19 |  |
 | [Pluie légère et tonnerre](https://open.spotify.com/track/1SAvBx0Uzm0UQz6u5J85M9) | [Moon Geel](https://open.spotify.com/artist/233dPasuKQ0Iy9txhTLRHa) | [Orage](https://open.spotify.com/album/1FjY5FiGhfsBGOlm2A4mFj) | 2:09 | 2023-06-15 | 2026-04-02 |
-| [Pluie près du ruisseau](https://open.spotify.com/track/3PCELNifmPZJVtvIbwxpuD) | [Naturaleza FX](https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa) | [Tonnerre lourd](https://open.spotify.com/album/33l1GbjNp8nN1PqRybdLIF) | 1:48 | 2023-06-15 |  |
+| [Pluie près du ruisseau](https://open.spotify.com/track/3PCELNifmPZJVtvIbwxpuD) | [Naturaleza FX](https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa) | [Tonnerre lourd](https://open.spotify.com/album/33l1GbjNp8nN1PqRybdLIF) | 2:32 | 2023-06-15 |  |
 | [Porch Cleanse](https://open.spotify.com/track/20djsX0GYVMsGjRVTeuOVP) | [Aquamoon](https://open.spotify.com/artist/20FQZwDT0EqBx7aSMrt5NA) | [Waterworlds](https://open.spotify.com/album/3UO36j9PRWy5ORvJbuJ5zM) | 2:18 | 2023-06-15 |  |
 | [Porch Rain](https://open.spotify.com/track/20MgVRAn4tiWKWT6REyQms) | [Zen Reverie](https://open.spotify.com/artist/68ADaLY9nNxvPUyUgPKqLp) | [Colors of Rain](https://open.spotify.com/album/1H2XHA4Q14Eh1Dnvpgo8qC) | 6:08 | 2023-06-15 |  |
 | [Pouring Rain & Rolling Thunder](https://open.spotify.com/track/6VEmDZ6uIdTdkM2hxJKNhF) | [Essential Nature Sounds](https://open.spotify.com/artist/5VhOnYoFtMQVsuUJMfXk0M) | [Dark Rain & Deep Thunder](https://open.spotify.com/album/57ur6LcL32QEuI2PXgZ0yK) | 3:31 | 2023-06-15 | 2023-12-21 |

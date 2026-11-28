@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6NjGpCxTPGk35aIzLy1Drb.md) - [plain]
 
 > 
 
-[Sara](https://open.spotify.com/user/31riswwx5eemfyek6qatkphkihxu) - 3 likes - 63 songs - 3 hr 13 min
+[Sara](https://open.spotify.com/user/31riswwx5eemfyek6qatkphkihxu) - 4 likes - 63 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

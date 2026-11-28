@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 168020,
+  "num_followers": 168044,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAB2oXW2DzrE+yU9OeZuVSgm",
+  "snapshot_id": "awd2gAAAAAA9Ag3zXku7Fav2ni5MfcWq",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Control Absoluto",
-        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
+        "name": "Triunfo",
+        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 252626,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/7pFSymHAQO021YmaKCVDoC"
+      "duration_ms": 354706,
+      "name": "Ana Mile",
+      "url": "https://open.spotify.com/track/2BEAGKMLWkDmhAUECvoq5C"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triunfo",
-        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+        "name": "Control Absoluto",
+        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 354706,
-      "name": "Ana Mile",
-      "url": "https://open.spotify.com/track/2BEAGKMLWkDmhAUECvoq5C"
+      "duration_ms": 252626,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/7pFSymHAQO021YmaKCVDoC"
     },
     {
       "added_at": null,

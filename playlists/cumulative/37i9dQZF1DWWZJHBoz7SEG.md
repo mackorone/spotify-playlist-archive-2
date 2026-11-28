@@ -4,7 +4,7 @@
 
 > Evita el frío y quédate tapadito escuchando lo nuevo de Ed Maverick y compañía
 
-14,420 songs - 32 day 2 hr 16 min
+14,421 songs - 32 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5785,6 +5785,7 @@
 | [Incomprensible](https://open.spotify.com/track/39eazIEoQhjlwg6u29zMnl) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Incomprensible](https://open.spotify.com/album/4zwpvu8E4Ev8iM6V76nnI3) | 3:31 | 2025-07-11 | 2025-07-19 |
 | [Incondicional](https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Euforia](https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI) | 4:16 | 2026-05-15 | 2026-05-23 |
 | [INCONDICIONAL](https://open.spotify.com/track/0rvx4regy5YvkNaFb15fCQ) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [INCONDICIONAL](https://open.spotify.com/album/64myzmPvZgt1KK6x2jmIRz) | 2:36 | 2022-02-18 | 2022-02-26 |
+| [INCÍTAME](https://open.spotify.com/track/0TB2zV4VRn9IpCnjJY4c1Y) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X), [Lukas Urkijo](https://open.spotify.com/artist/0sdq0uQ9MBCqV5gwUZuxMW) | [IDK YET](https://open.spotify.com/album/3iBRjuE5mzixZ8lrkXwfIK) | 2:17 | 2026-11-27 |  |
 | [Indecisa](https://open.spotify.com/track/6kvIndExSuKqaPuZmA9z4K) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [Indecisa](https://open.spotify.com/album/4WmmIG2ztaEwn6th4z7xR8) | 3:32 | 2026-02-20 | 2026-02-28 |
 | [Indecisa](https://open.spotify.com/track/6J3LSNRHLDxHTZRXiRhRIf) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Indecisa](https://open.spotify.com/album/5dPuGA5JVHtbrGvenykZNl) | 2:22 | 2025-08-22 | 2025-08-31 |
 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 | 2026-08-21 | 2026-08-28 |
@@ -8829,7 +8830,7 @@
 | [No Me Vengas A Decir](https://open.spotify.com/track/1kSBEtTMavEQsJuN9zoLgx) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [No Me Vengas A Decir](https://open.spotify.com/album/5QeSWUvRuC1V7yUrLw3p4r) | 3:07 | 2026-04-17 | 2026-04-25 |
 | [No Me Voy A Rajar](https://open.spotify.com/track/0c8BYFsRqthW6RUCZtDZ4B) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [No Me Voy A Rajar](https://open.spotify.com/album/0tpNnZoZKof0g9ISlk0BNo) | 2:58 | 2025-09-05 | 2025-09-13 |
 | [No Me Vuelvo a Emborrachar](https://open.spotify.com/track/1QNJmgXbCGiksbQPYk6bjg) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Me Vuelvo a Emborrachar](https://open.spotify.com/album/1BvadvC7V1a3lAsy7qXu2n) | 3:03 | 2025-04-18 | 2025-04-26 |
-| [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2HPGJvavEeavQAWMwEh6Da) | [Banda Cuisillos](https://open.spotify.com/artist/4AB3FqTXBxJhJaAvp7jHdF) | [No Me Vuelvo a Enamorar](https://open.spotify.com/album/3l0L9lpQKiwPVDNXWOAPZj) | 3:20 | 2026-11-27 |  |
+| [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2HPGJvavEeavQAWMwEh6Da) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [No Me Vuelvo a Enamorar](https://open.spotify.com/album/3l0L9lpQKiwPVDNXWOAPZj) | 3:20 | 2026-11-27 |  |
 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 | 2022-04-22 | 2022-04-29 |
 | [No Molestar](https://open.spotify.com/track/7yby6EEP1NETh2VSpATSN1) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [No Molestar](https://open.spotify.com/album/5Iag5lnUA6laldNHpb3dhe) | 3:18 | 2023-06-02 | 2023-06-10 |
 | [No Molestar](https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:37 | 2024-05-10 | 2024-05-18 |

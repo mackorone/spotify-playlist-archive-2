@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 80766,
+  "num_followers": 80821,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
         "name": "House Of Worship (Deluxe)",
         "url": "https://open.spotify.com/album/5lkkzGifyKChKzHZkafoNr"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
-        "name": "I Need You Now",
-        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
+        "name": "Milk & Cookies: A Merry Crowder Christmas",
+        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
       },
       "artists": [
         {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         }
       ],
-      "duration_ms": 331360,
-      "name": "Still Say Thank You",
-      "url": "https://open.spotify.com/track/0L9h0mSKwKDW8z3IKYi8SL"
+      "duration_ms": 208243,
+      "name": "Thanks Giver",
+      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2026-11-16 14:49:12",
@@ -623,18 +639,18 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
-        "name": "Milk & Cookies: A Merry Crowder Christmas",
-        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
+        "name": "I Need You Now",
+        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
       },
       "artists": [
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
         }
       ],
-      "duration_ms": 208243,
-      "name": "Thanks Giver",
-      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
+      "duration_ms": 331360,
+      "name": "Still Say Thank You",
+      "url": "https://open.spotify.com/track/0L9h0mSKwKDW8z3IKYi8SL"
     },
     {
       "added_at": "2026-11-16 14:49:12",
@@ -651,22 +667,6 @@
       "duration_ms": 192775,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
-        "name": "I Thank God",
-        "url": "https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU"
-      },
-      "artists": [
-        {
-          "name": "Genavieve Linkowski",
-          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
-        }
-      ],
-      "duration_ms": 221739,
-      "name": "I Thank God",
-      "url": "https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d"
     },
     {
       "added_at": "2026-11-16 14:49:12",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
         "name": "Things I'm Thankful For",
         "url": "https://open.spotify.com/album/3Ya7msaCiI22qG9iIRo0cn"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 190000,
       "name": "Things I'm Thankful For",
       "url": "https://open.spotify.com/track/1dskRzY3rg3ilpyQvkUrPS"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
+        "name": "I Thank God",
+        "url": "https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU"
+      },
+      "artists": [
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        }
+      ],
+      "duration_ms": 221739,
+      "name": "I Thank God",
+      "url": "https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d"
     },
     {
       "added_at": "2026-11-16 14:49:12",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
+        "name": "All I Can Say",
+        "url": "https://open.spotify.com/album/64ifFrA1yrkEQGdTExRvbk"
+      },
+      "artists": [
+        {
+          "name": "MK Green",
+          "url": "https://open.spotify.com/artist/1NbqPxNpV0iJnmWWvKAc96"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "All I Can Say",
+      "url": "https://open.spotify.com/track/1SSSatPYMfoGhKF68qVti0"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
         "name": "At This Table",
         "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
       },
@@ -883,18 +899,34 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
-        "name": "All I Can Say",
-        "url": "https://open.spotify.com/album/64ifFrA1yrkEQGdTExRvbk"
+        "name": "How Good of God",
+        "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
       },
       "artists": [
         {
-          "name": "MK Green",
-          "url": "https://open.spotify.com/artist/1NbqPxNpV0iJnmWWvKAc96"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 181733,
-      "name": "All I Can Say",
-      "url": "https://open.spotify.com/track/1SSSatPYMfoGhKF68qVti0"
+      "duration_ms": 164632,
+      "name": "How Good of God",
+      "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
+        "name": "Thanksgiving Song",
+        "url": "https://open.spotify.com/album/6MbYtL3jRs69YuzxmLriXQ"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Thanksgiving Song",
+      "url": "https://open.spotify.com/track/7kxLfD1JWkmvhM2qZAZyx6"
     },
     {
       "added_at": "2026-11-16 14:49:12",
@@ -911,22 +943,6 @@
       "duration_ms": 171500,
       "name": "Grateful Heart (Thank You Jesus)",
       "url": "https://open.spotify.com/track/6anIiEM3wvqooQbWqUTyzp"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
-        "name": "How Good of God",
-        "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 164632,
-      "name": "How Good of God",
-      "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
     },
     {
       "added_at": "2026-11-16 14:49:12",
@@ -951,6 +967,22 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
+        "name": "We Are Thankful",
+        "url": "https://open.spotify.com/album/1KKYYSgmg5879WhTpgEqBq"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 267223,
+      "name": "We Are Thankful",
+      "url": "https://open.spotify.com/track/2q6bIMUzRF7XmCAFixpNpp"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
         "name": "Thank You Lord",
         "url": "https://open.spotify.com/album/33x6g9QEHsv4fTQwlh3rFF"
       },
@@ -971,6 +1003,26 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
+        "name": "THANKYOU 1000X (feat. Mitch Wong)",
+        "url": "https://open.spotify.com/album/6yc8hO0oyemOu4qHEoI6B4"
+      },
+      "artists": [
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 268801,
+      "name": "THANKYOU 1000X (feat. Mitch Wong)",
+      "url": "https://open.spotify.com/track/5wrhbFQuTnm6eyZEzPMGY8"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
         "name": "More Than Enough",
         "url": "https://open.spotify.com/album/0BCVRyseIXCf3cGj0OWKfR"
       },
@@ -987,22 +1039,6 @@
       "duration_ms": 298275,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/3vdzkdsNdOSm4DBdOUgjSX"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
-        "name": "We Are Thankful",
-        "url": "https://open.spotify.com/album/1KKYYSgmg5879WhTpgEqBq"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 267223,
-      "name": "We Are Thankful",
-      "url": "https://open.spotify.com/track/2q6bIMUzRF7XmCAFixpNpp"
     },
     {
       "added_at": "2026-11-16 14:49:12",
@@ -1031,26 +1067,6 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
-        "name": "THANKYOU 1000X (feat. Mitch Wong)",
-        "url": "https://open.spotify.com/album/6yc8hO0oyemOu4qHEoI6B4"
-      },
-      "artists": [
-        {
-          "name": "Bella Taylor Smith",
-          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 268801,
-      "name": "THANKYOU 1000X (feat. Mitch Wong)",
-      "url": "https://open.spotify.com/track/5wrhbFQuTnm6eyZEzPMGY8"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
         "name": "Esta es la Vida",
         "url": "https://open.spotify.com/album/2TEbT1PdwFQgjhuACyZ0Xw"
       },
@@ -1067,58 +1083,6 @@
       "duration_ms": 205090,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/1v8E1gSfre87TGJ7rSuKMo"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
-        "name": "Because Of God (feat. Tenth Avenue North)",
-        "url": "https://open.spotify.com/album/5ShCSS4EhBuMPicMN0YZVs"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        },
-        {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Because Of God - feat. Tenth Avenue North",
-      "url": "https://open.spotify.com/track/73sCmgmVQdGGRAnyFmcVtP"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
-        "name": "Thanksgiving Song",
-        "url": "https://open.spotify.com/album/6MbYtL3jRs69YuzxmLriXQ"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Thanksgiving Song",
-      "url": "https://open.spotify.com/track/7kxLfD1JWkmvhM2qZAZyx6"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
-        "name": "Not The Same",
-        "url": "https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 141049,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9"
     },
     {
       "added_at": "2026-11-16 14:49:12",
@@ -1143,6 +1107,42 @@
       "duration_ms": 186814,
       "name": "Thank You Isn't Enough",
       "url": "https://open.spotify.com/track/77772WZUj2IYuZAgH5Ufuy"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
+        "name": "Because Of God (feat. Tenth Avenue North)",
+        "url": "https://open.spotify.com/album/5ShCSS4EhBuMPicMN0YZVs"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        },
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Because Of God - feat. Tenth Avenue North",
+      "url": "https://open.spotify.com/track/73sCmgmVQdGGRAnyFmcVtP"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 141049,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9"
     },
     {
       "added_at": "2026-11-16 14:49:12",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
-        "name": "Thank You Jesus",
-        "url": "https://open.spotify.com/album/75sOpcC8vKAcE0W4cqmW3x"
-      },
-      "artists": [
-        {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
-        },
-        {
-          "name": "Dells TMX",
-          "url": "https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Thank You Jesus",
-      "url": "https://open.spotify.com/track/1TmAG4vhedrQ64GznwECXb"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
         "name": "Give Thanks To God",
         "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 214056,
       "name": "Give Thanks To God",
       "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
+        "name": "Thank You Jesus",
+        "url": "https://open.spotify.com/album/75sOpcC8vKAcE0W4cqmW3x"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "Dells TMX",
+          "url": "https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Thank You Jesus",
+      "url": "https://open.spotify.com/track/1TmAG4vhedrQ64GznwECXb"
     },
     {
       "added_at": "2026-11-16 14:49:12",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
-        "name": "Mo Wa Dupe (Thank You)",
-        "url": "https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 214158,
-      "name": "Mo Wa Dupe (Thank You)",
-      "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
         "name": "Spirit Of David",
         "url": "https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h"
       },
@@ -1283,6 +1267,38 @@
       "duration_ms": 295306,
       "name": "Oh Give Thanks (Psalm 136)",
       "url": "https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
+        "name": "Mo Wa Dupe (Thank You)",
+        "url": "https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 214158,
+      "name": "Mo Wa Dupe (Thank You)",
+      "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
     },
     {
       "added_at": "2026-11-16 14:49:12",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
         "name": "Thank You (feat. MARTY)",
         "url": "https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/6hYNb0Bu73paVyrGwhJmGM"
-      },
-      "artists": [
-        {
-          "name": "Rachael Nemiroff",
-          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
-        }
-      ],
-      "duration_ms": 231848,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/2YSFG4eMG4W1bPlsQ13wB1"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
         "name": "Thank God!",
         "url": "https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/6hYNb0Bu73paVyrGwhJmGM"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "duration_ms": 231848,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/2YSFG4eMG4W1bPlsQ13wB1"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
         "name": "Thank You (Famine Or Feast)",
         "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
       },
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2026-11-16 14:49:12",
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4HDwPDTN5uJVlk5DTkjQkV"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 417177,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/2LB2qBIkW7IwK0u99VEeSN"
+    },
+    {
+      "added_at": "2026-11-16 14:49:12",
+      "album": {
         "name": "God of the Ages (Live At The Manor)",
         "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 256437,
       "name": "God of the Ages - Single Version - Live",
       "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
-    },
-    {
-      "added_at": "2026-11-16 14:49:12",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4HDwPDTN5uJVlk5DTkjQkV"
-      },
-      "artists": [
-        {
-          "name": "Jovonta Patton",
-          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
-        },
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        }
-      ],
-      "duration_ms": 417177,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/2LB2qBIkW7IwK0u99VEeSN"
     },
     {
       "added_at": "2026-11-16 14:49:12",

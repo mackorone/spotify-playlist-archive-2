@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-611 songs - 1 day 9 hr 18 min
+613 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Dreams](https://open.spotify.com/track/3cC6Sx3Z0UTyr5gM2vHFdg) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Dreams](https://open.spotify.com/album/0A7mcxKjEulhu0P9ves8sT) | 2:37 | 2020-10-24 | 2022-08-06 |
 | [Dreams \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6WNksTFvo7VSeiP0UfNpWf) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Dreams \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/4aRvJ1Tc1Qi1mNT30QYpjw) | 5:04 | 2021-08-21 | 2021-08-24 |
 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 | 2021-09-18 | 2021-11-11 |
+| [Echo](https://open.spotify.com/track/0NpQEtG05NqdKDGJaAHpjH) | [Badflite](https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS), [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [Echo](https://open.spotify.com/album/0EtViWGXWsbmFCkdb8IWVX) | 2:59 | 2026-11-27 |  |
 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 | 2026-08-30 |  |
 | [Elephant](https://open.spotify.com/track/25eziuXzuP0USgaLErpQOF) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Elephant](https://open.spotify.com/album/3ieNe0PtLpl2bJXoJiPcNZ) | 2:11 | 2026-06-26 |  |
 | [Emergency](https://open.spotify.com/track/6L0B2i6TKUP2vazSDqViUM) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Emergency](https://open.spotify.com/album/2migdnnPxbvIHUGbKlBO6M) | 2:48 | 2023-03-31 | 2024-02-24 |
@@ -421,6 +422,7 @@
 | [Rain](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Rain](https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin) | 2:32 | 2023-08-18 |  |
 | [Rain](https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 3:42 | 2023-05-05 | 2025-08-23 |
 | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/38HQUXPU9vnrA8TbkUtTIQ) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 4:28 | 2024-02-23 | 2024-10-19 |
+| [Ready to Lose You](https://open.spotify.com/track/2tOTPPaafh6Stol27LXnZQ) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Ready to Lose You](https://open.spotify.com/album/72jU8VdLIEgGz2WdJKJWpH) | 2:54 | 2026-11-27 |  |
 | [Real for Me](https://open.spotify.com/track/2Me8g0TZBRiOOYvjexvYwe) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Real for Me](https://open.spotify.com/album/7iT1pcVw9WcqF6QWwXAU7M) | 3:00 | 2021-03-06 | 2021-07-17 |
 | [Reasons](https://open.spotify.com/track/5OSy4sK60q4uXmOO95LVI6) | [London Topaz](https://open.spotify.com/artist/2QNu1AjQAl2trTfbVMovyd), [Clearest](https://open.spotify.com/artist/19XcMf5sc9TjHPbRRwW0o9) | [Reasons](https://open.spotify.com/album/6euPkxUUnW2DJAHTclsdet) | 3:37 | 2025-08-01 | 2026-01-06 |
 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2021-04-03 | 2021-07-17 |

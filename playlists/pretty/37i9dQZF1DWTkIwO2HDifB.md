@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto: MC GP, Meno K, MC IG, Breninho VJ, Aaron Modesto, MC Ryan SP, MC Dena, MC Negão Original, MC Dena, MC Negão Original, DJ Glenner, DJ Menor PR, DJ Daltin no Beat
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,830,346 likes - 51 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,830,896 likes - 51 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

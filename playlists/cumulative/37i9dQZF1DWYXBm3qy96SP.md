@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: HYUKOH
 
-2,456 songs - 5 day 23 hr 40 min
+2,457 songs - 5 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1354,6 +1354,7 @@
 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 | 2026-08-20 |  |
 | [memories \- demo](https://open.spotify.com/track/2xbPbYI0ggFDLZNt2uQRC7) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [songs that got lost in translation](https://open.spotify.com/album/7DNKJTacqnSTbhjbWq1Ihx) | 2:40 | 2024-01-18 | 2024-01-26 |
 | [Menquitofla](https://open.spotify.com/track/2zqkP9lyXLF5l5H52KLHK1) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK), [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C) | [Menquitofla](https://open.spotify.com/album/1tYP36OUuRPJUwRk0a0XVB) | 4:04 | 2026-09-03 | 2026-09-11 |
+| [MEOW](https://open.spotify.com/track/6y8XplutCxAOr8UGituUhG) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [MEOW](https://open.spotify.com/album/4jGtGTzjmcB6wFhtdDM511) | 3:09 | 2026-11-26 |  |
 | [Mercy Killing](https://open.spotify.com/track/7eHvmbbmUKT1AYtPmzr7Ww) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Mercy Killing](https://open.spotify.com/album/2zpMB0CBeBuQu15Mx2bZIX) | 3:48 | 2023-11-02 | 2023-11-10 |
 | [Mermaid Vampire](https://open.spotify.com/track/4HE6BDc742Jv5cSkLVNXTJ) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Mermaid Vampire](https://open.spotify.com/album/6DY1np2mZ7sr1bwVAfisZG) | 2:02 | 2023-07-13 | 2023-07-21 |
 | [Merry Old England](https://open.spotify.com/track/3BxzLyZAlj0fKDGo9iuw5F) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Merry Old England](https://open.spotify.com/album/1RpgtAy5HNiaRZD1pwCmAb) | 4:49 | 2024-04-04 | 2024-05-17 |
@@ -2090,7 +2091,7 @@
 | [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 | 2026-09-11 | 2026-10-02 |
 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 | 2025-08-14 | 2025-08-29 |
 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 | 2023-07-20 | 2023-07-28 |
-| [The Intersection](https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [What's In Between](https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj) | 3:42 | 2026-11-12 |  |
+| [The Intersection](https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [What's In Between](https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj) | 3:42 | 2026-11-12 | 2026-11-28 |
 | [The Joke](https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 3:57 | 2024-05-09 | 2024-05-19 |
 | [The Kid With the Crown](https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [The Kid With the Crown](https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa) | 4:14 | 2026-09-10 | 2026-09-26 |
 | [The Last Time](https://open.spotify.com/track/4YXmWAo4IHhHpkZbtlwBYm) | [Less Than Hollow](https://open.spotify.com/artist/6YKUQqeyWshUssuIyayCpD) | [No Looking Back](https://open.spotify.com/album/0dwAxWVt9N0HIO4QPmFZq5) | 3:21 | 2023-12-21 | 2024-01-05 |

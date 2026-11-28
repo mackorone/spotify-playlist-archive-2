@@ -4,7 +4,7 @@
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-92 songs - 6 hr 57 min
+93 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [KURBAN](https://open.spotify.com/track/4YyFE8b4QSo3pkroH4S3wM) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [KURBAN](https://open.spotify.com/album/2btawM5YXfPOuHEjiedLVt) | 3:12 | 2025-09-15 | 2026-03-07 |
 | [Lamhar Damad Ho Vivah Geet](https://open.spotify.com/track/718CsHd3urtjTh2GiSbhYH) | [Priyanka Singh](https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M) | [Devrani Jethani 2](https://open.spotify.com/album/0o9F4zmybbDXPuiLcKVyrG) | 3:42 | 2026-03-06 |  |
 | [Love Ke Ghoont](https://open.spotify.com/track/1hZZk21zhBoCb3V3e2VLSf) | [Swati Mishra](https://open.spotify.com/artist/3SwS8uwiv8h8gf0uobOb4f), [Mohit Musik](https://open.spotify.com/artist/01WjdvafFYfESbu1pG6pUU) | [Love Ke Ghoont](https://open.spotify.com/album/76g9P7afthvr2It3HhVlxV) | 3:48 | 2025-09-15 | 2026-03-07 |
-| [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 | 2025-09-15 |  |
+| [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 | 2025-09-15 | 2026-11-28 |
 | [Mannat](https://open.spotify.com/track/1d0zIgTp19xhO6LS05vmme) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [Mannat](https://open.spotify.com/album/0jAZu8zEG1HM2wUUZmNiKl) | 3:44 | 2025-09-15 | 2026-03-07 |
 | [Matkor](https://open.spotify.com/track/1ATvLTbYClJlx8dTebRMHB) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Aaj Hamar Pyar Ke Shadi Ba](https://open.spotify.com/album/75HvUXEGVqZELGskMSWmCi) | 2:56 | 2026-03-06 |  |
 | [MEHANDI LAGAI KE](https://open.spotify.com/track/2n4TZqdfDGUAIu7lT61s39) | [Harsh Veer Indi](https://open.spotify.com/artist/6hdJobpagBZObbX9JvgYpy), [Gauri Mishra](https://open.spotify.com/artist/2RaSX5rCSHlfO8bUxGmhDr) | [MEHANDI LAGAI KE](https://open.spotify.com/album/0Zim1wh8FtCPUH5Stm8X5J) | 3:10 | 2025-09-15 |  |
@@ -66,6 +66,7 @@
 | [Najariya Lag Jaihen](https://open.spotify.com/track/6JlkX8qubfCB7ekW5rPZum) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Kaahe Ko Byahe Bides](https://open.spotify.com/album/1W6iCSVsuBVhMUchYAfhCO) | 7:06 | 2026-03-06 |  |
 | [Nanad Tora Gauwan](https://open.spotify.com/track/21VWH4J8WTE4dYE7ddQMuA) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Nanad Tora Gauwan](https://open.spotify.com/album/35qQQAFbrbiFoSbNFTS3K3) | 3:39 | 2025-09-15 | 2026-03-07 |
 | [Nazariya Se Baat](https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX), [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Nazariya Se Baat](https://open.spotify.com/album/3Nb1wQ050DiRgB7f1ZvwcV) | 2:46 | 2025-09-15 | 2026-03-07 |
+| [Neg Laagi](https://open.spotify.com/track/09Qez4mAi2STLUujIMXG5A) | [Tanu Priyanka](https://open.spotify.com/artist/0GxoerBDvrtqVlXZm8f0mu) | [Neg Laagi](https://open.spotify.com/album/5kEqcYEF4jQn8NEfp9WBlW) | 3:24 | 2026-11-27 |  |
 | [Parichhawan Me](https://open.spotify.com/track/273OjO0cHi4P8xhEDEIRli) | [Pawan Singh](https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT), [Shivani Singh](https://open.spotify.com/artist/22bsH6ya7Wbrlf9Snsw8q3) | [Parichhawan Me](https://open.spotify.com/album/5pSqXD2Nv2Tykx1GOTa6Az) | 3:13 | 2026-03-06 |  |
 | [PATNA WALI MUNIYA](https://open.spotify.com/track/1eNfX9L5Epg8OPPgQPTj8Q) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Lk Laxmikaant](https://open.spotify.com/artist/7qCFqTfOt35oCPFR2iBe3K), [Pankaj Narayan](https://open.spotify.com/artist/3bDA8NEDAIL4AjA8m2zDY8) | [PATNA WALI MUNIYA](https://open.spotify.com/album/4GQY4S99fAQnaYmwpKyUkl) | 4:06 | 2025-09-15 | 2026-03-07 |
 | [Purab Disha Se \- Lagan Geet](https://open.spotify.com/track/0m2gwu1YhGPbaphMUVNbZo) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Piya Ke Nagariya](https://open.spotify.com/album/6n20SlnH9DmN3TEK0fZicn) | 5:48 | 2026-03-06 |  |

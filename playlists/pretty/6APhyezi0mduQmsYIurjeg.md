@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 649 songs - 1 day 15 hr 20 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 650 songs - 1 day 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -657,5 +657,6 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 647 | [Rich Kids](https://open.spotify.com/track/3wPaAPgHFZ6eExWM69NF9g) | [The Mosfets](https://open.spotify.com/artist/4sl6X5AE6960qO5WMkbPzr), [Thomas Duxbury](https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct) | [Rich Kids](https://open.spotify.com/album/2AJasAEJEqKVYOk4qccyy1) | 2:29 |
 | 648 | [2006](https://open.spotify.com/track/3Sxko84nHVm1FHA0wHuXig) | [Carlos Diem](https://open.spotify.com/artist/52eCukmvzQTZ45VpgpEfNP) | [2006](https://open.spotify.com/album/3nQuESzI46J1FnV1j5b0Oq) | 3:10 |
 | 649 | [2006](https://open.spotify.com/track/3Sxko84nHVm1FHA0wHuXig) | [Carlos Diem](https://open.spotify.com/artist/52eCukmvzQTZ45VpgpEfNP) | [2006](https://open.spotify.com/album/3nQuESzI46J1FnV1j5b0Oq) | 3:10 |
+| 650 | [playing god \- spanish acoustic cover](https://open.spotify.com/track/3HktUewEjgTD7JSG4BHbBU) | [Blanca O](https://open.spotify.com/artist/2iR8lMNlhkCx6s86sSJUb5) | [playing god \(spanish acoustic cover\)](https://open.spotify.com/album/3zPHe6DiSgA0y5fxt9spB9) | 3:04 |
 
-Snapshot ID: `AAADH4JN+e0bftQszUTS/CiUuYndBsD3`
+Snapshot ID: `AAADIAws1kz5NcDuZt4U0U0ZzokAsniU`

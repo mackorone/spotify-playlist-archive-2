@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Suena",
-  "num_followers": 51814,
+  "num_followers": 51810,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-11-10 23:00:18",
       "album": {
-        "name": "schwarz/wei\u00df",
-        "url": "https://open.spotify.com/album/6dBtqyqYiwt4xY4HDplKOE"
-      },
-      "artists": [
-        {
-          "name": "Paula Engels",
-          "url": "https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b"
-        }
-      ],
-      "duration_ms": 200460,
-      "name": "schwarz/wei\u00df",
-      "url": "https://open.spotify.com/track/57yrZVbGTTiGRrdCGhXFUu"
-    },
-    {
-      "added_at": "2026-11-10 23:00:18",
-      "album": {
         "name": "Your Name Is A River",
         "url": "https://open.spotify.com/album/4JH3GnleRqtYSH8jh6T3us"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 249760,
       "name": "Your Name Is A River",
       "url": "https://open.spotify.com/track/4xJ8cB7yjJaGCJQ76WYDAW"
+    },
+    {
+      "added_at": "2026-11-10 23:00:18",
+      "album": {
+        "name": "schwarz/wei\u00df",
+        "url": "https://open.spotify.com/album/6dBtqyqYiwt4xY4HDplKOE"
+      },
+      "artists": [
+        {
+          "name": "Paula Engels",
+          "url": "https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b"
+        }
+      ],
+      "duration_ms": 200460,
+      "name": "schwarz/wei\u00df",
+      "url": "https://open.spotify.com/track/57yrZVbGTTiGRrdCGhXFUu"
     },
     {
       "added_at": "2026-11-10 23:00:18",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-11-10 23:00:18",
       "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/5SxCTAnA8GJQvomm15TyEY"
-      },
-      "artists": [
-        {
-          "name": "Ray Lozano",
-          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
-        }
-      ],
-      "duration_ms": 127059,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/0YhhX94niDtPpCnBTEQgYD"
-    },
-    {
-      "added_at": "2026-11-10 23:00:18",
-      "album": {
         "name": "devil\u00b4s in the sideroom",
         "url": "https://open.spotify.com/album/7xJuAVgieSui8gau66R012"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 211616,
       "name": "devil\u00b4s in the sideroom",
       "url": "https://open.spotify.com/track/1qKdtUsOjrJy9Ids0ZQgoe"
+    },
+    {
+      "added_at": "2026-11-10 23:00:18",
+      "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/5SxCTAnA8GJQvomm15TyEY"
+      },
+      "artists": [
+        {
+          "name": "Ray Lozano",
+          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
+        }
+      ],
+      "duration_ms": 127059,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/0YhhX94niDtPpCnBTEQgYD"
     },
     {
       "added_at": "2026-11-10 23:00:18",

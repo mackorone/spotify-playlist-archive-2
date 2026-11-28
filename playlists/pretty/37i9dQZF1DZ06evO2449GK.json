@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 65981,
+  "num_followers": 65991,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAABb2CKp3+rQt5BnmH74czeS",
+  "snapshot_id": "awd2gAAAAADEPZuzn3KDnPdqi/LcISTi",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 221590,
-      "name": "La Caza de Nari\u00f1o",
-      "url": "https://open.spotify.com/track/4JryerYhYVxt0KGJVHojSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
@@ -347,6 +327,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 221590,
+      "name": "La Caza de Nari\u00f1o",
+      "url": "https://open.spotify.com/track/4JryerYhYVxt0KGJVHojSB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
+        "url": "https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "Fruko y Sus Presos (2.018)",
+      "url": "https://open.spotify.com/track/3wLZplvZc5OOSpKRxr9Uky"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Servicios Ambulatorioz",
         "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
       },
@@ -359,26 +375,6 @@
       "duration_ms": 210466,
       "name": "N.A.D.A.",
       "url": "https://open.spotify.com/track/6VpPd9Ka03ktsqQ4ucW1BD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Estee Nack",
-          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
-        }
-      ],
-      "duration_ms": 228148,
-      "name": "Reflujo",
-      "url": "https://open.spotify.com/track/04ri4wOci5SO0lbBTlShjp"
     },
     {
       "added_at": null,
@@ -403,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW"
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Estee Nack",
+          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
         }
       ],
-      "duration_ms": 218040,
-      "name": "Fruko y Sus Presos (2.018)",
-      "url": "https://open.spotify.com/track/3wLZplvZc5OOSpKRxr9Uky"
+      "duration_ms": 228148,
+      "name": "Reflujo",
+      "url": "https://open.spotify.com/track/04ri4wOci5SO0lbBTlShjp"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 240608,
-      "name": "No Est\u00e1 en Venta",
-      "url": "https://open.spotify.com/track/70kqnlIktu6mBuweHwUXGz"
+      "duration_ms": 365706,
+      "name": "Otra Canci\u00f3n Larga",
+      "url": "https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 365706,
-      "name": "Otra Canci\u00f3n Larga",
-      "url": "https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT"
+      "duration_ms": 240608,
+      "name": "No Est\u00e1 en Venta",
+      "url": "https://open.spotify.com/track/70kqnlIktu6mBuweHwUXGz"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Comediantes de Velorio",
-      "url": "https://open.spotify.com/track/7AsBAP4vy6fVgLe5bYTxBz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 209586,
       "name": "Antes del Meridiano",
       "url": "https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Revancha de los Timidos",
+        "url": "https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Comediantes de Velorio",
+      "url": "https://open.spotify.com/track/7AsBAP4vy6fVgLe5bYTxBz"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 238813,
-      "name": "Una Resaca Mas",
-      "url": "https://open.spotify.com/track/60LFqvmgxoncGyBFCLmw9u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 233906,
       "name": "Anestesia Local - Episodio 2",
       "url": "https://open.spotify.com/track/2CjZxvQhqXQdMilp1tAJSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Revancha de los Timidos",
+        "url": "https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 238813,
+      "name": "Una Resaca Mas",
+      "url": "https://open.spotify.com/track/60LFqvmgxoncGyBFCLmw9u"
     },
     {
       "added_at": null,

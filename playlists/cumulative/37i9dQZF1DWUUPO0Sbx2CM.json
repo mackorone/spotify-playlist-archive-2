@@ -4714,7 +4714,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 161176,
       "name": "Hallelujah - R3HAB Remix",
       "url": "https://open.spotify.com/track/5ngqSlRbYNhtAQgcTw8W12"
@@ -11580,6 +11580,28 @@
       "duration_ms": 172598,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/7egaSn0ILHiB2ULah0i0UW"
+    },
+    {
+      "album": {
+        "name": "The Heart Of Worship",
+        "url": "https://open.spotify.com/album/7swXNmJHZnYG3LOxIVb4ua"
+      },
+      "artists": [
+        {
+          "name": "BRIGHT",
+          "url": "https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214123,
+      "name": "The Heart Of Worship - Remix",
+      "url": "https://open.spotify.com/track/7uuAV32otL9nZc4uWg9afA"
     },
     {
       "album": {

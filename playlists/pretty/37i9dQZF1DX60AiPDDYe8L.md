@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 
 > Las mejores canciones de la reina del pop argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,457 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,486 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 | 49 | [Mil Años Luz](https://open.spotify.com/track/4omvV2LzjontfP6JoAiHRB) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Bailar \(Versión Bonus\)](https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK) | 3:48 |
 | 50 | [Tu Novia](https://open.spotify.com/track/7EkYeGKhb4EaispiCj73eY) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:22 |
 
-Snapshot ID: `AAAAANSeFMPOb8OyKCRq4vQotCi9PX7g`
+Snapshot ID: `AAAAAEwTyKiS3johyRe2BV8AyMGdR7kV`

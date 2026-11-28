@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247309,
+  "num_followers": 247299,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-11-13 03:00:16",
       "album": {
-        "name": "NUVEM NEGRA",
-        "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
-      },
-      "artists": [
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        },
-        {
-          "name": "Fernando Catatau",
-          "url": "https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj"
-        }
-      ],
-      "duration_ms": 294570,
-      "name": "NUVEM NEGRA",
-      "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
-    },
-    {
-      "added_at": "2026-11-13 03:00:16",
-      "album": {
         "name": "ESTA\u00c7\u00c3O DO PRAZER",
         "url": "https://open.spotify.com/album/6AFXCGQQA2rwH76SjQnRQw"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 171967,
       "name": "ESTA\u00c7\u00c3O DO PRAZER",
       "url": "https://open.spotify.com/track/63M7nKz9FoFp9xD1cBTIo5"
+    },
+    {
+      "added_at": "2026-11-13 03:00:16",
+      "album": {
+        "name": "NUVEM NEGRA",
+        "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
+      },
+      "artists": [
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        },
+        {
+          "name": "Fernando Catatau",
+          "url": "https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj"
+        }
+      ],
+      "duration_ms": 294570,
+      "name": "NUVEM NEGRA",
+      "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
     },
     {
       "added_at": "2026-11-13 03:00:16",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-11-13 03:00:16",
       "album": {
-        "name": "Alfazema e Sal Grosso",
-        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Alfazema e Sal Grosso",
-      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
-    },
-    {
-      "added_at": "2026-11-13 03:00:16",
-      "album": {
         "name": "Deixa a Gira Girar",
         "url": "https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 228542,
       "name": "Deixa a Gira Girar",
       "url": "https://open.spotify.com/track/4Qpj3YJynrgKwrZhNQqoOp"
+    },
+    {
+      "added_at": "2026-11-13 03:00:16",
+      "album": {
+        "name": "Alfazema e Sal Grosso",
+        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Alfazema e Sal Grosso",
+      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
     },
     {
       "added_at": "2026-11-13 03:00:16",
@@ -1299,6 +1299,34 @@
     {
       "added_at": "2026-11-13 03:00:16",
       "album": {
+        "name": "Receita",
+        "url": "https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud"
+      },
+      "artists": [
+        {
+          "name": "Pepita",
+          "url": "https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa"
+        },
+        {
+          "name": "Diego Martins",
+          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
+        },
+        {
+          "name": "Madre Beatz",
+          "url": "https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj"
+        },
+        {
+          "name": "HERvolution",
+          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
+        }
+      ],
+      "duration_ms": 123446,
+      "name": "Receita",
+      "url": "https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh"
+    },
+    {
+      "added_at": "2026-11-13 03:00:16",
+      "album": {
         "name": "Mavambo Doce",
         "url": "https://open.spotify.com/album/1MXDqF8d8rfM72XM8LpwL1"
       },
@@ -1327,34 +1355,6 @@
       "duration_ms": 144538,
       "name": "Paix\u00e3o",
       "url": "https://open.spotify.com/track/5TltqJD0F37diwTOc9kw5t"
-    },
-    {
-      "added_at": "2026-11-13 03:00:16",
-      "album": {
-        "name": "Receita",
-        "url": "https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud"
-      },
-      "artists": [
-        {
-          "name": "Pepita",
-          "url": "https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa"
-        },
-        {
-          "name": "Diego Martins",
-          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
-        },
-        {
-          "name": "Madre Beatz",
-          "url": "https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj"
-        },
-        {
-          "name": "HERvolution",
-          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
-        }
-      ],
-      "duration_ms": 123446,
-      "name": "Receita",
-      "url": "https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh"
     },
     {
       "added_at": "2026-11-13 03:00:16",

@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udfb6 every time I'm in the club, everybody see my neck shine\ud83c\udfb6  ",
-  "num_followers": 1424279,
+  "num_followers": 1424063,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -243,30 +243,6 @@
     {
       "added_at": "2026-11-27 03:01:48",
       "album": {
-        "name": "BOMBOCLATT (REMIX)",
-        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "BOMBOCLATT (REMIX)",
-      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
-    },
-    {
-      "added_at": "2026-11-27 03:01:48",
-      "album": {
         "name": "Para Todas do Job, Vol. 2",
         "url": "https://open.spotify.com/album/37s69bZo0PJKx5nIl1fa7i"
       },
@@ -299,6 +275,30 @@
       "duration_ms": 143283,
       "name": "Makoto",
       "url": "https://open.spotify.com/track/4puZqkTrVMOw0F1e6hEqAB"
+    },
+    {
+      "added_at": "2026-11-27 03:01:48",
+      "album": {
+        "name": "BOMBOCLATT (REMIX)",
+        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "BOMBOCLATT (REMIX)",
+      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
     },
     {
       "added_at": "2026-11-27 03:01:48",
@@ -383,30 +383,6 @@
     {
       "added_at": "2026-11-27 03:01:48",
       "album": {
-        "name": "MLK DOIDO",
-        "url": "https://open.spotify.com/album/562oXxAsAVd6hSKeLTPUXP"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "MLK DOIDO",
-      "url": "https://open.spotify.com/track/6zrNb0YZ22L83CL5kpUIKn"
-    },
-    {
-      "added_at": "2026-11-27 03:01:48",
-      "album": {
         "name": "MANEIRINHO VIBES 2",
         "url": "https://open.spotify.com/album/6xu0pmocFeuNlsbihrFPpv"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 118153,
       "name": "ENGAJAMENTO",
       "url": "https://open.spotify.com/track/6EsxCrPmQ4VGqoFVOZC2hG"
+    },
+    {
+      "added_at": "2026-11-27 03:01:48",
+      "album": {
+        "name": "MLK DOIDO",
+        "url": "https://open.spotify.com/album/562oXxAsAVd6hSKeLTPUXP"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "MLK DOIDO",
+      "url": "https://open.spotify.com/track/6zrNb0YZ22L83CL5kpUIKn"
     },
     {
       "added_at": "2026-11-27 03:01:48",
@@ -583,6 +583,62 @@
     {
       "added_at": "2026-11-27 03:01:48",
       "album": {
+        "name": "BASE: Baile das Bandida",
+        "url": "https://open.spotify.com/album/6v8CbAuUlzexYCTIqr6c76"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+        },
+        {
+          "name": "Soh Lopez",
+          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        }
+      ],
+      "duration_ms": 333955,
+      "name": "KD seu nome nas ruas",
+      "url": "https://open.spotify.com/track/3YkoYWWuKU1EKTvwWKKe5g"
+    },
+    {
+      "added_at": "2026-11-27 03:01:48",
+      "album": {
+        "name": "N\u00d3S ERA DURO 2",
+        "url": "https://open.spotify.com/album/3PMzK5t6EmgpKZQiJYhZKw"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        },
+        {
+          "name": "Doid\u00e3o Beats",
+          "url": "https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "N\u00d3S ERA DURO 2",
+      "url": "https://open.spotify.com/track/19y65LZOi0L7ZtOxSCfaHc"
+    },
+    {
+      "added_at": "2026-11-27 03:01:48",
+      "album": {
         "name": "DEL\u00cdRIOS NOTURNOS",
         "url": "https://open.spotify.com/album/6cyL05e8B4ybcytYe8z2CQ"
       },
@@ -599,6 +655,22 @@
       "duration_ms": 147692,
       "name": "MARCAS NOTURNAS",
       "url": "https://open.spotify.com/track/6WWMdN9VAfHIktsfE4vo6Z"
+    },
+    {
+      "added_at": "2026-11-27 03:01:48",
+      "album": {
+        "name": "Fuso (Live Video)",
+        "url": "https://open.spotify.com/album/2nz1nxfjdNj9glQo2x7Ee1"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 184340,
+      "name": "Fuso - Live Video",
+      "url": "https://open.spotify.com/track/1n82XCje65LKbtER78qF0Y"
     },
     {
       "added_at": "2026-11-27 03:01:48",
@@ -631,38 +703,6 @@
       "duration_ms": 195582,
       "name": "Vit\u00f3ria Regia",
       "url": "https://open.spotify.com/track/0h1JdWutLUgMLybkUFwRXf"
-    },
-    {
-      "added_at": "2026-11-27 03:01:48",
-      "album": {
-        "name": "BASE: Baile das Bandida",
-        "url": "https://open.spotify.com/album/6v8CbAuUlzexYCTIqr6c76"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Luana Maia",
-          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
-        },
-        {
-          "name": "Soh Lopez",
-          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
-        },
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        }
-      ],
-      "duration_ms": 333955,
-      "name": "KD seu nome nas ruas",
-      "url": "https://open.spotify.com/track/3YkoYWWuKU1EKTvwWKKe5g"
     },
     {
       "added_at": "2026-11-27 03:01:48",
@@ -755,22 +795,6 @@
     {
       "added_at": "2026-11-27 03:01:48",
       "album": {
-        "name": "Fuso (Live Video)",
-        "url": "https://open.spotify.com/album/2nz1nxfjdNj9glQo2x7Ee1"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 184340,
-      "name": "Fuso - Live Video",
-      "url": "https://open.spotify.com/track/1n82XCje65LKbtER78qF0Y"
-    },
-    {
-      "added_at": "2026-11-27 03:01:48",
-      "album": {
         "name": "Milimetricamente",
         "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
       },
@@ -787,30 +811,6 @@
       "duration_ms": 122834,
       "name": "Milimetricamente",
       "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
-    },
-    {
-      "added_at": "2026-11-27 03:01:48",
-      "album": {
-        "name": "N\u00d3S ERA DURO 2",
-        "url": "https://open.spotify.com/album/3PMzK5t6EmgpKZQiJYhZKw"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
-        },
-        {
-          "name": "Doid\u00e3o Beats",
-          "url": "https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "N\u00d3S ERA DURO 2",
-      "url": "https://open.spotify.com/track/19y65LZOi0L7ZtOxSCfaHc"
     },
     {
       "added_at": "2026-11-27 03:01:48",
@@ -1359,6 +1359,30 @@
     {
       "added_at": "2026-11-27 03:01:48",
       "album": {
+        "name": "SOLTO NO MUNDO",
+        "url": "https://open.spotify.com/album/2O13zdh3SnWgESBVuPrJkI"
+      },
+      "artists": [
+        {
+          "name": "Flow MC",
+          "url": "https://open.spotify.com/artist/13Arjr3l52oSMG0ELUE74j"
+        },
+        {
+          "name": "Mary",
+          "url": "https://open.spotify.com/artist/41SZSdAMHa3fpgtZ23olcR"
+        },
+        {
+          "name": "Toniazzo",
+          "url": "https://open.spotify.com/artist/0lBAm5t6C2FeWZxdL8NquZ"
+        }
+      ],
+      "duration_ms": 153386,
+      "name": "Meiota",
+      "url": "https://open.spotify.com/track/5hSYSWD2s2MNjCHJsLgCyf"
+    },
+    {
+      "added_at": "2026-11-27 03:01:48",
+      "album": {
         "name": "Fiquei Bonito...",
         "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
       },
@@ -1407,30 +1431,6 @@
       "duration_ms": 162442,
       "name": "Sacanagem",
       "url": "https://open.spotify.com/track/5VIBpPgjrTk1KoFxSj5G5b"
-    },
-    {
-      "added_at": "2026-11-27 03:01:48",
-      "album": {
-        "name": "SOLTO NO MUNDO",
-        "url": "https://open.spotify.com/album/2O13zdh3SnWgESBVuPrJkI"
-      },
-      "artists": [
-        {
-          "name": "Flow MC",
-          "url": "https://open.spotify.com/artist/13Arjr3l52oSMG0ELUE74j"
-        },
-        {
-          "name": "Mary",
-          "url": "https://open.spotify.com/artist/41SZSdAMHa3fpgtZ23olcR"
-        },
-        {
-          "name": "Toniazzo",
-          "url": "https://open.spotify.com/artist/0lBAm5t6C2FeWZxdL8NquZ"
-        }
-      ],
-      "duration_ms": 153386,
-      "name": "Meiota",
-      "url": "https://open.spotify.com/track/5hSYSWD2s2MNjCHJsLgCyf"
     },
     {
       "added_at": "2026-11-27 03:01:48",
@@ -1507,30 +1507,6 @@
     {
       "added_at": "2026-11-27 03:01:48",
       "album": {
-        "name": "Calcinha Rosa",
-        "url": "https://open.spotify.com/album/47GpSrqEt8U6J57ompr21l"
-      },
-      "artists": [
-        {
-          "name": "On\u00e3",
-          "url": "https://open.spotify.com/artist/44phALa8kYqCc9vHuQyuRl"
-        },
-        {
-          "name": "adepe",
-          "url": "https://open.spotify.com/artist/0LD74V3G95mzAquYtgoh4u"
-        },
-        {
-          "name": "CARTE",
-          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
-        }
-      ],
-      "duration_ms": 183779,
-      "name": "Calcinha Rosa",
-      "url": "https://open.spotify.com/track/2dJov7FIQJTUpvdietFVCu"
-    },
-    {
-      "added_at": "2026-11-27 03:01:48",
-      "album": {
         "name": "T\u00e1 bom",
         "url": "https://open.spotify.com/album/2xwIxDkdcbGGPA0Nlngj2f"
       },
@@ -1559,6 +1535,30 @@
       "duration_ms": 142006,
       "name": "T\u00e1 bom",
       "url": "https://open.spotify.com/track/4qH5FS3201ewQxHBlQCeOl"
+    },
+    {
+      "added_at": "2026-11-27 03:01:48",
+      "album": {
+        "name": "Calcinha Rosa",
+        "url": "https://open.spotify.com/album/47GpSrqEt8U6J57ompr21l"
+      },
+      "artists": [
+        {
+          "name": "On\u00e3",
+          "url": "https://open.spotify.com/artist/44phALa8kYqCc9vHuQyuRl"
+        },
+        {
+          "name": "adepe",
+          "url": "https://open.spotify.com/artist/0LD74V3G95mzAquYtgoh4u"
+        },
+        {
+          "name": "CARTE",
+          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
+        }
+      ],
+      "duration_ms": 183779,
+      "name": "Calcinha Rosa",
+      "url": "https://open.spotify.com/track/2dJov7FIQJTUpvdietFVCu"
     }
   ],
   "unique_name": "creme",

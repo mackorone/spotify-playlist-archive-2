@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-907 songs - 2 day 8 hr 27 min
+909 songs - 2 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Chasing Yesterday](https://open.spotify.com/track/3pke4JWohWzavXdgJe0wR4) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Chasing Yesterday](https://open.spotify.com/album/2bZ7Mt7GGbp1cB0K355wDw) | 3:20 | 2025-12-31 | 2026-03-18 |
 | [Cheese Is Illegal](https://open.spotify.com/track/5mSj7KV5jbZlZXuoHtMfV6) | [Neofors](https://open.spotify.com/artist/7HoKutGLhVfmBPfZe3gsPl) | [Cosmic Bingo](https://open.spotify.com/album/0a1rW4YNunla4OAVRxGUY1) | 3:20 | 2026-05-19 | 2026-06-25 |
 | [Cherry Vice](https://open.spotify.com/track/4w8KqyKtWt2qEWYBaVeg6a) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Cherry Vice](https://open.spotify.com/album/2GwrxKasqTphRbauTYFc3h) | 4:18 | 2026-05-21 | 2026-06-18 |
+| [Chicago Slow Evening](https://open.spotify.com/track/59f99k0X8tvkoEtBP3KO9P) | [Carlito Home](https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0), [Mister BoO](https://open.spotify.com/artist/6r70GFn8sPjePrZadKcPHu) | [Chicago Slow Evening](https://open.spotify.com/album/54u39w6v10Pf3CTXCHwLHX) | 3:14 | 2026-11-27 |  |
 | [Chillin’ on the breakdown lane](https://open.spotify.com/track/3zxaF7GYPsMnGk65APHrn2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Chillin on the breakdown lane](https://open.spotify.com/album/2vSEepJdDbIcqvHArpOiVq) | 3:56 | 2026-01-07 | 2026-03-18 |
 | [Chronicle](https://open.spotify.com/track/2biOIcSMHCulJrNV966WSO) | [Venerated By Frost](https://open.spotify.com/artist/7vjTD8pNHl35g6NvMakc0I) | [Chronicle](https://open.spotify.com/album/4AloOat16bPLmLO9jVzLnd) | 4:00 | 2026-04-30 | 2026-05-26 |
 | [Cicatriz de besos](https://open.spotify.com/track/2pPYQQjGsjoXtPkBfLaIQe) | [Xeimar](https://open.spotify.com/artist/2ogDO2M2jDroY1ms13KwKa) | [Cicatriz de besos](https://open.spotify.com/album/3F3qpCClHX7mydgVrxVg0y) | 3:49 | 2026-05-11 | 2026-05-26 |
@@ -179,6 +180,7 @@
 | [Dandelion](https://open.spotify.com/track/3PHi0kUawFptkqvvKhhMb6) | [The Multides](https://open.spotify.com/artist/7HqgbkLWNLbSNK7BjCU6Sq) | [Dark Skies](https://open.spotify.com/album/2f1rOpD32zEodoeo2a9B3d) | 3:10 | 2025-11-08 | 2025-12-17 |
 | [Dans l'ombre des heures](https://open.spotify.com/track/6siro0UcA1DAOiHGxpMYCb) | [Zaré](https://open.spotify.com/artist/7bSj4WmjeZYWoUnRSG8yz1) | [Dans l'ombre des heures](https://open.spotify.com/album/69LAwjnFepT1M6CKhXd4KK) | 2:52 | 2026-04-23 | 2026-06-25 |
 | [Dark Days](https://open.spotify.com/track/3oiCerWvwdIlHTND7tswor) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX) | [Dark Days](https://open.spotify.com/album/2q5KW0Gr7oOsnBU3adcj3A) | 4:10 | 2026-08-13 |  |
+| [Darkened Days](https://open.spotify.com/track/3luZsmfJlLhzCPnnSVdtbY) | [Massey's Cross](https://open.spotify.com/artist/44srOgIHTKwyOBmWW1tqkQ) | [Unbroken After the Storm](https://open.spotify.com/album/7wsDt2Eqn8EXfE6W22o1Lo) | 4:13 | 2026-11-27 |  |
 | [Dastan E Shaam](https://open.spotify.com/track/6FhDebJxcEzxJ3FzjsfAU8) | [Deepra Mayukh Sengupta](https://open.spotify.com/artist/76Xt2DhrttjUg3edYp3srk) | [Dastan E Shaam](https://open.spotify.com/album/6BpxmS8djxraxkgXZ3J5NE) | 3:50 | 2026-10-18 |  |
 | [Day 1](https://open.spotify.com/track/6BdpRsiLiH1To91cVlsHrX) | [Jacky Allmaier](https://open.spotify.com/artist/7GmSHcmbgwvCbppnB0cJWl) | [Day 1](https://open.spotify.com/album/7mDgY829FEFXFUXZIhbtJF) | 2:39 | 2026-08-17 |  |
 | [Day After Day](https://open.spotify.com/track/6JqRwcxebRnLzJBxaqNxcS) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 5:50 | 2025-09-21 | 2026-07-03 |

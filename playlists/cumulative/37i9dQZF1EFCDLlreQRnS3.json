@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Old Stones",
+        "url": "https://open.spotify.com/album/2kMzMALyWrOoboKtZBEvvN"
+      },
+      "artists": [
+        {
+          "name": "Perttu",
+          "url": "https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189226,
+      "name": "Old Stones",
+      "url": "https://open.spotify.com/track/1f0WpHGJTgagrabsuA1zOy"
+    },
+    {
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/1mlVABq7eBOHJ2zu8qyt4L"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 211388,
+  "num_followers": 211423,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAA75VcFXvPXbOQKw7oRI0Zc",
+  "snapshot_id": "awd2gAAAAABzWQndbu3MXnBMQDEpF0eE",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Me Olvidaste",
-      "url": "https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 186306,
       "name": "Y Es Que Te Quiero De Tal Forma",
       "url": "https://open.spotify.com/track/6gvXjXn0bnrVFG1JJcrohG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Me Olvidaste",
+      "url": "https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT"
     },
     {
       "added_at": null,

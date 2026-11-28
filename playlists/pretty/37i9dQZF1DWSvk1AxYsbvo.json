@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc39\uae40\ud584\ucc0c\uc640 \ud568\uaed8 \uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.)",
-  "num_followers": 26746,
+  "num_followers": 26756,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-10-31 05:05:53",
       "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Dawnlight",
+      "url": "https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj"
+    },
+    {
+      "added_at": "2026-10-31 05:05:53",
+      "album": {
         "name": "Ordinary Ever After",
         "url": "https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2026-10-31 05:05:53",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Dawnlight",
-      "url": "https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj"
-    },
-    {
-      "added_at": "2026-10-31 05:05:53",
-      "album": {
         "name": "The Dreamest",
         "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
       },
@@ -567,18 +567,18 @@
     {
       "added_at": "2026-10-31 05:05:53",
       "album": {
-        "name": "summer youth",
-        "url": "https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB"
+        "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
       },
       "artists": [
         {
-          "name": "Baek A",
-          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
         }
       ],
-      "duration_ms": 217026,
-      "name": "summer youth",
-      "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"
+      "duration_ms": 190520,
+      "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
+      "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
     },
     {
       "added_at": "2026-10-31 05:05:53",
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-10-31 05:05:53",
       "album": {
-        "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
+        "name": "summer youth",
+        "url": "https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB"
       },
       "artists": [
         {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
         }
       ],
-      "duration_ms": 190520,
-      "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
-      "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
+      "duration_ms": 217026,
+      "name": "summer youth",
+      "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"
     },
     {
       "added_at": "2026-10-31 05:05:53",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-10-31 05:05:53",
       "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
-    },
-    {
-      "added_at": "2026-10-31 05:05:53",
-      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 221800,
       "name": "While You're Sleeping, I Am",
       "url": "https://open.spotify.com/track/4kuXj6o4xIeUMNYK0NmrDf"
+    },
+    {
+      "added_at": "2026-10-31 05:05:53",
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
     },
     {
       "added_at": "2026-10-31 05:05:53",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-10-31 05:05:53",
       "album": {
-        "name": "\uc138\ub808\ub098\ub370 Serenade",
-        "url": "https://open.spotify.com/album/0HDFUM2tbky2lkTiLfT298"
-      },
-      "artists": [
-        {
-          "name": "parkjiyoon",
-          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "\uc138\ub808\ub098\ub370 Serenade",
-      "url": "https://open.spotify.com/track/3Hhe3S1wl9E5sTGjqqKBoV"
-    },
-    {
-      "added_at": "2026-10-31 05:05:53",
-      "album": {
         "name": "A Walk (The Last 10 Years X J_ust)",
         "url": "https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 203093,
       "name": "A Walk (The Last 10 Years X J_ust)",
       "url": "https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU"
+    },
+    {
+      "added_at": "2026-10-31 05:05:53",
+      "album": {
+        "name": "\uc138\ub808\ub098\ub370 Serenade",
+        "url": "https://open.spotify.com/album/0HDFUM2tbky2lkTiLfT298"
+      },
+      "artists": [
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "\uc138\ub808\ub098\ub370 Serenade",
+      "url": "https://open.spotify.com/track/3Hhe3S1wl9E5sTGjqqKBoV"
     },
     {
       "added_at": "2026-10-31 05:05:53",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-31 05:05:53",
       "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
-      },
-      "artists": [
-        {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
-    },
-    {
-      "added_at": "2026-10-31 05:05:53",
-      "album": {
         "name": "Floating thoughts",
         "url": "https://open.spotify.com/album/1N0BlNElOVwAeidJN4otFM"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 254307,
       "name": "Falling for you",
       "url": "https://open.spotify.com/track/20cR2d52u31dj9HrGXlcui"
+    },
+    {
+      "added_at": "2026-10-31 05:05:53",
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
     },
     {
       "added_at": "2026-10-31 05:05:53",

@@ -4,11 +4,13 @@
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-83 songs - 5 hr 25 min
+85 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["We're Not Programs, GERTY, We're People"](https://open.spotify.com/track/0X0kSqEp7Ow4BYSV1y1HTy) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 5:10 | 2021-12-16 |  |
+| [2049](https://open.spotify.com/track/0UWa0AdUscdQUI7mjjx6G1) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Blade Runner 2049 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kSUsy5FU3Wcxd4DBvXFm4) | 3:37 | 2026-11-27 |  |
+| [2099](https://open.spotify.com/track/3MknQcHTDajzGhtSY4UONk) | [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS) | [Blade Runner 2099 \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/1U6JpBYgfjeNzRyyQgxYhi) | 4:35 | 2026-11-27 |  |
 | [A Moment \- from "Project Hail Mary"](https://open.spotify.com/track/12YJ22eobkNvns5hYqt2Ye) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Project Hail Mary \(Original Motion Picture Score\)](https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84) | 3:21 | 2026-09-04 |  |
 | [All Boundaries Are Conventions](https://open.spotify.com/track/3yVKDuoppFGIrP6u9fv5jy) | [Tom Tykwer](https://open.spotify.com/artist/1YtTF1pj1ZFufjkP0BEfWE), [Johnny Klimek](https://open.spotify.com/artist/35CsFzAi3BR19Ar1wRlPb6), [Reinhold Heil](https://open.spotify.com/artist/4CefZM5UsS1y5rvzq8M8S7) | [Cloud Atlas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6S1Asg9LqgrbnJdD8RaIpf) | 2:38 | 2022-07-20 | 2024-04-19 |
 | [All Boundaries Are Conventions](https://open.spotify.com/track/10PPDm27IWJwcajvuC2ksh) | [Tom Tykwer](https://open.spotify.com/artist/1YtTF1pj1ZFufjkP0BEfWE), [Johnny Klimek](https://open.spotify.com/artist/35CsFzAi3BR19Ar1wRlPb6), [Reinhold Heil](https://open.spotify.com/artist/4CefZM5UsS1y5rvzq8M8S7), [MDR Rundfunkchor](https://open.spotify.com/artist/6sfy2nUsvvElSoOhotoMIa), [MDR Leipzig Radio Symphony Orchestra](https://open.spotify.com/artist/3lUTFoSxhZ8fIwmOnNGXwt), [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7) | [Cloud Atlas](https://open.spotify.com/album/76fMuwHrl5onwD32p1heYS) | 2:38 | 2021-12-16 |  |

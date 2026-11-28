@@ -22938,7 +22938,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 276687,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/43wgyQXc2M9KmTDUqVzugM"
@@ -25621,6 +25621,32 @@
     },
     {
       "album": {
+        "name": "Jagamise aeg",
+        "url": "https://open.spotify.com/album/75wRjglT0Nlcth3btweFia"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik Taukar",
+          "url": "https://open.spotify.com/artist/0IBo1QzwnBeD4N8WS5aD5X"
+        },
+        {
+          "name": "KOIT TOOME",
+          "url": "https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc"
+        },
+        {
+          "name": "Kermo Murel",
+          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208181,
+      "name": "Jagamise aeg",
+      "url": "https://open.spotify.com/track/1fXUiR1gBsrbWm2u6oxRZ8"
+    },
+    {
+      "album": {
         "name": "Jahtun Maha",
         "url": "https://open.spotify.com/album/68wOLIaARVaJ3KB2slqg33"
       },
@@ -26032,7 +26058,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -28774,7 +28800,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 175764,
       "name": "K\u00e4tu",
       "url": "https://open.spotify.com/track/5rfdCGDxFyDoGiJVzGW16z"
@@ -29072,7 +29098,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 157000,
       "name": "l \u00e4 b i . l i l l e d e",
       "url": "https://open.spotify.com/track/1Q2jehvieGvXzTDjZ3bzT6"
@@ -31414,7 +31440,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 176000,
       "name": "LLC",
       "url": "https://open.spotify.com/track/5JhljRLzNxMRHho5AoQzAM"
@@ -32442,7 +32468,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 236307,
       "name": "Luukered",
       "url": "https://open.spotify.com/track/5egnjZzhZLuNXluoMmEC6t"
@@ -37646,7 +37672,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -37664,7 +37690,7 @@
       ],
       "date_added": "2026-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -46492,7 +46518,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"

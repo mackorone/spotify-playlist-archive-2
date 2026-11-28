@@ -1,13 +1,129 @@
 {
   "description": "updated with new <a href=\"https://youtube.com/c/dreamscapeyt\">youtube uploads</a>...",
-  "num_followers": 14875,
+  "num_followers": 14873,
   "original_name": "dreamscape uploads",
   "owner": {
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACukqEYXVQSIJpl7Zwppzb1jKkC0IG",
+  "snapshot_id": "AAACvT2+M6fqBUj4rfOV6JiCdQDH/XDx",
   "tracks": [
+    {
+      "added_at": "2026-11-28 00:15:53",
+      "album": {
+        "name": "frost",
+        "url": "https://open.spotify.com/album/1CxgH89pHQvZtiKhrmssrk"
+      },
+      "artists": [
+        {
+          "name": "insensible",
+          "url": "https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU"
+        }
+      ],
+      "duration_ms": 122404,
+      "name": "frost",
+      "url": "https://open.spotify.com/track/45B89roTruPX13t5XtfzHf"
+    },
+    {
+      "added_at": "2026-11-28 00:15:53",
+      "album": {
+        "name": "ennui",
+        "url": "https://open.spotify.com/album/1P3PZor24ctN7CbzDXqzZn"
+      },
+      "artists": [
+        {
+          "name": "furosha",
+          "url": "https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "ennui",
+      "url": "https://open.spotify.com/track/7eVru26ovGBIbxSpu8EDXg"
+    },
+    {
+      "added_at": "2026-11-28 00:15:53",
+      "album": {
+        "name": "tales of us",
+        "url": "https://open.spotify.com/album/69dFtfVEyDOV6B16IXubUT"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        }
+      ],
+      "duration_ms": 130425,
+      "name": "tales of us",
+      "url": "https://open.spotify.com/track/1L9fZ7A14g6zIaLdHutNOS"
+    },
+    {
+      "added_at": "2026-11-28 00:15:53",
+      "album": {
+        "name": "let me warm your hands",
+        "url": "https://open.spotify.com/album/7gCIGbDMlm48zJds37ujGt"
+      },
+      "artists": [
+        {
+          "name": "calinia",
+          "url": "https://open.spotify.com/artist/48rcHYTnRvLL8ui7bhaGtm"
+        },
+        {
+          "name": "dreamveil",
+          "url": "https://open.spotify.com/artist/0F2gYjk0T59nQZiJUgogLa"
+        }
+      ],
+      "duration_ms": 102750,
+      "name": "let me warm your hands",
+      "url": "https://open.spotify.com/track/5hJz0Lu52FZ7BiDdzFcVp5"
+    },
+    {
+      "added_at": "2026-11-28 00:16:16",
+      "album": {
+        "name": "this never really happened",
+        "url": "https://open.spotify.com/album/1lxd8UoBRoCA867fMMAxkk"
+      },
+      "artists": [
+        {
+          "name": "liminalx",
+          "url": "https://open.spotify.com/artist/5UmDRR0kpyJNdtCIJYOcrg"
+        }
+      ],
+      "duration_ms": 120110,
+      "name": "somewhere between yesterday and tomorrow",
+      "url": "https://open.spotify.com/track/4EHxxKBOWWpcMftraSvKTd"
+    },
+    {
+      "added_at": "2026-11-28 00:16:16",
+      "album": {
+        "name": "this never really happened",
+        "url": "https://open.spotify.com/album/1lxd8UoBRoCA867fMMAxkk"
+      },
+      "artists": [
+        {
+          "name": "liminalx",
+          "url": "https://open.spotify.com/artist/5UmDRR0kpyJNdtCIJYOcrg"
+        }
+      ],
+      "duration_ms": 88543,
+      "name": "callmememory",
+      "url": "https://open.spotify.com/track/20r4ysi5HEO6IAIIFvOpJV"
+    },
+    {
+      "added_at": "2026-11-28 00:16:16",
+      "album": {
+        "name": "this never really happened",
+        "url": "https://open.spotify.com/album/1lxd8UoBRoCA867fMMAxkk"
+      },
+      "artists": [
+        {
+          "name": "liminalx",
+          "url": "https://open.spotify.com/artist/5UmDRR0kpyJNdtCIJYOcrg"
+        }
+      ],
+      "duration_ms": 58521,
+      "name": "this is end",
+      "url": "https://open.spotify.com/track/1R5P14HCP1Ud3hsYQsHAHM"
+    },
     {
       "added_at": "2026-11-21 06:15:28",
       "album": {

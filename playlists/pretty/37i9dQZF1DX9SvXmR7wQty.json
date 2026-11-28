@@ -1,6 +1,6 @@
 {
   "description": "Du neuf, du bon, du  <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex\">franco</a> !  avec Louane, Rymz, LinLin, Theodora, Blynk, 2Fr\u00e8res, Etienne Dufresne, et plus! ",
-  "num_followers": 48362,
+  "num_followers": 48379,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -27,7 +27,7 @@
     {
       "added_at": "2026-11-27 05:02:50",
       "album": {
-        "name": "Guide pour pour apprendre \u00e0 voler",
+        "name": "Guide pour apprendre \u00e0 voler",
         "url": "https://open.spotify.com/album/4X6j7WYRVAtVDamwP6do8n"
       },
       "artists": [
@@ -50,6 +50,10 @@
         {
           "name": "2Fr\u00e8res",
           "url": "https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q"
+        },
+        {
+          "name": "Amay Laoni",
+          "url": "https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp"
         }
       ],
       "duration_ms": 152266,

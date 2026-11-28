@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 36914,
+  "num_followers": 36925,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAACofmvaeVCiD8BIkba+pNuL",
+  "snapshot_id": "awd2gAAAAAAg7dYi0XfBxwuCeIhaROsR",
   "tracks": [
     {
       "added_at": null,
@@ -121,7 +121,7 @@
         },
         {
           "name": "Tonny Tun Tun",
-          "url": "https://open.spotify.com/artist/0POyScB72sElJe1QCAJhvQ"
+          "url": "https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t"
         },
         {
           "name": "Wisin & Yandel",
@@ -448,13 +448,13 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Entregate",
-      "url": "https://open.spotify.com/track/17hJfrsR2guWLnZeN6mTw1"
+      "duration_ms": 228560,
+      "name": "Mi Fanatica",
+      "url": "https://open.spotify.com/track/7rbtNjuh56l71xV7Uowf50"
     },
     {
       "added_at": null,
@@ -548,13 +548,13 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 228560,
-      "name": "Mi Fanatica",
-      "url": "https://open.spotify.com/track/7rbtNjuh56l71xV7Uowf50"
+      "duration_ms": 225360,
+      "name": "Entregate",
+      "url": "https://open.spotify.com/track/17hJfrsR2guWLnZeN6mTw1"
     },
     {
       "added_at": null,

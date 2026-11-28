@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-76 songs - 4 hr 0 min
+77 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [uBhubesi](https://open.spotify.com/track/5lMPmfeVPO8JBrVZN3qERJ) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [uBhubesi](https://open.spotify.com/album/0RhEwNHQ4TI1iZnKLeNrjf) | 3:37 | 2024-11-07 | 2024-11-22 |
 | [Waweza \- Acoustic](https://open.spotify.com/track/6AfPqQJSZVsNNsNXDBq0Fq) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:28 | 2024-02-16 | 2024-06-07 |
 | [Why \- Acoustic](https://open.spotify.com/track/0kucibR8w2hmkQQrebXYoI) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/1JR49izONyolUbhNKuEWxv) | 4:25 | 2024-02-16 |  |
+| [Yeye \- Acoustic](https://open.spotify.com/track/3hdNU4RuHppcLopVurF2sY) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Yeye \(Acoustic\)](https://open.spotify.com/album/63DQv1B9LYXW940EPir4pt) | 2:32 | 2026-11-27 |  |
 | [You \- Acoustic](https://open.spotify.com/track/3slo8zKU8F9mh8hOoKb4RR) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [You \(Acoustic\)](https://open.spotify.com/album/7n8AkKWLDDIcYeQcA3J2jD) | 3:18 | 2024-02-16 | 2024-09-27 |
 | [Your Body \- Acoustic](https://open.spotify.com/track/3oFeYtCozau0mRTzDV92H7) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Your Body \(Acoustic\)](https://open.spotify.com/album/3XZ6nx117dwC2emyIfacwU) | 3:26 | 2024-02-16 |  |
 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 | 2024-02-16 |  |

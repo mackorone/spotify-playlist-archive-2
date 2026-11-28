@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 159 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 187 likes - 159 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 101 | [In Your Own Quiet Way](https://open.spotify.com/track/2SnR0Rq9PHrV8abh7Cgand) | [Dick Hyman](https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT) | [Hollywood Songbook](https://open.spotify.com/album/5kyzmyNGPGm8yw3Hw3xJFY) | 2:26 |
 | 102 | [C'est La Vie](https://open.spotify.com/track/1gkco6koF7eYTZDGIByNwQ) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV), [Christopher Fitzgerald](https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII), [Brad Oscar](https://open.spotify.com/artist/3K1DDIrvoPOfSDkZtM23Fz), [Faith Prince](https://open.spotify.com/artist/1lrPNYVtvuiB3lmOjbyJc9) | [Life Begins at 8:40](https://open.spotify.com/album/0pMUpjTUpcNkLMpar7D5fo) | 4:53 |
 | 103 | [Adrift on a Star](https://open.spotify.com/track/36vz0WZntxL3KVS6sxrTjg) | [Dran Seitz](https://open.spotify.com/artist/4z7pLsvRSRtqFye0rbG4xs), [Bruce Yarnell](https://open.spotify.com/artist/71f1m1S8hZ0J0ofpB050Vi) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 2:28 |
-| 104 | [Spirit Of Capsulanti](https://open.spotify.com/track/3UHo8Z0OeWh8U58JWDGDvl) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:40 |
-| 105 | [Finale \- Live \(2026 Remaster\)](https://open.spotify.com/track/0Fw9MEt9KcrXmBVBpdvdVd) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles Live In Concert \(2026 Remaster\)](https://open.spotify.com/album/1nlNXVTTJwd4swyMWpmzFs) | 1:56 |
+| 104 | [Finale \- Live \(2026 Remaster\)](https://open.spotify.com/track/0Fw9MEt9KcrXmBVBpdvdVd) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles Live In Concert \(2026 Remaster\)](https://open.spotify.com/album/1nlNXVTTJwd4swyMWpmzFs) | 1:56 |
+| 105 | [Spirit Of Capsulanti](https://open.spotify.com/track/3UHo8Z0OeWh8U58JWDGDvl) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:40 |
 | 106 | [Jump Little Chillun'](https://open.spotify.com/track/6CMUjymlod20BbHTYxFD7n) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:41 |
 | 107 | [No More Flahooleys](https://open.spotify.com/track/6rwk0Bt1R8cAxA1cdpM0VQ) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 0:54 |
 | 108 | [All the Elks and Masons](https://open.spotify.com/track/4tE4IU3mjgUx0EIV4kxSuk) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV), [Christopher Fitzgerald](https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII), [Jessica Stone](https://open.spotify.com/artist/7LqVU6rPQIAyrXa693LBvA), [Life Begins At 8:40 Ensemble](https://open.spotify.com/artist/572zWa1Ubku0cS0mWaFWNx) | [Life Begins at 8:40](https://open.spotify.com/album/0pMUpjTUpcNkLMpar7D5fo) | 3:02 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 158 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 159 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcivpAAAAABQkCNTkTW0rQ72Uekuru72`
+Snapshot ID: `Aci1RAAAAAAnyJapkCzqUlH4iv6tYWCE`

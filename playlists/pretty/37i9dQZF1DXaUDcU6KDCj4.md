@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Helena Deland
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,324 likes - 188 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,561 likes - 188 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

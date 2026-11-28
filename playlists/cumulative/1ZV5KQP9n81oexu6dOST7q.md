@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-192 songs - 9 hr 46 min
+193 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Have You Ever Loved \(Ellie\)](https://open.spotify.com/track/6LXP8uM57vLvhjiCDYvnys) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Have You Ever Loved \(Ellie\)](https://open.spotify.com/album/6sqjXjb87UdJJEECLdEzcm) | 4:06 | 2025-11-21 |  |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2025-07-04 | 2026-10-13 |
 | [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 | 2025-12-05 |  |
+| [Hell Yea \(feat\. Waxmaster\)](https://open.spotify.com/track/0OX8UivDyvJou0LZSkyHkK) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Parris Mitchell](https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p), [Waxmaster](https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7) | [Hell Yea \(feat\. Waxmaster\)](https://open.spotify.com/album/5ObBWHGf2B1fwUJJBjhdNF) | 2:49 | 2026-11-27 |  |
 | [Hey Everybody](https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Hey Everybody](https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT) | 2:36 | 2026-08-24 |  |
 | [Hey You](https://open.spotify.com/track/5BPMItTjAsSOhOlDdftmhV) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hey You](https://open.spotify.com/album/43agWeNDQeBlQBR2gZqHA6) | 2:27 | 2026-08-28 |  |
 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-07-14 |  |

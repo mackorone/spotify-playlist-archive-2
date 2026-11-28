@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WzJOLQGqZp.md) - [plain]
 
 > The best music videos in Black music\. Cover: Chxrry
 
-[Spotify](https://open.spotify.com/user/spotify) - 336 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 345 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

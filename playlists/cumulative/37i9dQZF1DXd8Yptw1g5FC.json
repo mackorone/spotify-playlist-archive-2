@@ -21757,6 +21757,28 @@
     },
     {
       "album": {
+        "name": "bana ait de\u011fil",
+        "url": "https://open.spotify.com/album/6zGa0gE9iU7v1RTA0ITIjV"
+      },
+      "artists": [
+        {
+          "name": "Dozi Ozovski",
+          "url": "https://open.spotify.com/artist/5DaeHpsp3vSdhj6j5FqeIl"
+        },
+        {
+          "name": "Lin Pesto",
+          "url": "https://open.spotify.com/artist/37xM7I9e6MS4pyOWpzUqYo"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "bana ait de\u011fil",
+      "url": "https://open.spotify.com/track/2qQ0oM4kiZLQEx7mZ5PgU9"
+    },
+    {
+      "album": {
         "name": "Bana Aitsin",
         "url": "https://open.spotify.com/album/6Rid92M5MXw6Qu5U1mnutA"
       },
@@ -53494,6 +53516,24 @@
       "duration_ms": 171360,
       "name": "Derine",
       "url": "https://open.spotify.com/track/7G2WXWqRBDptlJYanzsuji"
+    },
+    {
+      "album": {
+        "name": "Derine (Akustik)",
+        "url": "https://open.spotify.com/album/2pUxAix1tqAls0RVOwmOpm"
+      },
+      "artists": [
+        {
+          "name": "Ozan Bu\u011fra Kaya",
+          "url": "https://open.spotify.com/artist/2ojjkWS7CBgLd9UIHdjG1l"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Derine - Akustik",
+      "url": "https://open.spotify.com/track/2KCPPxK9wCuXKFbLYV1YhX"
     },
     {
       "album": {
@@ -91476,6 +91516,24 @@
       "duration_ms": 152108,
       "name": "Hold It",
       "url": "https://open.spotify.com/track/5Q82uUggCSlCpJiTY9dfVe"
+    },
+    {
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/52UD69WgHrr3tcpIdp1lg1"
+      },
+      "artists": [
+        {
+          "name": "Maskova",
+          "url": "https://open.spotify.com/artist/2SqhDrmodgaRMsc58dozhb"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189714,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4PQANCEUiD1IJd3x501MmZ"
     },
     {
       "album": {
@@ -140001,24 +140059,6 @@
     },
     {
       "album": {
-        "name": "OBK AKUST\u0130K DER\u0130NE 02 (Akustik)",
-        "url": "https://open.spotify.com/album/2pUxAix1tqAls0RVOwmOpm"
-      },
-      "artists": [
-        {
-          "name": "Ozan Bu\u011fra Kaya",
-          "url": "https://open.spotify.com/artist/2ojjkWS7CBgLd9UIHdjG1l"
-        }
-      ],
-      "date_added": "2026-11-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163500,
-      "name": "OBK AKUST\u0130K DER\u0130NE 02 - Akustik",
-      "url": "https://open.spotify.com/track/2KCPPxK9wCuXKFbLYV1YhX"
-    },
-    {
-      "album": {
         "name": "Obscure",
         "url": "https://open.spotify.com/album/3iES9Ksk2lEm888AuBLQBO"
       },
@@ -145759,7 +145799,7 @@
         },
         {
           "name": "zateviss",
-          "url": "https://open.spotify.com/artist/39f1LAqghIpDMS8MXXb6lM"
+          "url": "https://open.spotify.com/artist/5VnhzFb2I1U9qLmLbj6fhZ"
         }
       ],
       "date_added": "2026-11-26",
@@ -153856,6 +153896,10 @@
         {
           "name": "Lvbel C5",
           "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
         },
         {
           "name": "\u0130smail YK",

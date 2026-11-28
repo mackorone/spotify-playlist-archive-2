@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/5CrMdCjnCYxAwKyTrmi7pN.md) - cumulative - [plain](/playlists/plain/5CrMdCjnCYxAwKyTrmi7pN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5CrMdCjnCYxAwKyTrmi7pN)
 
-### [HERFST 2026](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
+### [WINTER 2026](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
 
-> Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...
+> Warme songs voor de koude dagen! Met muziek van Sienna Spiro , John Mayer,  MEAU en meer...
 
 486 songs - 1 day 2 hr 49 min
 

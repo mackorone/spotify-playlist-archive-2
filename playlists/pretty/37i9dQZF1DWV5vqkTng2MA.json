@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marfa",
-  "num_followers": 429723,
+  "num_followers": 429727,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
+        "name": "Lay Down In a Pickup",
+        "url": "https://open.spotify.com/album/2fGhy7gI0d0R5etraxu7YF"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        }
+      ],
+      "duration_ms": 206806,
+      "name": "Lay Down In a Pickup",
+      "url": "https://open.spotify.com/track/6wsdEj8UWkIptEkBTIRAv0"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/5NeRiilPMIlEeeq6yjEUsF"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 289313,
       "name": "Take It As It Is",
       "url": "https://open.spotify.com/track/1exBcwZfWI6lafCCDtauBp"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
-        "name": "Lay Down In a Pickup",
-        "url": "https://open.spotify.com/album/2fGhy7gI0d0R5etraxu7YF"
-      },
-      "artists": [
-        {
-          "name": "Alex Lambert",
-          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
-        }
-      ],
-      "duration_ms": 206806,
-      "name": "Lay Down In a Pickup",
-      "url": "https://open.spotify.com/track/6wsdEj8UWkIptEkBTIRAv0"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Free Again",
-        "url": "https://open.spotify.com/album/7DEAG8vu1hH69Uumg8qsAs"
-      },
-      "artists": [
-        {
-          "name": "Sam Burton",
-          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
-        }
-      ],
-      "duration_ms": 232104,
-      "name": "Free Again",
-      "url": "https://open.spotify.com/track/0baB7MojwdkkJE69tF5Kjw"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "CLAIM",
         "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 215853,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "Free Again",
+        "url": "https://open.spotify.com/album/7DEAG8vu1hH69Uumg8qsAs"
+      },
+      "artists": [
+        {
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+        }
+      ],
+      "duration_ms": 232104,
+      "name": "Free Again",
+      "url": "https://open.spotify.com/track/0baB7MojwdkkJE69tF5Kjw"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r"
+        "name": "Act I",
+        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
       },
       "artists": [
         {
-          "name": "Josh Gilligan",
-          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
         }
       ],
-      "duration_ms": 200160,
-      "name": "Sammy G's",
-      "url": "https://open.spotify.com/track/23xsBjHKk0SisnMHrJzemJ"
+      "duration_ms": 192463,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Act I",
-        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r"
       },
       "artists": [
         {
-          "name": "Kashus Culpepper",
-          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+          "name": "Josh Gilligan",
+          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
         }
       ],
-      "duration_ms": 192463,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X"
+      "duration_ms": 200160,
+      "name": "Sammy G's",
+      "url": "https://open.spotify.com/track/23xsBjHKk0SisnMHrJzemJ"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Tetris",
-        "url": "https://open.spotify.com/album/5k6k7smqMIAQt78wLhV4El"
-      },
-      "artists": [
-        {
-          "name": "Meg McRee",
-          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Tetris",
-      "url": "https://open.spotify.com/track/5InHPth2cbafb1CLzx904x"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "She Don't Love Me Now",
         "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 207160,
       "name": "She Don't Love Me Now",
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "Tetris",
+        "url": "https://open.spotify.com/album/5k6k7smqMIAQt78wLhV4El"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Tetris",
+      "url": "https://open.spotify.com/track/5InHPth2cbafb1CLzx904x"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
+        "name": "Reelin'",
+        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
         "name": "The Illusion Of Love (feat. Lukas Nelson)",
         "url": "https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 283427,
       "name": "The Illusion Of Love (feat. Lukas Nelson)",
       "url": "https://open.spotify.com/track/3wbTGRx1ggj8QKIdJXcgpl"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
-        "name": "Reelin'",
-        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Reelin'",
-      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
     },
     {
       "added_at": "2026-11-20 05:01:38",

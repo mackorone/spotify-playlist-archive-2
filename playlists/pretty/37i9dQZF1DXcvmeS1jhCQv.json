@@ -1,12 +1,12 @@
 {
   "description": "The best new Irish music in one place \ud83d\udccd Cover: Radie Peat",
-  "num_followers": 121420,
+  "num_followers": 121527,
   "original_name": "Today's Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEZkYb10jdzK2DtKMX4meJGWKWcS",
+  "snapshot_id": "AAAAAFQtVTRIZ+8tpY1UyNP8dmY+SWhF",
   "tracks": [
     {
       "added_at": "2026-11-27 00:00:41",
@@ -459,6 +459,30 @@
     {
       "added_at": "2026-11-27 00:00:41",
       "album": {
+        "name": "TAKE A TRIP (With Bricknasty & Khakikid)",
+        "url": "https://open.spotify.com/album/5Zwiw4sOub6RrXfAoxPz0p"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        },
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        },
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "TAKE A TRIP (With Bricknasty & Khakikid)",
+      "url": "https://open.spotify.com/track/4TvXF0n2kmBDA4rFACcxFq"
+    },
+    {
+      "added_at": "2026-11-27 00:00:41",
+      "album": {
         "name": "Not The Only Word",
         "url": "https://open.spotify.com/album/05Yqeod7oZ3Taq6WsTVzFj"
       },
@@ -783,6 +807,22 @@
       "duration_ms": 194251,
       "name": "RED 99",
       "url": "https://open.spotify.com/track/0bv1EMaAufHkN6EBBlbk8G"
+    },
+    {
+      "added_at": "2026-11-27 14:20:57",
+      "album": {
+        "name": "No Surrender",
+        "url": "https://open.spotify.com/album/4VGs1pJ0Tsqn9TB9WMg2v7"
+      },
+      "artists": [
+        {
+          "name": "Joe Cleere",
+          "url": "https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/5eCMtgcxInhutsiSP1YsX9"
     },
     {
       "added_at": "2026-11-27 00:00:41",
@@ -1267,46 +1307,6 @@
       "duration_ms": 198827,
       "name": "Be the Hammer",
       "url": "https://open.spotify.com/track/3pnvSn25hB46D79QzjOcam"
-    },
-    {
-      "added_at": "2026-11-27 00:00:41",
-      "album": {
-        "name": "TAKE A TRIP (With Bricknasty & Khakikid)",
-        "url": "https://open.spotify.com/album/5Zwiw4sOub6RrXfAoxPz0p"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        },
-        {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
-        },
-        {
-          "name": "KhakiKid",
-          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "TAKE A TRIP (With Bricknasty & Khakikid)",
-      "url": "https://open.spotify.com/track/4TvXF0n2kmBDA4rFACcxFq"
-    },
-    {
-      "added_at": "2026-11-27 00:00:41",
-      "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/12YhneKsxbpz9GlEpXsevZ"
-      },
-      "artists": [
-        {
-          "name": "palefase",
-          "url": "https://open.spotify.com/artist/4x7nX5fdyvHDJu3fxm3HF4"
-        }
-      ],
-      "duration_ms": 171228,
-      "name": "What You Started",
-      "url": "https://open.spotify.com/track/3w9oWaHByKZuSDzxGFwhie"
     }
   ],
   "unique_name": "Today's Ireland",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Barry Can't Swim & Erick the Architect, Travis Scott, Bella Kay, D'Angelo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,985 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,552 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 38 | [BEAT THE STREET](https://open.spotify.com/track/0oNFElL1WTNy1mDxYGrFBf) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Caleb Laurenson](https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR) | [BEAT THE STREET](https://open.spotify.com/album/4XCeyIJeIOU79LewjX6LKK) | 2:56 |
 | 39 | [Halo](https://open.spotify.com/track/41LIcFcJedcRGnbVHNVKpB) | [zuriel.](https://open.spotify.com/artist/1j9rm7utmRfNP4LKDoCKtW) | [Halo](https://open.spotify.com/album/3TW46n71BCO2jQr55c4Cxk) | 2:54 |
 | 40 | [Sucker for Me](https://open.spotify.com/track/18WlTXWnUFM1xMXxnGP6VG) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [Neptune Rising](https://open.spotify.com/album/11fUo0t16K2uYaIGdM8m4l) | 2:43 |
-| 41 | [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 |
+| 41 | [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 |
 | 42 | [Ordinary Voices](https://open.spotify.com/track/3JlwwfSO6HJRM0VWTIygFF) | [Zukovstheworld](https://open.spotify.com/artist/0ybwRrGnCsrDOglPdosrqV) | [The Perfect Place](https://open.spotify.com/album/0bTI3svv8RcMTzdjbGj1QL) | 2:30 |
 | 43 | [Looking For Love](https://open.spotify.com/track/76JF09CR7ICNaDaVyg5dXI) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8), [Zar](https://open.spotify.com/artist/3JQUhdIaezcwwJ6SqRPNY2) | [Looking For Love](https://open.spotify.com/album/6BpOKTAslSgbwqZyIocK0I) | 3:46 |
 | 44 | [Groupie \(with Jessie Mazin\)](https://open.spotify.com/track/3xD8uwc9sZHQXVSLhS6C21) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq), [Jessie Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [Groupie \(with Jessie Mazin\)](https://open.spotify.com/album/7rgyYbnDujtb5CtjvZZyad) | 2:53 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 75 | [Sun](https://open.spotify.com/track/7CY58OuR657O5OUvDYSX0B) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Sun](https://open.spotify.com/album/4q18lso1xAmg5gmKjGRwiM) | 4:00 |
 | 76 | [DEAD IN AMERICA](https://open.spotify.com/track/0o7tQe55Hz0BwcFF4M5QdN) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [DEAD IN AMERICA](https://open.spotify.com/album/4sSgxC5soMgkze7onA4WIz) | 2:44 |
 | 77 | [Selva](https://open.spotify.com/track/7hn2E4693x2N6UIEEkaQxM) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca) | [Selva](https://open.spotify.com/album/66tujgOQK5e9wfpEMOtzCj) | 2:54 |
-| 78 | [A Million Ways](https://open.spotify.com/track/4eXLirlZfVpWcXY75UvXAq) | [N8tive](https://open.spotify.com/artist/3TFkBnOgExKva6GvdF2ZL2), [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [A Million Ways](https://open.spotify.com/album/1XaPUrsMD6AZj1vhgyrRoT) | 2:59 |
+| 78 | [A Million Ways \(feat\. Nolais\)](https://open.spotify.com/track/4eXLirlZfVpWcXY75UvXAq) | [N8tive](https://open.spotify.com/artist/3TFkBnOgExKva6GvdF2ZL2), [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [A Million Ways \(feat\. Nolais\)](https://open.spotify.com/album/1XaPUrsMD6AZj1vhgyrRoT) | 2:59 |
 | 79 | [Mitsubishi](https://open.spotify.com/track/5XYQSJNuTtZYcndBeWWBcy) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Mitsubishi](https://open.spotify.com/album/2YfhqE39VRMHtgJStHe7BF) | 2:37 |
 | 80 | [People Of Music](https://open.spotify.com/track/4Wh8fM21K8uCrwIyPJoJ6T) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [People Of Music](https://open.spotify.com/album/3cXbiLn79JEvTA59kEToUE) | 2:34 |
 | 81 | [Controller](https://open.spotify.com/track/7p21jeooUSXecIgpzGtrpj) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2) | [Controller](https://open.spotify.com/album/7L4oKY3c1oIEszbVfDPLkX) | 3:02 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 94 | [Corsica](https://open.spotify.com/track/7b4iKBWB1JPUl7LJdMsad8) | [SKALAH](https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx) | [Corsica](https://open.spotify.com/album/2CurwBYgYWIaADCG1YNt5i) | 2:38 |
 | 95 | [Apple Strung](https://open.spotify.com/track/1OhHa8z1TfLFeBToP7BONn) | [Spanish Horses](https://open.spotify.com/artist/3YrLAGmnU9JltcICs5wBy1) | [Small Notions](https://open.spotify.com/album/1S6E8816S08yxDRA9ngBlB) | 3:05 |
 | 96 | [I Prefer Me Lonely](https://open.spotify.com/track/0nQ11nZh9fSSziPm2EpJb1) | [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ) | [I Prefer Me Lonely](https://open.spotify.com/album/5MQyVhQy8fxOf277NNMJXa) | 3:15 |
-| 97 | [Mr Misunderstood](https://open.spotify.com/track/4YkpPMlfD83z34Wcy2CPUj) | [Liam C](https://open.spotify.com/artist/5MPz6I6u7lDh2Cy1vPWfkd) | [Part Time Pop Star EP](https://open.spotify.com/album/0LVuCkg6Do5L7VeYpa8mJJ) | 2:48 |
+| 97 | [Mr Misunderstood](https://open.spotify.com/track/4YkpPMlfD83z34Wcy2CPUj) | [Liam C](https://open.spotify.com/artist/5MPz6I6u7lDh2Cy1vPWfkd) | [Part Time Pop Star EP](https://open.spotify.com/album/0LVuCkg6Do5L7VeYpa8mJJ) | 2:42 |
 | 98 | [Big salad](https://open.spotify.com/track/32MszJfTEGJs82NKTSpESS) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Big salad](https://open.spotify.com/album/1vsIzPsL27Cwd7q6Sjgy4W) | 3:05 |
 | 99 | [family function](https://open.spotify.com/track/2eaZGOOSupGSmYfLQhdQsa) | [@WAR](https://open.spotify.com/artist/31EqzztLNVAKfqgIQ3O5qU) | [family function](https://open.spotify.com/album/3wuf1Srs3cTH27r0VTOVM2) | 1:19 |
 

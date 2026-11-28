@@ -4,7 +4,7 @@
 
 > 
 
-294 songs - 15 hr 23 min
+298 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Princesa](https://open.spotify.com/track/7zcrv8yoINv4GdPAGUEnmm) | [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Princesa](https://open.spotify.com/album/5pLYv8ZPnql7p8uOfjIXKo) | 2:49 | 2026-02-25 |  |
 | [Prohibido Amarte](https://open.spotify.com/track/0umfTy07QlGAjaBZAEnKpU) | [Nick Reagan](https://open.spotify.com/artist/3vticimNlMuc4rqZBMlELC) | [Prohibido Amarte](https://open.spotify.com/album/6RFRKjfJnL362fqOSMm10E) | 3:02 | 2025-11-05 |  |
 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 | 2026-04-16 |  |
+| [Psyop \- Piano Ballata](https://open.spotify.com/track/0CZfa975EMmjpUrX7H4kxo) | [Berqfeld](https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr), [Miroslaw Bojadzijew](https://open.spotify.com/artist/1XQQujTdjrWCCWpG8Iqu4Y) | [Psyop \(Piano Ballata\)](https://open.spotify.com/album/4CQZbuoogORxfvsixj6OEW) | 2:53 | 2026-11-28 |  |
 | [pull up](https://open.spotify.com/track/493d2v5Wk3NVhfRdDbLDZp) | [Thékho](https://open.spotify.com/artist/4lCPqhnzBqohZlfqncjtxl), [saranghae](https://open.spotify.com/artist/7lOWCFSEnzDM8WOlsxy1Yj) | [pull up](https://open.spotify.com/album/7JC48ko5wABisFzZNl6JE6) | 1:50 | 2025-06-22 |  |
 | [Purgatorio](https://open.spotify.com/track/5VK83qZanFNfjhRGeizUTP) | [Denivek](https://open.spotify.com/artist/3yF4wRjfd495MPjjquHKVH) | [International I](https://open.spotify.com/album/4oyD19daykyixpY2E5j1iI) | 6:46 | 2025-08-12 |  |
 | [Pussy](https://open.spotify.com/track/3KYujzyF0dbCwsJAEb4Djf) | [C4BASS](https://open.spotify.com/artist/2R18tm7N0kJVNrtVTAs6Fw), [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Pussy](https://open.spotify.com/album/0izPf4zGr5MYpKSNpIUUHn) | 2:26 | 2026-02-25 |  |
@@ -228,6 +229,7 @@
 | [Replica](https://open.spotify.com/track/3DzLHaqInQ9Tw4DZHUUy4e) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Robin](https://open.spotify.com/album/2oQKKenWAS8mnkzgSElzpS) | 3:07 | 2026-05-06 |  |
 | [Return of a King](https://open.spotify.com/track/5WtPqlQHxx50OFEGFiO6pv) | [Killian Ordono](https://open.spotify.com/artist/1yMfzq45DtTDq4SGtHNRo4), [IzRosh](https://open.spotify.com/artist/2p1bgggvCXinSQz2OtBHXu), [Jayy Dogg](https://open.spotify.com/artist/33LUb0cLTRldb9HEzejGBC) | [Return of a King](https://open.spotify.com/album/3XFMPFaloBNSXpNZPWwCBC) | 2:17 | 2025-03-12 |  |
 | [Rip Tides \- Mikheil Music Remix](https://open.spotify.com/track/4EoPJZ8emPBql4Dt3km1Hb) | [Mira Sthira](https://open.spotify.com/artist/2hFK4B23ncCVrAqT29eqiq), [Mikheil Music](https://open.spotify.com/artist/5sYglx5GgL1LmCxXBfymsY) | [Rip Tides \(Mikheil Music Remix\)](https://open.spotify.com/album/7CKIh8AKK0owogevQTRqnM) | 5:16 | 2025-12-22 |  |
+| [Roller Coaster](https://open.spotify.com/track/2u7Fqv2VrrLPd3qbQVvSWC) | [Tyler J\. Thierry](https://open.spotify.com/artist/05GcYwcTVPFZdSZwiYNlS4), [liam vee](https://open.spotify.com/artist/77zlFkyzNmuNZ5CXGfkVLw), [Serein Vail](https://open.spotify.com/artist/0UFwvMZiZYu8iv4dyyVOt8), [Reynakah](https://open.spotify.com/artist/5YnNwdL9oVehL2bWoBnDek), [New Soul Renaissance](https://open.spotify.com/artist/339M72HUxlsIPR0JfDBK0J) | [Roller Coaster](https://open.spotify.com/album/10k86T5QXMw3z8tSUsxstE) | 4:18 | 2026-11-28 |  |
 | [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 | 2026-01-09 |  |
 | [ROTO](https://open.spotify.com/track/5EATqvvq7FvnNxtTYymbfe) | [Ecuaxel](https://open.spotify.com/artist/752FyhTCidwubenzuTtLtk) | [ROTO](https://open.spotify.com/album/4lleNR7Guf06eqPT1sEtKd) | 2:57 | 2026-01-18 |  |
 | [rush touch](https://open.spotify.com/track/4JXstHX6Tv9ocTYt86oEE3) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [rush touch](https://open.spotify.com/album/7e433qsvsyuanoOFJAgkKZ) | 2:33 | 2026-05-24 |  |
@@ -274,10 +276,12 @@
 | [To Her](https://open.spotify.com/track/5Xa32y3yYAqQjuSnQ9e2nC) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [To Her](https://open.spotify.com/album/1M9XLvmAovyW7kQsxZXjc1) | 4:40 | 2025-11-18 |  |
 | [Tu Boca](https://open.spotify.com/track/3po03pa6i2K3a6kzLw02Xk) | [Kris Ferrer](https://open.spotify.com/artist/0yIDYHbJhDpDXiGTHCLXh7) | [Tu Boca](https://open.spotify.com/album/298jSFyPbaASkohAaHEc5J) | 3:43 | 2025-04-06 |  |
 | [TU FAIS LA MORTE](https://open.spotify.com/track/3MM9zNGAgckkNknPsp2OVR) | [Doctor Ly](https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA) | [TU FAIS LA MORTE](https://open.spotify.com/album/3Ye99MmmiPKSJex4cxZzHO) | 3:16 | 2025-12-10 |  |
+| [Tu mirada](https://open.spotify.com/track/6nQiWo06oUAeFwWBvsYh4v) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 3:46 | 2026-11-28 |  |
 | [Tu veux du fric](https://open.spotify.com/track/1K8iNo9h6XliHQirVWga5H) | [Cody Blackstone](https://open.spotify.com/artist/5GqF0wXj5zyOE5O5gcOkqC) | [Instant T](https://open.spotify.com/album/4PuvykWwdBaxjdxNSkoX2f) | 3:06 | 2025-04-03 |  |
 | [Two Lives](https://open.spotify.com/track/7MncHPXeZMEQYtnbiaxxvJ) | [Zorastead](https://open.spotify.com/artist/1SKZNWwhnoPtjO6pVopG59) | [Two Lives](https://open.spotify.com/album/6XHsRmumVaZpfST8VWaQEx) | 3:58 | 2026-06-03 |  |
 | [Tx](https://open.spotify.com/track/3TpulEC1M9BoCjCfgf4qx6) | [Jey Z](https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy) | [Tx](https://open.spotify.com/album/2NHxPOlkY0AjJAcqB3fXe6) | 2:38 | 2026-11-24 |  |
 | [VUELVE SOLA](https://open.spotify.com/track/3ZMYR804hQICmG5GcLBL8p) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [EL TIO ZETTA](https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0) | [VUELVE SOLA](https://open.spotify.com/album/5Jc79SlcKcBxjnz1szJwLj) | 2:22 | 2026-05-06 |  |
+| [Vénère](https://open.spotify.com/track/1xDFFCL5erS9Lxz35edhrC) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N) | [SATURATION](https://open.spotify.com/album/2BQB5dXXMSsYAQKx0V8YMb) | 2:00 | 2026-11-28 |  |
 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2026-02-19 |  |
 | [Wait Up](https://open.spotify.com/track/1cF1sWGapFXHssAQjGeHmI) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Wait Up](https://open.spotify.com/album/38n1tJIhXqdh6yGGLdWngM) | 2:04 | 2026-03-27 |  |
 | [Waiting for the Day After](https://open.spotify.com/track/6HHjEdNV1ZUoAptVcis6zN) | [Hollowave](https://open.spotify.com/artist/3pOKXtt845AaIJxzoUY918) | [Pigheaded](https://open.spotify.com/album/40QIQaRkMHTx2IKrRkGBFD) | 5:24 | 2025-10-30 |  |

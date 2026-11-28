@@ -1,13 +1,45 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 48639,
+  "num_followers": 48657,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC5RHeTVrdoQ/9kMklxyQfU8VUC9",
+  "snapshot_id": "AAAAAAl14cHj1wxpaXElIchzkDtC449p",
   "tracks": [
+    {
+      "added_at": "2026-11-27 12:00:06",
+      "album": {
+        "name": "\u0627\u062d\u0644\u0649 \u0634\u0631\u0648\u0642",
+        "url": "https://open.spotify.com/album/5GtqkY9IpqAV02nrPGA0TY"
+      },
+      "artists": [
+        {
+          "name": "Sultan Khalifa",
+          "url": "https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB"
+        }
+      ],
+      "duration_ms": 191824,
+      "name": "\u0627\u062d\u0644\u0649 \u0634\u0631\u0648\u0642",
+      "url": "https://open.spotify.com/track/1MBUL6yqM09DrMVo8AEs4z"
+    },
+    {
+      "added_at": "2026-11-27 12:00:06",
+      "album": {
+        "name": "\u0628\u0646\u062a \u0627\u0644\u0631\u062c\u0627\u0644",
+        "url": "https://open.spotify.com/album/2TTxxQ3LwfzogSH7sVMrt4"
+      },
+      "artists": [
+        {
+          "name": "Zena Emad",
+          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+        }
+      ],
+      "duration_ms": 348870,
+      "name": "\u0628\u0646\u062a \u0627\u0644\u0631\u062c\u0627\u0644",
+      "url": "https://open.spotify.com/track/09dasPk85AYYkFaK1F4ZLv"
+    },
     {
       "added_at": "2026-11-18 13:25:22",
       "album": {

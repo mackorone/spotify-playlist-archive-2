@@ -6,8 +6,28 @@
     "name": "Zeds Dead",
     "url": "https://open.spotify.com/user/zedsdeadofficial"
   },
-  "snapshot_id": "AAAXo0nMrFWIRGVBLvdhNLLzjPPf6Qp6",
+  "snapshot_id": "AAAXpEWKR4/w0LDZAe7FjJT4jILdPRkO",
   "tracks": [
+    {
+      "added_at": "2026-11-27 17:16:14",
+      "album": {
+        "name": "GIRLS / KEELAH",
+        "url": "https://open.spotify.com/album/42YigIdAmIYZAhWcVpuIVh"
+      },
+      "artists": [
+        {
+          "name": "JONCASS",
+          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
+        },
+        {
+          "name": "Deemon",
+          "url": "https://open.spotify.com/artist/7zzgMdfYbyhQ3YbR0gwZGo"
+        }
+      ],
+      "duration_ms": 172285,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/7EWb2S3j0K0aU8p6OPhCnq"
+    },
     {
       "added_at": "2026-09-14 16:01:41",
       "album": {

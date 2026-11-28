@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP KRIT",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PURPEECH",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -740,7 +740,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -3717,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "Cool With It",
+        "url": "https://open.spotify.com/album/0R1YgKlglom75RkilyXFRH"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218718,
+      "name": "Cool With It",
+      "url": "https://open.spotify.com/track/08hUXtrnTTHi4FRAhEZ5nk"
+    },
+    {
+      "album": {
         "name": "covent garden",
         "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
       },
@@ -6092,6 +6110,40 @@
       "duration_ms": 148495,
       "name": "flower",
       "url": "https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF"
+    },
+    {
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "album": {
@@ -8492,6 +8544,24 @@
       "duration_ms": 190460,
       "name": "Howl's",
       "url": "https://open.spotify.com/track/0afhm0LseruwDcTTFp2Y6T"
+    },
+    {
+      "album": {
+        "name": "HPNY",
+        "url": "https://open.spotify.com/album/7BgmebGsX4EtbM0rsEnZn3"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "HPNY",
+      "url": "https://open.spotify.com/track/4lLjvJe6oxDIL2VJjWWwf7"
     },
     {
       "album": {
@@ -14404,7 +14474,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 284583,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/3Ohb6hLc9rdw63nq8NMC17"
@@ -15042,6 +15112,24 @@
       "duration_ms": 185394,
       "name": "Rebecca",
       "url": "https://open.spotify.com/track/6CP6LUVijAZYts1n8F3y6r"
+    },
+    {
+      "album": {
+        "name": "Recently Deleted",
+        "url": "https://open.spotify.com/album/4coQexHVw0mE8IdrHbeF09"
+      },
+      "artists": [
+        {
+          "name": "atom chanakan",
+          "url": "https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233413,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3lA1kwyChqhrZVEuNyXk0R"
     },
     {
       "album": {
@@ -17846,7 +17934,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 233341,
       "name": "STUCK ON U",
       "url": "https://open.spotify.com/track/6RQBxMzcFx2B4bH2gXNEua"
@@ -18118,6 +18206,28 @@
       "duration_ms": 197796,
       "name": "Sunshine & Rain...",
       "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
+    },
+    {
+      "album": {
+        "name": "SUNSHINE (\u2600\ufe0f)",
+        "url": "https://open.spotify.com/album/1ivx4eAIq7Cf0HIybZWQ9L"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210250,
+      "name": "SUNSHINE (\u2600\ufe0f)",
+      "url": "https://open.spotify.com/track/0ahkhmJrLeH5GfYXmFhF3O"
     },
     {
       "album": {
@@ -22530,7 +22640,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 230000,
       "name": "\u0e01\u0e25\u0e32\u0e07\u0e21\u0e2b\u0e32\u0e2a\u0e21\u0e38\u0e17\u0e23",
       "url": "https://open.spotify.com/track/0MkfrwAd9W9MOVRiEpjpvA"
@@ -23542,7 +23652,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 293831,
       "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (happy)",
       "url": "https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk"
@@ -24200,7 +24310,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 193404,
       "name": "\u0e23\u0e30\u0e1a\u0e1a\u0e02\u0e31\u0e14\u0e02\u0e49\u0e2d\u0e07 (SOS)",
       "url": "https://open.spotify.com/track/6TcM9UKDc12Kus4bMBQaJU"
@@ -24240,6 +24350,24 @@
       "duration_ms": 199088,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32?",
       "url": "https://open.spotify.com/track/1mpANQ0OuSDz3yPvPQtvJK"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e04\u0e23\u0e36\u0e48\u0e07\u0e19\u0e36\u0e07 \u0e2d\u0e14\u0e17\u0e19\u0e04\u0e23\u0e36\u0e48\u0e07\u0e19\u0e36\u0e07",
+        "url": "https://open.spotify.com/album/5qs3gZK8As1w6pCOdC0Mfa"
+      },
+      "artists": [
+        {
+          "name": "Bodyslam",
+          "url": "https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241704,
+      "name": "\u0e23\u0e31\u0e01\u0e04\u0e23\u0e36\u0e48\u0e07\u0e19\u0e36\u0e07 \u0e2d\u0e14\u0e17\u0e19\u0e04\u0e23\u0e36\u0e48\u0e07\u0e19\u0e36\u0e07",
+      "url": "https://open.spotify.com/track/3CSwAshvazeBGdU7vVuTFk"
     },
     {
       "album": {
@@ -24316,6 +24444,24 @@
       "duration_ms": 200170,
       "name": "\u0e23\u0e31\u0e01\u0e21\u0e37\u0e2d\u0e2a\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/6FngEZyo8Gg5P4fzckJeX4"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Started)",
+        "url": "https://open.spotify.com/album/5muEx1to2rKKhKDg25h6S0"
+      },
+      "artists": [
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "\u0e23\u0e31\u0e01\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Started)",
+      "url": "https://open.spotify.com/track/2C8MUBnz1Yjdpa5mHXoZCu"
     },
     {
       "album": {
@@ -24600,7 +24746,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 276363,
       "name": "\u0e27\u0e32\u0e2a\u0e19\u0e32\u0e19\u0e33\u0e1e\u0e32 (\u6709\u7f18\u4efd)",
       "url": "https://open.spotify.com/track/0AclgeKJq1TS2p0F7iF72P"
@@ -24647,6 +24793,32 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e2d\u0e19\u0e17\u0e35 (Teach Me)",
+        "url": "https://open.spotify.com/album/1Ke1Xr5VmzJwvUMjkeVc3C"
+      },
+      "artists": [
+        {
+          "name": "DICERED",
+          "url": "https://open.spotify.com/artist/1UgsiornRZh1v7TRs7DNH5"
+        },
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        },
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "\u0e2a\u0e2d\u0e19\u0e17\u0e35 (Teach Me)",
+      "url": "https://open.spotify.com/track/3uhPrKsewojlZuWICZOPkQ"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e30\u0e2a\u0e21\u0e04\u0e33\u0e1a\u0e2d\u0e01\u0e40\u0e25\u0e34\u0e01 (COLLECTING)",
         "url": "https://open.spotify.com/album/6CtQKBgVc08G4z1y1YhJra"
       },
@@ -24662,7 +24834,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 210948,
       "name": "\u0e2a\u0e30\u0e2a\u0e21\u0e04\u0e33\u0e1a\u0e2d\u0e01\u0e40\u0e25\u0e34\u0e01 (COLLECTING)",
       "url": "https://open.spotify.com/track/0TI8JrWdnIM65vSAhUPXhc"

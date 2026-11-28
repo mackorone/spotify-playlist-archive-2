@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 501,480 likes - 50 songs - 2 hr 29 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 501,548 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Darling, I knew](https://open.spotify.com/track/7J4jFSYxY8XjC6OzGL6ZbL) | [5YNTH](https://open.spotify.com/artist/4JoGHxgehbE5TFDmzqVCxF) | [Panic Merchant](https://open.spotify.com/album/2KszRmuwb1cEOIDYBmytga) | 4:26 |
 | 2 | [Coca & Tequila](https://open.spotify.com/track/2vLcoU073mN6fvgP6irpGP) | [AI\-DA](https://open.spotify.com/artist/7nJ4Wlmj7pvEDnyoykHiw8) | [E lo sai](https://open.spotify.com/album/4BPNMpmLnL97wBuTDJYMfn) | 3:57 |
 | 3 | [Idrky N!ccas](https://open.spotify.com/track/1ugVLA3RDoIW1EYAqQUlf1) | [Picasso Shy](https://open.spotify.com/artist/6qM5Vw1YNzcRcnbagpvV0F) | [Idrky N!ccas](https://open.spotify.com/album/2K9Srrqr3V3DpDOrJY3Sg9) | 2:23 |
-| 4 | [À vous les hommes](https://open.spotify.com/track/4qhnetzBShaB8MxGNXyaS4) | [evuoL](https://open.spotify.com/artist/2ej9szQkoreYuR2DqKnLaI) | [À vous les hommes](https://open.spotify.com/album/1zvGjBs1nfplSqSIl4VGyZ) | 3:57 |
+| 4 | [A vous les hommes](https://open.spotify.com/track/4qhnetzBShaB8MxGNXyaS4) | [evuoL](https://open.spotify.com/artist/2ej9szQkoreYuR2DqKnLaI) | [A vous les hommes](https://open.spotify.com/album/1zvGjBs1nfplSqSIl4VGyZ) | 3:57 |
 | 5 | [Unbroken](https://open.spotify.com/track/4Xa0Uy8I3rHtHFxty2fkV6) | [Verse Alchemist](https://open.spotify.com/artist/1oRygxVOVleAGwKwzqsneH) | [Unbroken](https://open.spotify.com/album/01SXnBpAIZRfnNOmzGCgfW) | 3:32 |
 | 6 | [Almost Called](https://open.spotify.com/track/030CrTOdpjdnCc4FkpKBZ3) | [Byte dh](https://open.spotify.com/artist/11s3bB3ORVLkpBO1e3bUO2) | [Different Decisions](https://open.spotify.com/album/0paKDYrXTdMme2mUKjipF8) | 3:30 |
 | 7 | [Changes](https://open.spotify.com/track/0sR1xtn81Eyh9DG9pfkLGI) | [Lu Ari](https://open.spotify.com/artist/7GiFjwMHVgneWP99pphtfi) | [Changes](https://open.spotify.com/album/1OeaZaxlLGKh99KNduqNGZ) | 3:16 |

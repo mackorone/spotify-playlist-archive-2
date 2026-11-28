@@ -4854,7 +4854,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 144805,
       "name": "Gilgamesh",
       "url": "https://open.spotify.com/track/449JKvl3cCFdkwQZqreV79"
@@ -6390,6 +6390,52 @@
       "duration_ms": 279373,
       "name": "Jettin'",
       "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
+    },
+    {
+      "album": {
+        "name": "Found Us",
+        "url": "https://open.spotify.com/album/3E5aC4xuldFjSrfcYL3KeQ"
+      },
+      "artists": [
+        {
+          "name": "4DaTribe",
+          "url": "https://open.spotify.com/artist/2F7S9QRZgXPGVauxTJYwsP"
+        },
+        {
+          "name": "Keyon Lowquan",
+          "url": "https://open.spotify.com/artist/6MrQnQMH0JqvhHh4b9e1Gi"
+        },
+        {
+          "name": "Kai Banks",
+          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
+        },
+        {
+          "name": "Donat Jackson",
+          "url": "https://open.spotify.com/artist/22VAakx8ju6tEIQjVYxLL3"
+        },
+        {
+          "name": "KOTO?",
+          "url": "https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We"
+        },
+        {
+          "name": "insyt.",
+          "url": "https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O"
+        },
+        {
+          "name": "Jet Blck Renji",
+          "url": "https://open.spotify.com/artist/749yEyrnJcvdrBMe1HAnTe"
+        },
+        {
+          "name": "NewestError",
+          "url": "https://open.spotify.com/artist/0MuefhoNA27BMsdnKCCB6s"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192272,
+      "name": "Jiggy",
+      "url": "https://open.spotify.com/track/3Ge2PhjuaVIcIuvOyfqxgy"
     },
     {
       "album": {

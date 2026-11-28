@@ -1,12 +1,12 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: The Lantis",
-  "num_followers": 167803,
+  "num_followers": 167806,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGL8ZMiw/mu9QlRZg4ypc+elBhLe",
+  "snapshot_id": "AAAAAF58rjGkPHeMKPcYF61NBVfy41Y+",
   "tracks": [
     {
       "added_at": "2026-11-26 17:04:32",
@@ -151,6 +151,22 @@
       "duration_ms": 242585,
       "name": "Seribu Purnama",
       "url": "https://open.spotify.com/track/2nukImStUsTggznj3GEbRh"
+    },
+    {
+      "added_at": "2026-11-27 06:40:26",
+      "album": {
+        "name": "Benci Untuk Mencinta",
+        "url": "https://open.spotify.com/album/7jvtTiTjDOC6LgAiEXgxMw"
+      },
+      "artists": [
+        {
+          "name": "Rio Febrian",
+          "url": "https://open.spotify.com/artist/3q3FakGkayPyaj7dV3luv9"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Benci Untuk Mencinta",
+      "url": "https://open.spotify.com/track/5dgygtid7ZEzYdHy4XWUUT"
     },
     {
       "added_at": "2026-11-26 17:04:32",

@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 167585,
+  "num_followers": 167591,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "DRACULA",
-        "url": "https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "B-Line",
-          "url": "https://open.spotify.com/artist/5w8CwLahrRAQxsLfFparQs"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "DRACULA",
-      "url": "https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/6GhfHWkYe7cZtSFUjXhVn5"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 182500,
       "name": "Silver Linings",
       "url": "https://open.spotify.com/track/5tVbtsefMvCYlNiZ32LGHb"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "DRACULA",
+        "url": "https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "B-Line",
+          "url": "https://open.spotify.com/artist/5w8CwLahrRAQxsLfFparQs"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "DRACULA",
+      "url": "https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -583,18 +583,26 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Questions",
-        "url": "https://open.spotify.com/album/1QQzctbO3Arq5F97iJmRBx"
+        "name": "Messed Up",
+        "url": "https://open.spotify.com/album/5lnTtWSd9nFA6eCjWy7zal"
       },
       "artists": [
         {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
         }
       ],
-      "duration_ms": 161142,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/266xYVttcrhmklf7IT362r"
+      "duration_ms": 156342,
+      "name": "Messed Up",
+      "url": "https://open.spotify.com/track/5B7tYgOD3Fuf9ld9WKdqzX"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -619,26 +627,18 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Messed Up",
-        "url": "https://open.spotify.com/album/5lnTtWSd9nFA6eCjWy7zal"
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/1QQzctbO3Arq5F97iJmRBx"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 156342,
-      "name": "Messed Up",
-      "url": "https://open.spotify.com/track/5B7tYgOD3Fuf9ld9WKdqzX"
+      "duration_ms": 161142,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/266xYVttcrhmklf7IT362r"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -891,30 +891,6 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Legit",
-        "url": "https://open.spotify.com/album/0Loed09SSf2Yz9hmbuE3UZ"
-      },
-      "artists": [
-        {
-          "name": "Coco",
-          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
-        },
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "OKO UK",
-          "url": "https://open.spotify.com/artist/5oFM5kxRXZI1qOzvdyPkkV"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Legit",
-      "url": "https://open.spotify.com/track/2wNNglZs6fWPNZjyOwATos"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
         "name": "Free (Hoax Remix)",
         "url": "https://open.spotify.com/album/2fSJxTirK2qb4RdfhHHsXZ"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 183700,
       "name": "Free - Hoax Remix",
       "url": "https://open.spotify.com/track/5HDRSBjARz5hTykF1p3K8r"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "Legit",
+        "url": "https://open.spotify.com/album/0Loed09SSf2Yz9hmbuE3UZ"
+      },
+      "artists": [
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        },
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "OKO UK",
+          "url": "https://open.spotify.com/artist/5oFM5kxRXZI1qOzvdyPkkV"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Legit",
+      "url": "https://open.spotify.com/track/2wNNglZs6fWPNZjyOwATos"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
+        "name": "What Ya Got 4 Me",
+        "url": "https://open.spotify.com/album/2XSkX0vlcgxhUQ34vH6eHw"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Signum",
+          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+        }
+      ],
+      "duration_ms": 224163,
+      "name": "What Ya Got 4 Me",
+      "url": "https://open.spotify.com/track/0fx132zL9MIJW1ZlhhMqcg"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
         "name": "Gameshow",
         "url": "https://open.spotify.com/album/0nvhh2fwBf8eKBUqtFZ9Gy"
       },
@@ -1203,42 +1223,6 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "What Ya Got 4 Me",
-        "url": "https://open.spotify.com/album/2XSkX0vlcgxhUQ34vH6eHw"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        },
-        {
-          "name": "Signum",
-          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
-        }
-      ],
-      "duration_ms": 224163,
-      "name": "What Ya Got 4 Me",
-      "url": "https://open.spotify.com/track/0fx132zL9MIJW1ZlhhMqcg"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
-        "name": "Top Of My Game",
-        "url": "https://open.spotify.com/album/7kC0H6RKxFX9VaDlIOrgKX"
-      },
-      "artists": [
-        {
-          "name": "Control Alt Delete",
-          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
-        }
-      ],
-      "duration_ms": 192514,
-      "name": "Top Of My Game",
-      "url": "https://open.spotify.com/track/5b5D3Bjd9eyx4rLH39WyHT"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
         "name": "Thriller in Manila",
         "url": "https://open.spotify.com/album/1CfdYt2AYuBD9wGdshS5ko"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 168000,
       "name": "Thriller in Manila",
       "url": "https://open.spotify.com/track/2ir9VrFfUFq1AdOqKSKLPS"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "Top Of My Game",
+        "url": "https://open.spotify.com/album/7kC0H6RKxFX9VaDlIOrgKX"
+      },
+      "artists": [
+        {
+          "name": "Control Alt Delete",
+          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
+        }
+      ],
+      "duration_ms": 192514,
+      "name": "Top Of My Game",
+      "url": "https://open.spotify.com/track/5b5D3Bjd9eyx4rLH39WyHT"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Dem Not Ready",
-        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Dem Not Ready",
-      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
         "name": "Who Do You Run To",
         "url": "https://open.spotify.com/album/1CZTy3CowxpmOmMBqkDw4m"
       },
@@ -1399,22 +1383,18 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Combat (feat. Gardna)",
-        "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
+        "name": "Dem Not Ready",
+        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
       },
       "artists": [
         {
-          "name": "Declan Knapp",
-          "url": "https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4"
-        },
-        {
-          "name": "Gardna",
-          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Combat (feat. Gardna)",
-      "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
+      "duration_ms": 277714,
+      "name": "Dem Not Ready",
+      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1439,42 +1419,22 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/3bWQuWVizOR2XxzSDJRWeX"
+        "name": "Combat (feat. Gardna)",
+        "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
       },
       "artists": [
         {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+          "name": "Declan Knapp",
+          "url": "https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4"
         },
         {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        },
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
         }
       ],
-      "duration_ms": 194571,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/7jhGzwO9ZsNUa3OlIHxlgl"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
-        "name": "CLOSE2U",
-        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 224657,
-      "name": "CLOSE2U",
-      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
+      "duration_ms": 147000,
+      "name": "Combat (feat. Gardna)",
+      "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1495,6 +1455,46 @@
       "duration_ms": 212571,
       "name": "Log On",
       "url": "https://open.spotify.com/track/2twpRzcPzLOF9xxsbSWQqw"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "CLOSE2U",
+        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 224657,
+      "name": "CLOSE2U",
+      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/3bWQuWVizOR2XxzSDJRWeX"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        },
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/7jhGzwO9ZsNUa3OlIHxlgl"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
+        "name": "Haikyo",
+        "url": "https://open.spotify.com/album/5OyANYoISRsIV9AV7NfokZ"
+      },
+      "artists": [
+        {
+          "name": "Nectax",
+          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Haikyo",
+      "url": "https://open.spotify.com/track/6qSFTOezPOJPIAxupNqNqr"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/2eZH1iX2yegT5rtfqf8mIc"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 204255,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/4IgHjm0DQwnxoOryCeU6aK"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
-        "name": "Haikyo",
-        "url": "https://open.spotify.com/album/5OyANYoISRsIV9AV7NfokZ"
-      },
-      "artists": [
-        {
-          "name": "Nectax",
-          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Haikyo",
-      "url": "https://open.spotify.com/track/6qSFTOezPOJPIAxupNqNqr"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Under The Lights",
-        "url": "https://open.spotify.com/album/72TndTrZxl1QgXR4dXbnbi"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Under The Lights",
-      "url": "https://open.spotify.com/track/1lgVrLUtXVVOdRNwqyViYv"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
         "name": "Ring Doorbell",
         "url": "https://open.spotify.com/album/0FRunFsZtqZ4TPely2oAWI"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 141257,
       "name": "Ring Doorbell",
       "url": "https://open.spotify.com/track/0wu99QsiUQoR9coj3qY8Pa"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "Under The Lights",
+        "url": "https://open.spotify.com/album/72TndTrZxl1QgXR4dXbnbi"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Under The Lights",
+      "url": "https://open.spotify.com/track/1lgVrLUtXVVOdRNwqyViYv"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
+        "name": "Argument Done",
+        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Argument Done",
+      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
         "name": "Outta Control",
         "url": "https://open.spotify.com/album/60aXe6yVgonzkTm2c1xtp7"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 160000,
       "name": "Outta Control",
       "url": "https://open.spotify.com/track/3VtyRWncTIs26CsqCYicCg"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
-        "name": "Argument Done",
-        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Argument Done",
-      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
     },
     {
       "added_at": "2026-11-06 00:00:52",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2026-11-06 00:00:52",
       "album": {
-        "name": "Ash Dem",
-        "url": "https://open.spotify.com/album/5TlfoLx6XSuFFfJAtDpXbL"
-      },
-      "artists": [
-        {
-          "name": "Asher",
-          "url": "https://open.spotify.com/artist/27rLoktmo5l6NQ5kSqB8X2"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        }
-      ],
-      "duration_ms": 137584,
-      "name": "Ash Dem",
-      "url": "https://open.spotify.com/track/5RIRxMzIWOxULw5pSiAqeG"
-    },
-    {
-      "added_at": "2026-11-06 00:00:52",
-      "album": {
         "name": "JD",
         "url": "https://open.spotify.com/album/5oPOkuY3oMRCsxWnFZjlk8"
       },
@@ -2051,6 +2031,26 @@
       "duration_ms": 109714,
       "name": "JD",
       "url": "https://open.spotify.com/track/3Mdtfg95L09wTRFn4HujVf"
+    },
+    {
+      "added_at": "2026-11-06 00:00:52",
+      "album": {
+        "name": "Ash Dem",
+        "url": "https://open.spotify.com/album/5TlfoLx6XSuFFfJAtDpXbL"
+      },
+      "artists": [
+        {
+          "name": "Asher",
+          "url": "https://open.spotify.com/artist/27rLoktmo5l6NQ5kSqB8X2"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "duration_ms": 137584,
+      "name": "Ash Dem",
+      "url": "https://open.spotify.com/track/5RIRxMzIWOxULw5pSiAqeG"
     },
     {
       "added_at": "2026-11-06 00:00:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 306 songs - 16 hr 7 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 310 songs - 16 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,5 +314,9 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 304 | [Tx](https://open.spotify.com/track/3TpulEC1M9BoCjCfgf4qx6) | [Jey Z](https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy) | [Tx](https://open.spotify.com/album/2NHxPOlkY0AjJAcqB3fXe6) | 2:38 |
 | 305 | [One Night Glance](https://open.spotify.com/track/6frjxTxA4yHrNrifHlMSNL) | [Medikate](https://open.spotify.com/artist/5BqQcPG5Y9hHLfjePrPmNh) | [One Night Glance](https://open.spotify.com/album/3cj11FNtdUKsNgkMtL2j7S) | 2:18 |
 | 306 | [Flüchtlinge \- Radio Edit](https://open.spotify.com/track/1ENK4X6NnxxdR0uIU0XwUI) | [The Parachute Testers](https://open.spotify.com/artist/1PAxZHUziAlRgffxOonf9E) | [Flüchtlinge \(Radio Edit\)](https://open.spotify.com/album/6XEsZm9oyuI3NN01NnFUVD) | 4:40 |
+| 307 | [Vénère](https://open.spotify.com/track/1xDFFCL5erS9Lxz35edhrC) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N) | [SATURATION](https://open.spotify.com/album/2BQB5dXXMSsYAQKx0V8YMb) | 2:00 |
+| 308 | [Tu mirada](https://open.spotify.com/track/6nQiWo06oUAeFwWBvsYh4v) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 3:46 |
+| 309 | [Psyop \- Piano Ballata](https://open.spotify.com/track/0CZfa975EMmjpUrX7H4kxo) | [Berqfeld](https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr), [Miroslaw Bojadzijew](https://open.spotify.com/artist/1XQQujTdjrWCCWpG8Iqu4Y) | [Psyop \(Piano Ballata\)](https://open.spotify.com/album/4CQZbuoogORxfvsixj6OEW) | 2:53 |
+| 310 | [Roller Coaster](https://open.spotify.com/track/2u7Fqv2VrrLPd3qbQVvSWC) | [Tyler J\. Thierry](https://open.spotify.com/artist/05GcYwcTVPFZdSZwiYNlS4), [liam vee](https://open.spotify.com/artist/77zlFkyzNmuNZ5CXGfkVLw), [Serein Vail](https://open.spotify.com/artist/0UFwvMZiZYu8iv4dyyVOt8), [Reynakah](https://open.spotify.com/artist/5YnNwdL9oVehL2bWoBnDek), [New Soul Renaissance](https://open.spotify.com/artist/339M72HUxlsIPR0JfDBK0J) | [Roller Coaster](https://open.spotify.com/album/10k86T5QXMw3z8tSUsxstE) | 4:18 |
 
-Snapshot ID: `AAAWOG2bH4sdrTC6PphTGV6teht8q/O3`
+Snapshot ID: `AAAWPFN/GbdT17LYEiRyCRdz5tZfgp6U`

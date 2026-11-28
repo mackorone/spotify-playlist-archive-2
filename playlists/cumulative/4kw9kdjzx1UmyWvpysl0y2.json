@@ -5781,6 +5781,24 @@
     },
     {
       "album": {
+        "name": "Dancin",
+        "url": "https://open.spotify.com/album/7M4EwC2T7EmJHyVcmM2VCn"
+      },
+      "artists": [
+        {
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/2SQIvDK5WYmadA8xuHyBY7"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165942,
+      "name": "Dancin",
+      "url": "https://open.spotify.com/track/4LV43oE1J7UHLV6K2O5VNa"
+    },
+    {
+      "album": {
         "name": "Dancing Through It All",
         "url": "https://open.spotify.com/album/0sBFTmC0IfoBN9zAiXmsVb"
       },

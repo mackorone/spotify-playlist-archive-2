@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 17124,
+  "num_followers": 17127,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "If you lovingly call my name (GyeongseoYeji x Jeon Gunho)",
-        "url": "https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d"
-      },
-      "artists": [
-        {
-          "name": "GyeongseoYeji",
-          "url": "https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9"
-        },
-        {
-          "name": "Jeon Gunho",
-          "url": "https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "If you lovingly call my name",
-      "url": "https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -483,18 +463,22 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "Rhapsody of Sadness",
-        "url": "https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV"
+        "name": "If you lovingly call my name (GyeongseoYeji x Jeon Gunho)",
+        "url": "https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d"
       },
       "artists": [
         {
-          "name": "Lim Jae Hyun",
-          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
+          "name": "GyeongseoYeji",
+          "url": "https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9"
+        },
+        {
+          "name": "Jeon Gunho",
+          "url": "https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX"
         }
       ],
-      "duration_ms": 235120,
-      "name": "Rhapsody of Sadness",
-      "url": "https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc"
+      "duration_ms": 231338,
+      "name": "If you lovingly call my name",
+      "url": "https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -515,18 +499,18 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "Never Loved This Way Before (Odd Girl Out X BOYNEXTDOOR) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH"
+        "name": "Rhapsody of Sadness",
+        "url": "https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV"
       },
       "artists": [
         {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+          "name": "Lim Jae Hyun",
+          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
         }
       ],
-      "duration_ms": 265160,
-      "name": "Never Loved This Way Before",
-      "url": "https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0"
+      "duration_ms": 235120,
+      "name": "Rhapsody of Sadness",
+      "url": "https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -543,6 +527,22 @@
       "duration_ms": 215433,
       "name": "I`m Firefly",
       "url": "https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "Never Loved This Way Before (Odd Girl Out X BOYNEXTDOOR) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "Never Loved This Way Before",
+      "url": "https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -747,8 +747,8 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "No Words Can Say",
-        "url": "https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr"
+        "name": "When Spring Comes",
+        "url": "https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
         }
       ],
-      "duration_ms": 236000,
-      "name": "No Words Can Say",
-      "url": "https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk"
+      "duration_ms": 238400,
+      "name": "When Spring Comes",
+      "url": "https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -827,8 +827,8 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "When Spring Comes",
-        "url": "https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me"
+        "name": "No Words Can Say",
+        "url": "https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
         }
       ],
-      "duration_ms": 238400,
-      "name": "When Spring Comes",
-      "url": "https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe"
+      "duration_ms": 236000,
+      "name": "No Words Can Say",
+      "url": "https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
+        "name": "Falling Slowly",
+        "url": "https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s"
+      },
+      "artists": [
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Falling Slowly",
+      "url": "https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
         "name": "Back In Time (The Moon during the Day X K.will)",
         "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "Falling Slowly",
-        "url": "https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s"
+        "name": "So you (DK(DECEMBER) X Busking Traveler)",
+        "url": "https://open.spotify.com/album/1gVTjwHau79QdOgEjp1z8M"
       },
       "artists": [
         {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
         }
       ],
-      "duration_ms": 237480,
-      "name": "Falling Slowly",
-      "url": "https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p"
+      "duration_ms": 266506,
+      "name": "So you",
+      "url": "https://open.spotify.com/track/3keXyvu1hnN63Lw8bUN3lh"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -1175,22 +1191,6 @@
       "duration_ms": 255000,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
-        "name": "So you (DK(DECEMBER) X Busking Traveler)",
-        "url": "https://open.spotify.com/album/1gVTjwHau79QdOgEjp1z8M"
-      },
-      "artists": [
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "So you",
-      "url": "https://open.spotify.com/track/3keXyvu1hnN63Lw8bUN3lh"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "Dial Your Number",
-        "url": "https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "Dial Your Number",
-      "url": "https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "Close your eyes",
         "url": "https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 338000,
       "name": "Close your eyes",
       "url": "https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "Dial Your Number",
+        "url": "https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "Dial Your Number",
+      "url": "https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq"
     },
     {
       "added_at": "2026-09-22 13:42:59",

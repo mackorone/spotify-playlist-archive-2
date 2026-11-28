@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Louane, Rymz, LinLin, Theodora, Blynk, 2Frères, Etienne Dufresne, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,362 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,379 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [17](https://open.spotify.com/track/4zeKwAuCDUdtueuJPAGnCM) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [watch out](https://open.spotify.com/album/1FaGHup8kBPYC47xge7Wim) | 3:26 |
-| 2 | [Apprendre à voler](https://open.spotify.com/track/5JhmOaWBL841PQZ0RpRRm2) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Guide pour pour apprendre à voler](https://open.spotify.com/album/4X6j7WYRVAtVDamwP6do8n) | 3:19 |
-| 3 | [Carolane](https://open.spotify.com/track/6CuhMhEsK1Z4ZwfyROjtpk) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Origine](https://open.spotify.com/album/535GSp5DHaSo7EWWoj05j2) | 2:32 |
+| 2 | [Apprendre à voler](https://open.spotify.com/track/5JhmOaWBL841PQZ0RpRRm2) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Guide pour apprendre à voler](https://open.spotify.com/album/4X6j7WYRVAtVDamwP6do8n) | 3:19 |
+| 3 | [Carolane](https://open.spotify.com/track/6CuhMhEsK1Z4ZwfyROjtpk) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q), [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Origine](https://open.spotify.com/album/535GSp5DHaSo7EWWoj05j2) | 2:32 |
 | 4 | [quelle époque](https://open.spotify.com/track/68aRTk3AHVniMwsb4vyip9) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [zigzag](https://open.spotify.com/album/5de5N0q0Q2Pq1uitt2RnmP) | 3:05 |
 | 5 | [D GA](https://open.spotify.com/track/4w6r0iwkm15ZWTREEPmZjT) | [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [DISCO INFERNO : AFTERPARTY](https://open.spotify.com/album/7sh0a2p7vprz4YR2kfNxwL) | 3:00 |
 | 6 | [Faux pas](https://open.spotify.com/track/5Tr0QsVcH8V7xPpxSJLwU0) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Après Minuit](https://open.spotify.com/album/1VgZg4mE4Uq1YqrIkQgQDv) | 2:24 |

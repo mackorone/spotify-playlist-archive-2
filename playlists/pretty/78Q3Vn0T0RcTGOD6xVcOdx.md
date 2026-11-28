@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[Nuvora](https://open.spotify.com/user/11141650175) - 555 likes - 137 songs - 7 hr 34 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 556 likes - 142 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,5 +145,10 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 135 | [Alive](https://open.spotify.com/track/52N4TQbXfbpYSv3XhAUI2Q) | [Vini Camalcha](https://open.spotify.com/artist/3JC0e5Xh4qjoU2azQPtFMc) | [Alive](https://open.spotify.com/album/60p4rLiuJadU0NqhBJobMt) | 7:32 |
 | 136 | [Without U](https://open.spotify.com/track/1sQHj3yMt9EyeBnTZvnxbz) | [TheStaRiders](https://open.spotify.com/artist/7jeaPXkwDOt6MmII5H0Z2g) | [Seasons II](https://open.spotify.com/album/2BWxr6ZnHr9obaiPTLpEVH) | 3:44 |
 | 137 | [Rhythm & Blues \(New Season\)](https://open.spotify.com/track/3AUH7mEwqFS31QGsmjpCAN) | [Majorrr](https://open.spotify.com/artist/1ASx98978V6Mfzm8CByHTq) | [Rhythm & Blues \(New Season\)](https://open.spotify.com/album/3hBuhqOk6P2lsDIpFkreXu) | 3:06 |
+| 138 | [Mayibabo](https://open.spotify.com/track/7qnL94HMP9sY7KS4gdfENY) | [King Y2K](https://open.spotify.com/artist/1Y3v7vYNo4RIrN4r7cVL7O), [Mpilow RSA](https://open.spotify.com/artist/4JbbwtFj93mFXtiMj2OQc7), [Bruuri Kau](https://open.spotify.com/artist/2H8j26WVYDXlZFj2hT6FoR) | [Mayibabo](https://open.spotify.com/album/1SomL27mNNPwO2uskQ2mmX) | 6:36 |
+| 139 | [Reverie](https://open.spotify.com/track/2TSqs1vjEz7dqyM47NndAU) | [Ultra Funkular Sound](https://open.spotify.com/artist/0JTRg5WSk5K5E2GBRZzRVN) | [Luminate](https://open.spotify.com/album/2OHUOs8mWIoAvWLSldl4N9) | 3:48 |
+| 140 | [Fair Minded Panda](https://open.spotify.com/track/0j301Dv8m7Jt2Ly1HwqwCv) | [Oleh Khavylo](https://open.spotify.com/artist/6kzSisusNuHtubecWQzwwH) | [Fair Minded Panda](https://open.spotify.com/album/6z0fyT1coAmyEStPBJarC3) | 3:13 |
+| 141 | [Umthandazo](https://open.spotify.com/track/3AtEEKWmMF1cepLU4o4c86) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU), [Cnethemba Gonelo](https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg), [Scrooge KmoA](https://open.spotify.com/artist/0sdcx269gOfXjsb72XsV2B) | [Vusani](https://open.spotify.com/album/4GwudzrNwL045268K97Adb) | 7:23 |
+| 142 | [I Want It All](https://open.spotify.com/track/7Fz6tWUxIZBR9sh3DlvEcd) | [Blue Scarr](https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi) | [I Want It All](https://open.spotify.com/album/5i92y6ZZ6zS9HlE4IaP5zc) | 2:48 |
 
-Snapshot ID: `AAAC7EfN2ir7RFqurvvgYWg8nymujwJk`
+Snapshot ID: `AAAC8fzydE5MTnDik+eZ0Pcklz9l24GY`

@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Massaru
 
-1,946 songs - 3 day 15 hr 19 min
+1,947 songs - 3 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1447,6 +1447,7 @@
 | [Primeiro Amor](https://open.spotify.com/track/2jsJS2Wg2OviUG1RNKhkD2) | [Pedro Leal](https://open.spotify.com/artist/51kjqW0V2R9gxmJkpuvlwP), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Primeiro Amor](https://open.spotify.com/album/35pY2zdQSogwS5VdqgDmyM) | 2:48 | 2022-09-02 | 2022-10-22 |
 | [PRISCILA](https://open.spotify.com/track/5ajeiuX3vQwLpATaWL7eEP) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS) | [PRISCILA](https://open.spotify.com/album/6o48V6024rbb1KV1VJdAzY) | 2:24 | 2023-10-13 | 2023-11-25 |
 | [Privê](https://open.spotify.com/track/1cXcUR0rLn35FhxzsShZcs) | [Zenri](https://open.spotify.com/artist/5QfJeOcxJBWYVXYCqW107O), [Prod\. Gus](https://open.spotify.com/artist/6O46TTH5pNRLVh2Jhb3swZ) | [Privê](https://open.spotify.com/album/6F0jbRYYJovOqIKH2wLuT2) | 2:44 | 2022-03-18 | 2022-04-16 |
+| [Problema](https://open.spotify.com/track/1YGbZiwyuoaRiffrOEkl45) | [okie](https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ), [OGMECBABY](https://open.spotify.com/artist/1OKegS9uz9X9755V9ajflv), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW), [Yoko](https://open.spotify.com/artist/0UenuJp55lQTf168bwDCcH), [bwhatudoin](https://open.spotify.com/artist/4efJOhkoi4uqW0vULYPEUR) | [SUPER NEGRO, VOL\. 2](https://open.spotify.com/album/6rpQUpuPSRLO3tz66uF1VI) | 2:12 | 2026-11-27 |  |
 | [Problema](https://open.spotify.com/track/0rOQ7wCFfXNwyWYqbtKKjb) | [Spartano](https://open.spotify.com/artist/5VkAxeOIPrz93DkfyhdHDL), [Felix](https://open.spotify.com/artist/3IC1ZhSDm04wMcWwl8bh06), [Paczin](https://open.spotify.com/artist/5jTwmL3W9w5DWeTUhSL4kS) | [Problema](https://open.spotify.com/album/3Frf8JZ3cinrSMaScM9e1e) | 3:13 | 2022-03-18 | 2023-01-28 |
 | [Problemas](https://open.spotify.com/track/2CkejP98m6e6xMUuQl4Bri) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [Problemas](https://open.spotify.com/album/2Gp76ayBXIGgPZpiMEa5F0) | 2:28 | 2023-11-24 | 2023-12-09 |
 | [Procedimento](https://open.spotify.com/track/5TYh0QfBKXBT3bM8XQpiRa) | [ENOQ](https://open.spotify.com/artist/49EGTw3niUCWrj7CdkzIDx), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY), [EAGD](https://open.spotify.com/artist/3DQWLv2DfidEeP4967gDxN) | [Papo Reto](https://open.spotify.com/album/24RRYd3XJ5cDM5JnWxOb8e) | 2:31 | 2025-02-14 | 2025-04-05 |

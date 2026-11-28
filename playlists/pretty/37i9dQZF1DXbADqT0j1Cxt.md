@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 
 > Gentle lullabies to ease little ones into sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,942 likes - 229 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,916 likes - 229 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

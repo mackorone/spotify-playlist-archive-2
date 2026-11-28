@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Drik Barbosa",
-  "num_followers": 288329,
+  "num_followers": 288310,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -255,30 +255,30 @@
     {
       "added_at": "2026-11-27 03:00:33",
       "album": {
-        "name": "Trama",
-        "url": "https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7"
+        "name": "DUTTY WINE",
+        "url": "https://open.spotify.com/album/0kl3kVKjqyO1lKnO5siBCL"
       },
       "artists": [
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
         },
         {
-          "name": "Pedro Qualy",
-          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         },
         {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
         },
         {
-          "name": "Aksel",
-          "url": "https://open.spotify.com/artist/1sUETKU4N8F8kABpmDiOZW"
+          "name": "Morello",
+          "url": "https://open.spotify.com/artist/3jN7rWlaFiav4uc7e1BmYR"
         }
       ],
-      "duration_ms": 259591,
-      "name": "Trama",
-      "url": "https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o"
+      "duration_ms": 221079,
+      "name": "DUTTY WINE",
+      "url": "https://open.spotify.com/track/0Di2ur4W6N5adSkxoKiCSM"
     },
     {
       "added_at": "2026-11-27 03:00:33",
@@ -303,6 +303,34 @@
       "duration_ms": 144000,
       "name": "Passando as Horas",
       "url": "https://open.spotify.com/track/7JSziiXMmuMwX9yp5HnutR"
+    },
+    {
+      "added_at": "2026-11-27 03:00:33",
+      "album": {
+        "name": "Trama",
+        "url": "https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+        },
+        {
+          "name": "Aksel",
+          "url": "https://open.spotify.com/artist/1sUETKU4N8F8kABpmDiOZW"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Trama",
+      "url": "https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o"
     },
     {
       "added_at": "2026-11-27 03:00:33",
@@ -355,34 +383,6 @@
       "duration_ms": 160784,
       "name": "Duas Vezes",
       "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
-    },
-    {
-      "added_at": "2026-11-27 03:00:33",
-      "album": {
-        "name": "DUTTY WINE",
-        "url": "https://open.spotify.com/album/0kl3kVKjqyO1lKnO5siBCL"
-      },
-      "artists": [
-        {
-          "name": "Ruxell",
-          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Morello",
-          "url": "https://open.spotify.com/artist/3jN7rWlaFiav4uc7e1BmYR"
-        }
-      ],
-      "duration_ms": 221079,
-      "name": "DUTTY WINE",
-      "url": "https://open.spotify.com/track/0Di2ur4W6N5adSkxoKiCSM"
     },
     {
       "added_at": "2026-11-27 03:00:33",
@@ -1427,30 +1427,6 @@
     {
       "added_at": "2026-11-27 03:00:33",
       "album": {
-        "name": "Da Cabe\u00e7a Aos P\u00e9s",
-        "url": "https://open.spotify.com/album/7wp6Af27m0ibNimiWpceYC"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        },
-        {
-          "name": "GCARVALHO",
-          "url": "https://open.spotify.com/artist/1kNfxWOfLZgfDJsEP7tLHh"
-        },
-        {
-          "name": "CASITA",
-          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
-        }
-      ],
-      "duration_ms": 131252,
-      "name": "Da Cabe\u00e7a Aos P\u00e9s",
-      "url": "https://open.spotify.com/track/09LHATplvixVD0wBwqAERR"
-    },
-    {
-      "added_at": "2026-11-27 03:00:33",
-      "album": {
         "name": "Pra todo mundo que \u00e9 emocionado",
         "url": "https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg"
       },
@@ -1471,6 +1447,30 @@
       "duration_ms": 171585,
       "name": "Pra todo mundo que \u00e9 emocionado",
       "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
+    },
+    {
+      "added_at": "2026-11-27 03:00:33",
+      "album": {
+        "name": "Da Cabe\u00e7a Aos P\u00e9s",
+        "url": "https://open.spotify.com/album/7wp6Af27m0ibNimiWpceYC"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        },
+        {
+          "name": "GCARVALHO",
+          "url": "https://open.spotify.com/artist/1kNfxWOfLZgfDJsEP7tLHh"
+        },
+        {
+          "name": "CASITA",
+          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
+        }
+      ],
+      "duration_ms": 131252,
+      "name": "Da Cabe\u00e7a Aos P\u00e9s",
+      "url": "https://open.spotify.com/track/09LHATplvixVD0wBwqAERR"
     },
     {
       "added_at": "2026-11-27 03:00:33",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-11-27 03:00:33",
       "album": {
+        "name": "crisop\u00e9ia",
+        "url": "https://open.spotify.com/album/51Fdxfeg30etCgh9B4bnSg"
+      },
+      "artists": [
+        {
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "outro n\u00edvel",
+      "url": "https://open.spotify.com/track/6JcPVqA4VZvAT8117hICwi"
+    },
+    {
+      "added_at": "2026-11-27 03:00:33",
+      "album": {
         "name": "Onda",
         "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 205672,
       "name": "Cairo",
       "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
-    },
-    {
-      "added_at": "2026-11-27 03:00:33",
-      "album": {
-        "name": "crisop\u00e9ia",
-        "url": "https://open.spotify.com/album/51Fdxfeg30etCgh9B4bnSg"
-      },
-      "artists": [
-        {
-          "name": "Camargo",
-          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "outro n\u00edvel",
-      "url": "https://open.spotify.com/track/6JcPVqA4VZvAT8117hICwi"
     },
     {
       "added_at": "2026-11-27 03:00:33",

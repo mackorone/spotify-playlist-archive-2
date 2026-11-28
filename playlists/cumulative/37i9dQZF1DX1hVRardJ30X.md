@@ -4,7 +4,7 @@
 
 > New music by Cazzu, Anuel AA, Feid & Snoop Dogg, Ed Maverick and more.
 
-13,377 songs - 28 day 23 hr 8 min
+13,379 songs - 28 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3736,6 +3736,7 @@
 | [El Cielo Te Mandó para Mí](https://open.spotify.com/track/7HdimD8zmBiFmz5XfRIKIj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [El Cielo Te Mandó para Mí](https://open.spotify.com/album/3Sbn5yRNAZzyPIo93H9JaQ) | 2:50 | 2024-06-28 | 2024-07-06 |
 | [El Cigarrillo](https://open.spotify.com/track/7A6z3EnsJpFQow2ij3gG13) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [El Cigarrillo](https://open.spotify.com/album/62mw4SKw6JPrEWdAnT5Y9s) | 2:24 | 2024-11-15 | 2024-11-23 |
 | [EL CLúB](https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL CLúB](https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF) | 3:42 | 2024-12-06 | 2024-12-14 |
+| [El Coleccionista](https://open.spotify.com/track/6Ezn2Ln8mtdyyDpY7210yE) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [El Coleccionista](https://open.spotify.com/album/2IOCEw7UQClBai9ZPWybPi) | 3:00 | 2026-11-27 |  |
 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 | 2022-02-25 | 2022-03-05 |
 | [El Compa Carlos \- En Vivo](https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Golpe de Estado \(En Vivo\)](https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg) | 2:15 | 2022-03-11 | 2022-03-18 |
 | [El Con Con](https://open.spotify.com/track/4ZTbTvevmFuXUQ26LTLEoy) | [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA), [A.C.](https://open.spotify.com/artist/0nEAytOgLVljiBx1pj4uWy), [Maceo El Perro Blanco](https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6) | [El Con Con](https://open.spotify.com/album/29HCwiG8wd0LWtSzMN5SWf) | 2:36 | 2022-05-13 | 2022-05-20 |
@@ -8870,6 +8871,7 @@
 | [otra canción](https://open.spotify.com/track/2MHt7GnsqxgN3JmLmpxV0S) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [otra canción](https://open.spotify.com/album/60O8Hgw5ZKxk5kRWoXcsoT) | 2:36 | 2022-12-02 | 2022-12-10 |
 | [Otra Canción](https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Otra Canción](https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6) | 3:40 | 2021-12-24 | 2022-01-08 |
 | [Otra Canción De Amor](https://open.spotify.com/track/6Vlki1f0QbQX95vrMXMcGM) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Otra Canción De Amor](https://open.spotify.com/album/0mrinmJOJyGvx2iFrlI6cw) | 3:50 | 2022-07-29 | 2022-08-06 |
+| [OTRA CONSTELACIÓN](https://open.spotify.com/track/4x1BMGX95PwmTWiWbWvy0a) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [OTRA CONSTELACIÓN](https://open.spotify.com/album/70CWhxeyrWRsOLdwtKvX1r) | 3:07 | 2026-11-27 |  |
 | [Otra Cosa](https://open.spotify.com/track/1CZE56TyhNwIffdDr4GyCC) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Santiago Berrio](https://open.spotify.com/artist/3poRvxocbLlXT9rER89tAs) | [Otra Cosa](https://open.spotify.com/album/3QLasL9GBu5vdVmk8hnt1c) | 2:12 | 2026-05-22 | 2026-05-30 |
 | [OTRA COSA MARIPOSA](https://open.spotify.com/track/4bEt3v7NRisM84YVfzgdyy) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [OTRA COSA MARIPOSA](https://open.spotify.com/album/5WbuT5XstCjeeZTz4eUWki) | 2:43 | 2026-04-24 | 2026-05-02 |
 | [Otra Mentira](https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Otra Mentira](https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl) | 4:18 | 2024-12-13 | 2024-12-21 |

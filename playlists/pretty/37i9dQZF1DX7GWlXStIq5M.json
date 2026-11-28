@@ -1,6 +1,6 @@
 {
   "description": "Hits e novidades do pop experimental no mesmo palco! Foto: Jo\u00e3o Lucas",
-  "num_followers": 353233,
+  "num_followers": 353201,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-11-27 03:00:38",
       "album": {
-        "name": "Estrela",
-        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 187578,
-      "name": "A Estrela",
-      "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
-    },
-    {
-      "added_at": "2026-11-27 03:00:38",
-      "album": {
         "name": "Ai, Que Ci\u00fame",
         "url": "https://open.spotify.com/album/6UMzCWpCuNe9vVJH48ZvG4"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 160588,
       "name": "Ai, Que Ci\u00fame",
       "url": "https://open.spotify.com/track/715HUkc9npkx00kT8MsbCB"
+    },
+    {
+      "added_at": "2026-11-27 03:00:38",
+      "album": {
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 187578,
+      "name": "A Estrela",
+      "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
     },
     {
       "added_at": "2026-11-27 03:00:38",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-11-27 03:00:38",
       "album": {
-        "name": "Errado pra mim",
-        "url": "https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 151925,
-      "name": "Errado pra mim",
-      "url": "https://open.spotify.com/track/6EAqA71uEIEtt0QfvU8OAQ"
-    },
-    {
-      "added_at": "2026-11-27 03:00:38",
-      "album": {
         "name": "Sandu\u00edches Naturais",
         "url": "https://open.spotify.com/album/3HEGcK45hwXR5VMqRxJ6A4"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 150000,
       "name": "Sandu\u00edches Naturais",
       "url": "https://open.spotify.com/track/0aBwncYAD2fiCw2n5F6JWn"
+    },
+    {
+      "added_at": "2026-11-27 03:00:38",
+      "album": {
+        "name": "Errado pra mim",
+        "url": "https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 151925,
+      "name": "Errado pra mim",
+      "url": "https://open.spotify.com/track/6EAqA71uEIEtt0QfvU8OAQ"
     },
     {
       "added_at": "2026-11-27 03:00:38",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-11-27 03:00:38",
       "album": {
-        "name": "Baby, l\u00e1 onde?",
-        "url": "https://open.spotify.com/album/1KN3NoJYzoeyffdUje6AYn"
-      },
-      "artists": [
-        {
-          "name": "Giovanna",
-          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
-        },
-        {
-          "name": "Diima",
-          "url": "https://open.spotify.com/artist/3U8tpoAuUtanEur6WCpqFk"
-        }
-      ],
-      "duration_ms": 206415,
-      "name": "Baby, l\u00e1 onde?",
-      "url": "https://open.spotify.com/track/0wWEfSm8cY7bX1yQzuD6wc"
-    },
-    {
-      "added_at": "2026-11-27 03:00:38",
-      "album": {
         "name": "LCD (feat. kouth)",
         "url": "https://open.spotify.com/album/6kuLYNfd3FlBY5rTW9lfFq"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 192241,
       "name": "LCD (feat. kouth)",
       "url": "https://open.spotify.com/track/1pcSp1ZZxInmzkFRKSfosW"
+    },
+    {
+      "added_at": "2026-11-27 03:00:38",
+      "album": {
+        "name": "Baby, l\u00e1 onde?",
+        "url": "https://open.spotify.com/album/1KN3NoJYzoeyffdUje6AYn"
+      },
+      "artists": [
+        {
+          "name": "Giovanna",
+          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
+        },
+        {
+          "name": "Diima",
+          "url": "https://open.spotify.com/artist/3U8tpoAuUtanEur6WCpqFk"
+        }
+      ],
+      "duration_ms": 206415,
+      "name": "Baby, l\u00e1 onde?",
+      "url": "https://open.spotify.com/track/0wWEfSm8cY7bX1yQzuD6wc"
     },
     {
       "added_at": "2026-11-27 03:00:38",
@@ -567,22 +567,18 @@
     {
       "added_at": "2026-11-27 03:00:38",
       "album": {
-        "name": "L\u00f3tus",
-        "url": "https://open.spotify.com/album/2MmihnLyHR6arfyTpB4KId"
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/1Hu7oxpLBXFeJgz1epgEvH"
       },
       "artists": [
         {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "outro lado",
-          "url": "https://open.spotify.com/artist/3QmFq43WZx7c0kgBHLgVX6"
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
         }
       ],
-      "duration_ms": 163571,
-      "name": "Banho de Sol",
-      "url": "https://open.spotify.com/track/6yoAW4zcYOKiIoWpEqwtaE"
+      "duration_ms": 213429,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/4EeabehFz5I7NY7va3jdlI"
     },
     {
       "added_at": "2026-11-27 03:00:38",
@@ -603,6 +599,26 @@
     {
       "added_at": "2026-11-27 03:00:38",
       "album": {
+        "name": "L\u00f3tus",
+        "url": "https://open.spotify.com/album/2MmihnLyHR6arfyTpB4KId"
+      },
+      "artists": [
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "outro lado",
+          "url": "https://open.spotify.com/artist/3QmFq43WZx7c0kgBHLgVX6"
+        }
+      ],
+      "duration_ms": 163571,
+      "name": "Banho de Sol",
+      "url": "https://open.spotify.com/track/6yoAW4zcYOKiIoWpEqwtaE"
+    },
+    {
+      "added_at": "2026-11-27 03:00:38",
+      "album": {
         "name": "NUVEM NEGRA",
         "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 294570,
       "name": "NUVEM NEGRA",
       "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
-    },
-    {
-      "added_at": "2026-11-27 03:00:38",
-      "album": {
-        "name": "Miragem",
-        "url": "https://open.spotify.com/album/1Hu7oxpLBXFeJgz1epgEvH"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 213429,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/4EeabehFz5I7NY7va3jdlI"
     },
     {
       "added_at": "2026-11-27 03:00:38",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-11-27 03:00:38",
       "album": {
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-11-27 03:00:38",
+      "album": {
         "name": "Alfazema e Sal Grosso",
         "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 178285,
       "name": "Alfazema e Sal Grosso",
       "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
-    },
-    {
-      "added_at": "2026-11-27 03:00:38",
-      "album": {
-        "name": "no seu tempo",
-        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 158922,
-      "name": "no seu tempo",
-      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
     },
     {
       "added_at": "2026-11-27 03:00:38",
@@ -839,6 +839,22 @@
       "duration_ms": 164494,
       "name": "Agarradinho - Spotify Singles",
       "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+    },
+    {
+      "added_at": "2026-11-27 03:00:38",
+      "album": {
+        "name": "Minha Solid\u00e3o",
+        "url": "https://open.spotify.com/album/1xlzjASuzIOSk3l2SVQdSu"
+      },
+      "artists": [
+        {
+          "name": "Luisa Meirelles",
+          "url": "https://open.spotify.com/artist/0lwH9AE7SHTN8JZf0lYZmU"
+        }
+      ],
+      "duration_ms": 184380,
+      "name": "Minha Solid\u00e3o",
+      "url": "https://open.spotify.com/track/2g6MDfkuJglDyRR2LREkfS"
     },
     {
       "added_at": "2026-11-27 03:00:38",
@@ -911,22 +927,6 @@
     {
       "added_at": "2026-11-27 03:00:38",
       "album": {
-        "name": "Minha Solid\u00e3o",
-        "url": "https://open.spotify.com/album/1xlzjASuzIOSk3l2SVQdSu"
-      },
-      "artists": [
-        {
-          "name": "Luisa Meirelles",
-          "url": "https://open.spotify.com/artist/0lwH9AE7SHTN8JZf0lYZmU"
-        }
-      ],
-      "duration_ms": 184380,
-      "name": "Minha Solid\u00e3o",
-      "url": "https://open.spotify.com/track/2g6MDfkuJglDyRR2LREkfS"
-    },
-    {
-      "added_at": "2026-11-27 03:00:38",
-      "album": {
         "name": "Outras Vezes",
         "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 152042,
       "name": "eu me entendo mal",
       "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
+    },
+    {
+      "added_at": "2026-11-27 03:00:38",
+      "album": {
+        "name": "QUASE",
+        "url": "https://open.spotify.com/album/5i3ZFneZMIxAtBSpcQFyFZ"
+      },
+      "artists": [
+        {
+          "name": "Gabi Vicari",
+          "url": "https://open.spotify.com/artist/5A0FNnwAduqJICXU1PGBg8"
+        }
+      ],
+      "duration_ms": 158023,
+      "name": "QUASE",
+      "url": "https://open.spotify.com/track/5df0v8MZSS3Tp5f1dgVSjo"
     },
     {
       "added_at": "2026-11-27 03:00:38",
@@ -1035,6 +1051,26 @@
     {
       "added_at": "2026-11-27 03:00:38",
       "album": {
+        "name": "Sussurro",
+        "url": "https://open.spotify.com/album/5CBNvCblR9nYl0m8J6qqzr"
+      },
+      "artists": [
+        {
+          "name": "YAZI",
+          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
+        },
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 202810,
+      "name": "Virou Costume",
+      "url": "https://open.spotify.com/track/1lunSjPdQokMjb4gOrTqaZ"
+    },
+    {
+      "added_at": "2026-11-27 03:00:38",
+      "album": {
         "name": "Partilhar",
         "url": "https://open.spotify.com/album/3ERX6HBfLHvDmDS3PvY0ok"
       },
@@ -1099,42 +1135,6 @@
       "duration_ms": 171130,
       "name": "Brisa Boa",
       "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
-    },
-    {
-      "added_at": "2026-11-27 03:00:38",
-      "album": {
-        "name": "QUASE",
-        "url": "https://open.spotify.com/album/5i3ZFneZMIxAtBSpcQFyFZ"
-      },
-      "artists": [
-        {
-          "name": "Gabi Vicari",
-          "url": "https://open.spotify.com/artist/5A0FNnwAduqJICXU1PGBg8"
-        }
-      ],
-      "duration_ms": 158023,
-      "name": "QUASE",
-      "url": "https://open.spotify.com/track/5df0v8MZSS3Tp5f1dgVSjo"
-    },
-    {
-      "added_at": "2026-11-27 03:00:38",
-      "album": {
-        "name": "Sussurro",
-        "url": "https://open.spotify.com/album/5CBNvCblR9nYl0m8J6qqzr"
-      },
-      "artists": [
-        {
-          "name": "YAZI",
-          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
-        },
-        {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
-        }
-      ],
-      "duration_ms": 202810,
-      "name": "Virou Costume",
-      "url": "https://open.spotify.com/track/1lunSjPdQokMjb4gOrTqaZ"
     },
     {
       "added_at": "2026-11-27 03:00:38",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-11-27 03:00:38",
       "album": {
-        "name": "Ecos do Desejo",
-        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        }
-      ],
-      "duration_ms": 146538,
-      "name": "Noites de Neon",
-      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
-    },
-    {
-      "added_at": "2026-11-27 03:00:38",
-      "album": {
         "name": "carne fraca",
         "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 154285,
       "name": "carne fraca",
       "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
+    },
+    {
+      "added_at": "2026-11-27 03:00:38",
+      "album": {
+        "name": "Ecos do Desejo",
+        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Noites de Neon",
+      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
     },
     {
       "added_at": "2026-11-27 03:00:38",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-11-27 03:00:38",
       "album": {
+        "name": "Minha Confus\u00e3o",
+        "url": "https://open.spotify.com/album/0jbAXZXG32043EEsDBGypv"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "duration_ms": 173973,
+      "name": "Doce, Sujo & Tropical",
+      "url": "https://open.spotify.com/track/0NW3EYb2UsVttjK02FKUNw"
+    },
+    {
+      "added_at": "2026-11-27 03:00:38",
+      "album": {
         "name": "Caos e Poesia",
         "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 145927,
       "name": "Caos e Poesia",
       "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
-    },
-    {
-      "added_at": "2026-11-27 03:00:38",
-      "album": {
-        "name": "Minha Confus\u00e3o",
-        "url": "https://open.spotify.com/album/0jbAXZXG32043EEsDBGypv"
-      },
-      "artists": [
-        {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
-        }
-      ],
-      "duration_ms": 173973,
-      "name": "Doce, Sujo & Tropical",
-      "url": "https://open.spotify.com/track/0NW3EYb2UsVttjK02FKUNw"
     },
     {
       "added_at": "2026-11-27 03:00:38",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-11-27 03:00:38",
       "album": {
-        "name": "iaiaia",
-        "url": "https://open.spotify.com/album/0mqp4oeBOnEkMjud4WywFI"
-      },
-      "artists": [
-        {
-          "name": "PECI",
-          "url": "https://open.spotify.com/artist/7aeHLKCANCJ2ATbtFdElsV"
-        }
-      ],
-      "duration_ms": 133814,
-      "name": "iaiaia",
-      "url": "https://open.spotify.com/track/3HUkh5Wunkm8GPMRQ4zc88"
-    },
-    {
-      "added_at": "2026-11-27 03:00:38",
-      "album": {
         "name": "crisop\u00e9ia",
         "url": "https://open.spotify.com/album/51Fdxfeg30etCgh9B4bnSg"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 213333,
       "name": "outro n\u00edvel",
       "url": "https://open.spotify.com/track/6JcPVqA4VZvAT8117hICwi"
+    },
+    {
+      "added_at": "2026-11-27 03:00:38",
+      "album": {
+        "name": "iaiaia",
+        "url": "https://open.spotify.com/album/0mqp4oeBOnEkMjud4WywFI"
+      },
+      "artists": [
+        {
+          "name": "PECI",
+          "url": "https://open.spotify.com/artist/7aeHLKCANCJ2ATbtFdElsV"
+        }
+      ],
+      "duration_ms": 133814,
+      "name": "iaiaia",
+      "url": "https://open.spotify.com/track/3HUkh5Wunkm8GPMRQ4zc88"
     }
   ],
   "unique_name": "Palco POP",

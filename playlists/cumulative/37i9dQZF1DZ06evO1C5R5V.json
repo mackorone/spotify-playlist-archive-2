@@ -1587,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "\u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/4KvZttmSOySZyEpLhwk19a"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306280,
+      "name": "Un D\u00eda a la Vez",
+      "url": "https://open.spotify.com/track/3ij9KuULdvHacXcx5eesHC"
+    },
+    {
+      "album": {
         "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
         "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
       },
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 306293,
       "name": "Un D\u00eda A La Vez",
       "url": "https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu"

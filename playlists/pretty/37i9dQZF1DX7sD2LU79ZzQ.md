@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Rendy Pandugo
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,551 likes - 101 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,584 likes - 101 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

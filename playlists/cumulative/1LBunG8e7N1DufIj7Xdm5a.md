@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,541 songs - 12 day 22 hr 4 min
+5,545 songs - 12 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2741,6 +2741,7 @@
 | [Lighty \(another\)](https://open.spotify.com/track/3xBDNSyeokrYSiXBHCB2IE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Minimal Electronic Pop](https://open.spotify.com/album/3U0AvE2h1DP2WyGgtRQnmz) | 3:14 | 2025-09-17 |  |
 | [Like A Child](https://open.spotify.com/track/0FhUm7tj0cphEFXzeOMUpE) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [Like A Child](https://open.spotify.com/album/0Jh9kFZ1Ww2f56St5rvw1L) | 2:23 | 2026-07-24 |  |
 | [Like a Sun](https://open.spotify.com/track/3LSsDvUngLzH6ayzSmv1Pw) | [Charlie Toulson](https://open.spotify.com/artist/5XVuDmp4R5ESKtdYKu4u9n) | [Blood](https://open.spotify.com/album/4OlJmPoZcR6HhP9ryrYjoD) | 2:16 | 2025-12-26 |  |
+| [Like Before](https://open.spotify.com/track/4melEigmN3Xo9wEeKIdpkk) | [Sicadia](https://open.spotify.com/artist/5gvL3hu4dmzLxYv1MIcPrh) | [Wonder by the Wayside](https://open.spotify.com/album/4ki18fKpFpsyNCEUy9wjEZ) | 4:10 | 2026-11-27 |  |
 | [Like I Love You](https://open.spotify.com/track/2BmUatmy9K4kZL8SLgne6l) | [Miley Rose](https://open.spotify.com/artist/6MA3iyWPi3BNUecJdCp563) | [Like I Love You](https://open.spotify.com/album/2bdsi3Elzz7AQx99LRMdn7) | 3:30 | 2026-02-27 |  |
 | [Like The Dragonflies](https://open.spotify.com/track/6wupREgOCQGRn6TUdAaw7e) | [AnnoLuce](https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A), [Mat Neumann](https://open.spotify.com/artist/6Ewb0KHn0X3JkieRDGBTYn) | [Like The Dragonflies](https://open.spotify.com/album/2NJ28PGU3y3gwyzF4YJzRj) | 4:08 | 2025-06-06 |  |
 | [Linger \- Remastered 2026](https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 4:34 | 2026-11-03 |  |
@@ -2892,6 +2893,7 @@
 | [LVING IT](https://open.spotify.com/track/3ENnhUuyp2l967WUZp3f9Z) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [LVING IT](https://open.spotify.com/album/5XcyzIEwH9CDhmhS3QXgJj) | 2:23 | 2025-07-01 |  |
 | [Lying](https://open.spotify.com/track/3NQ352T1u3Zn389Io8EmF5) | [Unlucky Empathy](https://open.spotify.com/artist/3stdHKfwcRB3Vmj7KQOsYl) | [Lying](https://open.spotify.com/album/6qdZO3ebPEZhVxx0BRDU6h) | 5:12 | 2026-04-20 |  |
 | [lykyk](https://open.spotify.com/track/2Mj9GKtxNGoyi7jjbRjTmq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 3:14 | 2025-09-17 |  |
+| [Lyla](https://open.spotify.com/track/6R1kX4N29DqQyCBP4UVfmx) | [The Mayfield Four](https://open.spotify.com/artist/05NCiWxfvfgFSzPxwGq0rp) | [Second Skin](https://open.spotify.com/album/1V45qWyrMRLOW500izE2KM) | 3:00 | 2026-11-27 |  |
 | [l’aéroport](https://open.spotify.com/track/0rKjsceOtH5hNv2eGu84b0) | [særa](https://open.spotify.com/artist/0HCt4BrSudkXCDjNOMrAjR) | [Embarquement Nécessaire](https://open.spotify.com/album/1xknkdog0PZO3vFgYhBgeW) | 2:07 | 2026-08-05 |  |
 | [Machine Apocalypse](https://open.spotify.com/track/0AqccdPW454NRitVUhgyxN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Electronic Techno Metal](https://open.spotify.com/album/3QGQOQiU2ULfdIXSSp3w2y) | 2:39 | 2025-09-17 |  |
 | [Machine Apocalypse \(another\)](https://open.spotify.com/track/2jJUucEIJQaxX4bGQ1r24F) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Electronic Techno Metal](https://open.spotify.com/album/3QGQOQiU2ULfdIXSSp3w2y) | 3:47 | 2025-09-17 |  |
@@ -3345,6 +3347,7 @@
 | [No quiero estar solo nunca más](https://open.spotify.com/track/448Sx8mEVA8d7Biazln8kl) | [Blackstonia](https://open.spotify.com/artist/41SIgT5sIU5Z9RZYHF2AkR) | [Días Mejores](https://open.spotify.com/album/4aUaOscueIapTMQjFC0ucx) | 3:24 | 2026-10-05 |  |
 | [No Quiero ni Pensar](https://open.spotify.com/track/5HRJmiaRM0g5uVZ6F2gJMx) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [No Quiero ni Pensar](https://open.spotify.com/album/7zTkj9wgdNMlha7Ui7gkB8) | 5:34 | 2026-11-03 |  |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-09-24 |  |
+| [No se si viste](https://open.spotify.com/track/0ozrNexIXvE7Jmxbmbmonz) | [Quiet Horizon Waves](https://open.spotify.com/artist/4FrytmPi4F5nDr9yxn5uPh) | [No se si viste](https://open.spotify.com/album/0SEbSanJakOzEZ0um34Fhq) | 2:45 | 2026-11-27 |  |
 | [No se si volvere](https://open.spotify.com/track/4U8HxF2oVnldIOLajkJpPx) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [PACIFIC OCEAN](https://open.spotify.com/album/5wjSICXLTYEKX4vXdBLny3) | 5:00 | 2026-11-03 |  |
 | [No Te Voy a Perdonar](https://open.spotify.com/track/45FfiQ7whEbvLA98QbE5zj) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Te Voy a Perdonar, Vol\. 4 \(2025 Remastered\)](https://open.spotify.com/album/5y32k8sV7xRSAFZS2Ufyet) | 3:52 | 2026-11-03 |  |
 | [No Tengo Dinero](https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 3:06 | 2026-11-03 |  |
@@ -3790,6 +3793,7 @@
 | [Qué Te Pasó](https://open.spotify.com/track/5oxUwWuZGG0DbQI1YefvHm) | [El Mr.](https://open.spotify.com/artist/0UTWj8L8tNSJ2DC9E1by91) | [Qué Te Pasó](https://open.spotify.com/album/6Dmm45j5gHI85rG6AbE6U0) | 3:31 | 2025-12-29 |  |
 | [R.I.P.](https://open.spotify.com/track/23i0tPsziYDQHC7xjMaQzb) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 4:26 | 2026-05-15 |  |
 | [Raaton Main](https://open.spotify.com/track/7FZNudaYzSslPVo7UQup8w) | [Sidharth Arun](https://open.spotify.com/artist/25CoCzWysxGpvbMGdWYalM) | [Raaton Main](https://open.spotify.com/album/1GaOQrexSJ6KtWMXZGrNWv) | 2:42 | 2026-11-06 |  |
+| [Rab Jaane](https://open.spotify.com/track/0SmcApIMWTjgoRBqW15VgC) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Rab Jaane](https://open.spotify.com/album/0YVGgaTRONMmAbJyJErKZR) | 3:31 | 2026-11-27 |  |
 | [Rabbia Dolce](https://open.spotify.com/track/7xLNh8pMM8z1vd9A47xn34) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano, Vol\. 2](https://open.spotify.com/album/4Yp8DTiAygh1xmsyajQFeo) | 3:02 | 2025-09-14 |  |
 | [Rabbia Dolce \(another\)](https://open.spotify.com/track/3wEhOGps9QE2vlTRIRKkeQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano, Vol\. 2](https://open.spotify.com/album/4Yp8DTiAygh1xmsyajQFeo) | 2:25 | 2025-09-14 |  |
 | [Rabbia e Fuoco](https://open.spotify.com/track/1KLqaZOb1k4CPKtWbZNiY7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 3:03 | 2025-09-18 |  |
@@ -3878,7 +3882,7 @@
 | [Restless Streets \(another\)](https://open.spotify.com/track/0lOXJf1ftzE93gHwO5hpe1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard 'n Pop Rock](https://open.spotify.com/album/2EO8bOHrgxO8jNPR7ASHcA) | 2:09 | 2025-09-17 |  |
 | [Retales](https://open.spotify.com/track/01oNKX6bloOAbGONEqsoZd) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 2:45 | 2026-03-15 |  |
 | [Retro Future Noise](https://open.spotify.com/track/3QfhEDqDLYA7xGLfdNCmyl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape'n roll](https://open.spotify.com/album/6yfNduDodOKYVRsLkl2Awp) | 3:55 | 2025-09-19 |  |
-| [Retrowave](https://open.spotify.com/track/0heXwk8cres9G4U6zjp1yB) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Retrowave](https://open.spotify.com/album/639QhegiNC31nsAmAvnZZk) | 3:11 | 2025-08-27 |  |
+| [Retrowave](https://open.spotify.com/track/0heXwk8cres9G4U6zjp1yB) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Retrowave](https://open.spotify.com/album/639QhegiNC31nsAmAvnZZk) | 3:11 | 2025-08-27 | 2026-11-28 |
 | [Return Of My Heart](https://open.spotify.com/track/4AguWjDrUwF7g5ADBIwTni) | [The Skanks](https://open.spotify.com/artist/0v0TjF66EusIrCf2uk9xlB) | [Return Of My Heart](https://open.spotify.com/album/0MIP1A1PL4lDRCjagEwy1q) | 4:59 | 2026-09-04 |  |
 | [Return to Yogi](https://open.spotify.com/track/28oTOe1doPv1CHsTrsHK5e) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE \(Deleted\)](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:22 | 2026-02-01 |  |
 | [Revenge of Mother\-in\-law](https://open.spotify.com/track/6gPC4IjxizhyUveuWnDHSb) | [Max Jerath](https://open.spotify.com/artist/3gCh1V6MNT4QUAHBxb4PWy) | [Revenge of Mother\-in\-law](https://open.spotify.com/album/1ga3uMyJV8pPtVVkjE1L7r) | 2:40 | 2025-06-03 |  |

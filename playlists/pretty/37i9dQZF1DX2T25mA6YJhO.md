@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Sanguijuelas del Guadiana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,800 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,859 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 23 | [Matanza En El Hotel](https://open.spotify.com/track/1HoQJxHaWa8USxYXjuJpTK) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Pelo De Foca](https://open.spotify.com/album/7IaN8e5ag5SEFaHLBmKBss) | 3:10 |
 | 24 | [DtMF](https://open.spotify.com/track/1W1eBWJdSwv5fXoDyDRlyO) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [DtMF](https://open.spotify.com/album/1fdsmehSRG0Z20gxiDb7ue) | 3:17 |
 | 25 | [Junto Al Cenicero](https://open.spotify.com/track/6NQaIhAMoO2H9ty6UJo1Du) | [Interferencias](https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN) | [Junto Al Cenicero](https://open.spotify.com/album/15Iy0RzTnfsmL4QV0y1EDm) | 3:27 |
-| 26 | [Noche de Pánico](https://open.spotify.com/track/7tfmaigofuhzvdozxa414W) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [Noche de Pánico](https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW) | 4:10 |
+| 26 | [Tiempo de Descuento](https://open.spotify.com/track/4RQAQpLaQDjYDG2xXyJU7q) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [Noche de Pánico](https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW) | 5:16 |
 | 27 | [Llamaré a tu puerta](https://open.spotify.com/track/4LVmovTMzaAkENvHQItFFN) | [Santero y Los Muchachos](https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR) | [Llamaré a tu puerta](https://open.spotify.com/album/2RH2jkMtegjMRxYzrHDlk7) | 4:36 |
 | 28 | [Culito](https://open.spotify.com/track/4eAsXihXH5D8P6P8dGVhmV) | [Emilia, Pardo y Bazán](https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j) | [Culito](https://open.spotify.com/album/6Q0EC7euoemxVcubjbQdQV) | 3:12 |
 | 29 | [Skol](https://open.spotify.com/track/3AIxhYnWjxQZmcFeDx667S) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP), [Los Chivatos](https://open.spotify.com/artist/1FrY0lSuDVQMmUFE3grB85) | [Skol](https://open.spotify.com/album/73fzO2bTDPFJZ8RbClCm9G) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [Mil pequeños cortes](https://open.spotify.com/track/6iYN2H0tO9W3tcoHExxYXh) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Mil pequeños cortes](https://open.spotify.com/album/4YkAVofjMDZ448u3fo6BGN) | 3:06 |
 | 100 | [Donde nadie quiere ser el bueno](https://open.spotify.com/track/5kJGrL3Ev3cmoY4jAdmsec) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Todas las vidas](https://open.spotify.com/album/1vL5xKK8jrC5yhmu5ug7ek) | 2:43 |
 
-Snapshot ID: `AAAAAMznJK9po/kIyznPggiZcAvb5WUr`
+Snapshot ID: `AAAAADCxsM4PyHyqrgdixNWbbQFnjvgp`

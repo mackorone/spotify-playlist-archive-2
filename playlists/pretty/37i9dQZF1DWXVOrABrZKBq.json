@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Alpha Wann",
-  "num_followers": 25471,
+  "num_followers": 25498,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -459,18 +459,22 @@
     {
       "added_at": "2026-11-27 05:02:54",
       "album": {
-        "name": "REN\u00c9 CAOVILLA",
-        "url": "https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR"
+        "name": "Noum\u00e9a",
+        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
       },
       "artists": [
         {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Linema",
+          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
         }
       ],
-      "duration_ms": 137973,
-      "name": "REN\u00c9 CAOVILLA",
-      "url": "https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT"
+      "duration_ms": 228931,
+      "name": "Noum\u00e9a",
+      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
     },
     {
       "added_at": "2026-11-27 05:02:54",
@@ -495,22 +499,18 @@
     {
       "added_at": "2026-11-27 05:02:54",
       "album": {
-        "name": "Noum\u00e9a",
-        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
+        "name": "REN\u00c9 CAOVILLA",
+        "url": "https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR"
       },
       "artists": [
         {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        },
-        {
-          "name": "Linema",
-          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
         }
       ],
-      "duration_ms": 228931,
-      "name": "Noum\u00e9a",
-      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
+      "duration_ms": 137973,
+      "name": "REN\u00c9 CAOVILLA",
+      "url": "https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT"
     },
     {
       "added_at": "2026-11-27 05:02:54",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-11-27 05:02:54",
       "album": {
-        "name": "BBL",
-        "url": "https://open.spotify.com/album/5vETXvgVjoVMQPuduE0pqM"
-      },
-      "artists": [
-        {
-          "name": "OG Plugging",
-          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
-        }
-      ],
-      "duration_ms": 135793,
-      "name": "BBL",
-      "url": "https://open.spotify.com/track/3zoUavHhrlojdvFOxZo1Ny"
-    },
-    {
-      "added_at": "2026-11-27 05:02:54",
-      "album": {
         "name": "Amiri",
         "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 176190,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT"
+    },
+    {
+      "added_at": "2026-11-27 05:02:54",
+      "album": {
+        "name": "BBL",
+        "url": "https://open.spotify.com/album/5vETXvgVjoVMQPuduE0pqM"
+      },
+      "artists": [
+        {
+          "name": "OG Plugging",
+          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
+        }
+      ],
+      "duration_ms": 135793,
+      "name": "BBL",
+      "url": "https://open.spotify.com/track/3zoUavHhrlojdvFOxZo1Ny"
     },
     {
       "added_at": "2026-11-27 05:02:54",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2026-11-27 05:02:54",
       "album": {
-        "name": "NETFLIX CHILL",
-        "url": "https://open.spotify.com/album/2jJBGEZ6vfmQXQ4qJUeVq2"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        },
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        },
-        {
-          "name": "PRINC\u20ac",
-          "url": "https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj"
-        }
-      ],
-      "duration_ms": 148676,
-      "name": "NETFLIX CHILL",
-      "url": "https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD"
-    },
-    {
-      "added_at": "2026-11-27 05:02:54",
-      "album": {
         "name": "Pow Pow / Allo Doudou",
         "url": "https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB"
       },
@@ -1331,38 +1307,26 @@
     {
       "added_at": "2026-11-27 05:02:54",
       "album": {
-        "name": "Dans la temp\u00eate",
-        "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
+        "name": "NETFLIX CHILL",
+        "url": "https://open.spotify.com/album/2jJBGEZ6vfmQXQ4qJUeVq2"
       },
       "artists": [
         {
-          "name": "HMZ",
-          "url": "https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
         },
         {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 150741,
-      "name": "Saison",
-      "url": "https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb"
-    },
-    {
-      "added_at": "2026-11-27 05:02:54",
-      "album": {
-        "name": "L'humain",
-        "url": "https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG"
-      },
-      "artists": [
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
         {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+          "name": "PRINC\u20ac",
+          "url": "https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj"
         }
       ],
-      "duration_ms": 176933,
-      "name": "L'humain",
-      "url": "https://open.spotify.com/track/4TK7vNav592pavcStbeTsD"
+      "duration_ms": 148676,
+      "name": "NETFLIX CHILL",
+      "url": "https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD"
     },
     {
       "added_at": "2026-11-27 05:02:54",
@@ -1387,6 +1351,42 @@
     {
       "added_at": "2026-11-27 05:02:54",
       "album": {
+        "name": "L'humain",
+        "url": "https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 176933,
+      "name": "L'humain",
+      "url": "https://open.spotify.com/track/4TK7vNav592pavcStbeTsD"
+    },
+    {
+      "added_at": "2026-11-27 05:02:54",
+      "album": {
+        "name": "Dans la temp\u00eate",
+        "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
+      },
+      "artists": [
+        {
+          "name": "HMZ",
+          "url": "https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 150741,
+      "name": "Saison",
+      "url": "https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb"
+    },
+    {
+      "added_at": "2026-11-27 05:02:54",
+      "album": {
         "name": "LA VAR",
         "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-11-27 05:02:54",
       "album": {
-        "name": "Pas Comme Eux",
-        "url": "https://open.spotify.com/album/7xiXKWEcTSh5AI6d4C3raw"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 152240,
-      "name": "Pas Comme Eux",
-      "url": "https://open.spotify.com/track/7MKKSAsgDDRRscuy5XLbnZ"
-    },
-    {
-      "added_at": "2026-11-27 05:02:54",
-      "album": {
         "name": "Ch\u00e9rie coco",
         "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 144000,
       "name": "Ch\u00e9rie coco",
       "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
+    },
+    {
+      "added_at": "2026-11-27 05:02:54",
+      "album": {
+        "name": "Pas Comme Eux",
+        "url": "https://open.spotify.com/album/7xiXKWEcTSh5AI6d4C3raw"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 152240,
+      "name": "Pas Comme Eux",
+      "url": "https://open.spotify.com/track/7MKKSAsgDDRRscuy5XLbnZ"
     },
     {
       "added_at": "2026-11-27 05:02:54",
@@ -1563,26 +1563,22 @@
     {
       "added_at": "2026-11-27 05:02:54",
       "album": {
-        "name": "Cin\u00e9ma",
-        "url": "https://open.spotify.com/album/2lmv8sms6t9KNdpVAlL8Ot"
+        "name": "Devin Booker",
+        "url": "https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt"
       },
       "artists": [
         {
-          "name": "No Limit",
-          "url": "https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e"
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
         },
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Cin\u00e9ma",
-      "url": "https://open.spotify.com/track/59NwklVbw1kpggri6gWN9p"
+      "duration_ms": 173324,
+      "name": "Devin Booker",
+      "url": "https://open.spotify.com/track/6hWILMgUROGXh0rSewqiLT"
     },
     {
       "added_at": "2026-11-27 05:02:54",
@@ -1603,22 +1599,26 @@
     {
       "added_at": "2026-11-27 05:02:54",
       "album": {
-        "name": "Devin Booker",
-        "url": "https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt"
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/2lmv8sms6t9KNdpVAlL8Ot"
       },
       "artists": [
         {
-          "name": "JRK 19",
-          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+          "name": "No Limit",
+          "url": "https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e"
         },
         {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
         }
       ],
-      "duration_ms": 173324,
-      "name": "Devin Booker",
-      "url": "https://open.spotify.com/track/6hWILMgUROGXh0rSewqiLT"
+      "duration_ms": 192000,
+      "name": "Cin\u00e9ma",
+      "url": "https://open.spotify.com/track/59NwklVbw1kpggri6gWN9p"
     },
     {
       "added_at": "2026-11-27 05:02:54",
@@ -1711,22 +1711,18 @@
     {
       "added_at": "2026-11-27 05:02:54",
       "album": {
-        "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua"
       },
       "artists": [
         {
-          "name": "Typhee",
-          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
-        },
-        {
-          "name": "Nouvelle \u00c9cole",
-          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 174000,
-      "name": "TERIYAKI - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/1kbzRJsAFqLuAHZRDH7L5A"
+      "duration_ms": 205000,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m"
     },
     {
       "added_at": "2026-11-27 05:02:54",
@@ -1747,18 +1743,22 @@
     {
       "added_at": "2026-11-27 05:02:54",
       "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua"
+        "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Typhee",
+          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m"
+      "duration_ms": 174000,
+      "name": "TERIYAKI - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1kbzRJsAFqLuAHZRDH7L5A"
     },
     {
       "added_at": "2026-11-27 05:02:54",

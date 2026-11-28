@@ -4,7 +4,7 @@
 
 > 
 
-3,274 songs - 7 day 0 hr 12 min
+3,275 songs - 7 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1903,6 +1903,7 @@
 | [MONSTER](https://open.spotify.com/track/3Hm4sJEQU17qf53mccVysv) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [MONSTER](https://open.spotify.com/album/1XGQDdnidqpBCi9PWKQ6Hh) | 2:03 | 2024-03-15 |  |
 | [Monster](https://open.spotify.com/track/3gbBwE7ISIDSvqIIAl0tg1) | [Jade Key](https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb), [SKUSH](https://open.spotify.com/artist/2JgbWourBsoYxAMMqgvVPx), [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2) | [Monster](https://open.spotify.com/album/3PeVpcOHTCpWdHr6Ll3XDj) | 3:05 | 2023-11-21 |  |
 | [Monster](https://open.spotify.com/track/7debV9p6CRwblUnlymmb4s) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Monster](https://open.spotify.com/album/6mKjLIWNpEu2QiniOj3ueI) | 3:27 | 2023-05-28 |  |
+| [MOOD](https://open.spotify.com/track/7yHNVEVmKQ36bzaEr3LtCh) | [El Desperado](https://open.spotify.com/artist/2ajGq9BEnKOi6B5wTZ7uWn), [Krozt](https://open.spotify.com/artist/4PcJRdfWkfo8MXw7j0KAwX) | [BLACK & RED](https://open.spotify.com/album/1YjLCRKKmpquuNK3qpYw81) | 3:02 | 2026-11-27 |  |
 | [Moonlight](https://open.spotify.com/track/5At6AEUZ7Ccft83yp6TIzq) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Moonlight](https://open.spotify.com/album/48mM2HjTZVneP4SmpeEFxN) | 2:37 | 2025-12-05 |  |
 | [Moonlight \(demon\)](https://open.spotify.com/track/3N3DXXsCUaLjis65LYnas7) | [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM), [Maezi666](https://open.spotify.com/artist/6p59f1BOs0UwIyrqBqUCdE) | [Moonlight \(demon\)](https://open.spotify.com/album/6GOOt0gsvmS4zIYIPQxTzW) | 1:48 | 2023-06-02 |  |
 | [Moonlight \- Uptempo Edit](https://open.spotify.com/track/7wUYWC4kAXsBKf5UKUhdRG) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [PANE](https://open.spotify.com/artist/0zVau5X3ncPpDEpykdb9iZ) | [Moonlight \(Uptempo Edit\)](https://open.spotify.com/album/5w4vBSZDL1ZUPRa19wCmrz) | 1:38 | 2023-01-13 |  |

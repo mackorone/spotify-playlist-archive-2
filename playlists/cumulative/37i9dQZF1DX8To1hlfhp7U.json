@@ -1523,6 +1523,32 @@
     },
     {
       "album": {
+        "name": "Known Unknowns",
+        "url": "https://open.spotify.com/album/0MMY5flz23tDZV1kRs1PgM"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "HYPE",
+      "url": "https://open.spotify.com/track/1b2dUYsg9h2uYtFcIK44eR"
+    },
+    {
+      "album": {
         "name": "Illegal Weapon",
         "url": "https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P"
       },
@@ -2012,7 +2038,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 222232,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB"

@@ -1,12 +1,12 @@
 {
   "description": " Samet Karde\u015fler, S\u0131la \u015eahin ve haftan\u0131n en iyi \u00e7\u0131k\u0131\u015flar\u0131!",
-  "num_followers": 331366,
+  "num_followers": 331688,
   "original_name": "New Music Friday T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP30Kul7ipVw+UvmSIsLz6lQzsTh",
+  "snapshot_id": "AAAAAO7x/FW2ffANZZxRSli/soVy8wZU",
   "tracks": [
     {
       "added_at": "2026-11-26 21:00:09",
@@ -74,6 +74,10 @@
         {
           "name": "Lvbel C5",
           "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
         },
         {
           "name": "\u0130smail YK",
@@ -351,6 +355,26 @@
       "duration_ms": 268977,
       "name": "Unravel - Live at Harpa Hall, Reykjav\u00edk",
       "url": "https://open.spotify.com/track/4avWxQsb8ocQtdLdSNh9lR"
+    },
+    {
+      "added_at": "2026-11-27 08:47:58",
+      "album": {
+        "name": "bana ait de\u011fil",
+        "url": "https://open.spotify.com/album/6zGa0gE9iU7v1RTA0ITIjV"
+      },
+      "artists": [
+        {
+          "name": "Dozi Ozovski",
+          "url": "https://open.spotify.com/artist/5DaeHpsp3vSdhj6j5FqeIl"
+        },
+        {
+          "name": "Lin Pesto",
+          "url": "https://open.spotify.com/artist/37xM7I9e6MS4pyOWpzUqYo"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "bana ait de\u011fil",
+      "url": "https://open.spotify.com/track/2qQ0oM4kiZLQEx7mZ5PgU9"
     },
     {
       "added_at": "2026-11-26 21:00:09",
@@ -1475,7 +1499,7 @@
     {
       "added_at": "2026-11-26 21:00:09",
       "album": {
-        "name": "OBK AKUST\u0130K DER\u0130NE 02 (Akustik)",
+        "name": "Derine (Akustik)",
         "url": "https://open.spotify.com/album/2pUxAix1tqAls0RVOwmOpm"
       },
       "artists": [
@@ -1485,7 +1509,7 @@
         }
       ],
       "duration_ms": 163500,
-      "name": "OBK AKUST\u0130K DER\u0130NE 02 - Akustik",
+      "name": "Derine - Akustik",
       "url": "https://open.spotify.com/track/2KCPPxK9wCuXKFbLYV1YhX"
     },
     {
@@ -1655,6 +1679,22 @@
     {
       "added_at": "2026-11-26 21:00:09",
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/52UD69WgHrr3tcpIdp1lg1"
+      },
+      "artists": [
+        {
+          "name": "Maskova",
+          "url": "https://open.spotify.com/artist/2SqhDrmodgaRMsc58dozhb"
+        }
+      ],
+      "duration_ms": 189714,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4PQANCEUiD1IJd3x501MmZ"
+    },
+    {
+      "added_at": "2026-11-26 21:00:09",
+      "album": {
         "name": "PAZARTES\u0130",
         "url": "https://open.spotify.com/album/4qsPOCp5SORPA97kK9nA6l"
       },
@@ -1665,7 +1705,7 @@
         },
         {
           "name": "zateviss",
-          "url": "https://open.spotify.com/artist/39f1LAqghIpDMS8MXXb6lM"
+          "url": "https://open.spotify.com/artist/5VnhzFb2I1U9qLmLbj6fhZ"
         }
       ],
       "duration_ms": 121565,

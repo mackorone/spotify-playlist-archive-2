@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-631 songs - 1 day 7 hr 32 min
+632 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [I Used To Play It By Ear](https://open.spotify.com/track/0hEAxtcYcVAHhgTgUY5qhn) | [Terry Bibb](https://open.spotify.com/artist/1MHluX6flXw1N5aiQ1nbbc), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 4:22 | 2024-07-26 |  |
 | [I Want to Go Back to Michigan \(Down on the Farm\) \[from "Easter Parade"\] \- 2022 Remaster](https://open.spotify.com/track/5y4YzZyXMTV6LUdv4JZUv7) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 2:35 | 2024-07-26 | 2026-08-19 |
 | [I Was Aviating Around](https://open.spotify.com/track/3ejxdkEDSvrxF1H1q8C1Lu) | [Alec Deland](https://open.spotify.com/artist/1T3qsH0rcPsfoPVC9lnVD7) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:16 | 2024-07-26 |  |
-| [I Wish You A Merry Christmas \- Remastered 2006](https://open.spotify.com/track/1lkhGcjgLCr9StHHYXMyuK) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Christmas Favorites](https://open.spotify.com/album/6DucV4tdf2hl4oPEYb7ukX) | 1:54 | 2026-11-23 |  |
+| [I Wish You A Merry Christmas \- Remastered 2006](https://open.spotify.com/track/1lkhGcjgLCr9StHHYXMyuK) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Christmas Favorites](https://open.spotify.com/album/6DucV4tdf2hl4oPEYb7ukX) | 1:54 | 2026-11-23 | 2026-11-28 |
 | [I'd Like My Picture Took](https://open.spotify.com/track/6aRFiI6NFxaV6zqoY91D19) | [Mary McCarty](https://open.spotify.com/artist/5mXaliNxEelBY7lt36lCkj) | [Miss Liberty \- Original Broadway Cast](https://open.spotify.com/album/2eM7yV7cIQIlP1xDrUrnyh) | 1:04 | 2024-07-26 | 2026-07-02 |
 | [I'd Rather Lead A Band](https://open.spotify.com/track/0kOgm50ilnISAWkfQ4lGXu) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Top Hat: Hits From Hollywood](https://open.spotify.com/album/7g2TJ6XllrcHOMS74ntDk7) | 2:27 | 2026-08-06 |  |
 | [I'd Rather Lead a Band](https://open.spotify.com/track/0j8EXJ1hD5P7ENWkicVud4) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/6c9s5OiVL6l0aM1z67K3uR) | 2:30 | 2025-08-21 | 2026-05-14 |
@@ -477,6 +477,7 @@
 | [The Best Thing For You Is Me](https://open.spotify.com/track/4o8hWdJ5A7lv6lS9Mgqk5S) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 4:18 | 2024-07-26 |  |
 | [The Best Things Happen While You're Dancing](https://open.spotify.com/track/2kbJCI5GQjLetvBRJ16VIp) | [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj) | [The Children's Greatest Hits](https://open.spotify.com/album/4heXx3A0e1dm3LJawSpM57) | 2:36 | 2024-07-26 | 2025-03-11 |
 | [The Best Things Happen While You're Dancing](https://open.spotify.com/track/66Ye3sCQqV4nZ0OKzuCrYO) | [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj) | [Danny Kaye Sings Hans Christian Andersen \(Parts 1 & 2\)](https://open.spotify.com/album/3HdPKo4kjcgbPST08KrXX9) | 2:36 | 2025-03-10 |  |
+| [The Christmas Song \(Merry Christmas To You\) \- Remastered 1999](https://open.spotify.com/track/1fzIMn5fBCUIQuSYqc7VCw) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Christmas Hits](https://open.spotify.com/album/0XJZ6V6mCjennH5mOjbk8T) | 3:12 | 2026-11-27 |  |
 | [The Circus Is Coming to Town](https://open.spotify.com/track/3lnJlle75hmvtGGcgbDGlU) | [Michael Townsend Wright](https://open.spotify.com/artist/2Pdr83uirdoiEJj2GWs78H), [Giuseppe Bausilio](https://open.spotify.com/artist/0elZBMcdSRBzL7WJctaKNl) | [The Michael Townsend Wright Album](https://open.spotify.com/album/7FRP4PuC0gmbGXFuYclBL9) | 1:24 | 2024-07-26 |  |
 | [The Funnies](https://open.spotify.com/track/0EMochIfcc1arY0Tcn9NeV) | [B\. D\. Wong](https://open.spotify.com/artist/0wHh7Mx94GEbaiWzclH1pe) | [As Thousands Cheer \(1998 Off\-Broadway Cast Recording\)](https://open.spotify.com/album/2g4UW6AF3FhbUH6SIU53b7) | 2:13 | 2024-07-26 |  |
 | [The Girl on the Magazine Cover](https://open.spotify.com/track/0Wiz3n3mWm9YZLvxpnr9QT) | [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [Sings Irving Berlin](https://open.spotify.com/album/4ixf2CXHCNpxWLYtHhfl4f) | 2:28 | 2024-07-26 | 2026-08-07 |

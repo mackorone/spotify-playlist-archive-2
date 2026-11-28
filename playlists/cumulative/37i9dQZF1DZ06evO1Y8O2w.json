@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 167898,
       "name": "Nothing Can Stop Me",
       "url": "https://open.spotify.com/track/70zUERR7GHYikKvcXUDapk"
@@ -1914,6 +1914,24 @@
       "duration_ms": 423866,
       "name": "When I Give My Love (This Time)",
       "url": "https://open.spotify.com/track/2unUCdfT0PO8snZdH9mdjF"
+    },
+    {
+      "album": {
+        "name": "When Love Calls My Name",
+        "url": "https://open.spotify.com/album/7ulOZSGHuNZSZSUPYoeLjB"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176592,
+      "name": "When Love Calls My Name",
+      "url": "https://open.spotify.com/track/1Skuw4tjXj6aofs39vfDVF"
     },
     {
       "album": {

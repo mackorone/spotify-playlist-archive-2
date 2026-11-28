@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1192922,
+  "num_followers": 1193026,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAC+NF+nh8SwQgOk+Y6PZjuC",
+  "snapshot_id": "awd2gAAAAABNuTR08bA7v+XkrgHiY3zp",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mystery to Me",
-        "url": "https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Emerald Eyes",
-      "url": "https://open.spotify.com/track/4GspmdJjNjZKCHtjJ0fWxb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (2015 Remaster)",
         "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 274666,
       "name": "Over & Over - 2015 Remaster",
       "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mystery to Me",
+        "url": "https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/4GspmdJjNjZKCHtjJ0fWxb"
     },
     {
       "added_at": null,

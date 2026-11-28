@@ -4,11 +4,12 @@
 
 > This is Jai'Len Josey\. The essential tracks, all in one playlist.
 
-30 songs - 1 hr 45 min
+31 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Few Things](https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [A Few Things](https://open.spotify.com/album/0byh8hdr3vZyWZ8mfeu8fN) | 3:21 | 2026-11-04 |  |
+| [A Few Things](https://open.spotify.com/track/2OsQEM8BSFHky9SmDgmocL) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [A Few Things](https://open.spotify.com/album/3WsKR6yPEDVmkB4auGVWwv) | 3:21 | 2026-11-28 |  |
+| [A Few Things](https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [A Few Things](https://open.spotify.com/album/0byh8hdr3vZyWZ8mfeu8fN) | 3:21 | 2026-11-04 | 2026-11-28 |
 | [All Mine](https://open.spotify.com/track/4zveG9JtaKJBrWWLWOKa40) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [All Mine](https://open.spotify.com/album/7m1EABoUFNU7A4w3R9JAEa) | 3:28 | 2026-11-04 |  |
 | [Alright](https://open.spotify.com/track/4HsA9X8NaDP3G1NkEL8xOQ) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [1 of 1](https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj) | 3:44 | 2026-11-04 |  |
 | [Anniversary \- A Cappella](https://open.spotify.com/track/4x2V5wl5swFlqyxOWDLIWv) | [JABARI](https://open.spotify.com/artist/0ArKaAfRkhLdJUDNinDKFb), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr), [Amanda Adams](https://open.spotify.com/artist/2bzplmaKUHpSx3jzL4CPH7) | [Anniversary \(A Cappella\)](https://open.spotify.com/album/2caHF1IoGDMIvLkkDvCPKM) | 2:27 | 2026-11-04 |  |

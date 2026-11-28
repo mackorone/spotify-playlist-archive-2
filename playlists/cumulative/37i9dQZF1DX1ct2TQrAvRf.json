@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - KR$NA & Seedhe Maut  ",
+  "description": "India's Rap Scene. Cover: YUNG DSA",
   "name": "RAP 91",
   "tracks": [
     {
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
@@ -7062,6 +7062,28 @@
       "duration_ms": 170869,
       "name": "Pitbull",
       "url": "https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl"
+    },
+    {
+      "album": {
+        "name": "Don't Try This At Home",
+        "url": "https://open.spotify.com/album/6gw6WWZBRNIwdhIX7xqKpW"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/6wNq8vUKfexWd5lyTkh80g"
     },
     {
       "album": {

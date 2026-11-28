@@ -10804,7 +10804,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5fhLAYW2Sc53Tyevrfq4rO"
@@ -14368,6 +14368,24 @@
       "duration_ms": 153920,
       "name": "If Only",
       "url": "https://open.spotify.com/track/2sPr7aJnY5lERvX23oXbLl"
+    },
+    {
+      "album": {
+        "name": "If You Believe",
+        "url": "https://open.spotify.com/album/6iSooyiv6as56yBziPOQ5N"
+      },
+      "artists": [
+        {
+          "name": "Addal",
+          "url": "https://open.spotify.com/artist/4KvEeVTVVyMlEhr5ovZBOT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132336,
+      "name": "If You Believe",
+      "url": "https://open.spotify.com/track/1HVIyKnxpxdtKCByBE0mAd"
     },
     {
       "album": {
@@ -18996,6 +19014,28 @@
       "duration_ms": 173322,
       "name": "Lunar Eclipse",
       "url": "https://open.spotify.com/track/5kJcizlIh307M97sktNJ1y"
+    },
+    {
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/15aUsoeMBqTP2O9Mlypzwn"
+      },
+      "artists": [
+        {
+          "name": "Calm Springs",
+          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
+        },
+        {
+          "name": "Vitaly Gray",
+          "url": "https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/5aIUuOSLecALk9rImSvGPN"
     },
     {
       "album": {

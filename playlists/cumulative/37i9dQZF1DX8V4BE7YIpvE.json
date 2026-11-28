@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "After the Bend",
+        "url": "https://open.spotify.com/album/1UYzDbpWgYgzKtxTkvafPo"
+      },
+      "artists": [
+        {
+          "name": "Crystal Motel",
+          "url": "https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151058,
+      "name": "After the Bend",
+      "url": "https://open.spotify.com/track/4q87SDEYtRsRuQZr1lz14w"
+    },
+    {
+      "album": {
         "name": "After This Line",
         "url": "https://open.spotify.com/album/4VszUaZE25uCi9jr0x2yk7"
       },
@@ -164,7 +182,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 220663,
       "name": "Afterlight - Slowed",
       "url": "https://open.spotify.com/track/5cZxROV2WySPJIfU46ZVGw"
@@ -182,7 +200,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 144000,
       "name": "Airspace",
       "url": "https://open.spotify.com/track/6ECst6ggycoUWNVPWiCfnL"
@@ -290,7 +308,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 184852,
       "name": "Before We Rise",
       "url": "https://open.spotify.com/track/2LfUwievXjannrsmUxuGY0"
@@ -456,6 +474,24 @@
       "duration_ms": 212100,
       "name": "Chromatica",
       "url": "https://open.spotify.com/track/4ZI0XaUvczHi9CmzJiDF70"
+    },
+    {
+      "album": {
+        "name": "chrome Runner",
+        "url": "https://open.spotify.com/album/4SRTgdKhN7yXqmgXO33Mce"
+      },
+      "artists": [
+        {
+          "name": "n3on-horizon",
+          "url": "https://open.spotify.com/artist/0J8Pjbq6OuWELWBiXwPREe"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "chrome Runner",
+      "url": "https://open.spotify.com/track/47seoZBlaXV71oz1UCMdJw"
     },
     {
       "album": {
@@ -662,7 +698,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 192000,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/0OqwcqfTHQbZ3LluIO2qUH"
@@ -759,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Desert Radio",
+        "url": "https://open.spotify.com/album/79qzNxw6wbpeWiTDXNp7ka"
+      },
+      "artists": [
+        {
+          "name": "Ghost in Delay",
+          "url": "https://open.spotify.com/artist/3sCPjqofyWElqBsicU6DVh"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132927,
+      "name": "Desert Radio",
+      "url": "https://open.spotify.com/track/5OIQWzFsOgimolrFPp8AFe"
+    },
+    {
+      "album": {
         "name": "Diamond Dust",
         "url": "https://open.spotify.com/album/5A55HTwrLlso0LMaRlnhWi"
       },
@@ -818,6 +872,24 @@
       "duration_ms": 153164,
       "name": "Distant Stars",
       "url": "https://open.spotify.com/track/3Py9NAhqekG0MaFbe6RdGV"
+    },
+    {
+      "album": {
+        "name": "Double Exposure",
+        "url": "https://open.spotify.com/album/07gDEytbBIdyDaP5K69EYJ"
+      },
+      "artists": [
+        {
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Double Exposure",
+      "url": "https://open.spotify.com/track/3QOinBU8SSNL24LRZlQnep"
     },
     {
       "album": {
@@ -1182,6 +1254,24 @@
       "duration_ms": 240045,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/3YOhu8bLPGnOJDkIHrMkt6"
+    },
+    {
+      "album": {
+        "name": "Endless View",
+        "url": "https://open.spotify.com/album/6ej9Ug0BXqyNGPpqhEInJO"
+      },
+      "artists": [
+        {
+          "name": "Azure Rooms",
+          "url": "https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Endless View",
+      "url": "https://open.spotify.com/track/1yq9njLgeG6vuhKw1dOaUs"
     },
     {
       "album": {
@@ -2056,7 +2146,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 150535,
       "name": "late hrs",
       "url": "https://open.spotify.com/track/5jjXgouJcjJABUzFnUmXeE"
@@ -2096,6 +2186,24 @@
       "duration_ms": 227119,
       "name": "Light Shift",
       "url": "https://open.spotify.com/track/2o5g4pvgKEB1nKsmROugVK"
+    },
+    {
+      "album": {
+        "name": "Lightspill",
+        "url": "https://open.spotify.com/album/16sqIwSriGz3C7xlhalVml"
+      },
+      "artists": [
+        {
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164368,
+      "name": "Lightspill",
+      "url": "https://open.spotify.com/track/5wZsVceWUF4keCZbq0SKch"
     },
     {
       "album": {
@@ -2530,7 +2638,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 147903,
       "name": "Moonset Lagoon",
       "url": "https://open.spotify.com/track/2WkBM7FQAaaXIAm87pcqrR"
@@ -2620,7 +2728,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 122000,
       "name": "Neon Orbit",
       "url": "https://open.spotify.com/track/16GTkv3dQoS1MgFzNd3Uc8"
@@ -2897,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "Other Skies",
+        "url": "https://open.spotify.com/album/5YHNnPTqyxa0umXegvj40D"
+      },
+      "artists": [
+        {
+          "name": "Azure Rooms",
+          "url": "https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "Other Skies",
+      "url": "https://open.spotify.com/track/6S4chOqMx5pbagREvqpjIF"
+    },
+    {
+      "album": {
         "name": "The Night Is Mine",
         "url": "https://open.spotify.com/album/0OR0YcdVqUaNzFWkL6XeTb"
       },
@@ -2962,7 +3088,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 162947,
       "name": "Pale Giants",
       "url": "https://open.spotify.com/track/5Rw777MQzQwmoCfiiY2xjB"
@@ -3378,7 +3504,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 130666,
       "name": "Red Signal in the Valley",
       "url": "https://open.spotify.com/track/0KmCLoaHssfEKr19DeomJW"
@@ -3678,7 +3804,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 128709,
       "name": "Silent Aurora",
       "url": "https://open.spotify.com/track/5WErBY78MtV10z8WJ3Hxqc"
@@ -3704,6 +3830,24 @@
       "duration_ms": 248522,
       "name": "Skybeam",
       "url": "https://open.spotify.com/track/0dSRcN8hFArUbg2Y6TzQrK"
+    },
+    {
+      "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1PJYZOW9nOzaYeURyid5Dt"
+      },
+      "artists": [
+        {
+          "name": "Interwave",
+          "url": "https://open.spotify.com/artist/56oS99WDufkuJs4yV85vPM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123096,
+      "name": "Slipstream",
+      "url": "https://open.spotify.com/track/1BJ5Zkfbhy4u8tRHCsLyeN"
     },
     {
       "album": {
@@ -4050,7 +4194,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 169811,
       "name": "Tape Surfing",
       "url": "https://open.spotify.com/track/0WS5DPLL0cyeYlpbS694NP"
@@ -4158,7 +4302,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 161562,
       "name": "The Air Between",
       "url": "https://open.spotify.com/track/5t8MQzbfpiAanCd0PdyEiX"

@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-642 songs - 1 day 14 hr 54 min
+643 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Pipe And Music](https://open.spotify.com/track/6Nhc580W8rLl5SGxK5Ypv0) | [Renssy Rios](https://open.spotify.com/artist/63F1hinOi5SzOe3DzzTbjH), [RamsesRios](https://open.spotify.com/artist/1q9k1ItS5FAaPsbaSjlKFw) | [Pipe And Music](https://open.spotify.com/album/41tDlhab26BQV1guQxr5t4) | 4:04 | 2023-03-13 |  |
 | [Piramides](https://open.spotify.com/track/4ku168npVI0ncsZaGn7rU5) | [Los flashbacks](https://open.spotify.com/artist/7nTHQqaADpTSns4HYfMw1Y) | [Extraños](https://open.spotify.com/album/63KyCcPToU4kF3w03sSZMB) | 3:17 | 2023-03-19 |  |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2024-10-04 |  |
+| [playing god \- spanish acoustic cover](https://open.spotify.com/track/3HktUewEjgTD7JSG4BHbBU) | [Blanca O](https://open.spotify.com/artist/2iR8lMNlhkCx6s86sSJUb5) | [playing god \(spanish acoustic cover\)](https://open.spotify.com/album/3zPHe6DiSgA0y5fxt9spB9) | 3:04 | 2026-11-27 |  |
 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 | 2025-10-27 |  |
 | [Poesia de Liquidificador](https://open.spotify.com/track/2dA5Hv7RDD59fWOB27kd9Y) | [Ladrão](https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W) | [Demo Cracia](https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe) | 5:07 | 2025-11-05 |  |
 | [Polychromatic Route](https://open.spotify.com/track/38FJyXUeA9XS92BcSqpRt3) | [Nepal Death](https://open.spotify.com/artist/7vtUDM2Uf2yIKJ6XSmOBSi) | [Polychromatic Route](https://open.spotify.com/album/0dvefIw9yop3NRBiehdrEK) | 5:16 | 2025-02-19 |  |

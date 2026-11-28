@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in African & Caribbean music\. From the continent, to the islands with Rema.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,596 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,653 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 3 | [Bruk Out](https://open.spotify.com/track/2orzQOODmU0MrB3ABFT51g) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Bruk Out](https://open.spotify.com/album/10WwNtINKl6G0AgP5LdneO) | 2:20 |
 | 4 | [Money In A Wheelbarrow](https://open.spotify.com/track/65K31Yui1Sfn4pSub3uKJP) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Money In A Wheelbarrow](https://open.spotify.com/album/32m2f3GYYruC2fGBN6su7c) | 2:31 |
 | 5 | [Down In It](https://open.spotify.com/track/47OoXlqF9Sg3D99NlkUUBC) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [MadLypso](https://open.spotify.com/artist/6tQlBmzHQ6vZI48H7SZsBV) | [Down In It](https://open.spotify.com/album/2QFVtE9urFnuEVp5mrghQG) | 2:57 |
-| 6 | [Drop It](https://open.spotify.com/track/6WrqPdRqLMnLbYqRxyBNFM) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Drop It](https://open.spotify.com/album/2mdLFmivebnqq7pydmUu8l) | 1:56 |
+| 6 | [Drop It](https://open.spotify.com/track/6WrqPdRqLMnLbYqRxyBNFM) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Drop It](https://open.spotify.com/album/2mdLFmivebnqq7pydmUu8l) | 1:57 |
 | 7 | [Speak](https://open.spotify.com/track/4XC9UfqbR62OauedPdMiSH) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Speak](https://open.spotify.com/album/3Vmrr3643mlR3hTBlJ9NtT) | 2:40 |
 | 8 | [FAH](https://open.spotify.com/track/6O1p3AtdHMlecFxpXizgm7) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [FAH](https://open.spotify.com/album/5IyMVmb0uocJfBvRKd1ggc) | 1:39 |
 | 9 | [Antigua](https://open.spotify.com/track/5ZCRfow7u1txLEVETJFvMk) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Antigua](https://open.spotify.com/album/3iKbSXJNFlKqgAzzFxlEZN) | 3:16 |

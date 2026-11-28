@@ -4,7 +4,7 @@
 
 > Relax to the sound of a storm setting in.
 
-471 songs - 21 hr 14 min
+471 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Pluie et tonnerre](https://open.spotify.com/track/49lC3wHsYUScNtjjnlsA46) | [Tonerre](https://open.spotify.com/artist/7885SjDRQfxBJ8MTfomwHz) | [Orage](https://open.spotify.com/album/1FjY5FiGhfsBGOlm2A4mFj) | 1:58 | 2021-11-10 | 2023-06-16 |
 | [Pluie Fraîche en Forêt](https://open.spotify.com/track/0UpFU29vwGW37q9naircXx) | [Équipage ambiant](https://open.spotify.com/artist/2WI0t9L9e4wmhiV7HYp9BU) | [Pluie Paisible en Forêt](https://open.spotify.com/album/0kk18kfIPwwitpwDH4FTCZ) | 2:11 | 2023-06-15 |  |
 | [Pluie légère](https://open.spotify.com/track/1tQIg93C2Vq70UTa50vUE3) | [Effectum](https://open.spotify.com/artist/7mudgeojeGL4IruR03vmFb) | [Tonnerre et pluie](https://open.spotify.com/album/3wduQV3xbgPHB4QmHFkqYI) | 2:47 | 2021-11-10 | 2024-03-23 |
-| [Pluie près du ruisseau](https://open.spotify.com/track/3PCELNifmPZJVtvIbwxpuD) | [Naturaleza FX](https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa) | [Tonnerre lourd](https://open.spotify.com/album/33l1GbjNp8nN1PqRybdLIF) | 1:48 | 2021-11-10 |  |
+| [Pluie près du ruisseau](https://open.spotify.com/track/3PCELNifmPZJVtvIbwxpuD) | [Naturaleza FX](https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa) | [Tonnerre lourd](https://open.spotify.com/album/33l1GbjNp8nN1PqRybdLIF) | 2:32 | 2021-11-10 |  |
 | [Pour les plantes](https://open.spotify.com/track/2AVtIevPCS58Q1GTyAq9Y9) | [Équipage ambiant](https://open.spotify.com/artist/2WI0t9L9e4wmhiV7HYp9BU) | [Pluie de l'aube](https://open.spotify.com/album/5qHpwTNP0pdOh57yKxSIMj) | 1:55 | 2021-11-10 | 2023-06-16 |
 | [Pouring Rain And Thunder](https://open.spotify.com/track/6lZhsqlVmplDidqrUqCV8b) | [Berg & Sjo](https://open.spotify.com/artist/5DaWXcbvLdip9ADHVSwVVt) | [Ovader](https://open.spotify.com/album/3FFVMgDTGRlZNPWqj3TGwq) | 2:34 | 2021-11-10 | 2026-04-02 |
 | [Pouring Some Thunder](https://open.spotify.com/track/64dYaCKeQk2Dki02HFoWOi) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Pouring Some Thunder](https://open.spotify.com/album/320FxgsXWekHkC6tuCJE6Z) | 2:50 | 2023-02-13 |  |
@@ -451,7 +451,7 @@
 | [Tormenta Del Bosque](https://open.spotify.com/track/5iZmYfTncJKyX97m4cGZ8p) | [Tormenta Jamaicana](https://open.spotify.com/artist/7Fod6Ykml8hrQjL3p9vxgx) | [Tormenta Secreta](https://open.spotify.com/album/38ClULiKoCQaNZPgImivZf) | 2:18 | 2021-11-10 |  |
 | [Tormenta lejana](https://open.spotify.com/track/4H26XrehY3uGaYjMSQ9ZIY) | [Ciclo del Agua](https://open.spotify.com/artist/7jvfAbf9xdkVSlJx8XBbpJ) | [Precipitación](https://open.spotify.com/album/6m0K7pr7P5o7yB4aLCxYj3) | 2:33 | 2023-06-15 |  |
 | [Tormenta ligera](https://open.spotify.com/track/0O87UiGy34Kn82mdNkbZp3) | [Tromentas Naturales](https://open.spotify.com/artist/7kdG75ISHiPcFrfUIpbszZ) | [Tormenta](https://open.spotify.com/album/1Yuzz0fCr1NHtDfejBwyK6) | 2:19 | 2021-11-10 | 2026-04-02 |
-| [Tropfen](https://open.spotify.com/track/6eYLvLhgdWzebLS1Zial1s) | [Millionen Tropfen](https://open.spotify.com/artist/1vonqrJbq5LvjugdJ8GMC7) | [Klimawandel](https://open.spotify.com/album/7MLIwhRzf3R6vyPvRi7aZL) | 2:21 | 2021-11-10 |  |
+| [Tropfen](https://open.spotify.com/track/6eYLvLhgdWzebLS1Zial1s) | [Millionen Tropfen](https://open.spotify.com/artist/1vonqrJbq5LvjugdJ8GMC7) | [Klimawandel](https://open.spotify.com/album/7MLIwhRzf3R6vyPvRi7aZL) | 2:21 | 2021-11-10 | 2026-11-28 |
 | [Tropical Forest Rain](https://open.spotify.com/track/7jLmLFDvQPYD7SZAsyXtaq) | [Drenched Trees](https://open.spotify.com/artist/29d8hIOhdY6Z697cHuCeq1) | [Lakeside Falls](https://open.spotify.com/album/21xU8irx4SLg1TdflnPXnr) | 1:57 | 2021-11-10 | 2023-06-16 |
 | [Tropical Rain Sound](https://open.spotify.com/track/5egT99fn74En0yE997ToIO) | [Regenmaschine](https://open.spotify.com/artist/1GTEiekrEAxZrpOCNMKFAY) | [Rain Sleep Effects](https://open.spotify.com/album/71EhaKqV4TQXMLmhQZFpR4) | 2:56 | 2021-11-10 | 2023-02-14 |
 | [Trueno distante](https://open.spotify.com/track/3KSWMixsyBC6J4jjrZ3oMu) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [Lluvia ligera y truenos](https://open.spotify.com/album/09x9KnmIyjuZYwZMC5I8Eu) | 2:21 | 2021-11-10 | 2026-04-02 |
@@ -467,7 +467,7 @@
 | [Wake Up When The Storm Is Over](https://open.spotify.com/track/1dw8g82GWDDGkemAA8n5A1) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Storm Approaching](https://open.spotify.com/album/05Tl9xJsN9dbV48y70MBks) | 3:36 | 2021-11-10 | 2024-03-09 |
 | [Watch The Storm](https://open.spotify.com/track/3g8n6JHQDGGjrE27lAtpvn) | [Dreams Made](https://open.spotify.com/artist/0hGBfohzgZXOnLuYHG9CQ0) | [It's A Storm](https://open.spotify.com/album/78f5Iz6Gwjlys2vvmhC3hL) | 2:33 | 2021-11-10 |  |
 | [Wednesday](https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:29 | 2023-02-13 |  |
-| [Wet Rain Season](https://open.spotify.com/track/7qRF1aoqAOOhb58IHhtkt6) | [FX waves](https://open.spotify.com/artist/1YHUx5UWB4wFTH0o5Yvlwj) | [Wet Rain Season](https://open.spotify.com/album/3HLRB96Pi85y3ZuaHVGL6u) | 2:17 | 2021-11-10 | 2026-11-23 |
+| [Wet Rain Season](https://open.spotify.com/track/7qRF1aoqAOOhb58IHhtkt6) | [FX waves](https://open.spotify.com/artist/1YHUx5UWB4wFTH0o5Yvlwj) | [Wet Rain Season](https://open.spotify.com/album/3HLRB96Pi85y3ZuaHVGL6u) | 2:17 | 2021-11-10 |  |
 | [Wet Weather](https://open.spotify.com/track/5hf4IrzBngV1tdtDKDzt7a) | [Electricality](https://open.spotify.com/artist/3WiLG8IMyo00LP5Yqb8yUG) | [Live In Thunder](https://open.spotify.com/album/0GNldraOAircB3HTqF13PI) | 2:36 | 2021-11-10 |  |
 | [Wide Rain \- Thunder](https://open.spotify.com/track/0dVn2OqVdmrCoRUN3cGjOj) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Storms](https://open.spotify.com/album/359lCAN0rNlyvJ39Chab0Y) | 3:05 | 2021-11-10 | 2026-04-02 |
 | [Will it ever stop raining?](https://open.spotify.com/track/1LA1g4jm8cJuKPwwWZzu2M) | [REGN](https://open.spotify.com/artist/2gyk8wYChmm41Fvq6TYBjM) | [It's been raining all day](https://open.spotify.com/album/4Z0vgQWxrtzmPGOhP7hLVf) | 3:32 | 2021-11-10 | 2023-02-14 |

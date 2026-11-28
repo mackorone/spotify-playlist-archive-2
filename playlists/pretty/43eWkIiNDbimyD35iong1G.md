@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > The best wedding songs for your first dance, walking down the aisle &amp; reception party\. Romantic acoustic vibes, love classics &amp; sing\-along dance hits featuring Bruno Mars, Ed Sheeran, John Legend, and more\. Updated weekly for 2026/2027 weddings.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 207,069 likes - 151 songs - 9 hr 6 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 207,098 likes - 151 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

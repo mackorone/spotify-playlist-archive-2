@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Colde\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-866 songs - 1 day 22 hr 2 min
+867 songs - 1 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Good Day](https://open.spotify.com/track/72F9GGy4X7Q1EwagZdvNcU) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 777 \(Episode 1\)](https://open.spotify.com/album/3Heh3t93xHF918mqcIi0QB) | 4:26 | 2026-03-13 | 2026-06-13 |
 | [Good Day \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/6CxxgFhfvh5uz6h4l0ltzP) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 777 Episode 1](https://open.spotify.com/album/6yr53YySD8G0GRwveBg835) | 4:26 | 2022-07-24 | 2024-04-19 |
 | [GOOD LIFE \(Feat\. CAMO\)](https://open.spotify.com/track/2oJ9QoIEUOmJ3SiYoQmAle) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [GOOD LIFE \(Feat\. CAMO\)](https://open.spotify.com/album/1nChEFKExn7yTdsvv0OqGN) | 2:45 | 2022-04-01 | 2022-07-04 |
+| [GOOD MOURNING \(Feat\. BE'O\)](https://open.spotify.com/track/4RqY82QomGazMGN0Cyk5UF) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [GOOD MOURNING](https://open.spotify.com/album/7ghOfqndW5q5OLVCfxAb4Z) | 2:40 | 2026-11-26 |  |
 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 | 2022-04-21 | 2022-07-10 |
 | [Good night, people](https://open.spotify.com/track/1eWYgyYBIXJgoeU89aUEiN) | [kharl](https://open.spotify.com/artist/6FpOHILF33XOAbFonZoisE) | [NORMAL](https://open.spotify.com/album/0uXXXQGV9sXnDtZ2tZpwob) | 4:12 | 2022-07-04 | 2022-07-15 |
 | [good1ife](https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [Marco](https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh) | [good1ife](https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi) | 2:57 | 2023-01-25 | 2023-03-02 |

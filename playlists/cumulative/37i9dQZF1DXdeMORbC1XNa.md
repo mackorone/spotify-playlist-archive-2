@@ -4,7 +4,7 @@
 
 > A perfect link up to soundtrack your day\. Cover: Victony
 
-662 songs - 1 day 10 hr 13 min
+663 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Nack Remix](https://open.spotify.com/track/0SzvGgLW3d3P6ODpRwxGPA) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Nack Remix](https://open.spotify.com/album/27iamLPlZhs4W8c8SYl6mD) | 2:58 | 2022-09-22 | 2022-10-13 |
 | [Namek](https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Namek](https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7) | 3:06 | 2022-11-21 | 2023-05-24 |
 | [Narco](https://open.spotify.com/track/3Ho7tu0pVrvJ9CWI9WCjP2) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Black Magic \(Extended\)](https://open.spotify.com/album/3rOwFByvlSQADP1uwTi3Zl) | 2:26 | 2022-02-11 | 2022-02-14 |
+| [Nesa Nesa \(feat\. Diamond Platnumz & Khalil Harrison\)](https://open.spotify.com/track/0fqPeFGTvhx2GDjZWvW7Jv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp) | [The Big One](https://open.spotify.com/album/6V2mC374CElofU3s0DkshR) | 4:55 | 2026-08-20 |  |
 | [Neva Neva](https://open.spotify.com/track/2mI9snG6nJeQ9cJVahpaDv) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Neva Neva](https://open.spotify.com/album/4POtqjeMTeIMq5SM4LN18B) | 3:18 | 2024-04-26 | 2024-06-04 |
 | [Never Coming Back](https://open.spotify.com/track/7MT8ASfCI0HoH90igN0Imf) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs) | [Never Coming Back](https://open.spotify.com/album/4MYKphAfR0FQeMGae5CPKJ) | 2:59 | 2021-12-20 | 2022-07-28 |
 | [Never Find](https://open.spotify.com/track/3XdmxkGq16K3L1VcKChi57) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Never Find / Armagidion](https://open.spotify.com/album/2L9yHTn8KvFuPKvMvPGAET) | 3:25 | 2021-12-20 | 2022-06-18 |
@@ -450,7 +451,7 @@
 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 | 2023-05-15 | 2023-08-07 |
 | [Party Up](https://open.spotify.com/track/4IG5X1dTPwhJ2RtBCSiDlJ) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [3 Th3 Album](https://open.spotify.com/album/6XkGudg5M9Nf1l5N4JKpRH) | 3:37 | 2021-12-20 | 2022-07-29 |
 | [Party With A Jagaban](https://open.spotify.com/track/5BkBcXJ0rDRlnzh3tmknxI) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Party With A Jagaban](https://open.spotify.com/album/6xAMrpY1W8Krvq6jOvuFJM) | 3:21 | 2021-12-20 | 2024-09-20 |
-| [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 | 2026-02-27 |  |
+| [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 | 2026-02-27 | 2026-11-28 |
 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2023-07-21 | 2023-11-18 |
 | [PDF](https://open.spotify.com/track/4gQPATYQSZ4BfiW2Csb2f4) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:03 | 2022-09-22 | 2022-10-13 |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-23 | 2023-05-11 |

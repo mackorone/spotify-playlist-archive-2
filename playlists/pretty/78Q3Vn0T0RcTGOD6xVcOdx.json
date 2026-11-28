@@ -1,12 +1,12 @@
 {
   "description": "Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.",
-  "num_followers": 555,
+  "num_followers": 556,
   "original_name": "Top Hits 2026 \ud83d\udd25 Best Songs Right Now, Chart Hits, Pop & R&B Hits",
   "owner": {
     "name": "Nuvora",
     "url": "https://open.spotify.com/user/11141650175"
   },
-  "snapshot_id": "AAAC7EfN2ir7RFqurvvgYWg8nymujwJk",
+  "snapshot_id": "AAAC8fzydE5MTnDik+eZ0Pcklz9l24GY",
   "tracks": [
     {
       "added_at": "2026-10-07 15:07:55",
@@ -2275,6 +2275,102 @@
       "duration_ms": 186315,
       "name": "Rhythm & Blues (New Season)",
       "url": "https://open.spotify.com/track/3AUH7mEwqFS31QGsmjpCAN"
+    },
+    {
+      "added_at": "2026-11-27 12:33:31",
+      "album": {
+        "name": "Mayibabo",
+        "url": "https://open.spotify.com/album/1SomL27mNNPwO2uskQ2mmX"
+      },
+      "artists": [
+        {
+          "name": "King Y2K",
+          "url": "https://open.spotify.com/artist/1Y3v7vYNo4RIrN4r7cVL7O"
+        },
+        {
+          "name": "Mpilow RSA",
+          "url": "https://open.spotify.com/artist/4JbbwtFj93mFXtiMj2OQc7"
+        },
+        {
+          "name": "Bruuri Kau",
+          "url": "https://open.spotify.com/artist/2H8j26WVYDXlZFj2hT6FoR"
+        }
+      ],
+      "duration_ms": 396096,
+      "name": "Mayibabo",
+      "url": "https://open.spotify.com/track/7qnL94HMP9sY7KS4gdfENY"
+    },
+    {
+      "added_at": "2026-11-27 12:40:10",
+      "album": {
+        "name": "Luminate",
+        "url": "https://open.spotify.com/album/2OHUOs8mWIoAvWLSldl4N9"
+      },
+      "artists": [
+        {
+          "name": "Ultra Funkular Sound",
+          "url": "https://open.spotify.com/artist/0JTRg5WSk5K5E2GBRZzRVN"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/2TSqs1vjEz7dqyM47NndAU"
+    },
+    {
+      "added_at": "2026-11-27 12:40:51",
+      "album": {
+        "name": "Fair Minded Panda",
+        "url": "https://open.spotify.com/album/6z0fyT1coAmyEStPBJarC3"
+      },
+      "artists": [
+        {
+          "name": "Oleh Khavylo",
+          "url": "https://open.spotify.com/artist/6kzSisusNuHtubecWQzwwH"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Fair Minded Panda",
+      "url": "https://open.spotify.com/track/0j301Dv8m7Jt2Ly1HwqwCv"
+    },
+    {
+      "added_at": "2026-11-27 12:41:36",
+      "album": {
+        "name": "Vusani",
+        "url": "https://open.spotify.com/album/4GwudzrNwL045268K97Adb"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        },
+        {
+          "name": "Cnethemba Gonelo",
+          "url": "https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg"
+        },
+        {
+          "name": "Scrooge KmoA",
+          "url": "https://open.spotify.com/artist/0sdcx269gOfXjsb72XsV2B"
+        }
+      ],
+      "duration_ms": 443965,
+      "name": "Umthandazo",
+      "url": "https://open.spotify.com/track/3AtEEKWmMF1cepLU4o4c86"
+    },
+    {
+      "added_at": "2026-11-27 12:42:18",
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/5i92y6ZZ6zS9HlE4IaP5zc"
+      },
+      "artists": [
+        {
+          "name": "Blue Scarr",
+          "url": "https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/7Fz6tWUxIZBR9sh3DlvEcd"
     }
   ],
   "unique_name": "Top Hits 2026 \ud83d\udd25 Best Songs Right Now, Chart Hits, Pop & R&B Hits",

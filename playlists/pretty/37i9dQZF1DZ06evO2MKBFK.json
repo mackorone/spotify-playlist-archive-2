@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 637216,
+  "num_followers": 637273,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAAF84QSG2kXQw3as4pXgPsE",
+  "snapshot_id": "awd2gAAAAABuuCJeML5Vtia+8/J8Yxs5",
   "tracks": [
     {
       "added_at": null,
@@ -459,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+        "name": "2NE1 1st Mini Album",
+        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
       },
       "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        },
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 231816,
-      "name": "Love Dust (\uc0ac\ub791 \uba3c\uc9c0)",
-      "url": "https://open.spotify.com/track/6mTFH5acKqe2fpxuFmiDjr"
+      "duration_ms": 188000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
     },
     {
       "added_at": null,
@@ -523,22 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2NE1 1st Mini Album",
-        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
       },
       "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        },
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
+      "duration_ms": 231816,
+      "name": "Love Dust (\uc0ac\ub791 \uba3c\uc9c0)",
+      "url": "https://open.spotify.com/track/6mTFH5acKqe2fpxuFmiDjr"
     },
     {
       "added_at": null,

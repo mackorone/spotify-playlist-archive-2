@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Umair Butt, Belaal, Sameen Khawaja
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,745 likes - 123 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,784 likes - 123 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 10 | [Zindagi](https://open.spotify.com/track/6tMKRJkRZS0d0hMa05skOg) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Zindagi](https://open.spotify.com/album/6YwNyvc2nt35o3Xpum9ufS) | 4:13 |
 | 11 | [Date Night](https://open.spotify.com/track/54RsN1N1X1vqIX277l3S9T) | [Ali Mirza](https://open.spotify.com/artist/1e9tjsjFjmlxKoHjhnFTT9) | [Date Night](https://open.spotify.com/album/6574J0D1re2ljvNS8CXWI7) | 2:33 |
 | 12 | [Khawaish](https://open.spotify.com/track/0gcc6KZDyAFXabbzlVoJci) | [Ahmad Shahid](https://open.spotify.com/artist/0kBRzwcYR9asMYPmLBaFea), [Rachel Charlotte](https://open.spotify.com/artist/6xp0wmRX6RFGtvKa0g4Ijr), [Seabay](https://open.spotify.com/artist/1yJpfVUGvriQ6r2qEEzUnF) | [Khawaish](https://open.spotify.com/album/2twV2yMs4wsdeFW6PVR68K) | 2:50 |
-| 13 | [SHAYRI](https://open.spotify.com/track/7fiTDWeT3qocJ8rhzzpwZv) | [Neha Nisar](https://open.spotify.com/artist/0mRQWeat5M3IkU6RRKRZbB), [Azaan Ali Bagga](https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ) | [SHAYRI](https://open.spotify.com/album/3SuBFkqa0DGBp7vX2ZbNaJ) | 2:12 |
+| 13 | [SHAYRI](https://open.spotify.com/track/7fiTDWeT3qocJ8rhzzpwZv) | [Azaan Ali Bagga](https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ), [Neha Nisar](https://open.spotify.com/artist/0mRQWeat5M3IkU6RRKRZbB) | [SHAYRI](https://open.spotify.com/album/3SuBFkqa0DGBp7vX2ZbNaJ) | 2:12 |
 | 14 | [Sohneya](https://open.spotify.com/track/4UW5Yk2Gn9JzB8DBgsvWSg) | [Sami Amiri](https://open.spotify.com/artist/5w3TIlNEAF51Ur9xSCcBzP), [Zeeshan Siddiqui](https://open.spotify.com/artist/3qiuLvu8caQRtDKXstko2x), [Zam Ali](https://open.spotify.com/artist/0BJvbCnd0BvP1vz1tJPMcm), [2 Ace](https://open.spotify.com/artist/1MAb1dGcLKiipWf9D2Zbo5) | [Sohneya](https://open.spotify.com/album/7BTtVNXa4xi8H4kMRdq9Vt) | 3:24 |
 | 15 | [Kya Kahun Main](https://open.spotify.com/track/3ihW2VL2JzrgYVYt7tkHZn) | [Ali Tariq](https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk), [Ahsan Ali Taj](https://open.spotify.com/artist/2QLUqAxKDtYXAVG7gtShIx) | [Kya Kahun Main](https://open.spotify.com/album/78rvVPkRzvXP9abHt1vxZv) | 3:51 |
 | 16 | [Naal Naal Reh](https://open.spotify.com/track/1BqZd4wDJ8wqIsH16B6cNW) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Noorima Rehan](https://open.spotify.com/artist/29kMoXQCAKBsVOM9HeO5KY) | [Naal Naal Reh](https://open.spotify.com/album/1XlpN8gfXgU5J5IThFfMIU) | 3:05 |

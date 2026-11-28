@@ -10578,7 +10578,7 @@
       ],
       "date_added": "2026-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 250672,
       "name": "Noche de P\u00e1nico",
       "url": "https://open.spotify.com/track/7tfmaigofuhzvdozxa414W"
@@ -14042,6 +14042,24 @@
       "duration_ms": 91106,
       "name": "Ti m\u00e1is eu",
       "url": "https://open.spotify.com/track/7Fzi4YxYUFwOkgkQQfl4U0"
+    },
+    {
+      "album": {
+        "name": "Noche de P\u00e1nico",
+        "url": "https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW"
+      },
+      "artists": [
+        {
+          "name": "Nuevos Vicios",
+          "url": "https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316187,
+      "name": "Tiempo de Descuento",
+      "url": "https://open.spotify.com/track/4RQAQpLaQDjYDG2xXyJU7q"
     },
     {
       "album": {

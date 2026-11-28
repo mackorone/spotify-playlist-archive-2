@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un autunno non proprio felice \(sairo e iperiixo in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,173 likes - 110 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,196 likes - 110 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

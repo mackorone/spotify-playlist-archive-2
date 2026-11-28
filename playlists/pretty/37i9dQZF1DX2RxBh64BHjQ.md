@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1zEHBw7xQf0drXZagRkciU">Molly Santana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,689,131 likes - 106 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,688,842 likes - 106 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

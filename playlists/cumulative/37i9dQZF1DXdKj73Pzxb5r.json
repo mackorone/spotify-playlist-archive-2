@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Sisitipsi",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: CHI",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -598,7 +598,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 160171,
       "name": "Ayo Janji",
       "url": "https://open.spotify.com/track/10A4qPaPfefup8WFu3vs7L"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 254405,
       "name": "Beri Waktu Hidup Tuk Tumbuh",
       "url": "https://open.spotify.com/track/0AM7XbaUa4fKp9L9afolH5"
@@ -1329,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "buram",
+        "url": "https://open.spotify.com/album/2EYf9ulL4j3dT3aVnOCS68"
+      },
+      "artists": [
+        {
+          "name": "Drizzly",
+          "url": "https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266062,
+      "name": "buram",
+      "url": "https://open.spotify.com/track/6MFVo8HzTfGRfXb82SR5xR"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/75YDVoGjHMD7r7OY5vJEIm"
       },
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 265920,
       "name": "B\u00e9ntang Sagara",
       "url": "https://open.spotify.com/track/0DUycchEJkz4qXG9KgR3Mp"
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 265800,
       "name": "Di Batas Malam",
       "url": "https://open.spotify.com/track/57wJkQVl4krsMHaowArNgc"
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 226000,
       "name": "Emily",
       "url": "https://open.spotify.com/track/07OCKM5sBpaAixnJiRf9BN"
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 271667,
       "name": "END GREAT WARS",
       "url": "https://open.spotify.com/track/2OvgEODTlx5Lo5MV3t1DLz"
@@ -3054,7 +3072,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 215000,
       "name": "Firasat, firasat",
       "url": "https://open.spotify.com/track/3wC1IzAsZ2oU3cBmWvoapV"
@@ -3242,10 +3260,28 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 270000,
       "name": "Gerimis Malam Kemarau",
       "url": "https://open.spotify.com/track/7aDuZpdmpIbI8rHtHM8vyR"
+    },
+    {
+      "album": {
+        "name": "Ghost (I Don't Care)",
+        "url": "https://open.spotify.com/album/6qGK2nxnae62oLowwe4VuZ"
+      },
+      "artists": [
+        {
+          "name": "Lupakanluka",
+          "url": "https://open.spotify.com/artist/5VeZXvo9GvpyhuPt78UNGI"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235471,
+      "name": "GHOST (I Don't Care)",
+      "url": "https://open.spotify.com/track/14bE1dhzyp4vg0QKBexgwL"
     },
     {
       "album": {
@@ -3502,7 +3538,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 143831,
       "name": "Hassled Out!",
       "url": "https://open.spotify.com/track/5BGKmoJMcFM5uK0HgiYuY9"
@@ -3668,7 +3704,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 200298,
       "name": "Hiduplah Yang Lama",
       "url": "https://open.spotify.com/track/7JVGsO49BhuRjDcGwk3KqQ"
@@ -3784,7 +3820,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 245333,
       "name": "Hitung Mundur",
       "url": "https://open.spotify.com/track/0AFqdd132CkrtpLmO6S2ou"
@@ -4235,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Insane Lately",
+        "url": "https://open.spotify.com/album/6dePZ3dybBpwMBqDFEiTZG"
+      },
+      "artists": [
+        {
+          "name": "CHI",
+          "url": "https://open.spotify.com/artist/2cqWtfVp7U5xnm7qLnoFcw"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205349,
+      "name": "Insane Lately",
+      "url": "https://open.spotify.com/track/0QgEsarlBi1lGVdQNbdWS3"
+    },
+    {
+      "album": {
         "name": "insecure",
         "url": "https://open.spotify.com/album/3jM42OfJaEIYPmjKmN4JBo"
       },
@@ -4502,10 +4556,28 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 232000,
       "name": "Jika Semua Mudah, Mungkin Ku Tak Berdoa",
       "url": "https://open.spotify.com/track/67tGwy66utxSPDPyRAQb2q"
+    },
+    {
+      "album": {
+        "name": "Jingga",
+        "url": "https://open.spotify.com/album/6hIi6Z3t45pNLG7mfcGHz6"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248012,
+      "name": "Jingga",
+      "url": "https://open.spotify.com/track/3MGokEdFQNQ7mYTfgbKt2K"
     },
     {
       "album": {
@@ -5474,7 +5546,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 190805,
       "name": "Lepas Kendali",
       "url": "https://open.spotify.com/track/11LEQn7G7zBIRnZhW3FnDA"
@@ -7010,7 +7082,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 188832,
       "name": "NPD",
       "url": "https://open.spotify.com/track/5oyvTVGt05bsiV3VEpPaEj"
@@ -7046,7 +7118,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 228607,
       "name": "nulla",
       "url": "https://open.spotify.com/track/30LlunIkCklG8xjlpDKfAH"
@@ -7266,7 +7338,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 234098,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/5thA4P9tQFYxFQNJXqhJW8"
@@ -7422,7 +7494,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 188432,
       "name": "People On The Side",
       "url": "https://open.spotify.com/track/1f3g7q172vaZWeMUq2xMN0"
@@ -8236,7 +8308,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 270323,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/67v2T3Iqy9BCtithhU3tur"
@@ -9283,6 +9355,24 @@
     },
     {
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/1DVbNPUseR6yKMHRunUvcS"
+      },
+      "artists": [
+        {
+          "name": "Falaci",
+          "url": "https://open.spotify.com/artist/0zXWDSbeg9bSIgJObMx7Yq"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281200,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2yHql4Da1VHHUjWEjPxtVt"
+    },
+    {
+      "album": {
         "name": "FASHION INTERNET",
         "url": "https://open.spotify.com/album/6Lzf4X9qYoeaZ1QOLJQ1Fy"
       },
@@ -9334,7 +9424,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 242366,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1Mk7OXg1AxopGOWsPL5GQf"
@@ -9994,7 +10084,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 255824,
       "name": "Tentang Dunia dan Masa Muda",
       "url": "https://open.spotify.com/track/4gHRbKrk17CxWEEvEMLNpV"
@@ -10132,7 +10222,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 212000,
       "name": "Tertulis Bertemu",
       "url": "https://open.spotify.com/track/1uLCPdQk71DOjtnr9uT4ip"
@@ -10622,7 +10712,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 174915,
       "name": "underwear",
       "url": "https://open.spotify.com/track/6XBoqpPkQnSTG1tt6lfW50"
@@ -10756,7 +10846,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 192000,
       "name": "Warm Weather - Live from Classic Love Songs",
       "url": "https://open.spotify.com/track/30uDQUslGz3nEMoeIpxLsz"
@@ -10882,7 +10972,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 340000,
       "name": "WHAT U WANT",
       "url": "https://open.spotify.com/track/3eSwtFQuAz2PcfHVZCIIyL"

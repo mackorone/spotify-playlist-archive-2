@@ -1,12 +1,12 @@
 {
-  "description": "Al die nuutste Afrikaanse musiek met Tamlyn Wessels, Zo\u00e9,  Demi Lee Moore, Ruhan Du Toit en meer!",
-  "num_followers": 45064,
+  "description": "Al die nuutste Afrikaanse musiek met Tamlyn Wessels, Zo\u00e9,  Demi Lee Moore, Ruhan Du Toit, Snotkop, Justin Vega en meer!",
+  "num_followers": 45105,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ5RSrgEOQ3q+N1AcHZuOEwLsvRw",
+  "snapshot_id": "AAAAACCzXPkFl9msOdvQbYNSO23yIFxx",
   "tracks": [
     {
       "added_at": "2026-11-26 22:00:27",
@@ -59,6 +59,42 @@
       "duration_ms": 218800,
       "name": "Ai My Lam",
       "url": "https://open.spotify.com/track/2eXVHMgLX7WS3IkQyTpLuk"
+    },
+    {
+      "added_at": "2026-11-27 09:20:05",
+      "album": {
+        "name": "Pina Colada My Nou! (feat. Justin Vega)",
+        "url": "https://open.spotify.com/album/6zRhYMenTGKqjPy2O2ZNds"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        },
+        {
+          "name": "Justin Vega",
+          "url": "https://open.spotify.com/artist/2IzKTL47yQLnbkl5IvBhuU"
+        }
+      ],
+      "duration_ms": 228701,
+      "name": "Pina Colada My Nou! (feat. Justin Vega)",
+      "url": "https://open.spotify.com/track/1MxlXft01mtPEbwt5zJViu"
+    },
+    {
+      "added_at": "2026-11-27 09:24:00",
+      "album": {
+        "name": "Goeie Gene",
+        "url": "https://open.spotify.com/album/1gS5SkOwCdvJfGxdW8RQHm"
+      },
+      "artists": [
+        {
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
+        }
+      ],
+      "duration_ms": 184571,
+      "name": "Goeie Gene",
+      "url": "https://open.spotify.com/track/1La7HFQI7pbjpdx5H80xvQ"
     },
     {
       "added_at": "2026-11-19 22:00:35",
@@ -897,22 +933,6 @@
       "url": "https://open.spotify.com/track/6uiXWFsLRrCfIyFhcYSjav"
     },
     {
-      "added_at": "2026-11-12 22:00:37",
-      "album": {
-        "name": "Fluit Fluit",
-        "url": "https://open.spotify.com/album/1pUPASrXTdAwg6HofDHbIb"
-      },
-      "artists": [
-        {
-          "name": "Wentelbaan",
-          "url": "https://open.spotify.com/artist/4F8pvtlzuwDivgpvknCYOj"
-        }
-      ],
-      "duration_ms": 222196,
-      "name": "Fluit Fluit",
-      "url": "https://open.spotify.com/track/60laO553DxkBLXl6uD8uOM"
-    },
-    {
       "added_at": "2026-11-05 22:00:33",
       "album": {
         "name": "Wie Vang My?",
@@ -931,22 +951,6 @@
       "duration_ms": 243098,
       "name": "Wie Vang My?",
       "url": "https://open.spotify.com/track/7dTS03v6rIBNXHmivpSzZn"
-    },
-    {
-      "added_at": "2026-11-12 22:00:37",
-      "album": {
-        "name": "Altyd Iets Mooi",
-        "url": "https://open.spotify.com/album/6RExzkgaQ4A4kYUFqso6ad"
-      },
-      "artists": [
-        {
-          "name": "Onike",
-          "url": "https://open.spotify.com/artist/3THs0F9sAhSVj0g2p0xoj4"
-        }
-      ],
-      "duration_ms": 181972,
-      "name": "Altyd Iets Mooi",
-      "url": "https://open.spotify.com/track/6QyjANdEq3F8b3sSRvCn92"
     },
     {
       "added_at": "2026-11-05 22:00:33",
@@ -985,38 +989,6 @@
       "url": "https://open.spotify.com/track/7xkqJ2AfAYEgFBmRTnrWUd"
     },
     {
-      "added_at": "2026-11-19 22:00:35",
-      "album": {
-        "name": "Sinies",
-        "url": "https://open.spotify.com/album/1S8xICqMuHvuCzz6yAEgDw"
-      },
-      "artists": [
-        {
-          "name": "Nikita",
-          "url": "https://open.spotify.com/artist/2rOKg9mx1vISjV3CVcWli5"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Sinies",
-      "url": "https://open.spotify.com/track/4rdZCnqh53JvNviZWwsjTH"
-    },
-    {
-      "added_at": "2026-11-19 22:00:35",
-      "album": {
-        "name": "Somerset, Vol. 2",
-        "url": "https://open.spotify.com/album/38J0pzJbc2vZRKrYDlwSvX"
-      },
-      "artists": [
-        {
-          "name": "Elsje",
-          "url": "https://open.spotify.com/artist/5OfnNhDROP4vScolqo7Szq"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Somerset, Vol. 2",
-      "url": "https://open.spotify.com/track/4SQhiUSigShRqYygMk08SV"
-    },
-    {
       "added_at": "2026-10-22 22:01:30",
       "album": {
         "name": "Sewe Oseane",
@@ -1037,22 +1009,6 @@
       "url": "https://open.spotify.com/track/3lwh4WrRZ9jZ6HmBgLAC6M"
     },
     {
-      "added_at": "2026-11-19 22:00:35",
-      "album": {
-        "name": "Eie Soort",
-        "url": "https://open.spotify.com/album/4UePYvjTaOOF3rBnSwwv6t"
-      },
-      "artists": [
-        {
-          "name": "Tanja Storm",
-          "url": "https://open.spotify.com/artist/5C4mGmAIlLdcFJEkJjErLW"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Eie Soort",
-      "url": "https://open.spotify.com/track/48ptCtUhABRCX0zYLxWdQY"
-    },
-    {
       "added_at": "2026-10-15 22:02:00",
       "album": {
         "name": "Skinny Dipping",
@@ -1067,22 +1023,6 @@
       "duration_ms": 179936,
       "name": "Skinny Dipping",
       "url": "https://open.spotify.com/track/6vyYIQnYmHUcZqIeghqlCk"
-    },
-    {
-      "added_at": "2026-11-19 22:00:35",
-      "album": {
-        "name": "Skeur My in Twee",
-        "url": "https://open.spotify.com/album/2c7nzySTuUiYKb9iQWZSq9"
-      },
-      "artists": [
-        {
-          "name": "Tot Stilstand",
-          "url": "https://open.spotify.com/artist/7DLmVHAVKRMGZuA1KEk11S"
-        }
-      ],
-      "duration_ms": 204435,
-      "name": "Skeur My in Twee",
-      "url": "https://open.spotify.com/track/3hwLdzX3gbmiOyjVvDx6px"
     },
     {
       "added_at": "2026-10-23 06:30:44",
@@ -1131,22 +1071,6 @@
       "duration_ms": 228771,
       "name": "Vlugteling",
       "url": "https://open.spotify.com/track/6rhIzSp4KslsMpEUtTLgdj"
-    },
-    {
-      "added_at": "2026-11-12 22:00:37",
-      "album": {
-        "name": "Mens",
-        "url": "https://open.spotify.com/album/6WA5Nlt9NbneD6mxChYsXG"
-      },
-      "artists": [
-        {
-          "name": "Lizl",
-          "url": "https://open.spotify.com/artist/4WL8pDXoxTkYTnXgMghRst"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Mens",
-      "url": "https://open.spotify.com/track/0aA7CLg8jf2l9BtqqGTwHG"
     },
     {
       "added_at": "2026-10-29 22:00:25",

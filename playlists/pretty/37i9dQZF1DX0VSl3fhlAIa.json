@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 11807,
+  "num_followers": 11835,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-10-20 15:37:24",
       "album": {
-        "name": "Chosen One",
-        "url": "https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31"
-      },
-      "artists": [
-        {
-          "name": "aimi",
-          "url": "https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7"
-        }
-      ],
-      "duration_ms": 151891,
-      "name": "Chosen One",
-      "url": "https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB"
-    },
-    {
-      "added_at": "2026-10-20 15:37:24",
-      "album": {
         "name": "Sunny Side Of Original Love",
         "url": "https://open.spotify.com/album/1tXNcSMy345oksuxlQppRH"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 367173,
       "name": "LET'S GO!",
       "url": "https://open.spotify.com/track/2yS62ySi7e53qMzJ32ClQH"
+    },
+    {
+      "added_at": "2026-10-20 15:37:24",
+      "album": {
+        "name": "Chosen One",
+        "url": "https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31"
+      },
+      "artists": [
+        {
+          "name": "aimi",
+          "url": "https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7"
+        }
+      ],
+      "duration_ms": 151891,
+      "name": "Chosen One",
+      "url": "https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB"
     },
     {
       "added_at": "2026-10-20 15:37:24",

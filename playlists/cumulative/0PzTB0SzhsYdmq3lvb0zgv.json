@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Water for Gasoline",
+        "url": "https://open.spotify.com/album/0Z5cm2pYiVGlGZOfYDaBZ8"
+      },
+      "artists": [
+        {
+          "name": "Reb Fountain",
+          "url": "https://open.spotify.com/artist/3wayc8vDx8ukvWV17IBZE1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293213,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6aSWnu3UnrdlRDLfL9QLv8"
+    },
+    {
+      "album": {
         "name": "Better Or Worse",
         "url": "https://open.spotify.com/album/5U3pZ4BfzGzs5d4kql49QU"
       },
@@ -1108,6 +1126,24 @@
       "duration_ms": 121120,
       "name": "Blur",
       "url": "https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg"
+    },
+    {
+      "album": {
+        "name": "Border Town",
+        "url": "https://open.spotify.com/album/3eNuMCNAlCLk9QpAeGYGRe"
+      },
+      "artists": [
+        {
+          "name": "Georgia van Etten",
+          "url": "https://open.spotify.com/artist/0EEft10ZtOgEHmqKFRxXRY"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246780,
+      "name": "Border Town",
+      "url": "https://open.spotify.com/track/0UBzs0jNzpIYA5dSnuK7GW"
     },
     {
       "album": {
@@ -1682,6 +1718,24 @@
       "duration_ms": 205826,
       "name": "City Woman",
       "url": "https://open.spotify.com/track/1i1efjJMWWPUwWoATR2gl0"
+    },
+    {
+      "album": {
+        "name": "Castle Hill",
+        "url": "https://open.spotify.com/album/6QVGukkHZkBkL59DFfLKHX"
+      },
+      "artists": [
+        {
+          "name": "Mel Parsons",
+          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217840,
+      "name": "Clean Slate",
+      "url": "https://open.spotify.com/track/4ob2bdo7iBIZruwdUz1RvK"
     },
     {
       "album": {
@@ -5470,6 +5524,24 @@
       "duration_ms": 200000,
       "name": "Laurie",
       "url": "https://open.spotify.com/track/3RBfQypRWaELeurl0YucPT"
+    },
+    {
+      "album": {
+        "name": "Lay",
+        "url": "https://open.spotify.com/album/27CWbDcD62kon4kfxCZT7e"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243096,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/3z8sSWf3SxZ22xRJZ4CoX8"
     },
     {
       "album": {
@@ -9945,6 +10017,24 @@
     },
     {
       "album": {
+        "name": "Tell Me I'm Beautiful",
+        "url": "https://open.spotify.com/album/6ceUAFN6I4c1BI5HocTcLs"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215246,
+      "name": "Tell Me I'm Beautiful",
+      "url": "https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi"
+    },
+    {
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
       },
@@ -10942,6 +11032,32 @@
       "duration_ms": 211400,
       "name": "Waste",
       "url": "https://open.spotify.com/track/7ElKhgH3NHU368wbdqVley"
+    },
+    {
+      "album": {
+        "name": "Watermelon Juice",
+        "url": "https://open.spotify.com/album/5LrXqtxA439xJpbxDeBW8r"
+      },
+      "artists": [
+        {
+          "name": "Solomon Crook",
+          "url": "https://open.spotify.com/artist/5B5cUiibtKjZKaXgQdV3G1"
+        },
+        {
+          "name": "Marianne Wren",
+          "url": "https://open.spotify.com/artist/4IOMcJE9Y7LZ7rc7CazwH6"
+        },
+        {
+          "name": "My Name is June",
+          "url": "https://open.spotify.com/artist/4ms5gCDbXY8sHX1SkV8qH2"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220682,
+      "name": "Watermelon Juice",
+      "url": "https://open.spotify.com/track/50B1WW8SChPEpnu8JWoQBj"
     },
     {
       "album": {

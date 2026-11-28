@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 349992,
+  "num_followers": 350009,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Illuminations",
-        "url": "https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo"
-      },
-      "artists": [
-        {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Veranda",
-      "url": "https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Dragonball Wave",
         "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 214401,
       "name": "Training Day",
       "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Illuminations",
+        "url": "https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Veranda",
+      "url": "https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Sports",
-        "url": "https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og"
-      },
-      "artists": [
-        {
-          "name": "SPORTSGIRL",
-          "url": "https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Tennis",
-      "url": "https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "TeleVisions",
         "url": "https://open.spotify.com/album/1C9VluG5zic2PyXvbHewIF"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 340909,
       "name": "TeleVisions",
       "url": "https://open.spotify.com/track/0OlwQDSgT5I3sNfs8OKfBY"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og"
+      },
+      "artists": [
+        {
+          "name": "SPORTSGIRL",
+          "url": "https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Leisure",
+        "url": "https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA"
+      },
+      "artists": [
+        {
+          "name": "Duett",
+          "url": "https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81"
+        }
+      ],
+      "duration_ms": 222958,
+      "name": "Gallery",
+      "url": "https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Dxys Xff",
         "url": "https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 326373,
       "name": "Stunts",
       "url": "https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Driver Down",
-        "url": "https://open.spotify.com/album/6KZRceZ9IuLnd5779QylT2"
-      },
-      "artists": [
-        {
-          "name": "Eccodroid",
-          "url": "https://open.spotify.com/artist/5JTPEjc9JfEu5tGuLdwvQj"
-        }
-      ],
-      "duration_ms": 245687,
-      "name": "Poolside",
-      "url": "https://open.spotify.com/track/0HwkAqPeMCJTSYRSaywzMK"
     }
   ],
   "unique_name": "vaporwave",

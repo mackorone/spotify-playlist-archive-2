@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2026-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 163205,
       "name": "Banco De Tr\u00e1s",
       "url": "https://open.spotify.com/track/3nXy8hXNDKFPqcoWmb6odS"
@@ -17280,6 +17280,28 @@
       "duration_ms": 189000,
       "name": "Sumido",
       "url": "https://open.spotify.com/track/1lalcRBPVD5XJT1lQHcgoE"
+    },
+    {
+      "album": {
+        "name": "Sussurrou",
+        "url": "https://open.spotify.com/album/4XdszGEKZYCWSpB3cwEONA"
+      },
+      "artists": [
+        {
+          "name": "Guga Lamar",
+          "url": "https://open.spotify.com/artist/3QigRg4SZFhg2NWT9LD80N"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Sussurrou",
+      "url": "https://open.spotify.com/track/0icRdAELjHn3D3nKjSSDkh"
     },
     {
       "album": {

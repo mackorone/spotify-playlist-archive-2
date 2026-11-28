@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Rev3rent",
-  "num_followers": 317295,
+  "num_followers": 317436,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
+        "name": "Purge",
+        "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
+      },
+      "artists": [
+        {
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        }
+      ],
+      "duration_ms": 282909,
+      "name": "Purge",
+      "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
         "name": "Carry The Weight",
         "url": "https://open.spotify.com/album/3F6AqVyNhhgbW8N6GwI1zY"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Been There, Mutilated That",
-        "url": "https://open.spotify.com/album/6IzuEnCsz9celfE3THxHuW"
-      },
-      "artists": [
-        {
-          "name": "Rev3rent",
-          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
-        }
-      ],
-      "duration_ms": 158635,
-      "name": "Been There, Mutilated That",
-      "url": "https://open.spotify.com/track/3I58ZL3BbnwNsPgV9gpMQZ"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "Hymns in Dissonance",
         "url": "https://open.spotify.com/album/4vrdVbbpdzmw9WMzdr0lra"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 312466,
       "name": "Hymns in Dissonance",
       "url": "https://open.spotify.com/track/6KukQLPGIVCyPYHSG9aiIU"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Been There, Mutilated That",
+        "url": "https://open.spotify.com/album/6IzuEnCsz9celfE3THxHuW"
+      },
+      "artists": [
+        {
+          "name": "Rev3rent",
+          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
+        }
+      ],
+      "duration_ms": 158635,
+      "name": "Been There, Mutilated That",
+      "url": "https://open.spotify.com/track/3I58ZL3BbnwNsPgV9gpMQZ"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -771,22 +787,6 @@
       "duration_ms": 228444,
       "name": "Righteous Man",
       "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
-        "name": "Purge",
-        "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
-      },
-      "artists": [
-        {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
-        }
-      ],
-      "duration_ms": 282909,
-      "name": "Purge",
-      "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "1HP",
-        "url": "https://open.spotify.com/album/7AKtpCKYOKXtchiVnthCmg"
-      },
-      "artists": [
-        {
-          "name": "Spitting Glass",
-          "url": "https://open.spotify.com/artist/0CXwaPUVaNtZyDoulC6cId"
-        }
-      ],
-      "duration_ms": 168951,
-      "name": "1HP",
-      "url": "https://open.spotify.com/track/3YljlwPWa7J7kxl1gm2NQL"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "Carrion Ladder",
         "url": "https://open.spotify.com/album/5qsI8CMeAR4im68zC3x1dn"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 263655,
       "name": "Carrion Ladder",
       "url": "https://open.spotify.com/track/5g2t6L0K8b3p2lXFvYuNn9"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "1HP",
+        "url": "https://open.spotify.com/album/7AKtpCKYOKXtchiVnthCmg"
+      },
+      "artists": [
+        {
+          "name": "Spitting Glass",
+          "url": "https://open.spotify.com/artist/0CXwaPUVaNtZyDoulC6cId"
+        }
+      ],
+      "duration_ms": 168951,
+      "name": "1HP",
+      "url": "https://open.spotify.com/track/3YljlwPWa7J7kxl1gm2NQL"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Nothing Left to Hate",
-        "url": "https://open.spotify.com/album/0E2gDJcCMVouqy8PeT6H2A"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        }
-      ],
-      "duration_ms": 192848,
-      "name": "Nothing Left to Hate",
-      "url": "https://open.spotify.com/track/0i4ygpC8IvP4CsKdfbz5eV"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "Extraction",
         "url": "https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 264463,
       "name": "Calcium Closet",
       "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Nothing Left to Hate",
+        "url": "https://open.spotify.com/album/0E2gDJcCMVouqy8PeT6H2A"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 192848,
+      "name": "Nothing Left to Hate",
+      "url": "https://open.spotify.com/track/0i4ygpC8IvP4CsKdfbz5eV"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/5lxqoACoFFCyZaISr77Hdj"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Forlorn",
+      "url": "https://open.spotify.com/track/5BCK5qslfX22rNkVnwomkw"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
         "name": "snuff.tape",
         "url": "https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/5lxqoACoFFCyZaISr77Hdj"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Forlorn",
-      "url": "https://open.spotify.com/track/5BCK5qslfX22rNkVnwomkw"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "Bloodhound",
         "url": "https://open.spotify.com/album/1h5WwarnD2MwoomWa3rqCC"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "LIBERATION FRONT",
-        "url": "https://open.spotify.com/album/1uMmulSgOnh9XXYdjavMlN"
-      },
-      "artists": [
-        {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
-        }
-      ],
-      "duration_ms": 188594,
-      "name": "CALF SLICER",
-      "url": "https://open.spotify.com/track/7ijSjOsLCviNa87wFuAVZq"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "Altar of Flesh",
         "url": "https://open.spotify.com/album/6SZLTPwjbOPE0LcYcNe0fF"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 220338,
       "name": "Altar of Flesh",
       "url": "https://open.spotify.com/track/42RXBTdsJQb6MoMx8d1itk"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "LIBERATION FRONT",
+        "url": "https://open.spotify.com/album/1uMmulSgOnh9XXYdjavMlN"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "duration_ms": 188594,
+      "name": "CALF SLICER",
+      "url": "https://open.spotify.com/track/7ijSjOsLCviNa87wFuAVZq"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Welcome To Shell Town",
-        "url": "https://open.spotify.com/album/5kGVhCZPsvy5cVbKnBMGT4"
-      },
-      "artists": [
-        {
-          "name": "Filth",
-          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Not Around Here",
-      "url": "https://open.spotify.com/track/35bJ5DdjnAx5Zg69aw8geM"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "BLUEPRINTS FOR IDOL GENOCIDE",
         "url": "https://open.spotify.com/album/2YCZtOSfnNefFFun4RYwKO"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 220514,
       "name": "BLUEPRINTS FOR IDOL GENOCIDE",
       "url": "https://open.spotify.com/track/1Jr9NlooITJqwUd8aJdmYB"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Welcome To Shell Town",
+        "url": "https://open.spotify.com/album/5kGVhCZPsvy5cVbKnBMGT4"
+      },
+      "artists": [
+        {
+          "name": "Filth",
+          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Not Around Here",
+      "url": "https://open.spotify.com/track/35bJ5DdjnAx5Zg69aw8geM"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Watch You Fold (feat. John Gallagher)",
-        "url": "https://open.spotify.com/album/2HH7jRXzAwCSqc5Vh8FA8F"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        },
-        {
-          "name": "John Gallagher",
-          "url": "https://open.spotify.com/artist/3SdmYL7oUhaUFwJhBGp2D6"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Watch You Fold (feat. John Gallagher)",
-      "url": "https://open.spotify.com/track/4d6ZLQm7Q0gJeSQdJuQUfS"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "DISSOLVING PATTERNS",
         "url": "https://open.spotify.com/album/5cmgIc4QwUtEqvXwqbWBuA"
       },
@@ -1591,6 +1571,26 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
+        "name": "Watch You Fold (feat. John Gallagher)",
+        "url": "https://open.spotify.com/album/2HH7jRXzAwCSqc5Vh8FA8F"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        },
+        {
+          "name": "John Gallagher",
+          "url": "https://open.spotify.com/artist/3SdmYL7oUhaUFwJhBGp2D6"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Watch You Fold (feat. John Gallagher)",
+      "url": "https://open.spotify.com/track/4d6ZLQm7Q0gJeSQdJuQUfS"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
         "name": "Needful Things",
         "url": "https://open.spotify.com/album/5kNyXGLHUusKlqJlrT8o7k"
       },
@@ -1607,30 +1607,6 @@
       "duration_ms": 133113,
       "name": "Resurfacing (ft. Jacob Mathes of Orphan)",
       "url": "https://open.spotify.com/track/5hKqEbZyJmhZIcnbdzJjqA"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
-        "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
-        "url": "https://open.spotify.com/album/2kvMb8wE8J9hnrBzvBecNI"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        },
-        {
-          "name": "Tyler Beam",
-          "url": "https://open.spotify.com/artist/1YlQrEMacN3lLi1BKDtrLD"
-        },
-        {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
-        }
-      ],
-      "duration_ms": 173624,
-      "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
-      "url": "https://open.spotify.com/track/2hSjpNE3JZtPDuA8zG6pMT"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1655,6 +1631,30 @@
       "duration_ms": 190273,
       "name": "leech",
       "url": "https://open.spotify.com/track/3MtAxHTEBkSh8hAXcpEITF"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
+        "url": "https://open.spotify.com/album/2kvMb8wE8J9hnrBzvBecNI"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Tyler Beam",
+          "url": "https://open.spotify.com/artist/1YlQrEMacN3lLi1BKDtrLD"
+        },
+        {
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+        }
+      ],
+      "duration_ms": 173624,
+      "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
+      "url": "https://open.spotify.com/track/2hSjpNE3JZtPDuA8zG6pMT"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
+        "name": "Carotid",
+        "url": "https://open.spotify.com/album/37QYlYpyheVjnHbcp4Vtxy"
+      },
+      "artists": [
+        {
+          "name": "I Am Mook",
+          "url": "https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C"
+        },
+        {
+          "name": "Immortal Disfigurement",
+          "url": "https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK"
+        }
+      ],
+      "duration_ms": 132861,
+      "name": "Carotid",
+      "url": "https://open.spotify.com/track/6b3FDNOiWM9NVsayrj6YZN"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
         "name": "12 Gauge Facial",
         "url": "https://open.spotify.com/album/5hmzi7VQ2c1xdijTMXK5jq"
       },
@@ -1719,26 +1739,6 @@
       "duration_ms": 138920,
       "name": "Fleshweaver",
       "url": "https://open.spotify.com/track/6TmUd3qdkx5FbRsY6IoSDS"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
-        "name": "Carotid",
-        "url": "https://open.spotify.com/album/37QYlYpyheVjnHbcp4Vtxy"
-      },
-      "artists": [
-        {
-          "name": "I Am Mook",
-          "url": "https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C"
-        },
-        {
-          "name": "Immortal Disfigurement",
-          "url": "https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK"
-        }
-      ],
-      "duration_ms": 132861,
-      "name": "Carotid",
-      "url": "https://open.spotify.com/track/6b3FDNOiWM9NVsayrj6YZN"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
+        "name": "III. The Leviathan",
+        "url": "https://open.spotify.com/album/3FJ2HVutiP6Tl1WLF2inv8"
+      },
+      "artists": [
+        {
+          "name": "The Crimson Armada",
+          "url": "https://open.spotify.com/artist/3goEJ24SHcTW0ZkHcmiaRZ"
+        }
+      ],
+      "duration_ms": 333796,
+      "name": "III. The Leviathan",
+      "url": "https://open.spotify.com/track/2UrLzCiI85WVtUqMbGSiF7"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
         "name": "Misery Eternal",
         "url": "https://open.spotify.com/album/5xfr42OlCFI8PaEs8YElqD"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 213870,
       "name": "Misery Eternal",
       "url": "https://open.spotify.com/track/6o58ghU9lr29HIojmWqoVF"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
-        "name": "III. The Leviathan",
-        "url": "https://open.spotify.com/album/3FJ2HVutiP6Tl1WLF2inv8"
-      },
-      "artists": [
-        {
-          "name": "The Crimson Armada",
-          "url": "https://open.spotify.com/artist/3goEJ24SHcTW0ZkHcmiaRZ"
-        }
-      ],
-      "duration_ms": 333796,
-      "name": "III. The Leviathan",
-      "url": "https://open.spotify.com/track/2UrLzCiI85WVtUqMbGSiF7"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1863,6 +1863,26 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
+        "name": "Forest of Lust",
+        "url": "https://open.spotify.com/album/2t51pbixg76sMxiLnCgiCt"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Rot",
+          "url": "https://open.spotify.com/artist/6IAkJBTXy5Bf5J438qF1R6"
+        },
+        {
+          "name": "Dal Av",
+          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
+        }
+      ],
+      "duration_ms": 238222,
+      "name": "Forest of Lust",
+      "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/0SPTYQCJRxtW93E1M2rqap"
       },
@@ -1895,22 +1915,34 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Forest of Lust",
-        "url": "https://open.spotify.com/album/2t51pbixg76sMxiLnCgiCt"
+        "name": "Burn Your Local Butcher",
+        "url": "https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m"
       },
       "artists": [
         {
-          "name": "Scarlet Rot",
-          "url": "https://open.spotify.com/artist/6IAkJBTXy5Bf5J438qF1R6"
-        },
-        {
-          "name": "Dal Av",
-          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
         }
       ],
-      "duration_ms": 238222,
-      "name": "Forest of Lust",
-      "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
+      "duration_ms": 184944,
+      "name": "Burn Your Local Butcher",
+      "url": "https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "God Of Mine",
+        "url": "https://open.spotify.com/album/1i6xUxBZs04xb4ZvlJqCKb"
+      },
+      "artists": [
+        {
+          "name": "9 Dead",
+          "url": "https://open.spotify.com/artist/5JV2PBzK9hKbN4fhUKJMUT"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "God Of Mine",
+      "url": "https://open.spotify.com/track/5C2H5w6b3FJSoikWsSHGUp"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1947,38 +1979,6 @@
       "duration_ms": 221250,
       "name": "EVERMORE",
       "url": "https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
-        "name": "Burn Your Local Butcher",
-        "url": "https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m"
-      },
-      "artists": [
-        {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
-        }
-      ],
-      "duration_ms": 184944,
-      "name": "Burn Your Local Butcher",
-      "url": "https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
-        "name": "God Of Mine",
-        "url": "https://open.spotify.com/album/1i6xUxBZs04xb4ZvlJqCKb"
-      },
-      "artists": [
-        {
-          "name": "9 Dead",
-          "url": "https://open.spotify.com/artist/5JV2PBzK9hKbN4fhUKJMUT"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "God Of Mine",
-      "url": "https://open.spotify.com/track/5C2H5w6b3FJSoikWsSHGUp"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Kneel Before The Death",
-        "url": "https://open.spotify.com/album/1Cfc1tRM1GB9TfjQDKBv6m"
-      },
-      "artists": [
-        {
-          "name": "Kneel Before the Death",
-          "url": "https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Kneel Before The Death",
-      "url": "https://open.spotify.com/track/3zFG5qp6Ro8qTebzNEEuCk"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "Drop Dead Gorgeous",
         "url": "https://open.spotify.com/album/3g0e9UejRcmvoM2ADd4qeE"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 188906,
       "name": "TheLastThingYouSee",
       "url": "https://open.spotify.com/track/43VDdSuslycwdg8XEGWFql"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Kneel Before The Death",
+        "url": "https://open.spotify.com/album/1Cfc1tRM1GB9TfjQDKBv6m"
+      },
+      "artists": [
+        {
+          "name": "Kneel Before the Death",
+          "url": "https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Kneel Before The Death",
+      "url": "https://open.spotify.com/track/3zFG5qp6Ro8qTebzNEEuCk"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Invertebrate",
-        "url": "https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef"
-      },
-      "artists": [
-        {
-          "name": "Our Common Collapse",
-          "url": "https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Invertebrate",
-      "url": "https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "A Place For Those Who Suffer, Alone",
         "url": "https://open.spotify.com/album/4Sc7kfaImi7z8peeYXP0rd"
       },
@@ -2287,18 +2271,18 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Act III: Vile Spirits",
-        "url": "https://open.spotify.com/album/2gbMauFfVr7pORzDyI7pkO"
+        "name": "Invertebrate",
+        "url": "https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef"
       },
       "artists": [
         {
-          "name": "Castiel",
-          "url": "https://open.spotify.com/artist/7aT5jcNtxAhoZXjOgXBudG"
+          "name": "Our Common Collapse",
+          "url": "https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb"
         }
       ],
-      "duration_ms": 257125,
-      "name": "Act III: Vile Spirits",
-      "url": "https://open.spotify.com/track/59PuHTYzyyx4ZmAxRfIfVB"
+      "duration_ms": 181052,
+      "name": "Invertebrate",
+      "url": "https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -2339,6 +2323,22 @@
       "duration_ms": 198924,
       "name": "NO HOME LEFT TO FIND",
       "url": "https://open.spotify.com/track/3GBW3ISQc8jAQojA28IW18"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Act III: Vile Spirits",
+        "url": "https://open.spotify.com/album/2gbMauFfVr7pORzDyI7pkO"
+      },
+      "artists": [
+        {
+          "name": "Castiel",
+          "url": "https://open.spotify.com/artist/7aT5jcNtxAhoZXjOgXBudG"
+        }
+      ],
+      "duration_ms": 257125,
+      "name": "Act III: Vile Spirits",
+      "url": "https://open.spotify.com/track/59PuHTYzyyx4ZmAxRfIfVB"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -2563,6 +2563,22 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
+        "name": "Dreadful Existence",
+        "url": "https://open.spotify.com/album/5UfoMkAxOX5vpCp4LxlmRj"
+      },
+      "artists": [
+        {
+          "name": "Brainsucker",
+          "url": "https://open.spotify.com/artist/5Cce8mnO0yDQKnGnHUKS2w"
+        }
+      ],
+      "duration_ms": 158527,
+      "name": "Dreadful Existence",
+      "url": "https://open.spotify.com/track/5hWnLWS0la6UxNn5EnJ1wr"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
         "name": "Force Fed",
         "url": "https://open.spotify.com/album/1QWhs74LLbWHvLVa86rpSa"
       },
@@ -2591,22 +2607,6 @@
       "duration_ms": 199923,
       "name": "Spawn of Decay",
       "url": "https://open.spotify.com/track/1tqJHuTMqMV1IDaOcTjtEM"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
-        "name": "Dreadful Existence",
-        "url": "https://open.spotify.com/album/5UfoMkAxOX5vpCp4LxlmRj"
-      },
-      "artists": [
-        {
-          "name": "Brainsucker",
-          "url": "https://open.spotify.com/artist/5Cce8mnO0yDQKnGnHUKS2w"
-        }
-      ],
-      "duration_ms": 158527,
-      "name": "Dreadful Existence",
-      "url": "https://open.spotify.com/track/5hWnLWS0la6UxNn5EnJ1wr"
     },
     {
       "added_at": "2026-11-20 05:02:07",

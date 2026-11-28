@@ -9117,6 +9117,24 @@
     },
     {
       "album": {
+        "name": "QUANDO CHORO \u00c9 PRA CHORAR",
+        "url": "https://open.spotify.com/album/6E4bgvp0xCqrYiJszQXFju"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "QUANDO CHORO \u00c9 PRA CHORAR",
+      "url": "https://open.spotify.com/track/65kqhQ1MG1fnQeM2jBydHG"
+    },
+    {
+      "album": {
         "name": "Quando Te Fores Embora",
         "url": "https://open.spotify.com/album/0ljfcronV5BqH5q2vl6Bvj"
       },

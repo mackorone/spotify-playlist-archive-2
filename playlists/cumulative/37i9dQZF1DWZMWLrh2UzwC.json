@@ -8136,10 +8136,28 @@
       ],
       "date_added": "2026-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 138333,
       "name": "a sky full of stars (and he's staring at her)",
       "url": "https://open.spotify.com/track/5EmjBkA4DX9dJzRvgFL2F5"
+    },
+    {
+      "album": {
+        "name": "LOVE(?)",
+        "url": "https://open.spotify.com/album/6eUPde3Ro4M4AqK7R9KXOj"
+      },
+      "artists": [
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138333,
+      "name": "a sky full of stars (and he's staring at her)",
+      "url": "https://open.spotify.com/track/5G0WJnDjyZe1czDovZ8Sep"
     },
     {
       "album": {
@@ -76834,7 +76852,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218718,
-      "name": "Cool with It",
+      "name": "Cool With It",
       "url": "https://open.spotify.com/track/08hUXtrnTTHi4FRAhEZ5nk"
     },
     {
@@ -143660,6 +143678,28 @@
       "duration_ms": 184493,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ"
+    },
+    {
+      "album": {
+        "name": "GOOD MOURNING",
+        "url": "https://open.spotify.com/album/7ghOfqndW5q5OLVCfxAb4Z"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "GOOD MOURNING (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/4RqY82QomGazMGN0Cyk5UF"
     },
     {
       "album": {
@@ -312609,6 +312649,24 @@
     },
     {
       "album": {
+        "name": "Rock N Rindu",
+        "url": "https://open.spotify.com/album/4lThg9hMgKIreG1KAt9uCQ"
+      },
+      "artists": [
+        {
+          "name": "CHLYPDY",
+          "url": "https://open.spotify.com/artist/72tSyX2vMhBVCECXVh7i7r"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254971,
+      "name": "Rock N Rindu",
+      "url": "https://open.spotify.com/track/6SMLdeXYDRI6divp5xlTsY"
+    },
+    {
+      "album": {
         "name": "Rock n Roll",
         "url": "https://open.spotify.com/album/1Jey66mOXbJOwGtVKwdUWb"
       },
@@ -441387,7 +441445,7 @@
       "date_added": "2026-11-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 204800,
+      "duration_ms": 201600,
       "name": "\u4e16\u754c\u7b49\u6211\u4e00\u4e0b",
       "url": "https://open.spotify.com/track/5xJyZlbIfButmuyVOk2yvU"
     },

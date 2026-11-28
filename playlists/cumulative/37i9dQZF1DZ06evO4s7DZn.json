@@ -1342,6 +1342,24 @@
     {
       "album": {
         "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/5dlm48ujX10Bi6UHbPjscO"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176320,
+      "name": "Llevame Contigo",
+      "url": "https://open.spotify.com/track/49ZUQOQr26VcPsETsq0dY2"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
         "url": "https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv"
       },
       "artists": [

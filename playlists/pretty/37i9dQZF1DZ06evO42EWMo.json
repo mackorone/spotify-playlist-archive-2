@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Winehouse. The essential tracks, all in one playlist.",
-  "num_followers": 1211288,
+  "num_followers": 1211324,
   "original_name": "This Is Amy Winehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAA2sq6muXvBiICRKArWIkPK",
+  "snapshot_id": "awd2gAAAAABMXwnQlqBZ8lW/IrVj/YyI",
   "tracks": [
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 317013,
-      "name": "In My Bed",
-      "url": "https://open.spotify.com/track/2TfIuZiaQK2I6Dsn0GxxdN"
+      "duration_ms": 254727,
+      "name": "Amy Amy Amy",
+      "url": "https://open.spotify.com/track/6lX3i8dl8gsWMfaUIgcOl6"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 254727,
-      "name": "Amy Amy Amy",
-      "url": "https://open.spotify.com/track/6lX3i8dl8gsWMfaUIgcOl6"
+      "duration_ms": 317013,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/2TfIuZiaQK2I6Dsn0GxxdN"
     },
     {
       "added_at": null,

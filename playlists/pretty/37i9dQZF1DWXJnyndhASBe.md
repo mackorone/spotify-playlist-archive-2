@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Oliwka Brazil
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,895 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,855 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 23 | [SWITCH](https://open.spotify.com/track/7zVgGrg626Yl9jnV5o4FG5) | [SVM!R](https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh) | [SWITCH](https://open.spotify.com/album/4ANK180SzIINBFSEPWX1Fs) | 2:26 |
 | 24 | [Real Deal](https://open.spotify.com/track/1SLH44qLRwPlc8n95HsGZr) | [Kacper HTA](https://open.spotify.com/artist/39lKxb2ZHaygwUTthI92SS), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Real Deal](https://open.spotify.com/album/5ZeELD3pKndHIzMdMV30RW) | 2:22 |
 | 25 | [STYL Z POLSKII](https://open.spotify.com/track/3kH7loBTNAk719km36OhRg) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Polskii](https://open.spotify.com/artist/3K9F67zinkRZv0KQ24v35c), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Def Jam World Tour: AMSTERDAM](https://open.spotify.com/album/0E3DtyRrKkAbLoSctmQuMe) | 3:25 |
-| 26 | [Rollin](https://open.spotify.com/track/3Q2pwsWVtVByyG490fXYtU) | [Jongmen](https://open.spotify.com/artist/6e9g5wwpiNgyJuRsxFUD2b), [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Rest Dixon37](https://open.spotify.com/artist/3JLUyefh2s9ejtSn2NnuT0) | [Rollin](https://open.spotify.com/album/4hco3wLvgHKdgHcYNDc0lb) | 2:44 |
+| 26 | [Rollin](https://open.spotify.com/track/3Q2pwsWVtVByyG490fXYtU) | [Jongmen](https://open.spotify.com/artist/6e9g5wwpiNgyJuRsxFUD2b), [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Rest Dixon37](https://open.spotify.com/artist/3JLUyefh2s9ejtSn2NnuT0), [BR0MA](https://open.spotify.com/artist/6KH5lnXMRLIewkBXuBrBsx) | [Rollin](https://open.spotify.com/album/4hco3wLvgHKdgHcYNDc0lb) | 2:44 |
 | 27 | [LEJ MI BBY](https://open.spotify.com/track/0ABCQ80ojrEfE5b8JLKm4j) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [YEEGOR](https://open.spotify.com/artist/5dyuCkd2slWwlXXJzdrKtf) | [LEJ MI BBY](https://open.spotify.com/album/3P9SN0gylidOlOgOYxfZlA) | 2:05 |
 | 28 | [SZTUKA JEST PIĘKNA](https://open.spotify.com/track/0M7YZ2DVwHykogIdmD8C0p) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [SZTUKA JEST PIĘKNA](https://open.spotify.com/album/2sTX6C0XXS5b19vqb4Cook) | 3:00 |
 | 29 | [Nienawidzę być sobą](https://open.spotify.com/track/6Il31hGCHyHPu90LaTzIVH) | [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [Blaga](https://open.spotify.com/artist/6p0joBE2P2Ho4dsNtFaPQF) | [Nienawidzę być sobą](https://open.spotify.com/album/27RRn95q8j75m1ceFF5udO) | 3:07 |

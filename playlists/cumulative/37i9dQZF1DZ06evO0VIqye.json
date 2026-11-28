@@ -998,7 +998,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 310640,
       "name": "I Wanna Be Your Dog",
       "url": "https://open.spotify.com/track/2VppbCFGniv58380qH2Ut3"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 310640,
       "name": "I Wanna Be Your Dog",
       "url": "https://open.spotify.com/track/2q9E4H2F41UU6tAGGnQLPY"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 232333,
       "name": "You Drive Me Wild",
       "url": "https://open.spotify.com/track/2ZSDEBnyfkCHNdllWJqxNG"
@@ -2184,6 +2184,24 @@
       "duration_ms": 232333,
       "name": "You Drive Me Wild",
       "url": "https://open.spotify.com/track/6I5Taz8OHaWBy6KqoMYYEf"
+    },
+    {
+      "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6OcJjMjfTSTQs7j5JpgNNf"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "You Drive Me Wild",
+      "url": "https://open.spotify.com/track/6l4NidL3xTcwYber8tbwjx"
     },
     {
       "album": {

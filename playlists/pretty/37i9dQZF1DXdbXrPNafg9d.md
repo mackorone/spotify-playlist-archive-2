@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Star's Revenge
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,286,984 likes - 204 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,974 likes - 204 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -23,6 +23,46 @@
     },
     {
       "album": {
+        "name": "Blade Runner 2049 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5kSUsy5FU3Wcxd4DBvXFm4"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217793,
+      "name": "2049",
+      "url": "https://open.spotify.com/track/0UWa0AdUscdQUI7mjjx6G1"
+    },
+    {
+      "album": {
+        "name": "Blade Runner 2099 (Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1U6JpBYgfjeNzRyyQgxYhi"
+      },
+      "artists": [
+        {
+          "name": "Leopold Ross",
+          "url": "https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275733,
+      "name": "2099",
+      "url": "https://open.spotify.com/track/3MknQcHTDajzGhtSY4UONk"
+    },
+    {
+      "album": {
         "name": "Project Hail Mary (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84"
       },

@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más fresh! Olga Lucía Vives en portada ✨
 
-728 songs - 1 day 12 hr 58 min
+729 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Crecer](https://open.spotify.com/track/61jWnsuOqyOcYgMfP96bx6) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [Crecer](https://open.spotify.com/album/2VboIgWOM9fNPJBwO8opSR) | 4:01 | 2026-02-20 | 2026-02-28 |
 | [Criminal](https://open.spotify.com/track/0fXICWku7upbu92G3KUURp) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Criminal](https://open.spotify.com/album/0flBtapIUqgzI4huY8BE5J) | 3:14 | 2026-10-02 |  |
 | [Cruda](https://open.spotify.com/track/1ZhNiBiRdBZgOWVzm6aC9F) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Cruda](https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH) | 2:45 | 2022-12-19 | 2023-04-25 |
-| [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 | 2024-10-11 |  |
+| [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 | 2024-10-11 | 2026-11-28 |
 | [Cuenta Hasta Diez](https://open.spotify.com/track/2hLPflU1zfDDnOUEkxNEQQ) | [Yaz Flores](https://open.spotify.com/artist/1lMvmt7aLyqJ54gNQSrW9i) | [Cuenta Hasta Diez](https://open.spotify.com/album/5ilpxKVdFtf4K3niLom1oN) | 2:37 | 2022-02-04 | 2022-07-20 |
 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 | 2022-02-04 | 2023-01-29 |
 | [Culpable](https://open.spotify.com/track/5JxFRFkgC96NhOtVvcTH5r) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [Culpable](https://open.spotify.com/album/5svD6S60kyy5y2TtxjdMqf) | 2:42 | 2026-02-20 | 2026-03-07 |
@@ -308,6 +308,7 @@
 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 | 2022-04-22 | 2023-01-29 |
 | [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 | 2025-01-17 | 2025-02-08 |
 | [Imagínate](https://open.spotify.com/track/2pDDEqLEVfJIuVqbLtuWEB) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Imagínate](https://open.spotify.com/album/0DjXHEfgVw6DiuijCazaOc) | 3:24 | 2025-02-14 | 2025-03-22 |
+| [INCÍTAME](https://open.spotify.com/track/0TB2zV4VRn9IpCnjJY4c1Y) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X), [Lukas Urkijo](https://open.spotify.com/artist/0sdq0uQ9MBCqV5gwUZuxMW) | [IDK YET](https://open.spotify.com/album/3iBRjuE5mzixZ8lrkXwfIK) | 2:17 | 2026-11-27 |  |
 | [Inmortal](https://open.spotify.com/track/6Wj8Xwu5LSOwcvAup56uhf) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Fehr Rivas](https://open.spotify.com/artist/37U8NRF583ABrv1mlYcxce) | [Inmortal](https://open.spotify.com/album/4S42JxmVMMRlRvaeEieilB) | 3:45 | 2024-05-03 | 2024-05-18 |
 | [Intensamente](https://open.spotify.com/track/5OaP93ux2WhLGR2ElP6ga8) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Angel](https://open.spotify.com/artist/6yB30YN6Hjo4auuVUzXhVR), [Armando Gomez](https://open.spotify.com/artist/2dplSKaTG3Rdk6M1rrVCuy) | [Intensamente](https://open.spotify.com/album/1AJwSW7Y6OpY1reCFqI6Dt) | 3:29 | 2026-10-09 |  |
 | [Ironía](https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [RRRomeo](https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F) | 5:15 | 2026-10-09 | 2026-11-21 |

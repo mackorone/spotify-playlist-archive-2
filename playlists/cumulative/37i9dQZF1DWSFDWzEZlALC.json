@@ -20829,6 +20829,24 @@
     },
     {
       "album": {
+        "name": "Lawinen",
+        "url": "https://open.spotify.com/album/4AvrV7yF78ejHsjKnLdLow"
+      },
+      "artists": [
+        {
+          "name": "Jambus",
+          "url": "https://open.spotify.com/artist/2QZXIiO5fcbdhq7JSaL8ma"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161240,
+      "name": "Lawinen",
+      "url": "https://open.spotify.com/track/6qk2G8FueSqKE4KWE3lnja"
+    },
+    {
+      "album": {
         "name": "leben lang",
         "url": "https://open.spotify.com/album/1nwf2uohywOMmuOTYv3fCs"
       },
@@ -28030,7 +28048,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 134200,
       "name": "rote gauloises",
       "url": "https://open.spotify.com/track/703SGxCdJ7N5O8WvMeVw1b"
@@ -30475,7 +30493,7 @@
     },
     {
       "album": {
-        "name": "So k\u00fchl",
+        "name": "so k\u00fchl",
         "url": "https://open.spotify.com/album/4gqe8YWvQViubLoaJTkWem"
       },
       "artists": [
@@ -30488,7 +30506,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171500,
-      "name": "So k\u00fchl",
+      "name": "so k\u00fchl",
       "url": "https://open.spotify.com/track/18chZ85CvMAQP1cXTrNjvO"
     },
     {

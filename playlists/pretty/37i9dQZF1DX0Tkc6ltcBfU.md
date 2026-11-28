@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: YFN Lucci
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265,043 likes - 104 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,264,972 likes - 104 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

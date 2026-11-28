@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 234893,
       "name": "Dim Stars",
       "url": "https://open.spotify.com/track/4uXMT0xoObBj422bkwOnXv"
@@ -8190,6 +8190,24 @@
       "duration_ms": 714585,
       "name": "Somewhere Near Marseilles \u30fc\u30de\u30eb\u30bb\u30a4\u30e6\u8fba\u308a\u30fc",
       "url": "https://open.spotify.com/track/5ai97hAB5rHiV2luX5NWw5"
+    },
+    {
+      "album": {
+        "name": "Speck of Dust",
+        "url": "https://open.spotify.com/album/2McWTAYPXg9FJkYJrIBO4h"
+      },
+      "artists": [
+        {
+          "name": "Foon",
+          "url": "https://open.spotify.com/artist/5EIOF2u4SZ1l51AOpm2rhg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Speck of Dust",
+      "url": "https://open.spotify.com/track/0k4lLCCM9eIM6hAtCWL2kk"
     },
     {
       "album": {

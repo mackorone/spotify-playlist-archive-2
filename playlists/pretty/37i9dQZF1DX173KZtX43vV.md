@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Chip
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,604 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,613 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 16 | [Can I have a kiss?](https://open.spotify.com/track/2zXphC1m2gfI6GQF1G188x) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Can I have a kiss?](https://open.spotify.com/album/310QRaJFgUhzjTzPtGhBx7) | 2:17 |
 | 17 | [Make you mine.](https://open.spotify.com/track/1827NnE8yYR8N9XBoqIGsE) | [Favour](https://open.spotify.com/artist/7gOKBA8pmCoAX4KJXkjOpT) | [Make you mine.](https://open.spotify.com/album/3quvlROWJ5Jq8VI4EcAhyV) | 1:42 |
 | 18 | [Better Than Ever](https://open.spotify.com/track/6Hajw1GZYeKFwGuXU9nSUZ) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Better Than Ever](https://open.spotify.com/album/0rxApZNEt17klwrRynMhGf) | 2:22 |
-| 19 | [A Million Ways](https://open.spotify.com/track/4eXLirlZfVpWcXY75UvXAq) | [N8tive](https://open.spotify.com/artist/3TFkBnOgExKva6GvdF2ZL2), [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [A Million Ways](https://open.spotify.com/album/1XaPUrsMD6AZj1vhgyrRoT) | 2:59 |
+| 19 | [A Million Ways \(feat\. Nolais\)](https://open.spotify.com/track/4eXLirlZfVpWcXY75UvXAq) | [N8tive](https://open.spotify.com/artist/3TFkBnOgExKva6GvdF2ZL2), [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [A Million Ways \(feat\. Nolais\)](https://open.spotify.com/album/1XaPUrsMD6AZj1vhgyrRoT) | 2:59 |
 | 20 | [BUTTERFLY](https://open.spotify.com/track/4DH3NywOWZEfbzuoN63wu0) | [Mya Mehmi](https://open.spotify.com/artist/5OvtLAWxj6cchhOlUSK5au) | [M1](https://open.spotify.com/album/5t9qofUO2uRVuOXtlUrhFi) | 2:57 |
 | 21 | [What's Done Is Done \- The Grime Remix feat\. Nadia Rose, JME & D Double E](https://open.spotify.com/track/1FJGWSxRCLkgS8hrQhUc7m) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [What Are The Odds \(The Afterparty\)](https://open.spotify.com/album/0uM6TyXmC8gJSRQeDY2UwN) | 3:00 |
 | 22 | [Feel Alright](https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Feel Alright](https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF) | 3:49 |

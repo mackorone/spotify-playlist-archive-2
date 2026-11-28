@@ -4,7 +4,7 @@
 
 > Lo nuevo de toda Iberoamérica\. Foto: Feid y Snoop Dogg.
 
-14,960 songs - 32 day 21 hr 10 min
+14,961 songs - 32 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9797,6 +9797,7 @@
 | [Oro](https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Oro](https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi) | 3:30 | 2022-03-11 | 2022-03-18 |
 | [oro \(pirita\)](https://open.spotify.com/track/4xrGNKhd0v7FetbxClQRDV) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [oro \(pirita\)](https://open.spotify.com/album/2RayoOn0JXlz1qz86qnTui) | 5:00 | 2026-07-10 | 2026-07-17 |
 | [Oro Negro](https://open.spotify.com/track/47CgO81InO20CWqKR7bfWC) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Oro Negro](https://open.spotify.com/album/0UufG3fDNZCkVc1mmR59yJ) | 2:13 | 2022-03-11 | 2022-03-18 |
+| [ORO PRETTU](https://open.spotify.com/track/2FWVVZhn2uAnz1K7aStKD9) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Noro$t](https://open.spotify.com/artist/2GR0zwyO8NyrSyGmueuG35) | [ORO PRETTU](https://open.spotify.com/album/6eSMVgFPYB8gHDxrp0mbLR) | 3:04 | 2026-11-27 |  |
 | [Orígenes Vivos](https://open.spotify.com/track/5vClRBOUMbPCdV6WXp9PCG) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Orígenes Vivos](https://open.spotify.com/album/1kbseorYh6sNkawXLqS5VD) | 4:22 | 2023-02-17 | 2023-02-25 |
 | [Os Preto Chique](https://open.spotify.com/track/2Q9X4xKOkkxOgWzf7tsa4n) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Nego Iego](https://open.spotify.com/artist/38KH24HfFICtFNIJkCvpGo), [Quimo W\-ONE](https://open.spotify.com/artist/02O9BqgMqTe382rpsGlCfP), [Menó Felps](https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP) | [Os Preto Chique](https://open.spotify.com/album/150jNdr95p2BIXKtUUrdjs) | 3:20 | 2023-05-19 | 2023-05-27 |
 | [OSADÍA](https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [OSADÍA](https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT) | 3:26 | 2026-04-17 | 2026-04-24 |

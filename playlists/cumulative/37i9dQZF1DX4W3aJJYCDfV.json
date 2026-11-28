@@ -9298,6 +9298,24 @@
     {
       "album": {
         "name": "A Million Ways",
+        "url": "https://open.spotify.com/album/4JK1Zeh8ywO8NObikA0IqA"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-09-27",
+      "duration_ms": 184901,
+      "name": "A Million Ways",
+      "url": "https://open.spotify.com/track/66iPYsczgPvysER7d8aQdn"
+    },
+    {
+      "album": {
+        "name": "A Million Ways (feat. Nolais)",
         "url": "https://open.spotify.com/album/1XaPUrsMD6AZj1vhgyrRoT"
       },
       "artists": [
@@ -9314,26 +9332,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179417,
-      "name": "A Million Ways",
+      "name": "A Million Ways (feat. Nolais)",
       "url": "https://open.spotify.com/track/4eXLirlZfVpWcXY75UvXAq"
-    },
-    {
-      "album": {
-        "name": "A Million Ways",
-        "url": "https://open.spotify.com/album/4JK1Zeh8ywO8NObikA0IqA"
-      },
-      "artists": [
-        {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
-        }
-      ],
-      "date_added": "2024-09-19",
-      "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
-      "duration_ms": 184901,
-      "name": "A Million Ways",
-      "url": "https://open.spotify.com/track/66iPYsczgPvysER7d8aQdn"
     },
     {
       "album": {
@@ -276392,12 +276392,12 @@
       },
       "artists": [
         {
-          "name": "Cam Stockman",
-          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
-        },
-        {
           "name": "Sidney Charles",
           "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        },
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
         },
         {
           "name": "Eliza Rose",
@@ -279475,7 +279475,7 @@
       "date_added": "2026-11-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 168139,
+      "duration_ms": 162650,
       "name": "Mr Misunderstood",
       "url": "https://open.spotify.com/track/4YkpPMlfD83z34Wcy2CPUj"
     },

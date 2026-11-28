@@ -80,7 +80,7 @@
           "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 307568,
+      "duration_ms": 308110,
       "name": "Yes, It Will Go - Dark-Side Mix",
       "url": "https://open.spotify.com/track/4kCahyyKQohvnhcNL6OXiP"
     },
@@ -121,7 +121,7 @@
         }
       ],
       "duration_ms": 190002,
-      "name": "Goodbye To You - T&A - Spring 1986",
+      "name": "Goodbye To You - T&A Demo - Spring 1986",
       "url": "https://open.spotify.com/track/6ujyEZDYmAO2PgBBWcNVsx"
     },
     {
@@ -179,22 +179,18 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Tubular Bells, introduction",
-        "url": "https://open.spotify.com/album/1aWsCycyHKkoRBPKTDYeZy"
+        "name": "Bird of Paradise",
+        "url": "https://open.spotify.com/album/42feZViXG3EryvKNGaYFsu"
       },
       "artists": [
         {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        },
-        {
-          "name": "Piano in a Living Room",
-          "url": "https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ"
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
         }
       ],
-      "duration_ms": 140629,
-      "name": "Tubular Bells, introduction",
-      "url": "https://open.spotify.com/track/2KFW7sq8ae0OeGC7JlLU6k"
+      "duration_ms": 232760,
+      "name": "Bird of Paradise",
+      "url": "https://open.spotify.com/track/1LCSnsUefCFhKiKedY3xxi"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -215,6 +211,26 @@
       "duration_ms": 298000,
       "name": "Maneater - DIVINE FEM VERSION",
       "url": "https://open.spotify.com/track/1TfDu9uiS6aPbTwqpGVK9a"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "Tubular Bells, introduction",
+        "url": "https://open.spotify.com/album/1aWsCycyHKkoRBPKTDYeZy"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        },
+        {
+          "name": "Piano in a Living Room",
+          "url": "https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ"
+        }
+      ],
+      "duration_ms": 140629,
+      "name": "Tubular Bells, introduction",
+      "url": "https://open.spotify.com/track/2KFW7sq8ae0OeGC7JlLU6k"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -263,38 +279,6 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Me Aburro",
-        "url": "https://open.spotify.com/album/1v6OnPQp6Wwq3uh71kygIA"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 195128,
-      "name": "Me Aburro",
-      "url": "https://open.spotify.com/track/6zlbH7pUXcIIZcfNWecwUx"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "Bird of Paradise",
-        "url": "https://open.spotify.com/album/42feZViXG3EryvKNGaYFsu"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Bird of Paradise",
-      "url": "https://open.spotify.com/track/1LCSnsUefCFhKiKedY3xxi"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
         "name": "\"A Master of the Keyboard: Bach, Mozart & more\"",
         "url": "https://open.spotify.com/album/5C4IdZwxm6viIImCmrjobP"
       },
@@ -311,6 +295,30 @@
       "duration_ms": 69946,
       "name": "Mazurka No. 8 in A-Flat Major, Op. 7 No. 4",
       "url": "https://open.spotify.com/track/6VDthMQ8Cr4T6Ye3gVBZ7E"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "Classical Holiday 2026",
+        "url": "https://open.spotify.com/album/6CV8fwJgE91FwcSIlERvE9"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "3 German Dances, K. 605: No. 3 in C Major, Trio \"Die Schlittenfahrt\"",
+      "url": "https://open.spotify.com/track/0VevE8OmOyHZob5iybErAG"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -351,22 +359,6 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Cheatcode Life In Another World",
-        "url": "https://open.spotify.com/album/3wIGwnphpnqUZA2gfbN4JM"
-      },
-      "artists": [
-        {
-          "name": "Nico.X3",
-          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
-        }
-      ],
-      "duration_ms": 117416,
-      "name": "Cheatcode Life In Another World",
-      "url": "https://open.spotify.com/track/3YtTBLJhZirThpjQL15YV1"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
         "name": "GALLOWS (Deluxe)",
         "url": "https://open.spotify.com/album/2P1I4yhmWXAcnbtqXfXg92"
       },
@@ -387,18 +379,34 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Helvegen II",
-        "url": "https://open.spotify.com/album/1O9IxsI7ucXMPkqSyLEMXu"
+        "name": "Cheatcode Life In Another World",
+        "url": "https://open.spotify.com/album/3wIGwnphpnqUZA2gfbN4JM"
       },
       "artists": [
         {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+          "name": "Nico.X3",
+          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
         }
       ],
-      "duration_ms": 403650,
-      "name": "Helvegen II",
-      "url": "https://open.spotify.com/track/77CxkNmZPE71BPeNtnhGhC"
+      "duration_ms": 117416,
+      "name": "Cheatcode Life In Another World",
+      "url": "https://open.spotify.com/track/3YtTBLJhZirThpjQL15YV1"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "Me Aburro",
+        "url": "https://open.spotify.com/album/1v6OnPQp6Wwq3uh71kygIA"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 195128,
+      "name": "Me Aburro",
+      "url": "https://open.spotify.com/track/6zlbH7pUXcIIZcfNWecwUx"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -415,6 +423,22 @@
       "duration_ms": 305719,
       "name": "Seidh",
       "url": "https://open.spotify.com/track/1thXUA4u2yyIDgdNjcsQSe"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "Helvegen II",
+        "url": "https://open.spotify.com/album/1O9IxsI7ucXMPkqSyLEMXu"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "duration_ms": 403650,
+      "name": "Helvegen II",
+      "url": "https://open.spotify.com/track/77CxkNmZPE71BPeNtnhGhC"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -451,26 +475,6 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "People Are Good (Indira Paganotto Psy Remix)",
-        "url": "https://open.spotify.com/album/2YcIBkJNrfh07gnO5nk7Ox"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        },
-        {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        }
-      ],
-      "duration_ms": 580571,
-      "name": "People Are Good - Indira Paganotto Psy Remix",
-      "url": "https://open.spotify.com/track/7BL2Z5r5DEzXUyo04UUwDy"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
         "name": "Sammumaton (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
         "url": "https://open.spotify.com/album/6p8ZXL1kTGsX2pojH20fqq"
       },
@@ -487,6 +491,26 @@
       "duration_ms": 226823,
       "name": "Sammumaton (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
       "url": "https://open.spotify.com/track/0ofi3zyd16jt2aPx1sWmsL"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "People Are Good (Indira Paganotto Psy Remix)",
+        "url": "https://open.spotify.com/album/2YcIBkJNrfh07gnO5nk7Ox"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        }
+      ],
+      "duration_ms": 580571,
+      "name": "People Are Good - Indira Paganotto Psy Remix",
+      "url": "https://open.spotify.com/track/7BL2Z5r5DEzXUyo04UUwDy"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -579,26 +603,6 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Wreath",
-        "url": "https://open.spotify.com/album/7ccUopmhhuaUf5jsblveTD"
-      },
-      "artists": [
-        {
-          "name": "Shida Shahabi",
-          "url": "https://open.spotify.com/artist/72kYzyvgJS9izgSp2ttqdm"
-        },
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 391226,
-      "name": "Wreath",
-      "url": "https://open.spotify.com/track/5ns6ZPjBLsSN1D0G9E2set"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
         "name": "Der Schmetterling",
         "url": "https://open.spotify.com/album/724BZ4C4wxc9WBt65I7Eo5"
       },
@@ -631,6 +635,26 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
+        "name": "Wreath",
+        "url": "https://open.spotify.com/album/7ccUopmhhuaUf5jsblveTD"
+      },
+      "artists": [
+        {
+          "name": "Shida Shahabi",
+          "url": "https://open.spotify.com/artist/72kYzyvgJS9izgSp2ttqdm"
+        },
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 391226,
+      "name": "Wreath",
+      "url": "https://open.spotify.com/track/5ns6ZPjBLsSN1D0G9E2set"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
         "name": "I\u00d1 MONGELETEW",
         "url": "https://open.spotify.com/album/2PmDqLLSnTzQqYuEJ7LGMP"
       },
@@ -647,22 +671,22 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
+        "name": "Another Day Once Called Tomorrow",
+        "url": "https://open.spotify.com/album/1qqVGWuJFcT5gQ6jms8RvY"
       },
       "artists": [
         {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+          "name": "Defenders Of The Faith",
+          "url": "https://open.spotify.com/artist/3WuYo4HWGCs506nKBc5tSw"
         },
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
         }
       ],
-      "duration_ms": 304318,
-      "name": "Morning Shall Come",
-      "url": "https://open.spotify.com/track/3oRD6kqge7Ya00aAehenOG"
+      "duration_ms": 208440,
+      "name": "Another Day Once Called Tomorrow",
+      "url": "https://open.spotify.com/track/5CjrJocSlHhAAzW30O9kNL"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -703,38 +727,22 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Another Day Once Called Tomorrow",
-        "url": "https://open.spotify.com/album/1qqVGWuJFcT5gQ6jms8RvY"
+        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
       },
       "artists": [
         {
-          "name": "Defenders Of The Faith",
-          "url": "https://open.spotify.com/artist/3WuYo4HWGCs506nKBc5tSw"
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Therion",
-          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 208440,
-      "name": "Another Day Once Called Tomorrow",
-      "url": "https://open.spotify.com/track/5CjrJocSlHhAAzW30O9kNL"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "The Open Door (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7e6bE6fK6VLwgFpGlEhJmH"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 247854,
-      "name": "The Last Song I'm Wasting On You - Remastered 2026",
-      "url": "https://open.spotify.com/track/0s2OT471HQP5qASpIiAicB"
+      "duration_ms": 304318,
+      "name": "Morning Shall Come",
+      "url": "https://open.spotify.com/track/3oRD6kqge7Ya00aAehenOG"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -751,6 +759,22 @@
       "duration_ms": 265746,
       "name": "Deaf Forever - Cameron Webb 40th Anniversary Remix",
       "url": "https://open.spotify.com/track/05NwbopOX3gYWSh3JVolht"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "The Open Door (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7e6bE6fK6VLwgFpGlEhJmH"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 247854,
+      "name": "The Last Song I'm Wasting On You - Remastered 2026",
+      "url": "https://open.spotify.com/track/0s2OT471HQP5qASpIiAicB"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -791,22 +815,6 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Thank You America",
-        "url": "https://open.spotify.com/album/0jjRxQFcKSwk20Vp4yv5tl"
-      },
-      "artists": [
-        {
-          "name": "Cabaret Voltaire",
-          "url": "https://open.spotify.com/artist/2kS4yz85MaZlxp2VaS3BEe"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "Thank You America - Short Single Mix, 2026 Remaster",
-      "url": "https://open.spotify.com/track/1yXFET8sAwDHKZVf20YLZr"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/0AkkMJxxOA8xN02QfhIriD"
       },
@@ -839,50 +847,18 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Rock Of The Westies (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/31rzlcY3HwoGOXZMMDK98E"
+        "name": "Thank You America",
+        "url": "https://open.spotify.com/album/0jjRxQFcKSwk20Vp4yv5tl"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Cabaret Voltaire",
+          "url": "https://open.spotify.com/artist/2kS4yz85MaZlxp2VaS3BEe"
         }
       ],
-      "duration_ms": 277552,
-      "name": "Grow Some Funk Of Your Own - Piano / Vocal Version",
-      "url": "https://open.spotify.com/track/3EZty1D8b6BDgSGySJ986l"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "Equilibrar la Balanza | Daltonismo",
-        "url": "https://open.spotify.com/album/2VPxqkYjl8gPhQsheutnRI"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 207368,
-      "name": "Equilibrar la Balanza (Oops I did It)",
-      "url": "https://open.spotify.com/track/42TyvbFEvrA4HLqSe170tS"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "Oi To The World!",
-        "url": "https://open.spotify.com/album/6s81qm6WEHANwpcC8HHekk"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 148663,
-      "name": "Oi To The World!",
-      "url": "https://open.spotify.com/track/3PCNP6H9g7NxgAXh6CG76S"
+      "duration_ms": 150360,
+      "name": "Thank You America - Short Single Mix, 2026 Remaster",
+      "url": "https://open.spotify.com/track/1yXFET8sAwDHKZVf20YLZr"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -903,6 +879,86 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
+        "name": "Rock Of The Westies (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/31rzlcY3HwoGOXZMMDK98E"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 277552,
+      "name": "Grow Some Funk Of Your Own - Piano / Vocal Version",
+      "url": "https://open.spotify.com/track/3EZty1D8b6BDgSGySJ986l"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "Oi To The World!",
+        "url": "https://open.spotify.com/album/6s81qm6WEHANwpcC8HHekk"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 148663,
+      "name": "Oi To The World!",
+      "url": "https://open.spotify.com/track/3PCNP6H9g7NxgAXh6CG76S"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "Equilibrar la Balanza | Daltonismo",
+        "url": "https://open.spotify.com/album/2VPxqkYjl8gPhQsheutnRI"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 207368,
+      "name": "Equilibrar la Balanza (Oops I did It)",
+      "url": "https://open.spotify.com/track/42TyvbFEvrA4HLqSe170tS"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "Detonizer",
+        "url": "https://open.spotify.com/album/0o1IwuGRGh8hkDd5tuhL8g"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 260200,
+      "name": "Detonizer",
+      "url": "https://open.spotify.com/track/5p7NQTeUSeI44Du5DCXTOP"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "The Who By Numbers (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 336106,
+      "name": "However Much I Booze - Alternate Pete Vocal / Early Mix",
+      "url": "https://open.spotify.com/track/1F000xvLFmgCctqx3CSBpL"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
         "name": "The 25 Songs for You",
         "url": "https://open.spotify.com/album/7MBxdFDpEhUBGTm7f3QHHY"
       },
@@ -919,18 +975,22 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Are You Ready: The First Studio Recording (Inner Ear - March 1979)",
-        "url": "https://open.spotify.com/album/7qcpklmKEmd7Fv6hqJGJLp"
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6YG28dpEYwU2KugYYxWGgu"
       },
       "artists": [
         {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+          "name": "Nylist",
+          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
+        },
+        {
+          "name": "All Shall Perish",
+          "url": "https://open.spotify.com/artist/7GkGdNLPzWw4e6ctwKvI2x"
         }
       ],
-      "duration_ms": 109301,
-      "name": "Migraine",
-      "url": "https://open.spotify.com/track/2GsryzdbgqWWGjq5ODlSNv"
+      "duration_ms": 208624,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/6hZPwHN4aiLTmT02tplA1K"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -959,38 +1019,18 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6YG28dpEYwU2KugYYxWGgu"
+        "name": "Are You Ready: The First Studio Recording (Inner Ear - March 1979)",
+        "url": "https://open.spotify.com/album/7qcpklmKEmd7Fv6hqJGJLp"
       },
       "artists": [
         {
-          "name": "Nylist",
-          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
-        },
-        {
-          "name": "All Shall Perish",
-          "url": "https://open.spotify.com/artist/7GkGdNLPzWw4e6ctwKvI2x"
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
         }
       ],
-      "duration_ms": 208624,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/6hZPwHN4aiLTmT02tplA1K"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "The Who By Numbers (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 336106,
-      "name": "However Much I Booze - Alternate Pete Vocal / Early Mix",
-      "url": "https://open.spotify.com/track/1F000xvLFmgCctqx3CSBpL"
+      "duration_ms": 109301,
+      "name": "Migraine",
+      "url": "https://open.spotify.com/track/2GsryzdbgqWWGjq5ODlSNv"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1007,22 +1047,6 @@
       "duration_ms": 196466,
       "name": "Live Wire - Leath\u00fcr Records Version",
       "url": "https://open.spotify.com/track/75jFmJuKcIbB0pPPU0fYmD"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "Detonizer",
-        "url": "https://open.spotify.com/album/0o1IwuGRGh8hkDd5tuhL8g"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 260200,
-      "name": "Detonizer",
-      "url": "https://open.spotify.com/track/5p7NQTeUSeI44Du5DCXTOP"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1067,18 +1091,18 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Won't Get Fooled Again",
-        "url": "https://open.spotify.com/album/5BgESrGKMtGQTsOqvTalSN"
+        "name": "Crown In The Grave",
+        "url": "https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ"
       },
       "artists": [
         {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 388444,
-      "name": "Won't Get Fooled Again",
-      "url": "https://open.spotify.com/track/1kMZWyzJNDQ8gjJ8C8OAyV"
+      "duration_ms": 282360,
+      "name": "The Terror",
+      "url": "https://open.spotify.com/track/2AhaxVHsIEJXXrAtHpLsty"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1099,18 +1123,18 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Crown In The Grave",
-        "url": "https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ"
+        "name": "Won't Get Fooled Again",
+        "url": "https://open.spotify.com/album/5BgESrGKMtGQTsOqvTalSN"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 282360,
-      "name": "The Terror",
-      "url": "https://open.spotify.com/track/2AhaxVHsIEJXXrAtHpLsty"
+      "duration_ms": 388444,
+      "name": "Won't Get Fooled Again",
+      "url": "https://open.spotify.com/track/1kMZWyzJNDQ8gjJ8C8OAyV"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1163,6 +1187,34 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
+        "name": "CIUDAD DE PIEDRA",
+        "url": "https://open.spotify.com/album/7vSbqkqgH7dqkLXYlt8SfY"
+      },
+      "artists": [
+        {
+          "name": "La Brigida Orquesta",
+          "url": "https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP"
+        },
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Knom",
+          "url": "https://open.spotify.com/artist/275lRnxEO4laSsk72p5YdU"
+        }
+      ],
+      "duration_ms": 250060,
+      "name": "NAUFRAGIO INTERMITENTE",
+      "url": "https://open.spotify.com/track/07sc69zKpKkuRx2IcuhdAt"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
         "name": "Call of Duty: Modern Warfare 4 (Original Score)",
         "url": "https://open.spotify.com/album/08VpX3dnWjEQad3ldK4fqm"
       },
@@ -1210,55 +1262,11 @@
         {
           "name": "La Brigida Orquesta",
           "url": "https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP"
-        },
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        },
-        {
-          "name": "Knom",
-          "url": "https://open.spotify.com/artist/275lRnxEO4laSsk72p5YdU"
-        }
-      ],
-      "duration_ms": 250060,
-      "name": "NAUFRAGIO INTERMITENTE",
-      "url": "https://open.spotify.com/track/07sc69zKpKkuRx2IcuhdAt"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "CIUDAD DE PIEDRA",
-        "url": "https://open.spotify.com/album/7vSbqkqgH7dqkLXYlt8SfY"
-      },
-      "artists": [
-        {
-          "name": "La Brigida Orquesta",
-          "url": "https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP"
         }
       ],
       "duration_ms": 276063,
       "name": "CIUDAD DE PIEDRA",
       "url": "https://open.spotify.com/track/2vJsTUMEQwn5YIWvFK2Y2L"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "Lucro Sucio; Unfinished Business",
-        "url": "https://open.spotify.com/album/0ELF3EMBRnfpjJ5e05gbEW"
-      },
-      "artists": [
-        {
-          "name": "The Mars Volta",
-          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
-        }
-      ],
-      "duration_ms": 306837,
-      "name": "Lucro Sucio",
-      "url": "https://open.spotify.com/track/05sjEFvV5Nz50mKxB5oun0"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1279,18 +1287,18 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "No Sleep Til L.A.",
-        "url": "https://open.spotify.com/album/5y6CE4cFDzGnJ7EaLQXUv9"
+        "name": "Lucro Sucio; Unfinished Business",
+        "url": "https://open.spotify.com/album/0ELF3EMBRnfpjJ5e05gbEW"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
         }
       ],
-      "duration_ms": 205920,
-      "name": "Sin City",
-      "url": "https://open.spotify.com/track/1TJ7znkrgtsdguQVOuUDxt"
+      "duration_ms": 306837,
+      "name": "Lucro Sucio",
+      "url": "https://open.spotify.com/track/05sjEFvV5Nz50mKxB5oun0"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1307,6 +1315,22 @@
       "duration_ms": 228000,
       "name": "Entangled",
       "url": "https://open.spotify.com/track/3rCXzepVNVo4S7WsW01Qse"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "No Sleep Til L.A.",
+        "url": "https://open.spotify.com/album/5y6CE4cFDzGnJ7EaLQXUv9"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/1TJ7znkrgtsdguQVOuUDxt"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1331,22 +1355,6 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Elysium",
-        "url": "https://open.spotify.com/album/4gb0ftHCGAlcWrknQ1jfKV"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 277306,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/6xLRubndwhUQ6sXGCQWqsn"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/4QpGo7C1ZrpHGTcLzJd5Wr"
       },
@@ -1359,6 +1367,22 @@
       "duration_ms": 245693,
       "name": "Is This The Life?",
       "url": "https://open.spotify.com/track/2jrHJpIgWU9msysaAaDQjV"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/4gb0ftHCGAlcWrknQ1jfKV"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 277306,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/6xLRubndwhUQ6sXGCQWqsn"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1411,6 +1435,22 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
+        "name": "Ghost in Me (German Version)",
+        "url": "https://open.spotify.com/album/2pHA9WbbxgPGJ3fatT4U2T"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 175854,
+      "name": "Ghost in Me - German Version",
+      "url": "https://open.spotify.com/track/7uCyu2ubb1T6G8a1svQYj8"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
         "name": "Time Lab",
         "url": "https://open.spotify.com/album/5A9rMiLzm47h4nZmcwoA0c"
       },
@@ -1423,6 +1463,22 @@
       "duration_ms": 191835,
       "name": "Midnight Traffic",
       "url": "https://open.spotify.com/track/2PJW5n8EB96LVq4VoR9Z2z"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "All Grounds Zeroed",
+        "url": "https://open.spotify.com/album/3fxuRnsyU47Xig78pv98oN"
+      },
+      "artists": [
+        {
+          "name": "Panzerfaust",
+          "url": "https://open.spotify.com/artist/39THyu7mxjdqTKk4zHGjrb"
+        }
+      ],
+      "duration_ms": 375658,
+      "name": "All Grounds Zeroed",
+      "url": "https://open.spotify.com/track/1bUPJcu7sahEoYnWdkUJ2i"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1455,6 +1511,30 @@
       "duration_ms": 291254,
       "name": "Weathered - Edit / Remastered 2026",
       "url": "https://open.spotify.com/track/5xpnLSayRkCphS5pkFxpyH"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "Greetings From California (Deluxe)",
+        "url": "https://open.spotify.com/album/73zy95doej9RGgCkTgryf2"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        },
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "The Madden Brothers",
+          "url": "https://open.spotify.com/artist/5geIMZUDvBE9CwP2iBnBuM"
+        }
+      ],
+      "duration_ms": 195118,
+      "name": "Jealousy (All Your Friends In Silverlake) [With Eyedress]",
+      "url": "https://open.spotify.com/track/4aTQxRhxRwws11gVNhBA6k"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1519,46 +1599,6 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Greetings From California (Deluxe)",
-        "url": "https://open.spotify.com/album/73zy95doej9RGgCkTgryf2"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        },
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "The Madden Brothers",
-          "url": "https://open.spotify.com/artist/5geIMZUDvBE9CwP2iBnBuM"
-        }
-      ],
-      "duration_ms": 195118,
-      "name": "Jealousy (All Your Friends In Silverlake) [With Eyedress]",
-      "url": "https://open.spotify.com/track/4aTQxRhxRwws11gVNhBA6k"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "All Grounds Zeroed",
-        "url": "https://open.spotify.com/album/3fxuRnsyU47Xig78pv98oN"
-      },
-      "artists": [
-        {
-          "name": "Panzerfaust",
-          "url": "https://open.spotify.com/artist/39THyu7mxjdqTKk4zHGjrb"
-        }
-      ],
-      "duration_ms": 375658,
-      "name": "All Grounds Zeroed",
-      "url": "https://open.spotify.com/track/1bUPJcu7sahEoYnWdkUJ2i"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
         "name": "The Cost to Stay",
         "url": "https://open.spotify.com/album/6jH7S9ZtJCwYhVntqqOxkt"
       },
@@ -1571,22 +1611,6 @@
       "duration_ms": 221410,
       "name": "The Cost To Stay",
       "url": "https://open.spotify.com/track/709PquzjskkVjT2VIMlTfH"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "Ghost in Me (German Version)",
-        "url": "https://open.spotify.com/album/2pHA9WbbxgPGJ3fatT4U2T"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 175854,
-      "name": "Ghost in Me - German Version",
-      "url": "https://open.spotify.com/track/7uCyu2ubb1T6G8a1svQYj8"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1619,6 +1643,46 @@
       "duration_ms": 211844,
       "name": "ACES",
       "url": "https://open.spotify.com/track/2sCwIkIPsvrZXbHNQWkvo8"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "Closer (En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0UHPk8s5kziOTMEBQAmPbC"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Closer - En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3F9v8PJas3OHN5W5zrpAfv"
+    },
+    {
+      "added_at": "2026-11-27 03:00:00",
+      "album": {
+        "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight Sonata\": III. Presto agitato",
+        "url": "https://open.spotify.com/album/28bX4Mh4QBDOvrLwA5MfaD"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Fabian M\u00fcller",
+          "url": "https://open.spotify.com/artist/3nWFtj95VONeWmWVpoCXcb"
+        }
+      ],
+      "duration_ms": 452752,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight Sonata\": III. Presto agitato",
+      "url": "https://open.spotify.com/track/7E2be8QoVX8pS8CKoZY9bS"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1659,46 +1723,6 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight Sonata\": III. Presto agitato",
-        "url": "https://open.spotify.com/album/28bX4Mh4QBDOvrLwA5MfaD"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Fabian M\u00fcller",
-          "url": "https://open.spotify.com/artist/3nWFtj95VONeWmWVpoCXcb"
-        }
-      ],
-      "duration_ms": 452752,
-      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight Sonata\": III. Presto agitato",
-      "url": "https://open.spotify.com/track/7E2be8QoVX8pS8CKoZY9bS"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "Closer (En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0UHPk8s5kziOTMEBQAmPbC"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Closer - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3F9v8PJas3OHN5W5zrpAfv"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
         "name": "Transmit Failure (2026 Remaster)",
         "url": "https://open.spotify.com/album/4ONpOXgmQd3ddZvKQiYzie"
       },
@@ -1715,42 +1739,18 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "Hamelin: A Classical Evening",
-        "url": "https://open.spotify.com/album/62nU3giWFcYPRzfgB57rbu"
+        "name": "VAMPIRES & PARASITES",
+        "url": "https://open.spotify.com/album/3ffX8OuSgBVmeWIGvXnB2H"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Marc-Andr\u00e9 Hamelin",
-          "url": "https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 332386,
-      "name": "Piano Sonata No. 4 in E-Flat Major, K. 282: I. Adagio",
-      "url": "https://open.spotify.com/track/2jDpxF3B53yRvOtPr6Q6Vh"
-    },
-    {
-      "added_at": "2026-11-27 03:00:00",
-      "album": {
-        "name": "Song From A Secret Garden (The Orchestral Music Of Secret Garden)",
-        "url": "https://open.spotify.com/album/3kfa5J4ZJMrr1GRmX3F1zP"
-      },
-      "artists": [
-        {
-          "name": "Secret Garden",
-          "url": "https://open.spotify.com/artist/6GUg2fRLklsnSJsG3PrTt0"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "Song From A Secret Garden - The Orchestral Music Of Secret Garden",
-      "url": "https://open.spotify.com/track/5k9cNFZjBS6wi8miYbP7Fo"
+      "duration_ms": 170192,
+      "name": "VAMPIRES & PARASITES",
+      "url": "https://open.spotify.com/track/5hykZgF3bg4YtCSkGCf3OP"
     },
     {
       "added_at": "2026-11-27 03:00:00",
@@ -1771,18 +1771,22 @@
     {
       "added_at": "2026-11-27 03:00:00",
       "album": {
-        "name": "VAMPIRES & PARASITES",
-        "url": "https://open.spotify.com/album/3ffX8OuSgBVmeWIGvXnB2H"
+        "name": "Song From A Secret Garden (The Orchestral Music Of Secret Garden)",
+        "url": "https://open.spotify.com/album/3kfa5J4ZJMrr1GRmX3F1zP"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "Secret Garden",
+          "url": "https://open.spotify.com/artist/6GUg2fRLklsnSJsG3PrTt0"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
-      "duration_ms": 170192,
-      "name": "VAMPIRES & PARASITES",
-      "url": "https://open.spotify.com/track/5hykZgF3bg4YtCSkGCf3OP"
+      "duration_ms": 273906,
+      "name": "Song From A Secret Garden - The Orchestral Music Of Secret Garden",
+      "url": "https://open.spotify.com/track/5k9cNFZjBS6wi8miYbP7Fo"
     },
     {
       "added_at": "2026-11-27 03:00:00",

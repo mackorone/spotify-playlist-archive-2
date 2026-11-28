@@ -1,6 +1,6 @@
 {
   "description": "Soft jazz for slow mornings, first coffee, and the quiet before the day starts.",
-  "num_followers": 449128,
+  "num_followers": 449149,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -587,30 +587,6 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
-        "name": "The Velvet Blues",
-        "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
-      },
-      "artists": [
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        },
-        {
-          "name": "Lennart Ginman",
-          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
-        },
-        {
-          "name": "Thomas Blachman",
-          "url": "https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw"
-        }
-      ],
-      "duration_ms": 276040,
-      "name": "Somewhere over the Rainbow",
-      "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
-    },
-    {
-      "added_at": "2026-11-06 09:55:33",
-      "album": {
         "name": "Oh Brother",
         "url": "https://open.spotify.com/album/3DC22laI2ExbcsQ5vX7M1g"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 364700,
       "name": "Oh Brother",
       "url": "https://open.spotify.com/track/3DxZ8GyNWXaCnR01vvZjkY"
+    },
+    {
+      "added_at": "2026-11-06 09:55:33",
+      "album": {
+        "name": "The Velvet Blues",
+        "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        },
+        {
+          "name": "Lennart Ginman",
+          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
+        },
+        {
+          "name": "Thomas Blachman",
+          "url": "https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw"
+        }
+      ],
+      "duration_ms": 276040,
+      "name": "Somewhere over the Rainbow",
+      "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
     },
     {
       "added_at": "2026-11-06 09:55:33",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
+        "name": "Dream Dancing",
+        "url": "https://open.spotify.com/album/6YaZFZ1WhXY81TB14Keqs9"
+      },
+      "artists": [
+        {
+          "name": "Charles Chen",
+          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
+        }
+      ],
+      "duration_ms": 277474,
+      "name": "Dream Dancing",
+      "url": "https://open.spotify.com/track/76m7DuxtViu6mt6bBDrBnD"
+    },
+    {
+      "added_at": "2026-11-06 09:55:33",
+      "album": {
         "name": "Song for Helen",
         "url": "https://open.spotify.com/album/47cyt84sqfEw15Zvq6CCdV"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 399973,
       "name": "Ask Me Now",
       "url": "https://open.spotify.com/track/460bPNCjbhmVxNHHacbWwD"
-    },
-    {
-      "added_at": "2026-11-06 09:55:33",
-      "album": {
-        "name": "Dream Dancing",
-        "url": "https://open.spotify.com/album/6YaZFZ1WhXY81TB14Keqs9"
-      },
-      "artists": [
-        {
-          "name": "Charles Chen",
-          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
-        }
-      ],
-      "duration_ms": 277474,
-      "name": "Dream Dancing",
-      "url": "https://open.spotify.com/track/76m7DuxtViu6mt6bBDrBnD"
     },
     {
       "added_at": "2026-11-06 09:55:33",

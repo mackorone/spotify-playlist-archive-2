@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-159 songs - 8 hr 1 min
+160 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [High End](https://open.spotify.com/track/5dUpL1UYXkjXqf55FrBLgr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Con.Fi.Den.Tial](https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD) | 2:56 | 2025-01-08 | 2026-11-09 |
 | [High Rated Gabru](https://open.spotify.com/track/60uVumQU74E83X5dbLHKhN) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Manj Musik](https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB) | [High Rated Gabru](https://open.spotify.com/album/6S1g0Jx3X8AWKopRZJsgBb) | 3:33 | 2025-01-08 | 2026-10-01 |
 | [Hoops](https://open.spotify.com/track/6yAwGkkTU4q4vkgufzOVXH) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 | 2023-06-22 | 2025-01-09 |
+| [HYPE](https://open.spotify.com/track/1b2dUYsg9h2uYtFcIK44eR) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Known Unknowns](https://open.spotify.com/album/0MMY5flz23tDZV1kRs1PgM) | 2:38 | 2026-11-27 |  |
 | [Illegal Weapon](https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Illegal Weapon](https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P) | 3:50 | 2025-01-08 |  |
 | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl) | 3:08 | 2023-06-22 |  |
 | [Jatt Khulgey](https://open.spotify.com/track/4imfyd9dOBWKJ4Wrek0t8x) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Jatt Khulgey](https://open.spotify.com/album/5rGHWutfVM3vM6UMIdVMg8) | 3:05 | 2023-06-22 | 2025-01-09 |
@@ -94,7 +95,7 @@
 | [Lakk Shake](https://open.spotify.com/track/3cwaNsmpsL67zVXzCttY6J) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v), [Veen Ranjha](https://open.spotify.com/artist/0ZjEqhO82XGFs8LTXpySVK) | [Lakk Shake](https://open.spotify.com/album/75QyRqP2a4MKuDZ3ayhoh5) | 3:27 | 2023-06-22 | 2023-11-02 |
 | [Lalkare](https://open.spotify.com/track/3dzT9yucqZBfOxOVi6hZx4) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge), [Gavy Dhindsa](https://open.spotify.com/artist/0XysuA3jRpyGqO8FLXJyz6) | [Lalkare](https://open.spotify.com/album/1SuDMLLTFub80ckOnlAV1N) | 3:05 | 2026-08-27 | 2026-11-04 |
 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 | 2025-01-08 |  |
-| [Left Behind](https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Left Behind](https://open.spotify.com/album/3Z3kGbW5yyIlKeu6zpEFzQ) | 3:42 | 2026-01-19 |  |
+| [Left Behind](https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Left Behind](https://open.spotify.com/album/3Z3kGbW5yyIlKeu6zpEFzQ) | 3:42 | 2026-01-19 | 2026-11-28 |
 | [Level Up](https://open.spotify.com/track/2LNjZwyjOcxqsqRR1Lep4f) | [Lucky Maan](https://open.spotify.com/artist/09nbL4fECiLx91JQc7iONs), [Mr Harry](https://open.spotify.com/artist/6Aik27VekUXuiW9xnuWlIg) | [Level Up](https://open.spotify.com/album/4TSNQa5aBW9x1P39MUDNL4) | 2:51 | 2024-11-13 | 2025-01-09 |
 | [Light Weight](https://open.spotify.com/track/7FeLqPl1Ds0QR8UOxyKLhp) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Light Weight \- Single](https://open.spotify.com/album/3XwTloJnC6Feq5pdfmhiQ6) | 3:36 | 2023-06-22 | 2025-01-09 |
 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 | 2023-06-22 |  |

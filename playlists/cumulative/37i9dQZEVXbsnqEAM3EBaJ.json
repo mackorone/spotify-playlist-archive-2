@@ -1269,6 +1269,32 @@
     },
     {
       "album": {
+        "name": "Classical Holiday 2026",
+        "url": "https://open.spotify.com/album/6CV8fwJgE91FwcSIlERvE9"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "3 German Dances, K. 605: No. 3 in C Major, Trio \"Die Schlittenfahrt\"",
+      "url": "https://open.spotify.com/track/0VevE8OmOyHZob5iybErAG"
+    },
+    {
+      "album": {
         "name": "3 Pieces, Op. 9",
         "url": "https://open.spotify.com/album/2czczDiRpyHYPRLh3cnVND"
       },
@@ -29430,7 +29456,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190002,
-      "name": "Goodbye To You - T&A - Spring 1986",
+      "name": "Goodbye To You - T&A Demo - Spring 1986",
       "url": "https://open.spotify.com/track/6ujyEZDYmAO2PgBBWcNVsx"
     },
     {
@@ -56468,7 +56494,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 332386,
       "name": "Piano Sonata No. 4 in E-Flat Major, K. 282: I. Adagio",
       "url": "https://open.spotify.com/track/2jDpxF3B53yRvOtPr6Q6Vh"
@@ -87275,7 +87301,7 @@
       "date_added": "2026-11-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 307568,
+      "duration_ms": 308110,
       "name": "Yes, It Will Go - Dark-Side Mix",
       "url": "https://open.spotify.com/track/4kCahyyKQohvnhcNL6OXiP"
     },

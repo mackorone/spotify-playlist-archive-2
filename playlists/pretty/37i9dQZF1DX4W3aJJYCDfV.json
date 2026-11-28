@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Barry Can't Swim & Erick the Architect, Travis Scott, Bella Kay, D'Angelo and more! ",
-  "num_followers": 1040985,
+  "num_followers": 1041552,
   "original_name": "New Music Friday UK & Ireland",
   "owner": {
     "name": "Spotify",
@@ -716,12 +716,12 @@
       },
       "artists": [
         {
-          "name": "Cam Stockman",
-          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
-        },
-        {
           "name": "Sidney Charles",
           "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        },
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
         },
         {
           "name": "Eliza Rose",
@@ -1355,7 +1355,7 @@
     {
       "added_at": "2026-11-27 00:00:41",
       "album": {
-        "name": "A Million Ways",
+        "name": "A Million Ways (feat. Nolais)",
         "url": "https://open.spotify.com/album/1XaPUrsMD6AZj1vhgyrRoT"
       },
       "artists": [
@@ -1369,7 +1369,7 @@
         }
       ],
       "duration_ms": 179417,
-      "name": "A Million Ways",
+      "name": "A Million Ways (feat. Nolais)",
       "url": "https://open.spotify.com/track/4eXLirlZfVpWcXY75UvXAq"
     },
     {
@@ -1676,7 +1676,7 @@
           "url": "https://open.spotify.com/artist/5MPz6I6u7lDh2Cy1vPWfkd"
         }
       ],
-      "duration_ms": 168139,
+      "duration_ms": 162650,
       "name": "Mr Misunderstood",
       "url": "https://open.spotify.com/track/4YkpPMlfD83z34Wcy2CPUj"
     },

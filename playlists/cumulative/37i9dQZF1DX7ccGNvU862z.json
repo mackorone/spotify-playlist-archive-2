@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZENTYARB",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Saran, Sexski",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -1756,6 +1756,32 @@
       "duration_ms": 191219,
       "name": "COLD NIGHT",
       "url": "https://open.spotify.com/track/1CUkY76dkvcmLOoyegoOC2"
+    },
+    {
+      "album": {
+        "name": "Comes and Goes",
+        "url": "https://open.spotify.com/album/5tSWxEJnxtAKLo51Ldr5g8"
+      },
+      "artists": [
+        {
+          "name": "KHSD THAITAY",
+          "url": "https://open.spotify.com/artist/76FiaVjYUIt9LfuDqGlyLj"
+        },
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        },
+        {
+          "name": "THAITANIUM",
+          "url": "https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197343,
+      "name": "Comes And Goes",
+      "url": "https://open.spotify.com/track/4lzw9lSxxEvtvyOgH5wCeQ"
     },
     {
       "album": {
@@ -4152,7 +4178,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 163298,
       "name": "KNOW SOMEBODY",
       "url": "https://open.spotify.com/track/60oB3JYvZ6SQ1Rv7ZwCazp"
@@ -7776,6 +7802,28 @@
       "duration_ms": 214573,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6RnF5N4lILE5E1cDJ2iFxT"
+    },
+    {
+      "album": {
+        "name": "SUNSHINE (\u2600\ufe0f)",
+        "url": "https://open.spotify.com/album/1ivx4eAIq7Cf0HIybZWQ9L"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210250,
+      "name": "SUNSHINE (\u2600\ufe0f)",
+      "url": "https://open.spotify.com/track/0ahkhmJrLeH5GfYXmFhF3O"
     },
     {
       "album": {
@@ -12361,6 +12409,24 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e33\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+        "url": "https://open.spotify.com/album/609ASDqkyuUUdlJg5xLHXO"
+      },
+      "artists": [
+        {
+          "name": "OG-ANIC",
+          "url": "https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234782,
+      "name": "\u0e17\u0e33\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+      "url": "https://open.spotify.com/track/7GygHtFMKseGDGRs0T8UDl"
+    },
+    {
+      "album": {
         "name": "\u0e17\u0e34\u0e49\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e17\u0e34\u0e49\u0e07",
         "url": "https://open.spotify.com/album/1TGxo7Ps1QMJIWOGzXqmEx"
       },
@@ -14290,7 +14356,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 201408,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22",
       "url": "https://open.spotify.com/track/6CChRSAdxrZR5X1pkCVslW"
@@ -14946,7 +15012,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 171428,
       "name": "\u0e23\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/0reM1wA1QqdId2dnDRdutM"
@@ -15020,6 +15086,28 @@
       "duration_ms": 229333,
       "name": "\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49\u0e2d\u0e2d\u0e01\u0e21\u0e32",
       "url": "https://open.spotify.com/track/35CNtpz78yUmjCR5KKIj6y"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14 (101) (feat. GH)",
+        "url": "https://open.spotify.com/album/1i0ToNEOevXMd03DCknU1u"
+      },
+      "artists": [
+        {
+          "name": "Ben Bizzy",
+          "url": "https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6"
+        },
+        {
+          "name": "GH",
+          "url": "https://open.spotify.com/artist/4VNbwWbzZXDyWiclqpKVKv"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183543,
+      "name": "\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14 (101) (feat. GH)",
+      "url": "https://open.spotify.com/track/2bwV1U6i5XHZgCMny1kVUJ"
     },
     {
       "album": {
@@ -15098,6 +15186,28 @@
       "duration_ms": 210461,
       "name": "\u0e25\u0e1a",
       "url": "https://open.spotify.com/track/1Ir5kQNPvA5FS7LMJdTeuE"
+    },
+    {
+      "album": {
+        "name": "\u0e25\u0e21\u0e1b\u0e32\u0e01 (trust?)",
+        "url": "https://open.spotify.com/album/07wxNGi3971hRnpDbZ1U5p"
+      },
+      "artists": [
+        {
+          "name": "K6Y",
+          "url": "https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149280,
+      "name": "\u0e25\u0e21\u0e1b\u0e32\u0e01 (trust?)",
+      "url": "https://open.spotify.com/track/6k1XaXcPl8yPGDc5J58jz3"
     },
     {
       "album": {
@@ -15250,7 +15360,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 202653,
       "name": "\u0e25\u0e32\u0e44\u0e1b\u0e01\u0e48\u0e2d\u0e19",
       "url": "https://open.spotify.com/track/6pstkDoMpB5PV17bCpCh6r"
@@ -16198,6 +16308,24 @@
       "duration_ms": 170126,
       "name": "\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e39\u0e14",
       "url": "https://open.spotify.com/track/7I9ubZxrALPIHYNUN807DF"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e21\u0e14\u0e40\u0e27\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/0lWSmHcTxkoBAhiapWfgce"
+      },
+      "artists": [
+        {
+          "name": "BABY ROCKY",
+          "url": "https://open.spotify.com/artist/3ANMzDN6QHTKp9yr6eYxDX"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192955,
+      "name": "\u0e2b\u0e21\u0e14\u0e40\u0e27\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/427TAxT7TqXf18s6bRLFmJ"
     },
     {
       "album": {
@@ -17312,7 +17440,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 261948,
       "name": "\u0e40\u0e08\u0e34\u0e14\u0e08\u0e23\u0e31\u0e2a",
       "url": "https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA"
@@ -17910,7 +18038,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 245519,
       "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e25\u0e30\u0e2a\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e17\u0e35\u0e25\u0e30\u0e04\u0e19",
       "url": "https://open.spotify.com/track/38r4bUf6Yo38weYngITM6y"
@@ -18562,6 +18690,28 @@
       "duration_ms": 217411,
       "name": "\u0e40\u0e25\u0e34\u0e01\u0e1e\u0e39\u0e14",
       "url": "https://open.spotify.com/track/1TP7e77dujSjfsVeajlKvi"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e27\u0e49\u0e32\u0e27\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/6lsBX8jUb6ik7Cnpme7aiq"
+      },
+      "artists": [
+        {
+          "name": "SURIYA MQT",
+          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
+        },
+        {
+          "name": "MaxMillor",
+          "url": "https://open.spotify.com/artist/4Yk2QTFYbKN55vfo8ghH63"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "\u0e40\u0e27\u0e49\u0e32\u0e27\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/09dnqZ5U6AcdrYX42bzQQD"
     },
     {
       "album": {
@@ -19366,7 +19516,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 155121,
       "name": "\u0e42\u0e14\u0e48\u0e27\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e25\u0e49\u0e21",
       "url": "https://open.spotify.com/track/2OVdY5FKl9SrirGJSBvln2"

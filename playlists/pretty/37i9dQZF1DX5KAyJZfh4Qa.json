@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Holidays in United States",
-  "num_followers": 87693,
+  "num_followers": 87810,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-11-26 19:28:40",
       "album": {
+        "name": "(I Can't Get Out Of) My Own Way",
+        "url": "https://open.spotify.com/album/3kjhTh83RH01cJbkbUtT8s"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 152196,
+      "name": "(I Can't Get Out Of) My Own Way",
+      "url": "https://open.spotify.com/track/5mx3Sm7ercSZASQBShNrpN"
+    },
+    {
+      "added_at": "2026-11-26 19:28:40",
+      "album": {
         "name": "Step Inside",
         "url": "https://open.spotify.com/album/7CewGXl8EQuJ1pHD3WpcSA"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 180857,
       "name": "777",
       "url": "https://open.spotify.com/track/1bIg5pzhE8NCiyzlhh2JtS"
-    },
-    {
-      "added_at": "2026-11-26 19:28:40",
-      "album": {
-        "name": "(I Can't Get Out Of) My Own Way",
-        "url": "https://open.spotify.com/album/3kjhTh83RH01cJbkbUtT8s"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 152196,
-      "name": "(I Can't Get Out Of) My Own Way",
-      "url": "https://open.spotify.com/track/5mx3Sm7ercSZASQBShNrpN"
     },
     {
       "added_at": "2026-11-26 19:28:40",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-11-26 19:28:40",
       "album": {
-        "name": "Dirty Mirror Selfie / Where Blue Light Blooms",
-        "url": "https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4"
-      },
-      "artists": [
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        }
-      ],
-      "duration_ms": 217765,
-      "name": "Dirty Mirror Selfie",
-      "url": "https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI"
-    },
-    {
-      "added_at": "2026-11-26 19:28:40",
-      "album": {
         "name": "Lullabies for Dogs",
         "url": "https://open.spotify.com/album/7sVo3dfzwUo17mucey5xgk"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 223756,
       "name": "Because I Am My Own Dog",
       "url": "https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR"
+    },
+    {
+      "added_at": "2026-11-26 19:28:40",
+      "album": {
+        "name": "Dirty Mirror Selfie / Where Blue Light Blooms",
+        "url": "https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "duration_ms": 217765,
+      "name": "Dirty Mirror Selfie",
+      "url": "https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI"
     },
     {
       "added_at": "2026-11-26 19:28:40",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-11-26 19:28:40",
       "album": {
+        "name": "Daniel Loves Mandy Forever",
+        "url": "https://open.spotify.com/album/6iNqx69oidA8qAjImlrjMX"
+      },
+      "artists": [
+        {
+          "name": "Growing Pains",
+          "url": "https://open.spotify.com/artist/7gs3Tf4aBE9fD2bS9TzoGc"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Daniel Loves Mandy Forever",
+      "url": "https://open.spotify.com/track/1HpEUcqxVojx9Ih64XnqJL"
+    },
+    {
+      "added_at": "2026-11-26 19:28:40",
+      "album": {
         "name": "It Was Real To Me",
         "url": "https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 175500,
       "name": "Goodbye, Columbus",
       "url": "https://open.spotify.com/track/2qtbSxZOoJyoxZSfnlCM4V"
-    },
-    {
-      "added_at": "2026-11-26 19:28:40",
-      "album": {
-        "name": "Daniel Loves Mandy Forever",
-        "url": "https://open.spotify.com/album/6iNqx69oidA8qAjImlrjMX"
-      },
-      "artists": [
-        {
-          "name": "Growing Pains",
-          "url": "https://open.spotify.com/artist/7gs3Tf4aBE9fD2bS9TzoGc"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Daniel Loves Mandy Forever",
-      "url": "https://open.spotify.com/track/1HpEUcqxVojx9Ih64XnqJL"
     },
     {
       "added_at": "2026-11-26 19:28:40",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-11-26 19:28:40",
       "album": {
-        "name": "losing color",
-        "url": "https://open.spotify.com/album/2IVl8x8CX1g8SprMwKk7KF"
-      },
-      "artists": [
-        {
-          "name": "Tiny Voices",
-          "url": "https://open.spotify.com/artist/09slOICvQXnXEGDUSjmEaD"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "losing color",
-      "url": "https://open.spotify.com/track/33XrcSHayHIeASunOekfvw"
-    },
-    {
-      "added_at": "2026-11-26 19:28:40",
-      "album": {
         "name": "D.R.E.A.M. (Depression Ruins Everything Around Me)",
         "url": "https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2026-11-26 19:28:40",
       "album": {
-        "name": "Big-Box Store Heart",
-        "url": "https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM"
+        "name": "losing color",
+        "url": "https://open.spotify.com/album/2IVl8x8CX1g8SprMwKk7KF"
       },
       "artists": [
         {
-          "name": "Prince Daddy & the Hyena",
-          "url": "https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49"
+          "name": "Tiny Voices",
+          "url": "https://open.spotify.com/artist/09slOICvQXnXEGDUSjmEaD"
         }
       ],
-      "duration_ms": 215948,
-      "name": "Big-Box Store Heart",
-      "url": "https://open.spotify.com/track/1bsQdpUK4Br6sWYC08iRmZ"
+      "duration_ms": 173133,
+      "name": "losing color",
+      "url": "https://open.spotify.com/track/33XrcSHayHIeASunOekfvw"
     },
     {
       "added_at": "2026-11-26 19:28:40",
@@ -1351,6 +1335,22 @@
       "duration_ms": 171000,
       "name": "When I Come East",
       "url": "https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM"
+    },
+    {
+      "added_at": "2026-11-26 19:28:40",
+      "album": {
+        "name": "Big-Box Store Heart",
+        "url": "https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM"
+      },
+      "artists": [
+        {
+          "name": "Prince Daddy & the Hyena",
+          "url": "https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49"
+        }
+      ],
+      "duration_ms": 215948,
+      "name": "Big-Box Store Heart",
+      "url": "https://open.spotify.com/track/1bsQdpUK4Br6sWYC08iRmZ"
     },
     {
       "added_at": "2026-11-26 19:28:40",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-11-26 19:28:40",
       "album": {
-        "name": "Trying Not to Have a Thought",
-        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
-      },
-      "artists": [
-        {
-          "name": "Algernon Cadwallader",
-          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
-        }
-      ],
-      "duration_ms": 249304,
-      "name": "noitanitsarcorP",
-      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
-    },
-    {
-      "added_at": "2026-11-26 19:28:40",
-      "album": {
         "name": "winning the high school talent show didnt make me more confident like i thought it would",
         "url": "https://open.spotify.com/album/0YsUvXxQwssOCVqNS7007m"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 255228,
       "name": "winning the high school talent show didnt make me more confident like i thought it would",
       "url": "https://open.spotify.com/track/10dYa9nzrib15HF4Z0dMu0"
+    },
+    {
+      "added_at": "2026-11-26 19:28:40",
+      "album": {
+        "name": "Trying Not to Have a Thought",
+        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
+      },
+      "artists": [
+        {
+          "name": "Algernon Cadwallader",
+          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
+        }
+      ],
+      "duration_ms": 249304,
+      "name": "noitanitsarcorP",
+      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
     },
     {
       "added_at": "2026-11-26 19:28:40",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-11-26 19:28:40",
       "album": {
-        "name": "Fluff My Pillow",
-        "url": "https://open.spotify.com/album/3nO2YsXGByVe5c5Sf78skN"
-      },
-      "artists": [
-        {
-          "name": "Carly Cosgrove",
-          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
-        }
-      ],
-      "duration_ms": 157743,
-      "name": "Fluff My Pillow",
-      "url": "https://open.spotify.com/track/4SBD0bAYfLzq3ggGwRMqaR"
-    },
-    {
-      "added_at": "2026-11-26 19:28:40",
-      "album": {
         "name": "Chessie",
         "url": "https://open.spotify.com/album/2OxC56M17RF8VFlOm9vMJO"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 173715,
       "name": "Chessie",
       "url": "https://open.spotify.com/track/0WIQLsu3mwen4hXLFEaAlh"
+    },
+    {
+      "added_at": "2026-11-26 19:28:40",
+      "album": {
+        "name": "Fluff My Pillow",
+        "url": "https://open.spotify.com/album/3nO2YsXGByVe5c5Sf78skN"
+      },
+      "artists": [
+        {
+          "name": "Carly Cosgrove",
+          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
+        }
+      ],
+      "duration_ms": 157743,
+      "name": "Fluff My Pillow",
+      "url": "https://open.spotify.com/track/4SBD0bAYfLzq3ggGwRMqaR"
     },
     {
       "added_at": "2026-11-26 19:28:40",

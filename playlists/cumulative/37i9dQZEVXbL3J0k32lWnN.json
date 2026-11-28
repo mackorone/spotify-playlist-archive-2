@@ -10618,7 +10618,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 195466,
       "name": "Den Himmelbl\u00e5",
       "url": "https://open.spotify.com/track/5rS90wydFupYLiw0Tqs1eM"
@@ -34597,7 +34597,7 @@
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 255400,
+      "duration_ms": 255293,
       "name": "My Only Wish (This Year)",
       "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
     },
@@ -42004,7 +42004,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 142613,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
@@ -47909,24 +47909,6 @@
     },
     {
       "album": {
-        "name": "Som Julen Er",
-        "url": "https://open.spotify.com/album/1SpESmEGsHPrpkzIwfFaRD"
-      },
-      "artists": [
-        {
-          "name": "Caroline Castell",
-          "url": "https://open.spotify.com/artist/4vRpu2xRHEtlmBoI5nsK7P"
-        }
-      ],
-      "date_added": "2026-11-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232478,
-      "name": "Tidsrejsen",
-      "url": "https://open.spotify.com/track/31M30uDWC6d4oaP1j1eC4E"
-    },
-    {
-      "album": {
         "name": "Tidsrejsen",
         "url": "https://open.spotify.com/album/0qgtqZdjNCEqrZq4Jr5f1g"
       },
@@ -47945,6 +47927,28 @@
     },
     {
       "album": {
+        "name": "Som Julen Er",
+        "url": "https://open.spotify.com/album/1SpESmEGsHPrpkzIwfFaRD"
+      },
+      "artists": [
+        {
+          "name": "Caroline Castell",
+          "url": "https://open.spotify.com/artist/4vRpu2xRHEtlmBoI5nsK7P"
+        },
+        {
+          "name": "DR1",
+          "url": "https://open.spotify.com/artist/4msQIJ6QzKD5XFMM4xmWnz"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232478,
+      "name": "Tidsrejsen",
+      "url": "https://open.spotify.com/track/31M30uDWC6d4oaP1j1eC4E"
+    },
+    {
+      "album": {
         "name": "Tidsrejsen 2 (Fra DRs Julekalender)",
         "url": "https://open.spotify.com/album/7JZ4LVXVknd0tevLeQiBGf"
       },
@@ -47956,6 +47960,10 @@
         {
           "name": "Jonah Blacksmith",
           "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+        },
+        {
+          "name": "DR1",
+          "url": "https://open.spotify.com/artist/4msQIJ6QzKD5XFMM4xmWnz"
         }
       ],
       "date_added": "2024-12-06",

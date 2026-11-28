@@ -4,7 +4,7 @@
 
 > The future hits of today\. Up Next: EF Moon
 
-985 songs - 1 day 21 hr 2 min
+986 songs - 1 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [God Abeg](https://open.spotify.com/track/7kzGpRbR0uwQrvqBs8Xskw) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [God Abeg](https://open.spotify.com/album/2V1mG4syocQGXnH2EFHMPN) | 3:10 | 2026-07-17 |  |
 | [God is working](https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [God is working](https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT) | 2:14 | 2026-02-20 | 2026-03-20 |
 | [GOLIATH](https://open.spotify.com/track/6eXpEvkpwBKtgE1WfD86xV) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/6D2NHn9yNM8uDrUlnpdjnp) | 2:34 | 2025-07-18 | 2026-01-15 |
+| [Good Girls](https://open.spotify.com/track/5Nzi4cGdsrGx1Z7bdezBLT) | [T Solo](https://open.spotify.com/artist/22rhw3nUn17tlr6tlOGnRL) | [That '99 Kid](https://open.spotify.com/album/7qqGAimlGUWQiRYFeg8eeF) | 2:35 | 2026-11-27 |  |
 | [Good Vibes](https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Good Vibes](https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4) | 2:56 | 2025-03-21 | 2025-07-05 |
 | [Goodboy \(Kweku\)](https://open.spotify.com/track/3g3nt6cCAUIgJ3pRl0pRb5) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Chopstix](https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt) | [Goodboy \(Kweku\)](https://open.spotify.com/album/7xU0cELrg6Fd24DAviWORg) | 3:34 | 2026-01-28 | 2026-02-13 |
 | [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 | 2024-10-25 | 2025-03-07 |
@@ -435,7 +436,7 @@
 | [IFEOMA](https://open.spotify.com/track/3v1jAPimrfqVhiBMjF2LGK) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Ifeoma & Rascal](https://open.spotify.com/album/0RIHroLMpjZ7IAmmSmDXQI) | 2:32 | 2026-09-25 |  |
 | [Ifeoma](https://open.spotify.com/track/4elt86Mgijb74wnuO1nTcG) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Ifeoma](https://open.spotify.com/album/1EbcTy7CMKfT3G4hqbw9uD) | 2:04 | 2025-02-21 | 2025-06-14 |
 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 | 2024-10-14 | 2025-03-07 |
-| [IGBAYI](https://open.spotify.com/track/3sc1nMuxW7RxK57OrcV3u2) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q) | [IGBAYI](https://open.spotify.com/album/0w6JJVva2k8WqIY1FaUxCm) | 2:31 | 2026-11-13 |  |
+| [IGBAYI](https://open.spotify.com/track/3sc1nMuxW7RxK57OrcV3u2) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q) | [IGBAYI](https://open.spotify.com/album/0w6JJVva2k8WqIY1FaUxCm) | 2:31 | 2026-11-13 | 2026-11-28 |
 | [Igboro](https://open.spotify.com/track/5b7N9e41oidqCenQCySMYM) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Igboro](https://open.spotify.com/album/54yU6X4VQVGSfe7GGSQ4Pg) | 2:47 | 2026-01-23 | 2026-03-17 |
 | [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 | 2026-01-14 | 2026-06-19 |
 | [Imagination](https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [In The Beginning](https://open.spotify.com/album/4nCsoi5Obnn9f6aId8fP1K) | 2:32 | 2024-08-25 | 2024-11-16 |

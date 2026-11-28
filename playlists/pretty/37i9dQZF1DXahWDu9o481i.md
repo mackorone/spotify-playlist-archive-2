@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,469 likes - 62 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,895 likes - 62 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 19 | [options](https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [options](https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy) | 3:32 |
 | 20 | [let’s talk about it](https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [let's talk about it](https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A) | 2:37 |
 | 21 | [Power](https://open.spotify.com/track/4AgFz88NHRADgVAV2MzOSq) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj) | 3:53 |
-| 22 | [Karma](https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Karma](https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz) | 3:29 |
-| 23 | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 |
+| 22 | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 |
+| 23 | [Karma](https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Karma](https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz) | 3:29 |
 | 24 | [Dientes De Fierro](https://open.spotify.com/track/4dAjV0Fmr0NfBjR09KpiFj) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Dientes De Fierro](https://open.spotify.com/album/0CIFeXjeCPwCL2fvydBmtd) | 3:42 |
 | 25 | [Emperor XIII in Shades \- Live at Carnegie Hall](https://open.spotify.com/track/6UIqRlYsnQVpWzCD1GkoeX) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Live at Carnegie Hall](https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt) | 4:18 |
 | 26 | [Do Better](https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Do Better](https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM) | 3:31 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 33 | [Now I've Got A Lot You Know](https://open.spotify.com/track/2Ike8PM0QWeAMeBxM8b7pY) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj) | 5:10 |
 | 34 | [Summer Clothes](https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Summer Clothes](https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3) | 4:25 |
 | 35 | [Hysteria](https://open.spotify.com/track/0bIpDIXEcFefn9dmKoAxNy) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Hysteria](https://open.spotify.com/album/1C9mEJJHUKBwdujuDpRjdY) | 2:48 |
-| 36 | [Mantra](https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Mantra](https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL) | 3:05 |
-| 37 | [What we want and need from love](https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF) | [Mila Bea](https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm) | [What we want and need from love](https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2) | 4:13 |
+| 36 | [What we want and need from love](https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF) | [Mila Bea](https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm) | [What we want and need from love](https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2) | 4:13 |
+| 37 | [Mantra](https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Mantra](https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL) | 3:05 |
 | 38 | [Take It Off For You](https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Take It Off For You](https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7) | 2:36 |
 | 39 | [Buss Down \(1 Thing\)](https://open.spotify.com/track/0au5KKpyNF8ejpWTiPzhLh) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Buss Down \(1 Thing\)](https://open.spotify.com/album/3qGxpgpdar5u59HZLVl7XF) | 1:59 |
 | 40 | [Honey Is My New Favorite](https://open.spotify.com/track/1BVMfHWOgYZHRdlVptsa2i) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK) | [Honey Is My New Favorite](https://open.spotify.com/album/5mApXQQlSq9naYH7mpfPWl) | 2:23 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 49 | [Beautiful Stranger](https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Believe You Me](https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8) | 2:38 |
 | 50 | [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 |
 | 51 | [I am a Man](https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Pull of the Moon](https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z) | 3:22 |
-| 52 | [SUPERHERO](https://open.spotify.com/track/4IXKuIqYieftE5Qe8caNQp) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [FAITH OVER FAME](https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI) | 3:14 |
-| 53 | [Trace me on2 u](https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC) | [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4) | [Trace me on2 u](https://open.spotify.com/album/0TKnisEIRC5QyEI2ySnlaj) | 3:01 |
+| 52 | [Trace me on2 u](https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC) | [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4) | [Trace me on2 u](https://open.spotify.com/album/0TKnisEIRC5QyEI2ySnlaj) | 3:01 |
+| 53 | [SUPERHERO](https://open.spotify.com/track/4IXKuIqYieftE5Qe8caNQp) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [FAITH OVER FAME](https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI) | 3:14 |
 | 54 | [Thank You](https://open.spotify.com/track/0YwtsLxxci8s57omyhPvfV) | [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV) | [Stick Around For Tea](https://open.spotify.com/album/6fHv4lP1mfXizl1StQkRLU) | 3:36 |
 | 55 | [potion](https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [come to mommy](https://open.spotify.com/album/1CyYAGOMbi7szTakqDtt6I) | 2:43 |
 | 56 | [Free](https://open.spotify.com/track/18fGxP6u7Nz8IGI2fdcD1D) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Free](https://open.spotify.com/album/5K2vTpujgKWvx4qJNYpxYW) | 3:16 |

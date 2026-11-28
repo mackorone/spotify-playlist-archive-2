@@ -4,7 +4,7 @@
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-159 songs - 7 hr 1 min
+160 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [I've Grown Accustomed To Her Face \("My Fair Lady"\)](https://open.spotify.com/track/3nmwqhf7yG6FrBVpzn5q20) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This is Chris Botti \(International Version\)](https://open.spotify.com/album/0RjRrt5CCVXeh4IIyyHmDe) | 3:07 | 2023-12-26 | 2026-08-04 |
 | [I've Grown Accustomed to Her Face \(feat\. Dean Martin\)](https://open.spotify.com/track/6g5aYgw2cdd4rFDpZ7bnxT) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italia](https://open.spotify.com/album/5V2wSvrTzQRRLA7RRXfekM) | 3:08 | 2024-01-05 | 2026-09-03 |
 | [I've Grown Accustomed To Her Face \- Remastered 1998](https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:42 | 2023-12-29 |  |
+| [Imagination](https://open.spotify.com/track/4ZliOsmezSvalBXi8Ben8Z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 11 \(1960\-1961\)](https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF) | 3:14 | 2026-11-28 |  |
 | [Imagination \- Remastered/1998](https://open.spotify.com/track/3204tSLV3EaojXsG5ezqwz) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:14 | 2024-01-01 | 2024-04-03 |
 | [In Napoli](https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:56 | 2023-12-31 |  |
 | [In the Chapel in the Moonlight](https://open.spotify.com/track/2Oabv85FCY9lUmyPPmcggX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin Hits Again](https://open.spotify.com/album/1vOdQThTsIh1sGRGcODki5) | 2:32 | 2023-12-29 | 2024-07-24 |
@@ -158,7 +159,7 @@
 | [Welcome to My World](https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:22 | 2023-12-26 |  |
 | [When You're Smiling \(The Whole World Smiles With You\) \- Digitally Remastered 97](https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:03 | 2023-12-26 |  |
 | [White Christmas](https://open.spotify.com/track/7H0ABcbcZLjVD83SgeU19l) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:29 | 2023-12-26 | 2023-12-30 |
-| [White Christmas \- 1949 Version](https://open.spotify.com/track/67mEvPm9yHq9XUKPwxy9ph) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Classic Christmas](https://open.spotify.com/album/40db1dU3H6We95TkzEmbCP) | 1:38 | 2026-11-02 |  |
+| [White Christmas \- 1949 Version](https://open.spotify.com/track/67mEvPm9yHq9XUKPwxy9ph) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Classic Christmas](https://open.spotify.com/album/40db1dU3H6We95TkzEmbCP) | 1:38 | 2026-11-02 | 2026-11-28 |
 | [Who Was That Lady?](https://open.spotify.com/track/6Y7Y6NzPv4Zu288vIlK0Gg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 10 \(1959\-1960\)](https://open.spotify.com/album/2gWp6ct1c3hFGIN1rR9j18) | 2:26 | 2023-12-26 | 2024-01-28 |
 | [Winter Wonderland](https://open.spotify.com/track/6JzICCKjjIzQ5M2YqzLhWF) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:54 | 2023-12-26 | 2023-12-30 |
 | [Wrap Your Troubles In Dreams](https://open.spotify.com/track/2PCzRvt4vH23RZfCXCRSg9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:59 | 2026-01-02 | 2026-02-11 |

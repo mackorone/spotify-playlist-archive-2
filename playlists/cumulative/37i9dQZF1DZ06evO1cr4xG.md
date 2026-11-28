@@ -4,7 +4,7 @@
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-106 songs - 8 hr 20 min
+107 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Dead Inside Of Me](https://open.spotify.com/track/4JdrQ06kBNP10EMxS7E6Fh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Dead Inside Of Me](https://open.spotify.com/album/3wXT1Tf8fCwKnQGiYNlUlm) | 4:01 | 2026-09-19 |  |
 | [Death Throes](https://open.spotify.com/track/19mGhL2FbJJqLHaouiWvau) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Crown In The Grave](https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ) | 4:36 | 2026-11-23 |  |
 | [Departure](https://open.spotify.com/track/0RtYoUK6JwYeofPsaPsBD5) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:41 | 2022-05-30 | 2022-10-13 |
+| [Devour Your Dreams](https://open.spotify.com/track/2bLrgFsXAt49GP9EP2C5Jc) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Crown In The Grave](https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ) | 3:36 | 2026-11-28 |  |
 | [Dig](https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY) | [Kevin Sherwood](https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5), [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Call of Duty®: Black Ops 6 \- Zombies "The Tomb" \(Original Soundtrack\)](https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C) | 3:49 | 2025-02-03 | 2025-11-02 |
 | [Down from the Sky](https://open.spotify.com/track/5LePaQIrJcIwrUzNEr3m86) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:34 | 2022-05-30 |  |
 | [Drowned and Torn Asunder](https://open.spotify.com/track/2LsIPnH5zWaIO5CLCcKXUE) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:17 | 2023-05-07 | 2026-08-27 |
@@ -70,7 +71,7 @@
 | [Of All These Yesterdays](https://open.spotify.com/track/0dsIrE3aAwSuEtl2zFgcR4) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 4:21 | 2022-06-18 | 2022-06-20 |
 | [Of Prometheus and the Crucifix](https://open.spotify.com/track/3M3pLgLlLAKdzmroa2z64m) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 4:40 | 2022-06-04 | 2022-10-06 |
 | [Other Worlds](https://open.spotify.com/track/1a2S3UQ4riSjBJUmuxBGo0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:49 | 2022-07-29 |  |
-| [Paradise Of Sinners](https://open.spotify.com/track/1S5zzDuq7LZ9Vi2kC6QW9Z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Crown In The Grave](https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ) | 3:11 | 2026-11-23 |  |
+| [Paradise Of Sinners](https://open.spotify.com/track/1S5zzDuq7LZ9Vi2kC6QW9Z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Crown In The Grave](https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ) | 3:11 | 2026-11-23 | 2026-11-28 |
 | [Pillars of Serpents \- 2019 Version](https://open.spotify.com/track/4mTV3JOltmiOgDAtTCkZMz) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Pillars of Serpents \(2019 Version\)](https://open.spotify.com/album/3jqNwVmVa0spWGEyLRwHim) | 5:03 | 2022-05-30 | 2023-01-13 |
 | [Pull Harder on the Strings of Your Martyr](https://open.spotify.com/track/0UXaslpoA81no74N7U56U9) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:51 | 2022-05-30 |  |
 | [Pull Me from the Void](https://open.spotify.com/track/1NLmExNNQmX4Xa6IxnqVi0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:53 | 2022-07-18 | 2025-01-11 |

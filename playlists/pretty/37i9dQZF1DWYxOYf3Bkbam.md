@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,536 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,544 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 40 | [Añoranzas](https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq) | [María Ofelia](https://open.spotify.com/artist/5arJEBdYZb8ZOQmZzsMcVf), [Los Hermanos Barrios](https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw) | [Consagración del Chamamé](https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1) | 2:43 |
 | 41 | [Por Tus Besos](https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr) | [Hermanos Barrios](https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X) | [Las Nuevas Estrellas del Chamamé](https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW) | 2:47 |
 | 42 | [Neique Chamigo](https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 2:26 |
-| 43 | [El Jefe](https://open.spotify.com/track/3wRTfnN1YDgha1hbjyKYNP) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [El Jefe](https://open.spotify.com/album/1TSHkknEf5oMyvK6ohBNhI) | 3:00 |
-| 44 | [La Calandria](https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ) | [Cuarteto Santa Ana](https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu) | [20 Superexitos Originales](https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx) | 2:55 |
+| 43 | [La Calandria](https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ) | [Cuarteto Santa Ana](https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu) | [20 Superexitos Originales](https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx) | 2:55 |
+| 44 | [El Jefe](https://open.spotify.com/track/3wRTfnN1YDgha1hbjyKYNP) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [El Jefe](https://open.spotify.com/album/1TSHkknEf5oMyvK6ohBNhI) | 3:00 |
 | 45 | [Refugio de Soñadores](https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km) | [Rudi y Nini Flores](https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt), [Miguel Ángel Porra](https://open.spotify.com/artist/5CBXXNsH8GqhdfEttuMXTN) | [Refugio de Soñadores](https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2) | 3:22 |
 | 46 | [De Pájaros y Campanas](https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO) | [Juan Carlos Jensen](https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi) | [Su Poesía y Su Voz, Vol\. 2](https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu) | 2:47 |
 | 47 | [Virgencita de Itatí](https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [20 Grandes Exitos](https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0) | 2:35 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 80 | [Temple guarani](https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R) | [Juancito el Peregrino](https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:28 |
 | 81 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
 | 82 | [Compañera](https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:19 |
-| 83 | [Adios palomita ingrata](https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3) | [Palomita y Teresita base](https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
-| 84 | [Felicidades madrecita](https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe) | [Mario Romero canta Espindola Escobar](https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:40 |
+| 83 | [Felicidades madrecita](https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe) | [Mario Romero canta Espindola Escobar](https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:40 |
+| 84 | [Adios palomita ingrata](https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3) | [Palomita y Teresita base](https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
 | 85 | [Porque te fuiste](https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D) | [Duo Aranda Palacio](https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:04 |
 | 86 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
 | 87 | [Recuerdos, Tristeza y Soledad](https://open.spotify.com/track/5RNwpUN7Orwbr4PkmzmJrz) | [Emiliano López](https://open.spotify.com/artist/08ziTcqYRzmsGdO63egTJ6), [Giannela Niwoyda](https://open.spotify.com/artist/4uJ43XefasN101iGtfRnbo) | [Recuerdos, Tristeza y Soledad](https://open.spotify.com/album/0bvdakizmjJ8idm7COAxLY) | 3:53 |
 | 88 | [La dama misteriosa](https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:14 |
-| 89 | [Por Siempre Chamamé](https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN) | [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [Por Siempre Chamamé](https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu) | 2:25 |
-| 90 | [El Gato Blanco](https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:19 |
+| 89 | [El Gato Blanco](https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:19 |
+| 90 | [Por Siempre Chamamé](https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN) | [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [Por Siempre Chamamé](https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu) | 2:25 |
 
 Snapshot ID: `AAAAAG9ModP8TO95JeVcH0oIQ3jXqMd+`

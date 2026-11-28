@@ -1415,6 +1415,28 @@
     },
     {
       "album": {
+        "name": "Yeye (Acoustic)",
+        "url": "https://open.spotify.com/album/63DQv1B9LYXW940EPir4pt"
+      },
+      "artists": [
+        {
+          "name": "Mimi Mars",
+          "url": "https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152624,
+      "name": "Yeye - Acoustic",
+      "url": "https://open.spotify.com/track/3hdNU4RuHppcLopVurF2sY"
+    },
+    {
+      "album": {
         "name": "You (Acoustic)",
         "url": "https://open.spotify.com/album/7n8AkKWLDDIcYeQcA3J2jD"
       },

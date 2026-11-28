@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Joey Nicolay
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,668 likes - 105 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,665 likes - 105 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

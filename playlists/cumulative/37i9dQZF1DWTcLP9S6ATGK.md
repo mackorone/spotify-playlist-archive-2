@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: The Lantis
 
-1,247 songs - 3 day 8 hr 42 min
+1,248 songs - 3 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Benar Kata Temanku](https://open.spotify.com/track/153JoaPN0pXMFiIFwjoOgD) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Benar Kata Temanku](https://open.spotify.com/album/6Zad0I4yrlUwTzOWX8W7D8) | 2:28 | 2025-02-13 | 2025-04-25 |
 | [Benar Salah](https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Benar Salah](https://open.spotify.com/album/44FncBBPS20DbZJEIL7VYN) | 3:27 | 2024-07-11 | 2025-01-10 |
 | [BENCI KANGEN KAMU](https://open.spotify.com/track/5NoGTEb3dBGGEZrOHulFZK) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs) | [BENCI KANGEN KAMU](https://open.spotify.com/album/6FeGGLZvUPIvVO15O0kDV0) | 3:25 | 2026-05-21 | 2026-06-19 |
+| [Benci Untuk Mencinta](https://open.spotify.com/track/5dgygtid7ZEzYdHy4XWUUT) | [Rio Febrian](https://open.spotify.com/artist/3q3FakGkayPyaj7dV3luv9) | [Benci Untuk Mencinta](https://open.spotify.com/album/7jvtTiTjDOC6LgAiEXgxMw) | 3:17 | 2026-11-27 |  |
 | [Bendera Merah \(Red Flag\)](https://open.spotify.com/track/1hEAiDwexOJgphbQpsphQ5) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Nanti Pasti Kan Ada](https://open.spotify.com/album/5R1jjqFGFD6NPMxIillbHO) | 5:12 | 2025-09-25 | 2025-11-07 |
 | [bentar lagi sayang](https://open.spotify.com/track/1013IA4NqScgO66QFJEYBO) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [bentar lagi sayang](https://open.spotify.com/album/1SPHzIB37eDCSpgOYozOwQ) | 3:17 | 2026-06-26 | 2026-07-25 |
 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 | 2024-09-12 | 2025-01-10 |

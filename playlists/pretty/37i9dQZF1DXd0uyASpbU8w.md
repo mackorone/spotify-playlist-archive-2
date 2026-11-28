@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Kabza De Small, 6lack & Jhené Aiko, Mfana Touchline, Simmy, Mpho.Wav, BabyDaiz and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,715 likes - 86 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,344 likes - 85 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 80 | [the city](https://open.spotify.com/track/1pq6zdrkOWpIl7WBL6V8Zy) | [long story short](https://open.spotify.com/artist/0PlbVvSjoiWvsOxmQXmXc7) | [the city](https://open.spotify.com/album/4Ijl1yEgYl1GV2j2T5RTGX) | 3:10 |
 | 81 | [Saka](https://open.spotify.com/track/0zvDxCR2XME6OVsn1zQVB7) | [Lionayve](https://open.spotify.com/artist/0Y42lpxW6vcAWXG7qX5SGU), [Delta The Leo](https://open.spotify.com/artist/1M7stzadySzihhJP4J2WyG), [Smaki 08](https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ) | [Saka](https://open.spotify.com/album/68DH58dzDTwVFg7bC5AzWm) | 5:24 |
 | 82 | [Chongola \(feat\. Clive\-S\)](https://open.spotify.com/track/59AKZD4E1BVtxBwMKYiX90) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [Clive\-S](https://open.spotify.com/artist/2SFlyFwIm36vxf36cC6D3X) | [Matimu](https://open.spotify.com/album/4zH5uyj149zNNGIVLKwinG) | 4:28 |
-| 83 | [Munwe Na Munwe \(feat\. IG Lunar\)](https://open.spotify.com/track/3ALaVoUAyz7O8HCwPut1FP) | [Mickeyblack](https://open.spotify.com/artist/3BXI3Tzrq3iQOw5XWrjMQF), [Vule C4](https://open.spotify.com/artist/5DSxmz93MqKIwOTmzdLBi8), [IG Lunar](https://open.spotify.com/artist/1vsXKtbAN2nBPJiqtAnniw) | [Your Dream My Story](https://open.spotify.com/album/1kI8ffYnvSoGpa2cbc6lLX) | 4:05 |
-| 84 | [SIYADELELA](https://open.spotify.com/track/57xHH43l8QJKihXJKDjuB8) | [DJ Manzo Sa](https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio), [Siya Shezi](https://open.spotify.com/artist/4UC4Ds5uVJ4m2m2n0BhkiU) | [SIYADELELA](https://open.spotify.com/album/5zBRacpSQtk4NKPDVIhGNg) | 6:31 |
-| 85 | [Sleepwalker](https://open.spotify.com/track/4dCOS8EM5dq765mdhJZOQW) | [Dean De Jongh](https://open.spotify.com/artist/0T0ks0qVJnt89zwX0eRSNx), [Keely Crocker](https://open.spotify.com/artist/0V9FPH2iQTiiVSwul9gPRi) | [Sleepwalker](https://open.spotify.com/album/1xZnkx6QFQTEAtjlpEEpKU) | 3:04 |
-| 86 | [Coming in Hot](https://open.spotify.com/track/0qmFKzqDDtt6DgFupKbO9l) | [The Incidentals](https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS) | [Bending the Horizon](https://open.spotify.com/album/4xM67pERjp99g5YDdlNWVL) | 3:50 |
+| 83 | [SIYADELELA](https://open.spotify.com/track/57xHH43l8QJKihXJKDjuB8) | [DJ Manzo Sa](https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio), [Siya Shezi](https://open.spotify.com/artist/4UC4Ds5uVJ4m2m2n0BhkiU) | [SIYADELELA](https://open.spotify.com/album/5zBRacpSQtk4NKPDVIhGNg) | 6:31 |
+| 84 | [Sleepwalker](https://open.spotify.com/track/4dCOS8EM5dq765mdhJZOQW) | [Dean De Jongh](https://open.spotify.com/artist/0T0ks0qVJnt89zwX0eRSNx), [Keely Crocker](https://open.spotify.com/artist/0V9FPH2iQTiiVSwul9gPRi) | [Sleepwalker](https://open.spotify.com/album/1xZnkx6QFQTEAtjlpEEpKU) | 3:04 |
+| 85 | [Coming in Hot](https://open.spotify.com/track/0qmFKzqDDtt6DgFupKbO9l) | [The Incidentals](https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS) | [Bending the Horizon](https://open.spotify.com/album/4xM67pERjp99g5YDdlNWVL) | 3:50 |
 
-Snapshot ID: `AAAAAIBQOUEX6splMnE3ZVnCY7Tipxhe`
+Snapshot ID: `AAAAANN3mW6PeYlEkvMlefhcZsZuqrfm`

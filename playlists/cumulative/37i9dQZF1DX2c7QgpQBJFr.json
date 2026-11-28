@@ -8767,6 +8767,32 @@
     },
     {
       "album": {
+        "name": "CONTROCIELO",
+        "url": "https://open.spotify.com/album/48CQHXETpbCXCp4BzMakdr"
+      },
+      "artists": [
+        {
+          "name": "SaintPaul",
+          "url": "https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT"
+        },
+        {
+          "name": "Sgribaz",
+          "url": "https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi"
+        },
+        {
+          "name": "Frenkie G",
+          "url": "https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Due siga (feat. Sgribaz)",
+      "url": "https://open.spotify.com/track/2wzKI79hs4eMQ3WxEFUEO4"
+    },
+    {
+      "album": {
         "name": "D\u00c9SOL\u00c9E",
         "url": "https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi"
       },

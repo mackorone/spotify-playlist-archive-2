@@ -4,7 +4,7 @@
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. British rap, drill rap and freestyle rap, with british grime, british bangers and bangers only from Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz\.  Today's hit: Gass \- Travis Scott x Nemzzz
 
-231 songs - 10 hr 29 min
+232 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [HIT or MISS](https://open.spotify.com/track/1Bv0bBB8jbDlHxKOuROr4A) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [HIT or MISS](https://open.spotify.com/album/1bjQsg2gLIx3GpuBgLaheY) | 2:23 | 2025-10-03 | 2026-03-14 |
 | [Homegrown \(feat\. Blxst\)](https://open.spotify.com/track/4s0tZBDviWiawHu8XlYXcJ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Homegrown \(feat\. Blxst\)](https://open.spotify.com/album/2JTsVy8S2Tdk9YB82nF7RN) | 2:51 | 2026-07-10 | 2026-09-19 |
 | [HOUSEPARTY](https://open.spotify.com/track/72TMryi7n6uQd4kByuGZhq) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD), [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [HOUSEPARTY](https://open.spotify.com/album/6xRT2fNgogbHvir9QMlaLL) | 2:26 | 2026-10-09 | 2026-10-31 |
+| [HOW CAN I LOSE](https://open.spotify.com/track/1vArSEfzWtO36SKs2xADBN) | [TBO](https://open.spotify.com/artist/6hoqqB3l18EUPmwlQSG3hf), [vvsmygwen](https://open.spotify.com/artist/3GvLzHTwSpsLgPcYB9ywgJ) | [NETBOY](https://open.spotify.com/album/4JS6BipAxT1J5UvFANLRsl) | 2:06 | 2026-11-27 |  |
 | [How Dare They \(feat\. Digga\)](https://open.spotify.com/track/0dkK2Fym5kt7ZQ6YHOwXcS) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [MMM](https://open.spotify.com/album/5nh0WHGxTvIeWYMBrYqD6O) | 2:20 | 2026-09-18 |  |
 | [Hundo](https://open.spotify.com/track/192KH2aINQ0q3cdHvd7CSG) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Hundo](https://open.spotify.com/album/1JcnI5PLedmyd94UPtf5CH) | 2:12 | 2026-03-13 |  |
 | [I Admit \(feat\. MoStack\)](https://open.spotify.com/track/2DON7NziO4u041hCAfowEM) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [I Admit \(feat\. MoStack\)](https://open.spotify.com/album/20dtdELlmr4qXSLK2sWTkd) | 3:20 | 2025-10-03 | 2026-03-14 |
@@ -185,7 +186,7 @@
 | [Quaresma](https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Quaresma](https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9) | 1:14 | 2026-05-01 |  |
 | [RACKS.](https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [We Live.](https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x) | 2:28 | 2026-03-13 | 2026-08-15 |
 | [REAL 1](https://open.spotify.com/track/5sqQJpw8b5FRtQiMboCFoe) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [THE WIZARD \(DELUXE\)](https://open.spotify.com/album/6epN6qmgx0NQwfXvKTnJbN) | 2:10 | 2026-07-10 | 2026-10-10 |
-| [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/track/1krd3VtSxqLMRToL2sfXoY) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Distro Kid](https://open.spotify.com/album/2iJTbYfBiOhhatNhoPKuST) | 2:35 | 2025-10-03 |  |
+| [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/track/1krd3VtSxqLMRToL2sfXoY) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Distro Kid](https://open.spotify.com/album/2iJTbYfBiOhhatNhoPKuST) | 2:35 | 2025-10-03 | 2026-11-28 |
 | [Remontada \(feat\. Blanco\)](https://open.spotify.com/track/362tD7hUEZ06izuWdVlRnP) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Remontada \(feat\. Blanco\)](https://open.spotify.com/album/1OTdy9AJVXEerYPUTDCmRd) | 2:41 | 2025-10-03 |  |
 | [Rio Riddim \(feat\. Antconstantino\)](https://open.spotify.com/track/1fKfcnhrrrG2xjfBpnzRrH) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [ANTCONSTANTINO](https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30) | [Rio Riddim \(feat\. Antconstantino\)](https://open.spotify.com/album/636b4xq0N5aumIffhRLyXi) | 2:44 | 2025-10-03 |  |
 | [Rips & fr33](https://open.spotify.com/track/0G03gqWeTdO8o4TWEdz60j) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [WORLDWIDE WAVE](https://open.spotify.com/album/1WagJhUfIvb5xZ8cy8lw8Y) | 3:10 | 2026-10-02 | 2026-10-23 |

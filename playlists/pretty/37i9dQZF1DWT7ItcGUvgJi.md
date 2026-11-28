@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 
 > Where two indie music powerhouses meet, for the 4th time! \[Tune Up Meets Fresh Finds\] Vol\. 4 with Shin In Ryu & Munan is coming soon! 🎶✨ \(인디음악을 지원하는 두 프로그램의 네 번째 만남! 신인류와 무난이 함께하는 \[Tune Up Meets Fresh Finds\] Vol\. 4, 곧 찾아갑니다!\) 2026.12.11\(Fri\) at CJ azit
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,555 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,562 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

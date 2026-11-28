@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Autoimmune, Sanguine, Bad Scullianz and more",
+  "description": "With Bad Scullianz, Sanguine, The Atavists and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/3oVGW1WmzgyM09SGbZbn9S"
+      },
+      "artists": [
+        {
+          "name": "Mercury Teardrop",
+          "url": "https://open.spotify.com/artist/3TFtEAflkXJNfG0i30inxr"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541554,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/174HDKwBeGA7hRKpSsqAdc"
+    },
+    {
+      "album": {
         "name": "Acid Lemon Sun",
         "url": "https://open.spotify.com/album/2SMj9YXDnjKRrcFYK8qwmi"
       },
@@ -536,7 +554,7 @@
       ],
       "date_added": "2026-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 189333,
       "name": "Ain't gonna happen",
       "url": "https://open.spotify.com/track/4rKjrEIH9GxPG3xoxSoFom"
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 157866,
       "name": "Before the Cock Crows",
       "url": "https://open.spotify.com/track/3ntw5G0nnECXctMPZzpO4D"
@@ -2187,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Brand New Skin",
+        "url": "https://open.spotify.com/album/6kWzWw17czY1F6gTDrndTJ"
+      },
+      "artists": [
+        {
+          "name": "fabiano matiolla",
+          "url": "https://open.spotify.com/artist/1gSEoElmqiR2xGnMtTTqes"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Brand New Skin",
+      "url": "https://open.spotify.com/track/7rUjM77iIHvQ45Zl4eX9Rq"
+    },
+    {
+      "album": {
         "name": "Starters",
         "url": "https://open.spotify.com/album/6Kxchc1OZHjuW3Vm9mPCdk"
       },
@@ -2652,7 +2688,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 201245,
       "name": "Capsized Dance",
       "url": "https://open.spotify.com/track/4w9GC49Zn4OWGhCSrIctBz"
@@ -3264,7 +3300,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -3758,7 +3794,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 175169,
       "name": "Danish Rush",
       "url": "https://open.spotify.com/track/53xrVLMMQzs3aJUJK6QSQ5"
@@ -4068,7 +4104,7 @@
       ],
       "date_added": "2026-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 307013,
       "name": "Den Femte Statsmakt",
       "url": "https://open.spotify.com/track/1DEKh7Od7pQWexitaT7cBD"
@@ -4320,7 +4356,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 222853,
       "name": "Dig Deep",
       "url": "https://open.spotify.com/track/342Smc1Nc2pyBkKJghtcTx"
@@ -4338,7 +4374,7 @@
       ],
       "date_added": "2026-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 310243,
       "name": "Dirty Black Summer",
       "url": "https://open.spotify.com/track/2uAu3jDciD1OWaVMg1iQGC"
@@ -5052,7 +5088,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 274924,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/2rOt3Al0ORGvf3CYxcMKPK"
@@ -7540,7 +7576,7 @@
       ],
       "date_added": "2026-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 225226,
       "name": "Grinding into Dust",
       "url": "https://open.spotify.com/track/765RhWDfueKMBB13ZVBxGF"
@@ -7634,7 +7670,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 204624,
       "name": "Halo & Horns",
       "url": "https://open.spotify.com/track/4HayngMO4qfmnUu8vPoZ48"
@@ -8550,7 +8586,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 204999,
       "name": "Hvis jeg f\u00e5r lov",
       "url": "https://open.spotify.com/track/0442X9eSmosvLUvC2hgL8V"
@@ -8882,7 +8918,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 268000,
       "name": "I TRIED - Remastered",
       "url": "https://open.spotify.com/track/6I4IgbVQCcz29puOorIlbI"
@@ -9134,7 +9170,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 252133,
       "name": "Ikkje Som De Andre",
       "url": "https://open.spotify.com/track/2mz3afL5LYaYMCafQh50TR"
@@ -9242,7 +9278,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "In Search of the Queen",
       "url": "https://open.spotify.com/track/624Gy9PG4R7nwfGKhB33C4"
@@ -9946,7 +9982,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 211626,
       "name": "Kanskje p\u00e5 tide",
       "url": "https://open.spotify.com/track/3oDizYKL6swQ5DIARE5ojF"
@@ -10094,7 +10130,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 254426,
       "name": "Kings of the City",
       "url": "https://open.spotify.com/track/7pfAmgSGUXCsgQqBVoyNWu"
@@ -10188,7 +10224,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -10300,7 +10336,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 211363,
       "name": "La rage du loup",
       "url": "https://open.spotify.com/track/0qBoyI15tldcIsr7D4XIRf"
@@ -11628,7 +11664,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 227600,
       "name": "Mannen i speilet",
       "url": "https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY"
@@ -11996,7 +12032,7 @@
       ],
       "date_added": "2026-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 72186,
       "name": "Merci Beaucoup",
       "url": "https://open.spotify.com/track/7fIKZGPxcj4aKA26MP3zwH"
@@ -12216,7 +12252,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 273000,
       "name": "Mitt hjerte er r\u00e5tt",
       "url": "https://open.spotify.com/track/4FnPdqPqcieYHuLniG8JDz"
@@ -12512,7 +12548,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 250500,
       "name": "Mother Earth",
       "url": "https://open.spotify.com/track/7EayrfRHK8Z42fsPDafL29"
@@ -13078,7 +13114,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Next Call - Remaster",
       "url": "https://open.spotify.com/track/1rjwo7JDkVbsVCTLti6WJX"
@@ -14291,6 +14327,24 @@
     },
     {
       "album": {
+        "name": "Paper Tiger",
+        "url": "https://open.spotify.com/album/7HAExzqB31vkpkuEUjJ3VT"
+      },
+      "artists": [
+        {
+          "name": "The Violet Twilight",
+          "url": "https://open.spotify.com/artist/0ndmRNXTwDKGM2CLyDMKy8"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187961,
+      "name": "Paper Tiger",
+      "url": "https://open.spotify.com/track/7wOGeMmJzOZw7fRSAKNy5k"
+    },
+    {
+      "album": {
         "name": "Parade",
         "url": "https://open.spotify.com/album/0pH5IOXaRf6f5xSKRAH30g"
       },
@@ -15076,7 +15130,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 184240,
       "name": "Protest Dommer",
       "url": "https://open.spotify.com/track/4TxgkuOsPy0b3CMAuGTR30"
@@ -15308,7 +15362,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 230357,
       "name": "Red",
       "url": "https://open.spotify.com/track/3wIZA8RgVwy8MCZ8FbbmjL"
@@ -15668,7 +15722,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 270360,
       "name": "Rosa mi Rosa.",
       "url": "https://open.spotify.com/track/5d9811g7OoYF2gM5Cpp728"
@@ -16566,7 +16620,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 188693,
       "name": "Skambankt!",
       "url": "https://open.spotify.com/track/6gdNnEUIyg91xTJ7Mi59Kf"
@@ -16782,7 +16836,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -17654,7 +17708,7 @@
       ],
       "date_added": "2026-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 327404,
       "name": "Sugar and Hipocrisy",
       "url": "https://open.spotify.com/track/1KFOxAYslp7bLkdkQ8x6N3"
@@ -17960,7 +18014,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 189906,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/2g2YhVssF7yt8ROFOclish"
@@ -18032,7 +18086,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 287413,
       "name": "Take Me for a While - Edition 2022",
       "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
@@ -18166,7 +18220,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 216416,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/1b8L17UDtyqHMMSYAxJYRl"
@@ -18274,7 +18328,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 269466,
       "name": "That Kind of Love",
       "url": "https://open.spotify.com/track/3Jr3IIZLtnsnESwR9byBGC"
@@ -20892,7 +20946,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 227445,
       "name": "Vad V\u00e4rlden Beh\u00f6ver Nu",
       "url": "https://open.spotify.com/track/2Jfd9rGy1O0qNSD66pMUyI"
@@ -22651,6 +22705,24 @@
     },
     {
       "album": {
+        "name": "Zakliaty skarb (Ty dalioka)",
+        "url": "https://open.spotify.com/album/2enLAg1glFdXJYQrInfwTf"
+      },
+      "artists": [
+        {
+          "name": "Syndrom Samazvanca",
+          "url": "https://open.spotify.com/artist/4Dd0C12XvG2nEzh6Hs49mN"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164863,
+      "name": "Zakliaty skarb (Ty dalioka)",
+      "url": "https://open.spotify.com/track/4EP8JiXND6Gn2hG5E4OP3L"
+    },
+    {
+      "album": {
         "name": "Samierin\u0101\u0161an\u0101s meh\u0101nisms",
         "url": "https://open.spotify.com/album/4zeTx0UVhpy5sI7C4ux9Y8"
       },
@@ -22814,7 +22886,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 142321,
       "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
       "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"

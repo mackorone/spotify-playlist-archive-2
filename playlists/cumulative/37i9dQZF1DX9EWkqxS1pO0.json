@@ -2267,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "Derine",
+        "url": "https://open.spotify.com/album/2EVdKSfIVS01PeaDKixYsO"
+      },
+      "artists": [
+        {
+          "name": "Ozan Bu\u011fra Kaya",
+          "url": "https://open.spotify.com/artist/2ojjkWS7CBgLd9UIHdjG1l"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Derine",
+      "url": "https://open.spotify.com/track/7G2WXWqRBDptlJYanzsuji"
+    },
+    {
+      "album": {
         "name": "Dikenli Diller",
         "url": "https://open.spotify.com/album/7bMds6kPZ63g9emOEpEcTu"
       },
@@ -5860,7 +5878,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 212538,
       "name": "Seni Unutamad\u0131m",
       "url": "https://open.spotify.com/track/2TSihn4foVahsS8Uau6876"

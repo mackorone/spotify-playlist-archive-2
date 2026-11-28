@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 100일의 거짓말\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,260 songs - 3 day 4 hr 1 min
+1,261 songs - 3 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,6 +705,7 @@
 | [More and More \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/7pPe8smRnmEhSGjLwL6P81) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [More and More \(From "Love Scout" : Original Soundtrack\) Part.4](https://open.spotify.com/album/1rfttiekzWf2CPvFPknNHe) | 3:19 | 2025-01-21 | 2025-09-04 |
 | [More Than Enough](https://open.spotify.com/track/4edqP1qBW0O6f7NU5qpw1H) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [Queen of Tears \(Original Television Soundtrack\), Pt.11](https://open.spotify.com/album/5Hxm0tqjndXPDl1msqtz1Z) | 4:13 | 2024-05-09 | 2024-10-11 |
 | [More Than Me](https://open.spotify.com/track/3Lir17VjQRW4jWR65txt5T) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [The Law Cafe \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/4q4Vi3lbifZih1Vr9cvhXv) | 3:47 | 2022-10-01 | 2023-01-14 |
+| [Moving On](https://open.spotify.com/track/2CIYQkdeYsSRq8CSPlF6Uo) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Good Partner 2 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/7kOlSxnvuCqX6kjjcTl9GG) | 3:21 | 2026-11-27 |  |
 | [My Chapter : You](https://open.spotify.com/track/0fYdsLQE7ZWF8jebf3LmkO) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ms\. Incognito, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1w1Pofj48H56gYW8mlrWIt) | 4:17 | 2025-10-20 | 2026-05-20 |
 | [My Curly Hair Is Dancing In The Light](https://open.spotify.com/track/4R708sgkvM0wKCeQW6O20J) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Love Untangled \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2b7FMbGcBoyjMFZC8AYx7o) | 3:14 | 2025-09-03 | 2026-03-25 |
 | [My Day](https://open.spotify.com/track/5KkYwRKIcbDcr0zK0wqK3V) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [YUMI's Cells, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/5zxSL3pJEKjFuXyHhvmyCF) | 3:41 | 2021-12-19 | 2022-02-04 |

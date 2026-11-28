@@ -4,7 +4,7 @@
 
 > You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now\. 🪩🕺🏽
 
-662 songs - 1 day 12 hr 9 min
+663 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Gravity](https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Gravity](https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc) | 3:22 | 2021-10-31 | 2022-05-14 |
 | [GREATER LOVE](https://open.spotify.com/track/3gdAmqnh0cQiknfkLSB17H) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE), [LOGE](https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x) | [GREATER LOVE](https://open.spotify.com/album/0HsBCbZW9Y7taCvI9FkvPB) | 1:51 | 2025-12-12 | 2026-08-19 |
 | [Groove](https://open.spotify.com/track/3qB1ofzNRxrb3WLiMO1JNn) | [Holly Maduma](https://open.spotify.com/artist/00EIRyVAvMEKy4h5KDdUxH), [Linga TheBoss](https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY) | [Groove](https://open.spotify.com/album/5D4wOE49SKljGRvWMfSBqm) | 3:14 | 2025-09-14 | 2026-03-24 |
-| [Hallelujah \- R3HAB Remix](https://open.spotify.com/track/5ngqSlRbYNhtAQgcTw8W12) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Hallelujah \(R3HAB Remix\)](https://open.spotify.com/album/5NEuCXZeMNBmWW1DlrYobh) | 2:41 | 2024-07-19 |  |
+| [Hallelujah \- R3HAB Remix](https://open.spotify.com/track/5ngqSlRbYNhtAQgcTw8W12) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Hallelujah \(R3HAB Remix\)](https://open.spotify.com/album/5NEuCXZeMNBmWW1DlrYobh) | 2:41 | 2024-07-19 | 2026-11-28 |
 | [Hallelujah’s Song \(Psalm 103\) \- FRANKLIN Remix](https://open.spotify.com/track/6CyjgYf2MXZwKdSKkCAmaK) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Caleb Chapman](https://open.spotify.com/artist/2O7QprwEkB7axelpXQa7Th), [Will Chapman](https://open.spotify.com/artist/5QUtZ4R2ZxWxOSrrvxj4jU) | [Bangerz](https://open.spotify.com/album/4PiXo9M3VrAlP5fG0auMcx) | 4:18 | 2021-10-31 | 2022-07-06 |
 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 | 2021-10-31 | 2023-02-08 |
 | [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 | 2023-02-07 | 2024-07-20 |
@@ -577,6 +577,7 @@
 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 | 2021-10-31 | 2023-02-08 |
 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 | 2021-10-31 | 2022-07-27 |
 | [The Greatest](https://open.spotify.com/track/7egaSn0ILHiB2ULah0i0UW) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [The Greatest](https://open.spotify.com/album/7xXyEzdawnwduIZDPw4Bxh) | 2:52 | 2021-10-31 | 2022-07-29 |
+| [The Heart Of Worship \- Remix](https://open.spotify.com/track/7uuAV32otL9nZc4uWg9afA) | [BRIGHT](https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Heart Of Worship](https://open.spotify.com/album/7swXNmJHZnYG3LOxIVb4ua) | 3:34 | 2026-11-27 |  |
 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 | 2021-10-31 | 2023-02-08 |
 | [The Jungle](https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 4:15 | 2026-08-18 |  |
 | [the Rock](https://open.spotify.com/track/27uYExfLTZn11OJFzwcAfD) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [the Rock](https://open.spotify.com/album/4fkiB2QuoNDnbM2Heubc3D) | 2:13 | 2026-08-18 |  |

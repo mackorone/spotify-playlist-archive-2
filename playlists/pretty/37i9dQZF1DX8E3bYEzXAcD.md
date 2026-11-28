@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 
 > "Omringd door muizen om motors en al die vieze ratten\. Voor die hele kleine prijs is hij niet meer je makker." \- Casperr
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,141 likes - 40 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,165 likes - 40 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

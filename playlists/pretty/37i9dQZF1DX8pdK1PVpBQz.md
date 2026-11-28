@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Erika Ever
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,257 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,258 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 3 | [shark teeth](https://open.spotify.com/track/6Ibsf7BbHWB1A6sSIWLDnp) | [Fraeya](https://open.spotify.com/artist/362eGgCItMBiJYdypSQm60) | [shark teeth](https://open.spotify.com/album/0kK8f1LOv6X4jD9zvlAXfy) | 4:45 |
 | 4 | [Hold On](https://open.spotify.com/track/3MKTPngqO95N1fSLmnohcF) | [Trustee](https://open.spotify.com/artist/2CQcG802nBA6S3ILkvy3Mg), [Prizefight](https://open.spotify.com/artist/3imo6DPDraLtBLvbMcuL0q), [TASKFORCE](https://open.spotify.com/artist/54JFecN4nyHsxD68836shJ) | [Sprint](https://open.spotify.com/album/65MUUh4kR3TK8UfOQZqBBW) | 4:58 |
 | 5 | [goodmorning](https://open.spotify.com/track/1tNhzu7jWWnhLMdyeX403P) | [Isaac Puerile](https://open.spotify.com/artist/0aH9E0OKr6OeB4x4azs6X4), [Annabelle Scobie](https://open.spotify.com/artist/1bEfTTRDDm56t9xRxuEoiF) | [goodmorning](https://open.spotify.com/album/4PEmImXaXwLO3O1jPuPZd9) | 2:33 |
-| 6 | [Real Love](https://open.spotify.com/track/2ld8uM46qEl9PtRqkTjjLl) | [Perfectworld](https://open.spotify.com/artist/0Eqo2NKrst9Oz5O8FfUc8T), [Cat & Calmell](https://open.spotify.com/artist/7A87MKn03ao4ZP30RDpHSP) | [Real Love](https://open.spotify.com/album/0JKhyctz8usUK9c5MEC8qq) | 2:43 |
+| 6 | [Real Love](https://open.spotify.com/track/2ld8uM46qEl9PtRqkTjjLl) | [Perfectworld](https://open.spotify.com/artist/0Eqo2NKrst9Oz5O8FfUc8T), [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Real Love](https://open.spotify.com/album/0JKhyctz8usUK9c5MEC8qq) | 2:43 |
 | 7 | [Scorsese](https://open.spotify.com/track/0PuA5ZvNRe7qR5nHncVJnr) | [Mk VI](https://open.spotify.com/artist/6oxzVg7lGTqv4e0nvkLOuQ) | [Scorsese](https://open.spotify.com/album/0usEQSqMV03ZkYHs3Tzv8z) | 3:13 |
 | 8 | [i ached \(start again\)](https://open.spotify.com/track/0bvC6lz9ABMD7xJYy0N7nI) | [mikii](https://open.spotify.com/artist/057EozaDJTxhkT1TOYrOww) | [i ached \(start again\)](https://open.spotify.com/album/3mPYjrnuREsM4wV9nJikCR) | 3:02 |
 | 9 | [Real!](https://open.spotify.com/track/1yxpRDrcK5ExwNiThPa9Uh) | [Dream Boat](https://open.spotify.com/artist/6oRvLsN1PnXplBf6mLS940) | [Real!](https://open.spotify.com/album/4fD8azzRJrj1pkzk1ra0ZG) | 2:58 |

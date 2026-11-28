@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! November ambassador: <a href="spotify:artist:1ESdlHhFi2Ww9jt8qLOyYp">Elmer</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,610 likes - 89 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,607 likes - 89 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 19 | [panic first!](https://open.spotify.com/track/7wakoFGB8xsobcKVKOqoa7) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [Panic First!](https://open.spotify.com/album/3RfTi4xYVmJeOBq785CDJu) | 2:43 |
 | 20 | [Pokerface](https://open.spotify.com/track/599Q3PcqiQR3xDmaLIYttX) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Pokerface](https://open.spotify.com/album/2i0kTMuNjMe0wTmTFLKGq4) | 2:36 |
 | 21 | [Eyes On Me](https://open.spotify.com/track/1bCeED0zVJb4r3l1hEtG6C) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA), [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [Eyes On Me](https://open.spotify.com/album/6CK1vs9xJkebDayXu0aCdG) | 2:53 |
-| 22 | [Trop Fort](https://open.spotify.com/track/6KR7mVqtuoaeTq7mRFneQR) | [Typh Barrow](https://open.spotify.com/artist/1LyPW0dCTQJJSfF8FIHKlM) | [Trop Fort](https://open.spotify.com/album/5ruBLEFO39ERYK90lAbAUI) | 3:29 |
-| 23 | [Slaap Maar Zacht](https://open.spotify.com/track/5lCsN521JyOhWp5aFEV7Id) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [FLEUR'S FAVORIETEN](https://open.spotify.com/album/62T4ALnOgqoq8ssNDTzTrU) | 2:39 |
+| 22 | [Slaap Maar Zacht](https://open.spotify.com/track/5lCsN521JyOhWp5aFEV7Id) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [FLEUR'S FAVORIETEN](https://open.spotify.com/album/62T4ALnOgqoq8ssNDTzTrU) | 2:39 |
+| 23 | [Trop Fort](https://open.spotify.com/track/6KR7mVqtuoaeTq7mRFneQR) | [Typh Barrow](https://open.spotify.com/artist/1LyPW0dCTQJJSfF8FIHKlM) | [Trop Fort](https://open.spotify.com/album/5ruBLEFO39ERYK90lAbAUI) | 3:29 |
 | 24 | [Licht Uit, Hoofd Aan](https://open.spotify.com/track/0tIhOFH0203lxClqpSoKXR) | [Sanne van Assouw](https://open.spotify.com/artist/7270ccPqUyTrBEJUo0h1t5) | [Licht Uit, Hoofd Aan](https://open.spotify.com/album/4mOnst39MZG0f9cgnDalj1) | 3:13 |
 | 25 | [Klootzak](https://open.spotify.com/track/3uEU0UV8r09QwkofJd2hy8) | [JANEY](https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN) | [Klootzak](https://open.spotify.com/album/0y3c0J3WfbamdJDjkOzAXa) | 2:20 |
 | 26 | [Tout est facile](https://open.spotify.com/track/5XtgNLRh1K5kdiXQ4s5k3d) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9), [Lesley](https://open.spotify.com/artist/4iPGEsej2ak9iDheY1I0Tt), [RAPHA](https://open.spotify.com/artist/17BfKBemmMGO5ZAK25wraW), [Bruant](https://open.spotify.com/artist/2EfwQcJnqlGwAUqasHlHSO), [Génération Débrouille](https://open.spotify.com/artist/4G6KO5j7IoMEM3A7Gk6g2s) | [Tout est facile](https://open.spotify.com/album/0IqkkvkolyF92zvcgfxXKY) | 3:06 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 33 | [Niemand Die Op Me Wacht](https://open.spotify.com/track/7uxqK7jy3jwlGTeZXcgMwO) | [ILKA](https://open.spotify.com/artist/7uU2Loi0V9daUqWJB79MZ0) | [Niemand Die Op Me Wacht](https://open.spotify.com/album/2zNA75sgT7LGaicy7js3Kh) | 3:13 |
 | 34 | [Zie Je Mij?](https://open.spotify.com/track/2wpcbUpCmyjNzSfKXuB8qK) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AAAAAH!](https://open.spotify.com/album/2p0B6TBaZNJdX1KiGyBjTD) | 2:50 |
 | 35 | [focus](https://open.spotify.com/track/4BY3s0pKkwOikMfg7muN6D) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [focus](https://open.spotify.com/album/3Cs1UiyjaRNjaxzfinDXJK) | 2:58 |
-| 36 | [Hyperfixated](https://open.spotify.com/track/2XfP1HgRsI4KCQlOOZXUiq) | [Jessmin](https://open.spotify.com/artist/1EesnryhVOIDDGeqdcaw2y) | [Hyperfixated](https://open.spotify.com/album/3Kg2nW91LYoy1793p3hg3I) | 3:23 |
-| 37 | [Sofrimento](https://open.spotify.com/track/405KNWeiAJxjH98XX9iSep) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Sofrimento](https://open.spotify.com/album/1n0zxxY7PJZNo4Wp9uHQkU) | 4:18 |
+| 36 | [Sofrimento](https://open.spotify.com/track/405KNWeiAJxjH98XX9iSep) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Sofrimento](https://open.spotify.com/album/1n0zxxY7PJZNo4Wp9uHQkU) | 4:18 |
+| 37 | [Hyperfixated](https://open.spotify.com/track/2XfP1HgRsI4KCQlOOZXUiq) | [Jessmin](https://open.spotify.com/artist/1EesnryhVOIDDGeqdcaw2y) | [Hyperfixated](https://open.spotify.com/album/3Kg2nW91LYoy1793p3hg3I) | 3:23 |
 | 38 | [Happiness](https://open.spotify.com/track/5V390O7x6P7PGwJmPsb1t4) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Happiness](https://open.spotify.com/album/4FZ9vAxFGfXbSBt4m8iZcD) | 3:31 |
 | 39 | [Stop Met Praten](https://open.spotify.com/track/6sbCSfOQgr2yZoZSNdO5tM) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Stop Met Praten](https://open.spotify.com/album/6ypLwgh46iVPREwiTsrgBV) | 3:24 |
-| 40 | [Vanavond zijn we vrij](https://open.spotify.com/track/4VdjGmex4qvEPybRlg7FYK) | [Laura Heijgen](https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA) | [Vanavond zijn we vrij](https://open.spotify.com/album/2EzXiteeUvb1yO3OOv4dG1) | 2:43 |
-| 41 | [5 Weken](https://open.spotify.com/track/3z4SfCpG6tg6OBqqvwCICq) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [5 Weken](https://open.spotify.com/album/7B55bsmbHHOrKIyAs8QJSP) | 2:54 |
-| 42 | [Ook Al Past Het Niet](https://open.spotify.com/track/7bJdzwoNx3v7el7E6nljDI) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Ook Al Past Het Niet](https://open.spotify.com/album/5F1AGl8AuJvH193tkcU4vt) | 3:03 |
+| 40 | [Ook Al Past Het Niet](https://open.spotify.com/track/7bJdzwoNx3v7el7E6nljDI) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Ook Al Past Het Niet](https://open.spotify.com/album/5F1AGl8AuJvH193tkcU4vt) | 3:03 |
+| 41 | [Vanavond zijn we vrij](https://open.spotify.com/track/4VdjGmex4qvEPybRlg7FYK) | [Laura Heijgen](https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA) | [Vanavond zijn we vrij](https://open.spotify.com/album/2EzXiteeUvb1yO3OOv4dG1) | 2:43 |
+| 42 | [5 Weken](https://open.spotify.com/track/3z4SfCpG6tg6OBqqvwCICq) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [5 Weken](https://open.spotify.com/album/7B55bsmbHHOrKIyAs8QJSP) | 2:54 |
 | 43 | [Wagenziek](https://open.spotify.com/track/5iX1R02Pg6Cxl2HRdoquPX) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Wagenziek](https://open.spotify.com/album/30TH5fJAP6TdaYkPF6D8b7) | 3:03 |
 | 44 | [I Wasn't Made For You](https://open.spotify.com/track/5Un8xE3fFFixtKXbtNrdpx) | [Aghogho](https://open.spotify.com/artist/0CmstXIzdpY7M3pnSWi1Fm) | [I Wasn't Made For You](https://open.spotify.com/album/7dKDWp3zzJrsBUqa4HIdgJ) | 2:25 |
 | 45 | [Ik ben hier](https://open.spotify.com/track/1nEblC76z9vJqo4hW20FfI) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [Ik ben hier](https://open.spotify.com/album/789LTXnNfELXx2ekogWTAw) | 3:57 |

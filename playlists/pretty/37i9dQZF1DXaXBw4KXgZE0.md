@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXBw4KXgZE0.md) - [plain]
 
 > Música de piano suave para dormir bebés profundamente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,966 likes - 42 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,977 likes - 42 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

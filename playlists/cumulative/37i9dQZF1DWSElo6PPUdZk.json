@@ -2441,6 +2441,28 @@
     },
     {
       "album": {
+        "name": "Popstar - New Era",
+        "url": "https://open.spotify.com/album/6VoH1c12mvsFDO9dyAtO4u"
+      },
+      "artists": [
+        {
+          "name": "Raman Romana",
+          "url": "https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv"
+        },
+        {
+          "name": "Rizeup",
+          "url": "https://open.spotify.com/artist/4CFJUsGi54BLIl2S7osQvF"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118143,
+      "name": "Jawani",
+      "url": "https://open.spotify.com/track/1W8XNpvtTiwMUF4Q6IR4ME"
+    },
+    {
+      "album": {
         "name": "Jee Jeha Karda",
         "url": "https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp"
       },
@@ -4516,7 +4538,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 171869,
       "name": "Nazar",
       "url": "https://open.spotify.com/track/37ogTsqSzkHARCwff2p9f9"

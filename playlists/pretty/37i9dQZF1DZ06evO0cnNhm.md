@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cnNhm.md) - [plain]
 
 > This is Dario Marianelli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,137 likes - 29 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,136 likes - 28 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cnNhm.md) - [plain]
 | 24 | [The Pop\-Up Book](https://open.spotify.com/track/6CLncfsxo0cZWhy2nONFlH) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Paddington 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0I02Py2xStavRaa5vG0KmS) | 1:29 |
 | 25 | [Alexei's Story](https://open.spotify.com/track/0Bs3Xje1pdhzdouDzyd6Vb) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Wildwood: Original Motion Picture Soundtrack](https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De) | 4:47 |
 | 26 | [Love Letters](https://open.spotify.com/track/2x1hL61jbVzuWuepjHV8Li) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Atonement OST](https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ) | 3:09 |
-| 27 | [Setting Off From Kathmandu](https://open.spotify.com/track/7xlkdd1ZV7q8eEhc46dE2X) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 1:16 |
-| 28 | [Ancestors](https://open.spotify.com/track/7Cfih44vlpcFAFzKdHmv0Y) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Kubo and the Two Strings \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7dOhWd2mzAxFogccMQWAg0) | 2:07 |
-| 29 | [Last Words](https://open.spotify.com/track/4St6fcntR7xnt010lLUnnA) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 2:58 |
+| 27 | [Last Words](https://open.spotify.com/track/4St6fcntR7xnt010lLUnnA) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 2:58 |
+| 28 | [Setting Off From Kathmandu](https://open.spotify.com/track/7xlkdd1ZV7q8eEhc46dE2X) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 1:16 |
 
-Snapshot ID: `awYlAAAAAADKz6ChAzea5+WudvOwT8DW`
+Snapshot ID: `awd2gAAAAADUu0/gCw1BObJTibd5xy/v`

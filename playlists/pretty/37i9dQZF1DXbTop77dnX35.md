@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  Kold AF, NO11, Bayanni\. EF Moon, Sarkodie, Show Dem Camp, Gyakie, Amma  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,234 likes - 66 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,564 likes - 66 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

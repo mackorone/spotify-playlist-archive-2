@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Northlane, Travis Scott, Chase Atlantic, Bella Kay, Becca Hatch + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,904 likes - 93 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,050 likes - 93 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 51 | [Take Me Away](https://open.spotify.com/track/0MUk3tDWUIMhOuwo0nfwof) | [Carter Walsh](https://open.spotify.com/artist/5JL7mddmhq9K6dZqEaAyHG) | [Take Me Away](https://open.spotify.com/album/4pqNdKGdTZXRdbQxXhu5OM) | 3:48 |
 | 52 | [Echo](https://open.spotify.com/track/5qpcbaU2lqYwbXgthj19by) | [Purple Pilgrims](https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7) | [Given to the Night](https://open.spotify.com/album/6FHAfylmNrnSkC5M19aqia) | 3:57 |
 | 53 | [Ghost Of Love](https://open.spotify.com/track/6HECv52Baqyv63rl1uLzJF) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Ghost Of Love](https://open.spotify.com/album/4Iq328JhmTUoJjwpGwqcMN) | 7:14 |
-| 54 | [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 |
+| 54 | [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 |
 | 55 | [I Need Your Connection](https://open.spotify.com/track/59qourBUJmUNiG7n4YLfyG) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [I Need Your Connection](https://open.spotify.com/album/6EXUFuDnlopKyDk1vfkvQ5) | 3:57 |
 | 56 | [ready or not](https://open.spotify.com/track/2nvjMISiChF8ihTNpXFkpC) | [lindsay](https://open.spotify.com/artist/5rar25ejTh6Z3bZ2MhiAfS), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [ready or not](https://open.spotify.com/album/7kTqE5jW9nOygE1DljVvHi) | 3:02 |
 | 57 | [Pump Up the Volume](https://open.spotify.com/track/5xVVD3vAbpSfyOqGUKLO4g) | [Arky Waters](https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli) | [Pump Up the Volume](https://open.spotify.com/album/2a1f0InfIpEO6sgIDiDelx) | 3:55 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 61 | [Stole My Heart](https://open.spotify.com/track/76dZlw6UP4oah97hHpAz8g) | [Tim Minchin](https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2) | [Stole My Heart](https://open.spotify.com/album/5IRO8QDW1a1XVybUHa4iIw) | 2:33 |
 | 62 | [Kiss Your Tears](https://open.spotify.com/track/3IroJfKtI1mGjVhuWudcBG) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Kiss Your Tears](https://open.spotify.com/album/3i3qdjo3ezW1jbqVEwRYtK) | 3:34 |
 | 63 | [In Your City](https://open.spotify.com/track/693MPsYdRrmsXwvn6qRvtw) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Blue Hrs](https://open.spotify.com/album/0MmVNPDSRpchvmGjdmVWXG) | 3:03 |
-| 64 | [Drop It](https://open.spotify.com/track/6WrqPdRqLMnLbYqRxyBNFM) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Drop It](https://open.spotify.com/album/2mdLFmivebnqq7pydmUu8l) | 1:56 |
+| 64 | [Drop It](https://open.spotify.com/track/6WrqPdRqLMnLbYqRxyBNFM) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Drop It](https://open.spotify.com/album/2mdLFmivebnqq7pydmUu8l) | 1:57 |
 | 65 | [Rush](https://open.spotify.com/track/0DrnzEj4pzj3hzIu8ChYlZ) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Not Your Baby](https://open.spotify.com/album/0eyhe3vQRmnatQRjFiFTfD) | 3:11 |
 | 66 | [PLACE](https://open.spotify.com/track/182neIFyGEJepUUfNtlJqv) | [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [SCENES](https://open.spotify.com/album/0g3cBK40cLQrBDO6uc30fu) | 1:49 |
 | 67 | [What We Don't Speak](https://open.spotify.com/track/2iKdG7DroRpS6rHUFDGztR) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [What We Don't Speak](https://open.spotify.com/album/1jX6CPee4zvnf8dt07o1BR) | 4:49 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 76 | [Blue Again](https://open.spotify.com/track/0dxLAWPfgZwPyPd3I0oJ0Q) | [Sammi Heaney](https://open.spotify.com/artist/6ooPINF78eV5CFLBPAaVZq) | [Blue Again](https://open.spotify.com/album/6ZSxv54p5AQaazih9X2qq9) | 2:51 |
 | 77 | [Never Enough](https://open.spotify.com/track/29gkdhX3wI1oY8rcLJjNc7) | [Gregor McMurray](https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO) | [Never Enough](https://open.spotify.com/album/7xMz1LYyIDapwREc7Frlwc) | 2:46 |
 | 78 | [promise to keep](https://open.spotify.com/track/0dlovyAtgDfAjB1vthUF8O) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [promise to keep](https://open.spotify.com/album/2Mo7msCCeKXYTJtetCAtcA) | 3:13 |
-| 79 | [Real Love](https://open.spotify.com/track/2ld8uM46qEl9PtRqkTjjLl) | [Perfectworld](https://open.spotify.com/artist/0Eqo2NKrst9Oz5O8FfUc8T), [Cat & Calmell](https://open.spotify.com/artist/7A87MKn03ao4ZP30RDpHSP) | [Real Love](https://open.spotify.com/album/0JKhyctz8usUK9c5MEC8qq) | 2:43 |
+| 79 | [Real Love](https://open.spotify.com/track/2ld8uM46qEl9PtRqkTjjLl) | [Perfectworld](https://open.spotify.com/artist/0Eqo2NKrst9Oz5O8FfUc8T), [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Real Love](https://open.spotify.com/album/0JKhyctz8usUK9c5MEC8qq) | 2:43 |
 | 80 | [u should'nt b here](https://open.spotify.com/track/1bU7v5kGBrFWSlrJxmbJIP) | [The world is against you](https://open.spotify.com/artist/5jsUB6RwIhNXHZMUGskMpz), [king hit](https://open.spotify.com/artist/0DmOFLuNPdYcTFMsbcontO) | [u shouldn't b here](https://open.spotify.com/album/2yxQObV1Ou9Ypt5iLpB79y) | 4:12 |
 | 81 | [Orange Exposure](https://open.spotify.com/track/1dUVMqNhsLfdiSBb3JCFmU) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Orange Exposure](https://open.spotify.com/album/0kHDvo4NLVPEAe9ucXsQvh) | 1:56 |
 | 82 | [Boys In Bars](https://open.spotify.com/track/4atgFQwKDHhlJ4H0fgyqZu) | [Tilly Fenton](https://open.spotify.com/artist/0ZaJkkKuLo8dZDEUcVj8hr) | [Serendipity](https://open.spotify.com/album/5ul21Sa6exsBmIItxoJAT1) | 3:31 |

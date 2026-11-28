@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di MACE, Ele A, Latrelle,  PRACI, Yung Pips e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,410 likes - 108 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,415 likes - 108 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

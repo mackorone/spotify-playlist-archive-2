@@ -4,7 +4,7 @@
 
 > Best of Desi Hip\-Hop! Cover: Talhah Yunus
 
-579 songs - 1 day 7 hr 36 min
+581 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 | 2024-12-12 |  |
 | [TT](https://open.spotify.com/track/0RWx7EB3id2kMmIS9FmxlP) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [TT](https://open.spotify.com/album/1pxuDycn6c53mE8cBFrS8j) | 3:57 | 2024-08-09 | 2024-10-11 |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2024-01-05 |  |
+| [Tu Hi Cha](https://open.spotify.com/track/1jS01s1wCeiigj2dX0yhTC) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [2FISTD](https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Tu Hi Cha](https://open.spotify.com/album/0x8qV2aKF7WqscPct4Pspx) | 2:16 | 2026-11-27 |  |
 | [Tu Te Kehndi C](https://open.spotify.com/track/77qPjPg8XG5lGXGR3EWCo3) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [I Am ICON](https://open.spotify.com/album/6aepX1X3e3Ht6iy352llAd) | 3:18 | 2022-07-18 | 2023-01-13 |
 | [Tuff Skin](https://open.spotify.com/track/7DGzvE9teWihdqDVpCHwOT) | [Kim The Beloved](https://open.spotify.com/artist/2lXkftiHxP34fKQl8W6hCC), [Miss P](https://open.spotify.com/artist/1jJ5znswm7QH2vm6IS6UkN) | [Tuff Skin](https://open.spotify.com/album/1uyfIk2zXzHGhcwR46w6b8) | 3:17 | 2025-12-19 | 2026-01-15 |
 | [UNDERRATED](https://open.spotify.com/track/0whRR6wG8E9ZMdYCevnfpr) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [UNDERRATED](https://open.spotify.com/album/4LdtkLhPaZAVRHeWOC3mO8) | 3:15 | 2025-12-15 | 2026-01-15 |
@@ -586,6 +587,7 @@
 | [You & I](https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [You & I](https://open.spotify.com/album/68ld620Tx7IlPXWRnVn2al) | 3:31 | 2025-12-05 | 2026-10-24 |
 | [you feel me?](https://open.spotify.com/track/2AlSrZj7qWoWcCEezWRTlv) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Rithmetic](https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a) | [you feel me?](https://open.spotify.com/album/3r5yrNuMoUJfljDqEUtsce) | 3:18 | 2025-08-29 | 2025-11-22 |
 | [Zehar](https://open.spotify.com/track/1os96jMs5ZjemTlC1aiR3f) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Nabeel Akbar](https://open.spotify.com/artist/7jMFYa22assapoqtlqAiXe) | [Zehar](https://open.spotify.com/album/2l7uC5Xse9XQdM7aamrRXR) | 5:05 | 2022-10-10 | 2022-12-01 |
+| [Zendo](https://open.spotify.com/track/0q5g2VE7wU2TjueBk4RTQj) | [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [25 IN 26](https://open.spotify.com/album/45rfAOsDZfWkxprOQ5j7kc) | 2:02 | 2026-11-27 |  |
 | [Zigane](https://open.spotify.com/track/187plAI0yXdIlU0srDPt18) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Zigane](https://open.spotify.com/album/7KWTIK4dnNltRSeDuwY8f3) | 3:12 | 2026-07-24 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

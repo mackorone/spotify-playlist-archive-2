@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Vibe out with Epic Records cover: Future, Drake, Travis Scott, &amp; Sexy Redd",
+  "description": "Vibe out with Epic Records cover: Molly Santana",
   "name": "EPIC VIBES",
   "tracks": [
     {
@@ -336,6 +336,24 @@
       "duration_ms": 157816,
       "name": "Arm Candy",
       "url": "https://open.spotify.com/track/608GtKp5XtFQOwmxv3pYHx"
+    },
+    {
+      "album": {
+        "name": "Orange Skies",
+        "url": "https://open.spotify.com/album/3ah3bsac2VwBxuxUKhidnp"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199590,
+      "name": "AYO (Let Me Go Home)",
+      "url": "https://open.spotify.com/track/3sAv6ZAYD9eMWzcQndu2Xz"
     },
     {
       "album": {
@@ -1839,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Black Punk",
+        "url": "https://open.spotify.com/album/2MsrhQ8K9Qc2l8AeSnAOJT"
+      },
+      "artists": [
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/61TkW9fjBA5PfKinXEiIxk"
+    },
+    {
+      "album": {
         "name": "Jungle Book",
         "url": "https://open.spotify.com/album/5f2Q0HMRM1nvOSe1y29D3n"
       },
@@ -2116,6 +2152,40 @@
       "duration_ms": 180682,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
+    },
+    {
+      "album": {
+        "name": "GO! (Ngoneni) (feat. MaWhoo, Nkosazana Daughter, Thakzin & Tony Duardo)",
+        "url": "https://open.spotify.com/album/5o3drJwg2wzE1VlnWtWuDo"
+      },
+      "artists": [
+        {
+          "name": "Skyla Tylaa",
+          "url": "https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352015,
+      "name": "GO! (Ngoneni) (feat. MaWhoo, Nkosazana Daughter, Thakzin & Tony Duardo)",
+      "url": "https://open.spotify.com/track/3rqY5CQwJa4FryYrdKjHIB"
     },
     {
       "album": {

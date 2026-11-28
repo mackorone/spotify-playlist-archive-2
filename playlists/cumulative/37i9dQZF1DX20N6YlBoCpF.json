@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Tamlyn Wessels, Zo\u00e9,  Demi Lee Moore, Ruhan Du Toit en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Tamlyn Wessels, Zo\u00e9,  Demi Lee Moore, Ruhan Du Toit, Snotkop, Justin Vega en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 181972,
       "name": "Altyd Iets Mooi",
       "url": "https://open.spotify.com/track/6QyjANdEq3F8b3sSRvCn92"
@@ -14002,7 +14002,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 232000,
       "name": "Eie Soort",
       "url": "https://open.spotify.com/track/48ptCtUhABRCX0zYLxWdQY"
@@ -16726,7 +16726,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 222196,
       "name": "Fluit Fluit",
       "url": "https://open.spotify.com/track/60laO553DxkBLXl6uD8uOM"
@@ -17910,6 +17910,24 @@
       "duration_ms": 199245,
       "name": "God Van Genesing",
       "url": "https://open.spotify.com/track/1epQaRjpehxF57ehMBJje5"
+    },
+    {
+      "album": {
+        "name": "Goeie Gene",
+        "url": "https://open.spotify.com/album/1gS5SkOwCdvJfGxdW8RQHm"
+      },
+      "artists": [
+        {
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184571,
+      "name": "Goeie Gene",
+      "url": "https://open.spotify.com/track/1La7HFQI7pbjpdx5H80xvQ"
     },
     {
       "album": {
@@ -31952,7 +31970,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 266000,
       "name": "Mens",
       "url": "https://open.spotify.com/track/0aA7CLg8jf2l9BtqqGTwHG"
@@ -39179,6 +39197,28 @@
     },
     {
       "album": {
+        "name": "Pina Colada My Nou! (feat. Justin Vega)",
+        "url": "https://open.spotify.com/album/6zRhYMenTGKqjPy2O2ZNds"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        },
+        {
+          "name": "Justin Vega",
+          "url": "https://open.spotify.com/artist/2IzKTL47yQLnbkl5IvBhuU"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228701,
+      "name": "Pina Colada My Nou! (feat. Justin Vega)",
+      "url": "https://open.spotify.com/track/1MxlXft01mtPEbwt5zJViu"
+    },
+    {
+      "album": {
         "name": "Pinkie",
         "url": "https://open.spotify.com/album/5v6SKuJdf81KyeWEg6KR8T"
       },
@@ -43030,7 +43070,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 212500,
       "name": "Sinies",
       "url": "https://open.spotify.com/track/4rdZCnqh53JvNviZWwsjTH"
@@ -43322,7 +43362,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 204435,
       "name": "Skeur My in Twee",
       "url": "https://open.spotify.com/track/3hwLdzX3gbmiOyjVvDx6px"
@@ -44746,7 +44786,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 209000,
       "name": "Somerset, Vol. 2",
       "url": "https://open.spotify.com/track/4SQhiUSigShRqYygMk08SV"

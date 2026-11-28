@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Yashraj & Dropped Out",
+  "description": "Best of Hindi Hip-Hop! Cover: Emiway Bantai",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -858,7 +858,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 181151,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/50XdnLoZy7NTonN4UJWKgN"
@@ -5123,6 +5123,28 @@
     },
     {
       "album": {
+        "name": "Don't Try This At Home",
+        "url": "https://open.spotify.com/album/6gw6WWZBRNIwdhIX7xqKpW"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281700,
+      "name": "Mujhe Nahi Chahiye",
+      "url": "https://open.spotify.com/track/25VT7JNSjaEM6rq2oV0M3i"
+    },
+    {
+      "album": {
         "name": "Mujhe Ye Gaana Pasand Hai",
         "url": "https://open.spotify.com/album/2b6rsPy47iFnQcveub0xEE"
       },
@@ -5932,7 +5954,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 232615,
       "name": "Please",
       "url": "https://open.spotify.com/track/6wNq8vUKfexWd5lyTkh80g"
@@ -7702,7 +7724,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 206117,
       "name": "TRAP AIBA",
       "url": "https://open.spotify.com/track/0xwj1ovWDALRPpGLMgPSNe"

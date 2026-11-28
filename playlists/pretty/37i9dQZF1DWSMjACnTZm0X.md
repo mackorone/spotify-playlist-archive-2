@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT?si=78d40973cd174f9f">Alikiba</a> and <a href="https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=101bebba3efa4d36">TitoM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,937 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,935 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: KALAI 家麗
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,857 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,868 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 3 | [IT'S NOT FAIR](https://open.spotify.com/track/7iSA06OJesdMPXCVOaXy1n) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [SMILE THROUGH TRAGEDY](https://open.spotify.com/album/7BCfXgpqtdlrjQFNkW5jfp) | 2:29 |
 | 4 | [Suddenly](https://open.spotify.com/track/7xfXZtbrwc6PvTDnw3LGAX) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [Suddenly](https://open.spotify.com/album/1pSHzB8GUpTOPGv1wjZrc2) | 3:01 |
 | 5 | [橙色珠寶](https://open.spotify.com/track/3zc18pQnv6CHc4W195oxKe) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [HIJACK](https://open.spotify.com/artist/0oKLpxMpjlPi53LWu3HQko) | [橙色珠寶](https://open.spotify.com/album/3GEcSwqPuKHrBZxQOmQdME) | 2:55 |
-| 6 | [Fuck That Love \(feat\. EG\)](https://open.spotify.com/track/2r7IjUBOMYAarOzUeLIzvL) | [JAB.M](https://open.spotify.com/artist/39LZyNzfhjC6OKLDsIiVu3), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox), [EG](https://open.spotify.com/artist/2XzCwbakqvOTMaGIXcJE6T) | [Fuck That Love](https://open.spotify.com/album/3UDrRat81oT67UGzZwTWcu) | 3:26 |
+| 6 | [Fuck That Love \(feat\. EG\)](https://open.spotify.com/track/2r7IjUBOMYAarOzUeLIzvL) | [JAB.M](https://open.spotify.com/artist/39LZyNzfhjC6OKLDsIiVu3), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox), [EG](https://open.spotify.com/artist/5jzJUnaf3K3Suj8kj5ynsN) | [Fuck That Love](https://open.spotify.com/album/3UDrRat81oT67UGzZwTWcu) | 3:26 |
 | 7 | [曇花](https://open.spotify.com/track/1nugep1rdLAn5yrQgkr3UD) | [Lili Forest 木子](https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox) | [曇花](https://open.spotify.com/album/6layAXYM6dlnoIEyM5JXPZ) | 3:17 |
 | 8 | [好歌獻給你](https://open.spotify.com/track/0d7eZFfVsJFrxYH4J2OYrC) | [Kaelyn](https://open.spotify.com/artist/4cYAwDK42gnycP8fEyLisS) | [好歌獻給你](https://open.spotify.com/album/49jreYvbPU51gIen6nQsDb) | 3:21 |
 | 9 | [請問](https://open.spotify.com/track/1s4nIhUCJC1jGVSudAODXw) | [東涌事發](https://open.spotify.com/artist/6ClTWrZnl5uWikZC82fhAT) | [請問](https://open.spotify.com/album/5fHKmQM5ImaaoMyB8AradI) | 2:46 |

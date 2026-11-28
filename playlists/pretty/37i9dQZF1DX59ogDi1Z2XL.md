@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Devontée
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,617 likes - 99 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,639 likes - 99 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LOAFTERS](https://open.spotify.com/track/4X5OjBTRM8xon87gikLK7e) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d), [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [6 TO THE WORLD \(Unreleased\)](https://open.spotify.com/album/4mCjSWmQs70C4cibQVGsDR) | 3:35 |
+| 1 | [LOAFTERS](https://open.spotify.com/track/4X5OjBTRM8xon87gikLK7e) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d), [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [6 TO THE WORLD](https://open.spotify.com/album/4mCjSWmQs70C4cibQVGsDR) | 3:35 |
 | 2 | [NewNorthside.](https://open.spotify.com/track/72zA92ni5UqA5XIDXAhSVc) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Gritfall](https://open.spotify.com/artist/7rNjZJ2iF4ixVCkvtl91AI), [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq), [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [FromTheMud\. \(Northside Edition\)](https://open.spotify.com/album/6KBOS8WbwmKkDq6tiI7ykq) | 7:48 |
 | 3 | [FLT](https://open.spotify.com/track/0eNaEnv5cskYlVUPKJvU3V) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [FLT](https://open.spotify.com/album/1LJx7szY7iMbiWC8QDJXCZ) | 3:08 |
 | 4 | [Good Karma](https://open.spotify.com/track/3mPIT4FDXOIYDFmDLV9WAP) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Good Karma](https://open.spotify.com/album/4ynfISPekj2DBoTL09R3ta) | 3:07 |

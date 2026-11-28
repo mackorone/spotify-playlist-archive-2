@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝒿𝓊𝓁𝒾𝒶ִֶָ𓂃 ࣪ ִֶ࿐](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,692 songs - 4 day 2 hr 8 min
+[𝒿𝓊𝓁𝒾𝒶ִֶָ𓂃 ࣪ ִֶ࿐](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,697 songs - 4 day 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1700,5 +1700,10 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1690 | [Better in the Dark](https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s) | 2:35 |
 | 1691 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 |
 | 1692 | [lovespell](https://open.spotify.com/track/7sw4noZpXxObOxDrh3BIvV) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [lovespell](https://open.spotify.com/album/7x4mrXE9YQBRMCYnbZsizj) | 4:12 |
+| 1693 | [Texas Baby](https://open.spotify.com/track/3nDccr08X0HgybssaJpgcL) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Dust Settles and So Will I](https://open.spotify.com/album/4f9ajG7yABePyI59OhmRQH) | 2:27 |
+| 1694 | [In Violet](https://open.spotify.com/track/7z79MoOyPZFBvBlfkkfaPB) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 4:09 |
+| 1695 | [It Ain't Me Babe](https://open.spotify.com/track/377k4VC8O45GBlGRnQ6rgH) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Folk Duets](https://open.spotify.com/album/5ZBnrHvqxgYeULKGp79NYl) | 3:59 |
+| 1696 | [Paul \- 2023 Remaster](https://open.spotify.com/track/5CBqLg9XdeEHcknJX0fZIJ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 3:03 |
+| 1697 | [cradle](https://open.spotify.com/track/197dwrbQhIhDTvtN6kGcvb) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA) | 3:17 |
 
-Snapshot ID: `AAAO0TrIXd1Lg5EYBA41/gK0umaDjipV`
+Snapshot ID: `AAAO1mSre1v4mgEWcsH+G03DWc6wDj7+`

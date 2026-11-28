@@ -1,6 +1,6 @@
 {
   "description": "DEVAURA is just that girl.",
-  "num_followers": 223252,
+  "num_followers": 223262,
   "original_name": "hot girl sh*t",
   "owner": {
     "name": "Spotify",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2026-02-22 13:00:22",
       "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/5jMAEt7ZLjqi5tSlf7EBQg"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Glamorous",
+      "url": "https://open.spotify.com/track/6vVfNqiMSku4FrqsqhurBK"
+    },
+    {
+      "added_at": "2026-02-22 13:00:22",
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
-    },
-    {
-      "added_at": "2026-02-22 13:00:22",
-      "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/5jMAEt7ZLjqi5tSlf7EBQg"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Glamorous",
-      "url": "https://open.spotify.com/track/6vVfNqiMSku4FrqsqhurBK"
     },
     {
       "added_at": "2026-02-22 13:00:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, ROSALIA, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Emilia
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 50,106 likes - 136 songs - 7 hr 17 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 50,097 likes - 136 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

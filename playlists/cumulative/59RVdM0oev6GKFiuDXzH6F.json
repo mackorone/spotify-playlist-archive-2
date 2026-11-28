@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Back to Basics",
+        "url": "https://open.spotify.com/album/2sruAqlZT7HEbkamurk42y"
+      },
+      "artists": [
+        {
+          "name": "ROBPM",
+          "url": "https://open.spotify.com/artist/6QfZgJa0nrIKLwAdso7ai9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158322,
+      "name": "Back to Basics",
+      "url": "https://open.spotify.com/track/0hUmyfGvnqjoej7VZuWRto"
+    },
+    {
+      "album": {
         "name": "Back to Groovy",
         "url": "https://open.spotify.com/album/1YOBaHq1oH2UCpv4mFgeZc"
       },
@@ -12727,6 +12745,24 @@
     },
     {
       "album": {
+        "name": "Lil Lord EP",
+        "url": "https://open.spotify.com/album/0y5uPC6Sat3HoFbS9C0PDL"
+      },
+      "artists": [
+        {
+          "name": "Edward Yatiri",
+          "url": "https://open.spotify.com/artist/0uu3Jv6vOI079P2R50AE4Z"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387428,
+      "name": "Lil Margarita",
+      "url": "https://open.spotify.com/track/6zxwmoQfBMxYeCk3ExbjxO"
+    },
+    {
+      "album": {
         "name": "Lindos Ojos",
         "url": "https://open.spotify.com/album/6HB0vckn7uVRysypgXWP3R"
       },
@@ -23750,6 +23786,28 @@
       "duration_ms": 156363,
       "name": "Up",
       "url": "https://open.spotify.com/track/7K0aaR2SgjeXGJ8gmNDshu"
+    },
+    {
+      "album": {
+        "name": "Up The Wall",
+        "url": "https://open.spotify.com/album/6hnApirWFtpWZFhzccKEec"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        },
+        {
+          "name": "Katy Tiz",
+          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Up The Wall",
+      "url": "https://open.spotify.com/track/52bQPLnp6VTPs2SStiQF9o"
     },
     {
       "album": {

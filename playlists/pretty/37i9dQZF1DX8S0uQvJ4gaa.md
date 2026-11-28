@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,348,456 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,348,797 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Lovers](https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Lovers](https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi) | 4:22 |
 | 100 | [Old Me Knew Me](https://open.spotify.com/track/574ljHKjW9a16EiP6301Ml) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Old Me Knew Me](https://open.spotify.com/album/6CvUcmJydolIqcKcZNtPPo) | 2:35 |
 
-Snapshot ID: `AAAAAAH8/gPaXA6CkceqNl1IjXTKI2To`
+Snapshot ID: `AAAAAAf2l6Xka7eUG72cjSSaopfetpKK`

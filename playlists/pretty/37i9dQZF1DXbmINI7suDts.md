@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Xpect XHAVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,762 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,769 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 54 | [Niyo Ndirimbo](https://open.spotify.com/track/0J8exQMukp4lBP2alsaNWy) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64), [Adrien](https://open.spotify.com/artist/3sw22hr0nnSyb51poFeV1t) | [Niyo Ndirimbo](https://open.spotify.com/album/6U4XtK4eFbBDoHXmGYCZ7f) | 4:06 |
 | 55 | [Tanimba](https://open.spotify.com/track/2Hafw2FRF7RAHyRPnxPgpm) | [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Tanimba](https://open.spotify.com/album/4w8Gb7vP6EK6glctX9NyiE) | 2:20 |
 
-Snapshot ID: `AAAAAK0QTVLT7k+zdBDyyth4AX8Ik9wz`
+Snapshot ID: `AAAAABG4C/zA9K/gXY9zW7h3Tupc8lfR`

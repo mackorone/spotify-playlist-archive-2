@@ -2,9 +2,9 @@
 
 ### [New Music Friday Denmark](https://open.spotify.com/playlist/37i9dQZF1DWWuIAAkPM0Lu)
 
-> Endelig fredag, og endelig ny musik bl.a\. med debutalbum fra GUZO, Christopher på Kdrama soundtrack og ny hip hop fra Wesmo, Belly og mange flere!!!
+> Endelig fredag, og endelig ny musik bl.a\. med debutalbum fra GUZO og ny hip hop fra Wesmo, Belly og mange flere!!!
 
-13,169 songs - 28 day 14 hr 5 min
+13,170 songs - 28 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6315,7 +6315,7 @@
 | [Just Be Bodies](https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms / Just Be Bodies](https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw) | 3:27 | 2026-07-16 | 2026-07-24 |
 | [Just Be Friends](https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Just Be Friends](https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG) | 3:37 | 2024-11-14 | 2024-11-22 |
 | [Just Because](https://open.spotify.com/track/3bFQKB80kvUlSplBWTFQwL) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Just Because](https://open.spotify.com/album/3DkyRfGlAnAGvs8ZNrcHBp) | 2:50 | 2025-03-20 | 2025-03-28 |
-| [Just Because \(Nine to Six : Original Television Soundtrack\)](https://open.spotify.com/track/2Uvz3LstH9r7mlKDU9yZWb) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Nine to Six, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/66bGa9gTJc8PJDBRlRVZsb) | 3:10 | 2026-11-26 |  |
+| [Just Because \(Nine to Six : Original Television Soundtrack\)](https://open.spotify.com/track/2Uvz3LstH9r7mlKDU9yZWb) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Nine to Six, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/66bGa9gTJc8PJDBRlRVZsb) | 3:10 | 2026-11-26 | 2026-11-28 |
 | [Just Because of You](https://open.spotify.com/track/5mwdJmtDKFXRkTvzAXaK9W) | [Vinnie Who](https://open.spotify.com/artist/5Lt78N8RGSNxqbrHI8JeFM) | [Just Because of You](https://open.spotify.com/album/6YSwUgdtVtjowEBrWCPbbR) | 2:42 | 2026-09-03 | 2026-09-11 |
 | [Just Drive](https://open.spotify.com/track/0cQ3KZjxNADpJAL38IXmDx) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Just Drive](https://open.spotify.com/album/1y3r1t46xalIQLbYLlAN07) | 3:48 | 2026-07-23 | 2026-07-31 |
 | [Just For Fun](https://open.spotify.com/track/6JjNYK4WFpOJdDV1C9bv2E) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [HALO](https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB) | [Just For Fun](https://open.spotify.com/album/5jQAuaTsX1Mu9xulmd1Zx8) | 2:01 | 2025-05-01 | 2025-05-09 |
@@ -7803,7 +7803,7 @@
 | [More Delusional](https://open.spotify.com/track/66DoJJdfDEAIUdnKGahV5U) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [The Voices Became Louder](https://open.spotify.com/album/7k459NSQumr4hllwcUKrJf) | 2:48 | 2026-07-16 | 2026-07-24 |
 | [More Of The Same](https://open.spotify.com/track/0ce4nqi9EevtwI1keTBa07) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [More Of The Same](https://open.spotify.com/album/1EdrIK70b93chA3F2BKwmN) | 2:09 | 2025-12-11 | 2025-12-19 |
 | [More Than A Feeling](https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [More Than A Feeling](https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms) | 2:47 | 2025-04-03 | 2025-04-11 |
-| [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 | 2026-11-26 |  |
+| [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 | 2026-11-26 |  |
 | [More Than I Can Handle](https://open.spotify.com/track/61JoSauNNpqSoSy63FIsuV) | [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [More Than I Can Handle](https://open.spotify.com/album/4fnyGhQ4ndkkkRi7KtkUs4) | 2:57 | 2026-10-01 | 2026-10-09 |
 | [More than Memories](https://open.spotify.com/track/2P7k0qsqf3cT1jALyri7YR) | [Thorsteinn Einarsson](https://open.spotify.com/artist/7kCeNecZvb7zxsnRUC8jTV) | [More than Memories](https://open.spotify.com/album/0K7uYMKPGkqmQTxR0yTFnZ) | 4:02 | 2025-02-20 | 2025-02-28 |
 | [More Time](https://open.spotify.com/track/1eFYjbLIN7ifJFiyn6uGfg) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [More Time](https://open.spotify.com/album/6oLAT3dtRuQAjauvm72BHp) | 3:25 | 2026-03-26 | 2026-04-03 |
@@ -10347,6 +10347,7 @@
 | [Sober](https://open.spotify.com/track/0KxZ06Ifi78Jha6gxwpfAT) | [Fragile](https://open.spotify.com/artist/5nfh7LaqO8hcVbLZVleoeM) | [Sober](https://open.spotify.com/album/3ydd58phRoQbKx7xCftZel) | 2:37 | 2024-05-16 | 2024-05-24 |
 | [SOBER](https://open.spotify.com/track/0XJnk1m8m43RbeBYnbdlxy) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [SOBER](https://open.spotify.com/album/5lUNsYLIZX9QDIFnxmcGxv) | 2:47 | 2024-09-26 | 2024-10-04 |
 | [Sober Love](https://open.spotify.com/track/68sQfgn2MTUxMwo5iXOxWK) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Sober Love](https://open.spotify.com/album/34Y7XtOzScB4f6B7bXyPrF) | 2:30 | 2025-06-19 | 2025-06-27 |
+| [Social Arv](https://open.spotify.com/track/0p7QwDVkBPjjjwRAcxhVEr) | [Standart](https://open.spotify.com/artist/0a9vXvrnthVu0cNNV4Xyub) | [Social Arv](https://open.spotify.com/album/6pagvO70myUEjL8cUgXoYT) | 2:59 | 2026-11-27 |  |
 | [Soco Baby](https://open.spotify.com/track/3AsaVqhU4p6GqNmq6InIrF) | [CARLLO YABOY](https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie) | [Soco Baby](https://open.spotify.com/album/2YYpqI4CYHrR07LOox3haB) | 2:21 | 2025-10-16 | 2025-10-24 |
 | [SODA](https://open.spotify.com/track/2qQW6QYAqpRXWkIjiABgys) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [SODA](https://open.spotify.com/album/1Oc0wPHNFMdpvAB6F0H0zc) | 2:08 | 2026-10-01 | 2026-10-09 |
 | [Sofaen](https://open.spotify.com/track/4HoFuPVIbADUVrVTjyRIT4) | [Sebastian Wegener](https://open.spotify.com/artist/7cb1H8FTdpjQYaNxKSWt9O) | [Sofaen](https://open.spotify.com/album/1oiPyNWMOyzkzuDhYwXtjb) | 2:34 | 2025-09-11 | 2025-09-19 |

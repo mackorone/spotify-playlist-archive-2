@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2998,
+  "num_followers": 2999,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAALnsfEVQ5DXBmLBU1dYQV3",
+  "snapshot_id": "awd2gAAAAABXJ7QaMn/MaE9oNDf/ikoa",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deserve Each Other",
+        "url": "https://open.spotify.com/album/5wO4rxGxX729iEkcIuvYvH"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167650,
+      "name": "Deserve Each Other",
+      "url": "https://open.spotify.com/track/4sQzliwhbjG17hZMXkg7aL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Things I Do For Love",
         "url": "https://open.spotify.com/album/3dmgdqxyBmZL6vN1PpYSMn"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 160588,
       "name": "The Things I Do For Love",
       "url": "https://open.spotify.com/track/4WHGwyIMlHJeJggdfKb6XF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEX MACHINA",
-        "url": "https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 129397,
-      "name": "SEX MACHINA",
-      "url": "https://open.spotify.com/track/72MELAiasxf1BHYtMJWSfU"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deserve Each Other",
-        "url": "https://open.spotify.com/album/5wO4rxGxX729iEkcIuvYvH"
+        "name": "SEX MACHINA",
+        "url": "https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 167650,
-      "name": "Deserve Each Other",
-      "url": "https://open.spotify.com/track/4sQzliwhbjG17hZMXkg7aL"
+      "duration_ms": 129397,
+      "name": "SEX MACHINA",
+      "url": "https://open.spotify.com/track/72MELAiasxf1BHYtMJWSfU"
     },
     {
       "added_at": null,

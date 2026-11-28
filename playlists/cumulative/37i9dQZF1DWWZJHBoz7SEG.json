@@ -118663,6 +118663,28 @@
     },
     {
       "album": {
+        "name": "IDK YET",
+        "url": "https://open.spotify.com/album/3iBRjuE5mzixZ8lrkXwfIK"
+      },
+      "artists": [
+        {
+          "name": "FAMA",
+          "url": "https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X"
+        },
+        {
+          "name": "Lukas Urkijo",
+          "url": "https://open.spotify.com/artist/0sdq0uQ9MBCqV5gwUZuxMW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137435,
+      "name": "INC\u00cdTAME",
+      "url": "https://open.spotify.com/track/0TB2zV4VRn9IpCnjJY4c1Y"
+    },
+    {
+      "album": {
         "name": "Indecisa",
         "url": "https://open.spotify.com/album/4WmmIG2ztaEwn6th4z7xR8"
       },
@@ -181476,8 +181498,8 @@
       },
       "artists": [
         {
-          "name": "Banda Cuisillos",
-          "url": "https://open.spotify.com/artist/4AB3FqTXBxJhJaAvp7jHdF"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
       "date_added": "2026-11-27",

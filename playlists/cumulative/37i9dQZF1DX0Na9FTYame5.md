@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Mucco
 
-431 songs - 19 hr 28 min
+432 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 | 2024-10-11 |
 | [Bladerunner](https://open.spotify.com/track/1jtgDmvuWo93vPUy41Pg8e) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Bladerunner](https://open.spotify.com/album/60fRRwprifz4WrxAX400un) | 2:16 | 2026-03-19 | 2026-08-08 |
 | [Bleib](https://open.spotify.com/track/0MhuZSPKF5O3A889rPnZUA) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Bleib](https://open.spotify.com/album/4nu43xWIcRfWXl6PXkUxgO) | 2:13 | 2026-04-30 | 2026-06-02 |
-| [Blessed](https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Blessed](https://open.spotify.com/album/1fu1KcaqGJUP8BjVLtQtC7) | 2:34 | 2026-03-19 |  |
+| [Blessed](https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Blessed](https://open.spotify.com/album/1fu1KcaqGJUP8BjVLtQtC7) | 2:34 | 2026-03-19 | 2026-11-28 |
 | [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 |  |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2024-06-28 | 2026-09-01 |
 | [Brennt wie Feuer](https://open.spotify.com/track/2KkZqA88hrFEInvbEWb6Fg) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Brennt wie Feuer](https://open.spotify.com/album/5x58mDq9I6ow9q08HmOhXY) | 2:59 | 2025-11-13 | 2026-01-24 |
@@ -82,6 +82,7 @@
 | [Das Glück](https://open.spotify.com/track/3uLOR8AtwJR8yy9sRXqD78) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Augen träumen Herzen sehen](https://open.spotify.com/album/1ARwY4w7bNbAcVL2ngxk2l) | 2:57 | 2025-11-03 | 2026-03-18 |
 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 | 2024-06-28 | 2025-04-11 |
 | [Denkst du an mich](https://open.spotify.com/track/1og1WUJtEFCnC7FxxHe0C0) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Denkst du an mich](https://open.spotify.com/album/1gCpb6P29znhvymToiydUV) | 2:43 | 2025-06-18 |  |
+| [Der Teufel und das Licht](https://open.spotify.com/track/50v2Raz62GdLnRhebGoUEw) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Der Teufel und das Licht](https://open.spotify.com/album/0wmtdlR6RgIICHq7D5HZv4) | 2:59 | 2026-11-26 |  |
 | [Die Sonne](https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Die Hoffnung klaut mir Niemand](https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI) | 2:54 | 2024-06-28 |  |
 | [Dieses eine Lied](https://open.spotify.com/track/4eqjuxCylVKJykllp83972) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Dieses eine Lied](https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r) | 2:22 | 2025-02-06 |  |
 | [DLIT \(die Liebe ist tot\)](https://open.spotify.com/track/3nsN35tRpTZYSsaBkGrgQA) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [DLIT \(die Liebe ist tot\)](https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce) | 2:46 | 2024-06-28 | 2024-08-27 |

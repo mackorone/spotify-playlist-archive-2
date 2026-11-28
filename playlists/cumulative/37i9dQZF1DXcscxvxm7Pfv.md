@@ -4,7 +4,7 @@
 
 > Free your mind from distraction with calming white noise.
 
-346 songs - 16 hr 25 min
+346 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Flat White Noise](https://open.spotify.com/track/2sT8xEi35Qn6iceYxi1u2V) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [White Noise Hz](https://open.spotify.com/album/3A8cNq1g1XQKds0Ho4ltJG) | 2:30 | 2022-08-26 | 2026-04-01 |
 | [Flawless White Noise](https://open.spotify.com/track/7AD1YZluQtRJjgLvUnFuXP) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [White Noise](https://open.spotify.com/album/7G15eMhffdtpyrm2CrtAp2) | 2:20 | 2022-08-26 | 2022-10-07 |
 | [Fluffy White Noise](https://open.spotify.com/track/0ZiCt8FvFJqxqM0ioP3CzF) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Fluffy White Noise](https://open.spotify.com/album/56ATMdtGLSEtPmFNmGSg00) | 3:10 | 2025-12-19 |  |
-| [Focus On Noise](https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 1:39 | 2023-03-24 |  |
+| [Focus On Noise](https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:29 | 2023-03-24 |  |
 | [Focus Waves](https://open.spotify.com/track/3x0EoMEp16dyEcraUR1beL) | [Gamma Ism](https://open.spotify.com/artist/13WXoLsp6BS82T8AWnnRHi) | [Focus Waves](https://open.spotify.com/album/3phP2ItswTCo5Zc1NV07rw) | 2:24 | 2022-08-26 | 2026-04-01 |
 | [Forever Ambient Noise](https://open.spotify.com/track/4Qs93QCHeZOsf01IVNQCBY) | [Noise Factory](https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe) | [The Rhythm Of Noise](https://open.spotify.com/album/5A2FT4FE0UZU06spwKPqox) | 2:22 | 2023-03-24 |  |
 | [Frost Echo \- White Noise](https://open.spotify.com/track/4viGeuY6gRxtE7i1XZBj1Y) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Frost Echo \(White Noise\)](https://open.spotify.com/album/1KqENBgWtdlybFpzMz7sPV) | 3:12 | 2023-12-05 |  |

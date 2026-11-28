@@ -16868,7 +16868,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "FARMACISTA",
       "url": "https://open.spotify.com/track/0QGHB3naWsYs9Sz70RjkZ2"
@@ -28286,7 +28286,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 266983,
       "name": "M-as Certa Iar Cu Tine",
       "url": "https://open.spotify.com/track/1krlXaWKv5ziuRuGsQXFMW"
@@ -30154,7 +30154,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 160122,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/2fpArW4gdskbBMyeNSmhJ4"
@@ -31850,7 +31850,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 189000,
       "name": "M\u0103 sun\u0103 nebunele",
       "url": "https://open.spotify.com/track/14WRFJcCJpyQnPAj4hv7O7"
@@ -32326,7 +32326,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 149677,
       "name": "Nebunatica",
       "url": "https://open.spotify.com/track/78g749RHeyfqGl1KUZ2ugK"
@@ -37447,6 +37447,24 @@
     },
     {
       "album": {
+        "name": "A Iesit Soarele Din Nori",
+        "url": "https://open.spotify.com/album/0QHzykYLP3YGtTk6TKpilF"
+      },
+      "artists": [
+        {
+          "name": "Florin Salam",
+          "url": "https://open.spotify.com/artist/6Ujb9g9pljLl91qELsPZYo"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254667,
+      "name": "Poza Ta Nu Ma Saruta",
+      "url": "https://open.spotify.com/track/2bAhWfbMvRFT3c2UdOaySN"
+    },
+    {
+      "album": {
         "name": "PRADATORI",
         "url": "https://open.spotify.com/album/6H9fCHAT3f54h7voQqFs9i"
       },
@@ -42110,7 +42128,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 142000,
       "name": "sexyZ",
       "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
@@ -43518,7 +43536,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -44140,6 +44158,28 @@
       "duration_ms": 160599,
       "name": "spune-mi",
       "url": "https://open.spotify.com/track/1Dl7jCtZsx9JQYmbOjVD2C"
+    },
+    {
+      "album": {
+        "name": "Pentru totdeauna",
+        "url": "https://open.spotify.com/album/6SKV2YlGON1c5qW6gNADCp"
+      },
+      "artists": [
+        {
+          "name": "Lele",
+          "url": "https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G"
+        },
+        {
+          "name": "Manele VTM",
+          "url": "https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Spune-mi",
+      "url": "https://open.spotify.com/track/2NLJx2C7DzPwmGyyJgoUWh"
     },
     {
       "album": {
@@ -50136,7 +50176,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 228750,
       "name": "ultima (noapte)",
       "url": "https://open.spotify.com/track/4xqcdWSI76WcQBottrpm1Z"

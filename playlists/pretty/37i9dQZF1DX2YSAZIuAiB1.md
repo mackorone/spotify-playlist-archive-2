@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,224 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,139 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [Nah Worry](https://open.spotify.com/track/2nc2R2tLnEwln3LJRsAIWh) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Nah Worry](https://open.spotify.com/album/5GNKMQqUaQ6nwFoAXckJwp) | 2:18 |
 | 75 | [Libera](https://open.spotify.com/track/0wubCyhuUq3NRB73PdPxiS) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU), [Margaridas](https://open.spotify.com/artist/2s7Kara3RovkRHclzCt9jn) | [Luso](https://open.spotify.com/album/214sHCmITqZqhAr6lzSSda) | 4:55 |
 
-Snapshot ID: `AAAAAD4dg7N+nbWe2XoTA1cL15vRNHp6`
+Snapshot ID: `AAAAACpRhrZQk0aVdAK6iTA+MapzGB2Q`

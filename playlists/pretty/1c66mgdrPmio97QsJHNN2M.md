@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,297 likes - 223 songs - 11 hr 43 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,304 likes - 229 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,5 +231,11 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 221 | [Worked Out For Good](https://open.spotify.com/track/1jb5vS5JFGRomIbsBTQsxT) | [Fola Kotun](https://open.spotify.com/artist/7obFZub7Cc0H41Xa2eq7aI), [TVL Back Up Singers](https://open.spotify.com/artist/0j1cThGO8XQRWUE1RYkIAR) | [Brother To Me](https://open.spotify.com/album/4kdxXF70FeQFqsQQYO6Hio) | 3:54 |
 | 222 | [Rester le même](https://open.spotify.com/track/7DUdE9mcsT2YtkaqGT9xKn) | [Loan](https://open.spotify.com/artist/3cTXbsaDNp5xWWs1DV2ywr) | [Rester le même](https://open.spotify.com/album/7g8o6teS2MqCmYhv17Wz6a) | 2:59 |
 | 223 | [Ai wa Itakunai Hazu](https://open.spotify.com/track/5TCVZilAUAdj3zxxXsvycP) | [Krey Galin](https://open.spotify.com/artist/6Dsc7EoynW9ocyHnPfAQ19) | [Ai wa Itakunai Hazu](https://open.spotify.com/album/1W6P77eOAND6bBHz7ToNPO) | 5:23 |
+| 224 | [i don't wanna know](https://open.spotify.com/track/0JpmY7p9fxkBOH4OfACdKM) | [Emma Semonia](https://open.spotify.com/artist/7Fjy7T9Dn8NKDj82yY00uy) | [i don't wanna know](https://open.spotify.com/album/1TaSFWWPW8XnJVQhRiigB3) | 3:24 |
+| 225 | [Put Down That Damn Phone](https://open.spotify.com/track/5ehgvZDgHSB4IBBoClP5Lq) | [Giorvam](https://open.spotify.com/artist/3eiIPkcd4GQfKkVDYS7wPy) | [Put Down That Damn Phone](https://open.spotify.com/album/78cikUrgd7hoKMBY90u3E6) | 3:27 |
+| 226 | [Get Down](https://open.spotify.com/track/0vkDJmQzbxMsxvjRmH7xEY) | [LuumixX](https://open.spotify.com/artist/0YM7PRuqPpBZUzqnD5Wh6n), [Zenya Crowe](https://open.spotify.com/artist/1omkEiXuPWhM6PRl8UKM54) | [Get Down](https://open.spotify.com/album/33mnSwNKeiFMHy6LD1vYDB) | 3:33 |
+| 227 | [Dancing with the Devil](https://open.spotify.com/track/66kOv4ep7RWROLKbjHyeWp) | [Pet Taxi](https://open.spotify.com/artist/2nQkFrDhzQcQVI2ZIW8n5A), [Caroline Carr](https://open.spotify.com/artist/0zQML4Hss4AkxbmnZ1dcCV) | [Dancing with the Devil](https://open.spotify.com/album/6NVrttHi4OXfX6waaJFeel) | 3:18 |
+| 228 | [Our World Will Finally Shine so Bright](https://open.spotify.com/track/0PkQ4HFb2Yrqqev1dCaazq) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [Our World Will Finally Shine so Bright](https://open.spotify.com/album/0JRUCRkv2Gnk0jLGGKZaJy) | 2:28 |
+| 229 | [Winter Nights](https://open.spotify.com/track/1lMwlJ3BXK0tQP7rb4kRDx) | [Ashleigh Stoker](https://open.spotify.com/artist/6H5r2YZBDzqJ5sK0IDLKwB) | [Winter Nights](https://open.spotify.com/album/6IuuE9lb2CSNRCjzrBJgv7) | 2:32 |
 
-Snapshot ID: `AAA+Y/QZ4j3wHXOZNXPpH45Sjwx0jIcW`
+Snapshot ID: `AAA+ab4f3gUMO/vfAezBokEJfXept27Y`

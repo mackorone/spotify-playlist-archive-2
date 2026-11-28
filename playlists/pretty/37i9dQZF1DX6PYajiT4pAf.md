@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Anuel AA, Feid con Snoop Dogg, Ultraligera, Juseph, Kanye West, Camin, Samuraï y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,608 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,998 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 70 | [Elegiste vivir en Barcelona](https://open.spotify.com/track/0sYJbdQOPQz9e0PICyqKnW) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Elegiste vivir en Barcelona](https://open.spotify.com/album/7aAAJe7UQ84XXSRyGTWttv) | 2:43 |
 | 71 | [Te Equivocas](https://open.spotify.com/track/7L2bDJzzp0WlJh9bf254c7) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Te Equivocas](https://open.spotify.com/album/5xZXRa3uZUKn2yNwF2M6MJ) | 2:40 |
 | 72 | [Aunque estemos tan lejos](https://open.spotify.com/track/7h0Y1ukWJq5bwTN0H32NYa) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR), [agosto](https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK) | [Aunque estemos tan lejos](https://open.spotify.com/album/6PrxjF8m9VNilbPMRp0bQ8) | 2:37 |
-| 73 | [TAWA G](https://open.spotify.com/track/2PXTNyX6Bbjy7NT7wYP3L7) | [TAWA](https://open.spotify.com/artist/3DdbBW5RRLPV3Kv4CSwHzi), [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc) | [RESCEPTO](https://open.spotify.com/album/6NTPsQCLSm1XXg9ynVXiSD) | 1:39 |
+| 73 | [TAWA G](https://open.spotify.com/track/2PXTNyX6Bbjy7NT7wYP3L7) | [TAWA](https://open.spotify.com/artist/3DdbBW5RRLPV3Kv4CSwHzi), [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc), [BELZE](https://open.spotify.com/artist/23UzPthNBBsoA5USgtS3As) | [RESCEPTO](https://open.spotify.com/album/6NTPsQCLSm1XXg9ynVXiSD) | 1:39 |
 | 74 | [Y si los demás tienen razón?](https://open.spotify.com/track/1okAEbny3U48bop07zuxOn) | [Luzía](https://open.spotify.com/artist/5QfzdMOVjnsL7nlxQhep6K) | [Y si los demás tienen razón?](https://open.spotify.com/album/0gav2V0v8gDeMGs96kdpps) | 2:39 |
 | 75 | [vivo](https://open.spotify.com/track/5FFdsGf9XFJlpyBwr05rXL) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [vivo](https://open.spotify.com/album/7bTBeHUa4zYJTAZlSzXN97) | 3:22 |
 | 76 | [+ importante](https://open.spotify.com/track/76CT12PLK2hsIm52TLWEO4) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu) | [+ importante](https://open.spotify.com/album/1svE3MrS9UegrHbso0GoTI) | 2:54 |

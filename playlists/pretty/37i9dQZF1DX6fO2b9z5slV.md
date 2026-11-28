@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO2b9z5slV.md) - [plain]
 
 > You can't miss out on these\. Music videos only available on Premium\. Cover: Myke Towers & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 340 likes - 25 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > fuckmycomputer.hyper\_sleaze.electro\_glitch \_\[FINAL\]\_\[REAL\]\_\_coverartist.ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,367,103 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,367,027 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

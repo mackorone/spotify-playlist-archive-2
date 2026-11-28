@@ -39307,6 +39307,28 @@
     },
     {
       "album": {
+        "name": "BLACK & RED",
+        "url": "https://open.spotify.com/album/1YjLCRKKmpquuNK3qpYw81"
+      },
+      "artists": [
+        {
+          "name": "El Desperado",
+          "url": "https://open.spotify.com/artist/2ajGq9BEnKOi6B5wTZ7uWn"
+        },
+        {
+          "name": "Krozt",
+          "url": "https://open.spotify.com/artist/4PcJRdfWkfo8MXw7j0KAwX"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182418,
+      "name": "MOOD",
+      "url": "https://open.spotify.com/track/7yHNVEVmKQ36bzaEr3LtCh"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/48mM2HjTZVneP4SmpeEFxN"
       },

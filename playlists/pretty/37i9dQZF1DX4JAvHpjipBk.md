@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Anuel AA, Travis Scott, Bella Kay, D'Angelo, PAWSA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,658,896 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,661,302 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 50 | [ready or not](https://open.spotify.com/track/2nvjMISiChF8ihTNpXFkpC) | [lindsay](https://open.spotify.com/artist/5rar25ejTh6Z3bZ2MhiAfS), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [ready or not](https://open.spotify.com/album/7kTqE5jW9nOygE1DljVvHi) | 3:02 |
 | 51 | [Yes, It Will Go \- Bright\-Side Mix](https://open.spotify.com/track/13TMgH5ViiEgVgXw3WQO69) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [o\\i](https://open.spotify.com/album/47lBD3RMqUENfes7oqNFed) | 5:05 |
 | 52 | [The Way It Is](https://open.spotify.com/track/267NwMoIgxZ68atDUmqL5Y) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr) | [The Way It Is](https://open.spotify.com/album/3NTnIdkuP2k9MZ6bJah9ux) | 4:02 |
-| 53 | [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 |
+| 53 | [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 |
 | 54 | [Sick To My Stomach](https://open.spotify.com/track/7moskP8Ms9K219brWMwM6u) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [Sick To My Stomach](https://open.spotify.com/album/1zlqDlE2xpHe63Blu2lCSx) | 3:19 |
 | 55 | [Gingivitis](https://open.spotify.com/track/6Ye8SxKmSFcMazWrqxOuL0) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Gingivitis](https://open.spotify.com/album/6Xt8bKhbnXV6oKEoCFHTLc) | 2:48 |
 | 56 | [Sad State Of Mind](https://open.spotify.com/track/5nmRoF8pVdB2R4QbkpkFJH) | [Kady Zadora](https://open.spotify.com/artist/3e5ErlzlEHeOEHgAH0Oeew) | [Sad State Of Mind](https://open.spotify.com/album/5NIJwhadrjFd7zqbaFWdTs) | 2:39 |

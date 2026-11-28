@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec TeddyBear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,770 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,798 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 10 | [La nouvelle vie](https://open.spotify.com/track/1NzhIPjideyZm4idjBHkaY) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [La nouvelle vie](https://open.spotify.com/album/50cl3pRU5PT2OHogfFtAmu) | 4:48 |
 | 11 | [les solitudes extrêmes](https://open.spotify.com/track/558N9BuWPKmkck0jBu3B3P) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [les solitudes extrêmes](https://open.spotify.com/album/7MWKgRebujrZsGumgrF1RZ) | 3:53 |
 | 12 | [CHANTER](https://open.spotify.com/track/5wqp2pdY6R9Gf3KiRDQaIM) | [Anabel](https://open.spotify.com/artist/50L9hhqxqvBX5FjcBV5t8P) | [CHANTER](https://open.spotify.com/album/3scvdGDkxJLuF3KolQaDrT) | 3:16 |
-| 13 | [Batman](https://open.spotify.com/track/6xbm3SABfyvW2MQD4wj5Bd) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Batman](https://open.spotify.com/album/6uARLMmJtcFedhaCV500Sj) | 3:46 |
+| 13 | [BATMAN](https://open.spotify.com/track/6xbm3SABfyvW2MQD4wj5Bd) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [BATMAN](https://open.spotify.com/album/6uARLMmJtcFedhaCV500Sj) | 3:46 |
 | 14 | [Soleil secret](https://open.spotify.com/track/3I4I2AZNtlEtcQAfdTTAJb) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Soleil secret](https://open.spotify.com/album/46xYc1ijNz2rL8LvNfYwB7) | 4:35 |
 | 15 | [Réunion de famille](https://open.spotify.com/track/1KDAxYzHuPFwf1k2x7Pioh) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Les rats, les pigeons](https://open.spotify.com/album/4m3d2RW4SOtL3Kd3YrwkiT) | 2:42 |
 | 16 | [le corps des femmes : melancholia](https://open.spotify.com/track/4HHPjlibX7LB2DVcpArVpC) | [Mathilde](https://open.spotify.com/artist/7ctr5cWbHXAOpQkcH5ttsO) | [melancholia](https://open.spotify.com/album/1ngGU6RUAJTdYkJMT0Bv0W) | 2:56 |

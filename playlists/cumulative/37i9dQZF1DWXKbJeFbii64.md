@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-210 songs - 9 hr 55 min
+210 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aguacero](https://open.spotify.com/track/139xQGTwuv9suuSwg7hSLg) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 2:58 | 2025-07-23 |  |
 | [Almost Supernatural](https://open.spotify.com/track/5zvfHSjOJj3oWIV7CtUAe7) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Thundering Heights](https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4) | 3:08 | 2023-01-13 |  |
 | [Archipelago Rain & Thunder](https://open.spotify.com/track/6TxDMAKrOapQFF4MBsf4UV) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Stormy Seasons](https://open.spotify.com/album/3Ms2VW0VJri8JHjSuJKh9x) | 2:22 | 2022-10-28 |  |
-| [Atmosphère Nord](https://open.spotify.com/track/12YwouliX4zdxGoI9jArlO) | [Thibaut Lozé](https://open.spotify.com/artist/6xcbQLZPMTSqeZ46TU9ihv) | [Histoires Sur Le Flash](https://open.spotify.com/album/0gN2h9IwwX05KBG8xH7P33) | 1:50 | 2022-10-28 |  |
+| [Atmosphère Nord](https://open.spotify.com/track/12YwouliX4zdxGoI9jArlO) | [Biologique](https://open.spotify.com/artist/0DudONxjyhGIoLDd0o17f1) | [Histoires Sur Le Flash](https://open.spotify.com/album/0gN2h9IwwX05KBG8xH7P33) | 2:30 | 2022-10-28 |  |
 | [Backyard Trees in Storm](https://open.spotify.com/track/6LYLYWCFOPO4EnxfV1bBXE) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Coastal Storm Rain](https://open.spotify.com/album/3jaaXBjkXWUJOB68U6DVdr) | 2:02 | 2026-04-01 |  |
 | [Baltic Rain and Thunder Sounds](https://open.spotify.com/track/6vL1FJCoBHYqlXrO6sqD3c) | [Edy Boman](https://open.spotify.com/artist/4XdPbkEAdTU7KDmfOCIakS) | [Heavy Rain and Thunder for Sleeping](https://open.spotify.com/album/4nlCJPktVI9R3VTezTOR8K) | 2:38 | 2025-07-23 | 2026-04-02 |
 | [Blast From The Sky](https://open.spotify.com/track/0jUlM2XfSiAIocpNuZhPlI) | [The Sound Of Thunder](https://open.spotify.com/artist/1px8jMPOnlvPZPT1yYpKbX) | [Blast From The Sky](https://open.spotify.com/album/6PlLDX3TUIhY2syQAuawEF) | 3:12 | 2024-06-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 32452,
+  "num_followers": 32463,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAABS8Jzo1t4OXAs0khMG/kKj",
+  "snapshot_id": "awd2gAAAAAAkFnnpOnzmGBcVILRAIGPQ",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Treat You Right",
-        "url": "https://open.spotify.com/album/2NJdKzl6B6Vu2TP4YYugue"
+        "name": "Lionhearted (with Kota the Friend)",
+        "url": "https://open.spotify.com/album/6TWwDgoMBw70v4n7aM6ixL"
       },
       "artists": [
         {
@@ -612,13 +612,13 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         },
         {
-          "name": "Dizzy Wright",
-          "url": "https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq"
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Treat You Right",
-      "url": "https://open.spotify.com/track/1FFsglwdgas5NKXkGioEcF"
+      "duration_ms": 217846,
+      "name": "Lionhearted (with Kota the Friend)",
+      "url": "https://open.spotify.com/track/2ojvQ0lxiNgLn4sgaz7DzH"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lionhearted (with Kota the Friend)",
-        "url": "https://open.spotify.com/album/6TWwDgoMBw70v4n7aM6ixL"
+        "name": "Treat You Right",
+        "url": "https://open.spotify.com/album/2NJdKzl6B6Vu2TP4YYugue"
       },
       "artists": [
         {
@@ -664,13 +664,13 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         },
         {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+          "name": "Dizzy Wright",
+          "url": "https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq"
         }
       ],
-      "duration_ms": 217846,
-      "name": "Lionhearted (with Kota the Friend)",
-      "url": "https://open.spotify.com/track/2ojvQ0lxiNgLn4sgaz7DzH"
+      "duration_ms": 204000,
+      "name": "Treat You Right",
+      "url": "https://open.spotify.com/track/1FFsglwdgas5NKXkGioEcF"
     },
     {
       "added_at": null,

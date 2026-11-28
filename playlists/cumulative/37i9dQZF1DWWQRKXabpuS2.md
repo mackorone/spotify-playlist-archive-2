@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-496 songs - 1 day 9 hr 59 min
+498 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [احبك](https://open.spotify.com/track/1SYcs6NIEOl4iGanRHK7Pg) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [احبك](https://open.spotify.com/album/2ymSGbjj2BJmD1vyiHouqc) | 2:09 | 2021-12-23 | 2022-02-18 |
 | [احبك ليه](https://open.spotify.com/track/41t3VbNWNRiCOXRcfDcAzE) | [محمد مبارك](https://open.spotify.com/artist/6HCSHVuuQlHb3qiOUqXlKi) | [احبك ليه](https://open.spotify.com/album/0YzT44Y3Ngzu4ZTzqB0uSN) | 3:40 | 2022-06-02 | 2022-11-08 |
 | [احضن الذكرى](https://open.spotify.com/track/7fl7MPGSlqTS6JwYMJGpXp) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [احضن الذكرى](https://open.spotify.com/album/1mGto1het7EofBlcpQoDBf) | 3:34 | 2025-02-18 | 2025-03-27 |
+| [احلى شروق](https://open.spotify.com/track/1MBUL6yqM09DrMVo8AEs4z) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [احلى شروق](https://open.spotify.com/album/5GtqkY9IpqAV02nrPGA0TY) | 3:11 | 2026-11-27 |  |
 | [اخر حدودك](https://open.spotify.com/track/09HLyY2l3LTG8N6uasajtL) | [Abdulwahab](https://open.spotify.com/artist/29o5B68ocp085sHaHjae8e) | [اخر حدودك](https://open.spotify.com/album/47bkD1QqaOh7mn1oYwhII7) | 4:17 | 2026-04-14 |  |
 | [ادري جرحتك](https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi) | [Kadejah Moaath \| خديجة معاذ](https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv) | [ادري جرحتك](https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy) | 3:28 | 2022-04-01 | 2022-08-27 |
 | [ارحبي](https://open.spotify.com/track/35HZMJXRRYsUTyaAj9TrC3) | [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [ارحبي](https://open.spotify.com/album/1IwRg9LI1bwLsNBuOGLrxW) | 2:38 | 2026-07-16 |  |
@@ -394,6 +395,7 @@
 | [انا ممتن](https://open.spotify.com/track/4zBo8hbgHlS4P4LQNowTsJ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [سلطان المرشد ٢٠٢٥، جزء ١](https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1) | 2:53 | 2025-04-17 | 2026-04-15 |
 | [بح صوتك](https://open.spotify.com/track/3sXJMNSewXpeBn4Kmr8GR4) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر 2023](https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi) | 6:33 | 2023-12-15 | 2024-07-19 |
 | [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 | 2023-02-24 | 2023-09-19 |
+| [بنت الرجال](https://open.spotify.com/track/09dasPk85AYYkFaK1F4ZLv) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [بنت الرجال](https://open.spotify.com/album/2TTxxQ3LwfzogSH7sVMrt4) | 5:48 | 2026-11-27 |  |
 | [تعانديني](https://open.spotify.com/track/1be4SUHehMtF6qAqRkU2yU) | [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [تعانديني](https://open.spotify.com/album/7sdHl5bjjIQMAZGS7WeqAs) | 3:09 | 2025-02-12 | 2026-01-15 |
 | [تفضل](https://open.spotify.com/track/2EiRLUvll4IW6ISXvoO6zC) | [عمر بن عضيب](https://open.spotify.com/artist/6iOYl5la4To9M54shaGsTe) | [تفضل](https://open.spotify.com/album/2X957nw5fzyR9DA9ny9OCY) | 4:58 | 2025-12-24 | 2026-10-30 |
 | [تلاحق](https://open.spotify.com/track/0wK2a0f0EaYtY5g66BCirt) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [تلاحق](https://open.spotify.com/album/3DnYS6m3og2iZkZcg9SGVU) | 2:00 | 2026-09-25 |  |

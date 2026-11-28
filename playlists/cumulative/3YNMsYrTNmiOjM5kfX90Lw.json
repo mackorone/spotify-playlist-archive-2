@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "A vous les hommes",
+        "url": "https://open.spotify.com/album/1zvGjBs1nfplSqSIl4VGyZ"
+      },
+      "artists": [
+        {
+          "name": "evuoL",
+          "url": "https://open.spotify.com/artist/2ej9szQkoreYuR2DqKnLaI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "A vous les hommes",
+      "url": "https://open.spotify.com/track/4qhnetzBShaB8MxGNXyaS4"
+    },
+    {
+      "album": {
         "name": "Chill MuzAk (Summer Breeze)",
         "url": "https://open.spotify.com/album/61656rzn2ITPbGa48bV0z7"
       },
@@ -34022,24 +34040,6 @@
       "duration_ms": 162295,
       "name": "\u00c0 l'envers",
       "url": "https://open.spotify.com/track/4SE8oe3qgfWDjEXIgDKpgb"
-    },
-    {
-      "album": {
-        "name": "\u00c0 vous les hommes",
-        "url": "https://open.spotify.com/album/1zvGjBs1nfplSqSIl4VGyZ"
-      },
-      "artists": [
-        {
-          "name": "evuoL",
-          "url": "https://open.spotify.com/artist/2ej9szQkoreYuR2DqKnLaI"
-        }
-      ],
-      "date_added": "2026-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237200,
-      "name": "\u00c0 vous les hommes",
-      "url": "https://open.spotify.com/track/4qhnetzBShaB8MxGNXyaS4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Home is where the main stage is 💙💙 featuring Martin Garrix
 
-1,037 songs - 2 day 5 hr 30 min
+1,038 songs - 2 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak) | 2:29 | 2024-09-13 | 2026-02-21 |
 | [Heartbeat](https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Heartbeat](https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys) | 3:36 | 2023-06-30 | 2023-09-05 |
 | [Heartless](https://open.spotify.com/track/3S2ArNKZEcb9JiBX9WAv4z) | [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Heartless](https://open.spotify.com/album/1ZGdHVWwoIvBTDuYz4gG7g) | 2:58 | 2021-07-09 | 2022-07-28 |
+| [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 | 2026-11-27 |  |
 | [Heaven](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Heaven](https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y) | 2:58 | 2022-04-29 | 2023-07-29 |
 | [Heaven \(feat\. Yousra\)](https://open.spotify.com/track/2NPOfAcuPVBilgRETr0qJq) | [Tomas Grey](https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS), [Yousra](https://open.spotify.com/artist/3XSTqWR2THlEYltDFrfr2T) | [Heaven \(feat\. Yousra\)](https://open.spotify.com/album/4VJyP131fNwpusdsdVJVHr) | 2:29 | 2026-07-17 | 2026-09-19 |
 | [Heaven Knows](https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Heaven Knows](https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L) | 3:53 | 2024-11-22 | 2025-06-28 |
@@ -463,7 +464,7 @@
 | [Into The Fire](https://open.spotify.com/track/2pkLSXs8Wv9Xe3aiCR7K5p) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Arsnøvä](https://open.spotify.com/artist/3vhqqkOtusdgbpr9336aFA) | [Into The Fire](https://open.spotify.com/album/33i8sQO6hNZk6wMhIBJSEv) | 2:57 | 2022-01-21 | 2022-07-20 |
 | [Into the Night](https://open.spotify.com/track/2EPHUV16WoWXHVxxoJzvi2) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [Into the Night](https://open.spotify.com/album/0LL0D6ryvVY1qF5lh98Tuo) | 2:53 | 2023-07-14 | 2023-09-23 |
 | [INTO THE UNKNOWN](https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng) | 3:58 | 2022-04-01 | 2022-07-13 |
-| [Iris](https://open.spotify.com/track/2REERyq54pbjeAuddwqJkR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Iris](https://open.spotify.com/album/0iBIK5fBWz6C7rnSVFZGO0) | 3:23 | 2026-09-11 |  |
+| [Iris](https://open.spotify.com/track/2REERyq54pbjeAuddwqJkR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Iris](https://open.spotify.com/album/0iBIK5fBWz6C7rnSVFZGO0) | 3:23 | 2026-09-11 | 2026-11-28 |
 | [Iris](https://open.spotify.com/track/3zlLhEnV9yMRRSE3bFS0Xe) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Iris](https://open.spotify.com/album/0pQECEqaIniCnSEwn2HzLO) | 3:19 | 2026-03-06 |  |
 | [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 | 2023-07-28 | 2024-04-29 |
 | [It Gets Better](https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [It Gets Better](https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6) | 3:04 | 2021-07-16 | 2022-04-19 |

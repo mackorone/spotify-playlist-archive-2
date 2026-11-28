@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62677,
+  "num_followers": 62679,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAABITWK4tWO+2LHD6wrGAWzV",
+  "snapshot_id": "awd2gAAAAABgk0XYUX9YCtIvb1mfpTqa",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 310640,
-      "name": "I Wanna Be Your Dog",
-      "url": "https://open.spotify.com/track/2VppbCFGniv58380qH2Ut3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 214813,
       "name": "The French Song",
       "url": "https://open.spotify.com/track/21GN0Gln1ZJyOFZujCOt7C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 310640,
+      "name": "I Wanna Be Your Dog",
+      "url": "https://open.spotify.com/track/2q9E4H2F41UU6tAGGnQLPY"
     },
     {
       "added_at": null,
@@ -632,7 +632,7 @@
       "added_at": null,
       "album": {
         "name": "Essentials",
-        "url": "https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG"
+        "url": "https://open.spotify.com/album/6OcJjMjfTSTQs7j5JpgNNf"
       },
       "artists": [
         {
@@ -642,7 +642,7 @@
       ],
       "duration_ms": 232333,
       "name": "You Drive Me Wild",
-      "url": "https://open.spotify.com/track/2ZSDEBnyfkCHNdllWJqxNG"
+      "url": "https://open.spotify.com/track/6l4NidL3xTcwYber8tbwjx"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Androgynous",
+      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 188880,
       "name": "Fake Friends (feat. Joan Jett)",
       "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Androgynous",
-      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Changeup (Acoustic)",
-        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Long Time - Acoustic",
-      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hit List",
         "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 141773,
       "name": "Tush",
       "url": "https://open.spotify.com/track/12tFpmVUAaQTrTbxGJUlTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Changeup (Acoustic)",
+        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Long Time - Acoustic",
+      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
     },
     {
       "added_at": null,

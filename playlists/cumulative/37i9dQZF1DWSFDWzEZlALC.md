@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Jonny Mahoro, fiora
 
-2,093 songs - 4 day 2 hr 28 min
+2,094 songs - 4 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1114,6 +1114,7 @@
 | [Laut](https://open.spotify.com/track/17HBDMUjurx0O6nhPZZVWZ) | [Jette Sorgenfrey](https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT) | [Laut](https://open.spotify.com/album/18IVylSgC4mu28fBEAQVxg) | 2:28 | 2024-08-01 | 2024-08-23 |
 | [Laut Denken](https://open.spotify.com/track/0ByVX07lcLowwxoSOEeMGo) | [Flavio](https://open.spotify.com/artist/6TBB2wdiwVBJYCdaRhOErs) | [Laut Denken](https://open.spotify.com/album/2TcpdBpjdbvCeeIAfFR783) | 2:17 | 2023-09-14 | 2023-10-27 |
 | [LAVENDEL IM PARK](https://open.spotify.com/track/2PwfE3zcFtyqK7TYG24ypb) | [kei](https://open.spotify.com/artist/2ASO52lG12R04s6lsYOOht) | [LAVENDEL IM PARK](https://open.spotify.com/album/0p0kRZIX9YQOf0PtrJUg3b) | 2:16 | 2024-06-20 | 2024-11-15 |
+| [Lawinen](https://open.spotify.com/track/6qk2G8FueSqKE4KWE3lnja) | [Jambus](https://open.spotify.com/artist/2QZXIiO5fcbdhq7JSaL8ma) | [Lawinen](https://open.spotify.com/album/4AvrV7yF78ejHsjKnLdLow) | 2:41 | 2026-11-27 |  |
 | [leben lang](https://open.spotify.com/track/7iSKTC8Bby6LbqVJXGfFly) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [leben lang](https://open.spotify.com/album/1nwf2uohywOMmuOTYv3fCs) | 2:42 | 2024-07-18 | 2024-08-16 |
 | [leere worte](https://open.spotify.com/track/4I1EzAKn3BZECQfwszQGrg) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK), [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [leere worte](https://open.spotify.com/album/6bbRgY24yo7JVP932em24f) | 3:12 | 2026-02-05 | 2026-03-13 |
 | [Leeres Zimmer](https://open.spotify.com/track/4D7x8tMTokiJ1uKI08xfC3) | [Jaq](https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV) | [Leeres Zimmer](https://open.spotify.com/album/1QHatVk9awZv8HhrR3uyCP) | 3:32 | 2025-11-06 | 2025-12-12 |
@@ -1497,7 +1498,7 @@
 | [rote ampeln](https://open.spotify.com/track/22HjXqGnKDZwsevlnsruJt) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [rote ampeln](https://open.spotify.com/album/44NjT6CFxO77HmbKZrs7VS) | 2:17 | 2025-08-28 | 2025-09-26 |
 | [Rote Flaggen](https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [ROTE FLAGGEN](https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa) | 3:44 | 2023-05-25 | 2023-11-24 |
 | [Rote Funken](https://open.spotify.com/track/0PkmwgqyKLlVm3bhGl4gMX) | [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Rote Funken](https://open.spotify.com/album/43FUHNpf9JiI5Fzig6hGZT) | 2:52 | 2026-07-31 | 2026-10-16 |
-| [rote gauloises](https://open.spotify.com/track/703SGxCdJ7N5O8WvMeVw1b) | [lönneberger](https://open.spotify.com/artist/1XVqVLT2sgaiJFThXBGPHc) | [rote gauloises](https://open.spotify.com/album/4bcu3MRbQ003865JYDBwTQ) | 2:14 | 2026-08-06 |  |
+| [rote gauloises](https://open.spotify.com/track/703SGxCdJ7N5O8WvMeVw1b) | [lönneberger](https://open.spotify.com/artist/1XVqVLT2sgaiJFThXBGPHc) | [rote gauloises](https://open.spotify.com/album/4bcu3MRbQ003865JYDBwTQ) | 2:14 | 2026-08-06 | 2026-11-28 |
 | [Rote Jacke](https://open.spotify.com/track/5rU4WlR8EPzV7PO2lcVppC) | [Bley](https://open.spotify.com/artist/0mqQIoe6iQzBPlzVtvJqXl) | [Rote Jacke](https://open.spotify.com/album/0Q4MEgXfUgB90AdtFGBaeJ) | 2:42 | 2024-05-23 | 2024-06-21 |
 | [Rote Pille, blaue Pille](https://open.spotify.com/track/2hnfsmf3vy0eYDOJF6OAt5) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS) | [Rote Pille, blaue Pille](https://open.spotify.com/album/4PNGcmEcEo3FTtUp6ss9GL) | 2:43 | 2023-05-11 | 2023-06-30 |
 | [Roter Faden](https://open.spotify.com/track/4o7GbCUuZuVaqsoWLgW8lk) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Roter Faden](https://open.spotify.com/album/5mNOzWnP54Xccnm4UDSpUe) | 3:18 | 2026-09-24 | 2026-10-09 |
@@ -1627,7 +1628,7 @@
 | [So high](https://open.spotify.com/track/41OWIoC6urTg3IVlZL1gSJ) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [So high](https://open.spotify.com/album/53w6K1XwvhUnivfFYPNci9) | 2:56 | 2025-06-19 | 2025-07-18 |
 | [so hot](https://open.spotify.com/track/3q0HaK23sp49dUr3eXEl4y) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [so hot](https://open.spotify.com/album/37cwIJOwGH8fukQQzq3ME6) | 3:01 | 2025-03-27 | 2025-04-18 |
 | [so k.o\. \(feat\. JEREMIAS\)](https://open.spotify.com/track/0B4gBXd4XLXGvaBl7pI2vL) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [so k.o\. \(feat\. JEREMIAS\)](https://open.spotify.com/album/4lEsfnmMIQKOn21J4PMwmc) | 3:34 | 2023-10-26 | 2024-02-23 |
-| [So kühl](https://open.spotify.com/track/18chZ85CvMAQP1cXTrNjvO) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [So kühl](https://open.spotify.com/album/4gqe8YWvQViubLoaJTkWem) | 2:51 | 2026-11-26 |  |
+| [so kühl](https://open.spotify.com/track/18chZ85CvMAQP1cXTrNjvO) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [so kühl](https://open.spotify.com/album/4gqe8YWvQViubLoaJTkWem) | 2:51 | 2026-11-26 |  |
 | [So lang gewartet](https://open.spotify.com/track/1EUV51UFVKj090bXZB3MQo) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [So lang gewartet](https://open.spotify.com/album/6psGGbFWYFEkE4e9H97KUo) | 2:48 | 2025-08-14 | 2025-09-26 |
 | [So leicht](https://open.spotify.com/track/0vYerVYaZpbilnp57EPra4) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm) | [So leicht](https://open.spotify.com/album/1D5TGD4lkOHfOrxVYlZG38) | 2:44 | 2024-09-12 | 2024-10-04 |
 | [so lonely](https://open.spotify.com/track/5yPX2sxEKFyslaZx872OCi) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3), [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [so lonely](https://open.spotify.com/album/5CTVZuW5raoKVOI8QCfH8X) | 1:48 | 2026-04-16 | 2026-06-26 |

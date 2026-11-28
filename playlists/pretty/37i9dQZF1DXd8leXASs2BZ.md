@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: AI jacky
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,046 likes - 113 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,048 likes - 113 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

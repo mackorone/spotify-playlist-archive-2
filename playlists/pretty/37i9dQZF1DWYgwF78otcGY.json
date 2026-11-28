@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det fest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29632,
+  "num_followers": 29634,
   "original_name": "Nu k\u00f6r vi!",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Run To The Hills",
-        "url": "https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0"
-      },
-      "artists": [
-        {
-          "name": "Klara Hammarstr\u00f6m",
-          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "Run To The Hills",
-      "url": "https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "N\u00e4r vindarna viskar mitt namn - Single",
         "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 184786,
       "name": "N\u00e4r vindarna viskar mitt namn",
       "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Run To The Hills",
+        "url": "https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Run To The Hills",
+      "url": "https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Fr\u00e5n nu till evighet",
-        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Evighet",
-      "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Where You Are (S\u00e1ve\u017ean)",
         "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 176960,
       "name": "Where You Are (S\u00e1ve\u017ean)",
       "url": "https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Fr\u00e5n nu till evighet",
+        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Evighet",
+      "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Ashes To Ashes",
-        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
-      },
-      "artists": [
-        {
-          "name": "Anna Bergendahl",
-          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
-        }
-      ],
-      "duration_ms": 180883,
-      "name": "Ashes To Ashes",
-      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "A State Of Mind",
         "url": "https://open.spotify.com/album/0XvSVC13iyxSoYuyExO3B0"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 174986,
       "name": "Baby Goodbye",
       "url": "https://open.spotify.com/track/4Vg4aicJ6wzbhdpDh1Nq8L"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Ashes To Ashes",
+        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
+      },
+      "artists": [
+        {
+          "name": "Anna Bergendahl",
+          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
+        }
+      ],
+      "duration_ms": 180883,
+      "name": "Ashes To Ashes",
+      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Lasse Holm",
-        "url": "https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ"
-      },
-      "artists": [
-        {
-          "name": "Lasse Holm",
-          "url": "https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI"
-        },
-        {
-          "name": "Monica Th\u00f6rnell",
-          "url": "https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA"
-        }
-      ],
-      "duration_ms": 169783,
-      "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
-      "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "90-talet",
         "url": "https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn"
       },
@@ -851,18 +831,38 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Pernilla Wahlgren",
-        "url": "https://open.spotify.com/album/24Sq0R88NvPwBOuOQdHKXI"
+        "name": "Lasse Holm",
+        "url": "https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ"
       },
       "artists": [
         {
-          "name": "Pernilla Wahlgren",
-          "url": "https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf"
+          "name": "Lasse Holm",
+          "url": "https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI"
+        },
+        {
+          "name": "Monica Th\u00f6rnell",
+          "url": "https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA"
         }
       ],
-      "duration_ms": 179026,
-      "name": "Picadilly Circus",
-      "url": "https://open.spotify.com/track/4prmEJ4F7lHcBeumKk2PhH"
+      "duration_ms": 169783,
+      "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
+      "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Never Let It Go",
+        "url": "https://open.spotify.com/album/7nbwgaAlzIqneeDFjoxxL4"
+      },
+      "artists": [
+        {
+          "name": "Afro-Dite",
+          "url": "https://open.spotify.com/artist/0oO1vycfLbA7I18jfy2eWe"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Never Let It Go",
+      "url": "https://open.spotify.com/track/28ihA2Fp5zRmcmi8hpfWiC"
     }
   ],
   "unique_name": "Nu k\u00f6r vi!",

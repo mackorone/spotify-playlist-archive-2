@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Rhineland, The Wild Wind, VICTORS and more",
+  "description": "With Rhineland, The Wild Wind, Laureline and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -3982,7 +3982,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 298666,
       "name": "Calling",
       "url": "https://open.spotify.com/track/6SJ0cNfpnl2kJLWlXnMbRb"
@@ -5940,7 +5940,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 244503,
       "name": "Do You Really",
       "url": "https://open.spotify.com/track/1UWHiGcPIyNjaq7UOPFz00"
@@ -7736,7 +7736,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 217996,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/5T8a0Zg9oceeIbkDD9mRDo"
@@ -8368,7 +8368,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 191791,
       "name": "Flood",
       "url": "https://open.spotify.com/track/2tBg5EICFT9Ff0DzxzzZ3s"
@@ -10393,6 +10393,24 @@
     },
     {
       "album": {
+        "name": "Hollywood Movie",
+        "url": "https://open.spotify.com/album/2lhLSLd4aLcL9RtlgBDYF4"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Station",
+          "url": "https://open.spotify.com/artist/3YzSTFCY3tfQSydfk0JfYE"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183071,
+      "name": "Hollywood Movie",
+      "url": "https://open.spotify.com/track/0VUfiuKTwtE3kEioXY38Os"
+    },
+    {
+      "album": {
         "name": "Wash",
         "url": "https://open.spotify.com/album/3X4oLQ5APFlwryQnOeNtYJ"
       },
@@ -11824,7 +11842,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 210909,
       "name": "I've Been Missing You",
       "url": "https://open.spotify.com/track/6vdWx67Wz7DdXQjjBGanjH"
@@ -13654,7 +13672,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 208361,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/3ecKm5X08LsZWhuVuLKHOw"
@@ -14400,7 +14418,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 163619,
       "name": "Love Is Complicated",
       "url": "https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid"
@@ -18224,7 +18242,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 211613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
@@ -21208,7 +21226,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 265506,
       "name": "Spectrum",
       "url": "https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR"
@@ -21626,7 +21644,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 207960,
       "name": "Still Thinking About You",
       "url": "https://open.spotify.com/track/1g4iJDDM1tBIE0cIVVkscX"
@@ -23030,7 +23048,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 240746,
       "name": "The Hotel",
       "url": "https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6"
@@ -23460,7 +23478,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 229685,
       "name": "Things I Can't Explain",
       "url": "https://open.spotify.com/track/4He5mRLW0X0FHC3kc5HlZH"
@@ -23568,7 +23586,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 236330,
       "name": "Thoughts in Progress",
       "url": "https://open.spotify.com/track/7DJwq1g845tYWMuZ0hzfiK"

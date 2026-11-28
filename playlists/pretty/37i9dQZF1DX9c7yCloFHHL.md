@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The newest in Ambient music and the sounds it explores beyond\. <br/>On the cover: ANNA Z
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,277 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,496 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 11 | [PianissimoPage42](https://open.spotify.com/track/1X2mOee89HslRZKZnZBorL) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [PianissimoPage42](https://open.spotify.com/album/58JxP87wWQIdIuLGO7JP7F) | 4:02 |
 | 12 | [Flight Of Time](https://open.spotify.com/track/0lVmV1JmLMeG2q5ZjI2qRl) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [Flight Of Time](https://open.spotify.com/album/0JZEG4WY9op0aGq9jB3YYK) | 3:41 |
 | 13 | [Time Becomes a Loop](https://open.spotify.com/track/0hLOu0bevGDe1Od3cg9J6T) | [Ava Rasti](https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY) | [Time Becomes a Loop](https://open.spotify.com/album/7Diq0aNhCG5VTcZDyIuX8F) | 4:58 |
-| 14 | [Cosmic Sandbox](https://open.spotify.com/track/2MYtYSnRYyxunzGOp9DH1T) | [Manizeh](https://open.spotify.com/artist/4udSFvhyIRhWvnxlROFvMj), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Cosmic Sandbox](https://open.spotify.com/album/3BXKz0j7eqcb5XCxvsBfJ0) | 9:26 |
+| 14 | [Cosmic Sandbox](https://open.spotify.com/track/2MYtYSnRYyxunzGOp9DH1T) | [Manizeh](https://open.spotify.com/artist/3MdYNcjDgZQJcrogm6XGQt), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Cosmic Sandbox](https://open.spotify.com/album/3BXKz0j7eqcb5XCxvsBfJ0) | 9:26 |
 | 15 | [The World at Half Volume](https://open.spotify.com/track/2B9luAYIwSgpoynOoI4FYR) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Where the Day Unfastens](https://open.spotify.com/album/7BOWUrTV7Q4NkFkH53J4el) | 3:12 |
 | 16 | [It Comes In Waves](https://open.spotify.com/track/4Zv4dIbWo8cbANdsbE0nPY) | [Patricia](https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0) | [It Comes in Waves](https://open.spotify.com/album/209dnN1rsKfWzqiNucSKae) | 6:10 |
 | 17 | [Nighthawks](https://open.spotify.com/track/0HsMZ0iCGid0Q1jWzfrA1K) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Nighthawks](https://open.spotify.com/album/40lgN4Ok4Lgee86Zu3rv0l) | 4:37 |

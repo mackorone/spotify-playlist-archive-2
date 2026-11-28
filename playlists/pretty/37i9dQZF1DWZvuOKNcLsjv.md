@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,005 likes - 58 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,003 likes - 58 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

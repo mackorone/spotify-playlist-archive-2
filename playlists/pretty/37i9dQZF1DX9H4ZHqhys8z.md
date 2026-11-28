@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Γιορτάζοντας 5 Χρόνια EQUAL\. Εξώφυλλο: Katerina
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,138 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,139 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 7 | [Vara Prosoxi](https://open.spotify.com/track/2ZmAhNXhdBACJtRfY9his1) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Vara Prosoxi](https://open.spotify.com/album/2KxU3aC2X3vBtnHLHQbmGH) | 2:41 |
 | 8 | [Thlivero Topio](https://open.spotify.com/track/7rmlvuyxZ3RlKrwWca3TPI) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Genous Thilikou \(Ta Tragoudia Tou Foivou\)](https://open.spotify.com/album/0tuDQR1Di8KLsSrowtDCNZ) | 3:55 |
 | 9 | [Tsepi](https://open.spotify.com/track/5igRZdA5NaQRB3sxBcLg0I) | [Giota Negka](https://open.spotify.com/artist/3no2tb4sxgM2xJPRa1ZVhQ), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA), [Eleana Vrachali](https://open.spotify.com/artist/0L7vGwIsynB86DhC2QQmzn) | [Taftotita](https://open.spotify.com/album/07xtQsaakG3K2XkNsC3Hzj) | 4:15 |
-| 10 | [Ta Grammata Ap' Ta Minimata Sou \(feat\. Kostas Livadas\)](https://open.spotify.com/track/25mvQjpahy0Q514toByJCJ) | [Andriana Babali](https://open.spotify.com/artist/0jctFutxWwbuucO1HRhNgk), [Kostas Livadas](https://open.spotify.com/artist/1SlJJwJtVLy0X1RjfDTmVm) | [Ta Grammata Ap' Ta Minimata Sou \(feat\. Kostas Livadas\)](https://open.spotify.com/album/2BXf9QtF7if7zUIRwZFUNb) | 3:40 |
+| 10 | [Ta Grammata Ap' Ta Minimata Sou](https://open.spotify.com/track/25mvQjpahy0Q514toByJCJ) | [Andriana Babali](https://open.spotify.com/artist/0jctFutxWwbuucO1HRhNgk), [Kostas Livadas](https://open.spotify.com/artist/1SlJJwJtVLy0X1RjfDTmVm) | [Ta Grammata Ap' Ta Minimata Sou](https://open.spotify.com/album/2BXf9QtF7if7zUIRwZFUNb) | 3:40 |
 | 11 | [Tis Nyxtes Mou Leipeis Pio Poly](https://open.spotify.com/track/69JXbZE0nCPqcH0fe9OMEi) | [Mando](https://open.spotify.com/artist/1OojDymajqO5mQAdUJ0HvV), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Tis Nyxtes Mou Leipeis Pio Poly](https://open.spotify.com/album/35dxPuxzftw1XgWxFGCGTh) | 4:33 |
 | 12 | [Teleutaia Monaxia](https://open.spotify.com/track/7EpyAskWNl38pbgMjPxgsS) | [Paola](https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF) | [Teleutaia Monaxia](https://open.spotify.com/album/0QTghhe4h081ybjWTexCvy) | 4:23 |
 | 13 | [Triantafyllaki'm kokkino](https://open.spotify.com/track/64fdFBzuJ7LxtMOeTPr1iq) | [Alkyone](https://open.spotify.com/artist/0tHJO69AKpp9qz6a0Tg6Rt) | [Triantafyllaki'm kokkino](https://open.spotify.com/album/458vAr3cXNzAvwvskzZzn6) | 3:27 |

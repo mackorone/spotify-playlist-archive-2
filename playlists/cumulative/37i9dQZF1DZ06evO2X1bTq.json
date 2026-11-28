@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 243899,
       "name": "One Life At A Time",
       "url": "https://open.spotify.com/track/6QFxGo36aDkbx8Um6pgF4P"
@@ -1642,6 +1642,24 @@
       "duration_ms": 305080,
       "name": "Sometimes You Can't Make It On Your Own",
       "url": "https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo"
+    },
+    {
+      "album": {
+        "name": "Carnaval De Luz (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2r0RZF6OMU1nxJTeI8rgjg"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278053,
+      "name": "Song For Hal",
+      "url": "https://open.spotify.com/track/0sZ4NVQkpvRFwMnH97yrDP"
     },
     {
       "album": {

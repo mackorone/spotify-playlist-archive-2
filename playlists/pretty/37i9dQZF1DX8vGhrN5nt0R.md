@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vGhrN5nt0R.md) - [plain]
 
 > Creditless Anime Openings / Endings of the 2020s\. Music videos only available on Premium\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 326 likes - 46 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 46 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

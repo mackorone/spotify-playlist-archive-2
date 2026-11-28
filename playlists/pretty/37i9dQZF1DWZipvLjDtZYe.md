@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！©Pokémon/Nintendo/CR/GF<br/>©CFM <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,215 likes - 73 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,232 likes - 73 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 | 9 | [ひゅ～どろどろ \(feat\. 初音ミク&MEIKO\)](https://open.spotify.com/track/1JQ4r5WyaSzOFGHR40RwPY) | [栗山夕璃](https://open.spotify.com/artist/529IDKZNOrCoMaR4xW0JlN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [MEIKO](https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp) | [ひゅ～どろどろ](https://open.spotify.com/album/0KNkcw5GOmlm8CP6DzSGjV) | 2:47 |
 | 10 | [ゴー！ビッパ団 \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1UPUfmcfWo2LfvFAC0Vv6X) | [Wonderful★opportunity!](https://open.spotify.com/artist/114kd9ePvOgHBUp18vMF4B), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ゴー！ビッパ団](https://open.spotify.com/album/4GKiWpgTnv0zhouwEecMC7) | 4:00 |
 | 11 | [俺ゴーストタイプ](https://open.spotify.com/track/6T5gwbUkJZI0q5CouEtuzb) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [俺ゴーストタイプ](https://open.spotify.com/album/1jySeX0MQPLamD6IhlLETY) | 2:42 |
-| 12 | [ボルテッカー \(Jewel Remix\)](https://open.spotify.com/track/50MC8e6i91EuIulgTxKZQO) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ボルテッカー \(Jewel Remix\)](https://open.spotify.com/album/4GYfoWHMAYZOCxbVxwQkG2) | 2:44 |
+| 12 | [ボルテッカー \(Jewel Remix\) \(feat\. 初音ミク\)](https://open.spotify.com/track/50MC8e6i91EuIulgTxKZQO) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ボルテッカー \(Jewel Remix\)](https://open.spotify.com/album/4GYfoWHMAYZOCxbVxwQkG2) | 2:44 |
 | 13 | [JUVENILE](https://open.spotify.com/track/44c0Lta1UEQ4gUDGjZaq9T) | [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [じん](https://open.spotify.com/artist/7eBDxrGrA7qOeDjn1HZept) | [JUVENILE](https://open.spotify.com/album/6yOptGxZiGjAYownFPeMV7) | 4:33 |
 | 14 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 |
 | 15 | [きみとそらをとぶ \(feat\. 初音ミク&巡音ルカ\)](https://open.spotify.com/track/5dySAFu6j5IrfIIQcekN47) | [傘村トータ](https://open.spotify.com/artist/5xvXrTBkQdY9CALtV1KXGD), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [きみとそらをとぶ](https://open.spotify.com/album/5iExtveqj1otLYflaFdHAe) | 4:44 |

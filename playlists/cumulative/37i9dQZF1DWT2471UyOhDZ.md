@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Dermot Henry
 
-563 songs - 1 day 12 hr 8 min
+564 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-02 | 2026-05-01 |
 | [Hog Calling Contest](https://open.spotify.com/track/2aDXjC0A2mnqslmeDdHIVH) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Hog Calling Contest](https://open.spotify.com/album/0plf2eqTDrtPJ2f9QeW7iH) | 3:20 | 2024-08-14 | 2024-11-10 |
 | [Hold](https://open.spotify.com/track/7y9jNvL0e0jTu0yr4OJ7Yd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Let All That We Imagine Be The Light](https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj) | 4:33 | 2025-07-18 | 2026-08-10 |
+| [Hole In My Heart](https://open.spotify.com/track/2bHjNfdVnjQVlL6Utnz2z8) | [Wyatt](https://open.spotify.com/artist/4SLgQO3VSUSc9prFr4OEmU) | [Hole In My Heart](https://open.spotify.com/album/3XBltEoNHM3cP2b6Ijlizw) | 4:16 | 2026-11-20 |  |
 | [Home](https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI) | 2:11 | 2025-07-18 |  |
 | [Home Depot](https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Home Depot](https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is) | 3:13 | 2026-07-23 |  |
 | [Honeycomb](https://open.spotify.com/track/0z8Z0sQiBgww2toWEf5A40) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Honeycomb](https://open.spotify.com/album/1bXymWHWPNubbjT9Pi2HBH) | 3:14 | 2025-03-21 | 2025-05-09 |
@@ -278,7 +279,7 @@
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-08-14 | 2025-10-24 |
 | [Kick Stones \(The Boys\)](https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Kick Stones \(The Boys\)](https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx) | 3:56 | 2026-06-12 |  |
 | [Kill Me](https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 4:41 | 2026-08-13 |  |
-| [Kneel](https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Dancing Shoes](https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt) | 3:44 | 2025-07-03 |  |
+| [Kneel](https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Dancing Shoes](https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt) | 3:44 | 2025-07-03 | 2026-11-28 |
 | [L/C](https://open.spotify.com/track/5qtalyIqYJ8m2PxoNFywMy) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [L/C](https://open.spotify.com/album/10mj7mGyCTMrbRgj0IE82i) | 4:13 | 2026-10-22 | 2026-11-27 |
 | [LA Runaway](https://open.spotify.com/track/3RHpo59t2CgyKlUGH2EXqX) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Night Life](https://open.spotify.com/album/3L09yca8KWKT7vNzVHKyQA) | 5:06 | 2025-03-21 | 2026-01-15 |
 | [Lab Rats Ran](https://open.spotify.com/track/6ZCZgKCOSHPBpHw9qZEhn3) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Apples For Isaac](https://open.spotify.com/album/4IA1762kaOZbdgvbIVCQw6) | 3:15 | 2026-09-25 | 2026-10-30 |

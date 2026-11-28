@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 52052,
+  "num_followers": 52057,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAABY0Nd5cyuboJ1ZBHlsWlY4",
+  "snapshot_id": "awd2gAAAAADOqVVOpH3yE5KtLp5DTdFk",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+        "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 564281,
+      "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+      "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Amor No Tiene Fin",
         "url": "https://open.spotify.com/album/21LTaaJ43ugEWxsaA7umtb"
       },
@@ -315,30 +339,6 @@
       "duration_ms": 252977,
       "name": "Salmo 34",
       "url": "https://open.spotify.com/track/6vdRyO5FAmRLECLdnznm3n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
-        "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
-      },
-      "artists": [
-        {
-          "name": "MISSION MUSICA",
-          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 564281,
-      "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
-      "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Nos Salvar\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/3ozR24cLOUrH4snwEt2mbN"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 363206,
-      "name": "Una Nueva Historia - En Vivo",
-      "url": "https://open.spotify.com/track/50XcGSPZ78F7XSxT76WOMH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seamos Luz",
         "url": "https://open.spotify.com/album/2vx7at7h5SV4Oqz8cLNQUm"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 388853,
       "name": "Milagros",
       "url": "https://open.spotify.com/track/6np3uZnAFzDKTLmenvVCgh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Nos Salvar\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3ozR24cLOUrH4snwEt2mbN"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 363206,
+      "name": "Una Nueva Historia - En Vivo",
+      "url": "https://open.spotify.com/track/50XcGSPZ78F7XSxT76WOMH"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
       "duration_ms": 359827,
       "name": "Cristo Te Amo",
       "url": "https://open.spotify.com/track/1zKH07T3xtfjGtTmhBrHhs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos Uno",
-        "url": "https://open.spotify.com/album/6OKeF4mXTQ5NWKYF5ORGLb"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 411453,
-      "name": "Eres Santo",
-      "url": "https://open.spotify.com/track/5iAwfqjibYBtfWFI5K8lmW"
     },
     {
       "added_at": null,
@@ -1015,6 +999,22 @@
       "duration_ms": 389946,
       "name": "La Nube De Tu Gloria (feat. Grupo Barak)",
       "url": "https://open.spotify.com/track/1NseCbBak84iCLgbcqEPWS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Uno",
+        "url": "https://open.spotify.com/album/6OKeF4mXTQ5NWKYF5ORGLb"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 411453,
+      "name": "Eres Santo",
+      "url": "https://open.spotify.com/track/5iAwfqjibYBtfWFI5K8lmW"
     },
     {
       "added_at": null,

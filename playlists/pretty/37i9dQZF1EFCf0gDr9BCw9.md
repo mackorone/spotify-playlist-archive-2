@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681 likes - 178 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 682 likes - 178 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 87 | [Tymperturbably Blue](https://open.spotify.com/track/7hjE25giigr2EMT4YORsIe) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Jazz Party](https://open.spotify.com/album/3in4NPGC2wwEBgqFnCDryo) | 4:23 |
 | 88 | [Triple Play \(Live\)](https://open.spotify.com/track/02aaXivxnoGEWTyWaJ0lzr) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [All that Jazz, Vol\. 126: Duke Ellington at Carnegie Hall, 27th December 1947 \(2020 Remaster\)](https://open.spotify.com/album/1fG8rMLlxPP6DxkqEpISs7) | 6:13 |
 | 89 | [Progressive Gavotte](https://open.spotify.com/track/3URrsgBM7nSEhbfPd9J3US) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 2:55 |
-| 90 | [Brown Betty](https://open.spotify.com/track/4iAhWLrolGmYuQgkvSW1sP) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:04 |
-| 91 | [All Day Long](https://open.spotify.com/track/2nyx0Wqw7utftbWjnJcdru) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [...And His Mother Called Him Bill](https://open.spotify.com/album/39ZPIDYNwj9B5x9eUpE2Ie) | 2:59 |
+| 90 | [All Day Long](https://open.spotify.com/track/2nyx0Wqw7utftbWjnJcdru) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [...And His Mother Called Him Bill](https://open.spotify.com/album/39ZPIDYNwj9B5x9eUpE2Ie) | 2:59 |
+| 91 | [Brown Betty](https://open.spotify.com/track/4iAhWLrolGmYuQgkvSW1sP) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:04 |
 | 92 | [Tigress](https://open.spotify.com/track/0GFz3zVfYlFgVNxmlf3LxT) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Afro Bossa](https://open.spotify.com/album/4rVb2K3F6BHB5aY7kg0021) | 3:04 |
 | 93 | [Kissing Bug](https://open.spotify.com/track/2FJljaSzWVJB66P0E11v8Z) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Ballads For Night People](https://open.spotify.com/album/2so70v2boeF065BbF6VcJD) | 2:43 |
 | 94 | [Lotus Blossom](https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 2:33 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 110 | [Valse](https://open.spotify.com/track/71BIOhurzguCa78klmstoH) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 |
 | 111 | [Fiddler on the Diddle](https://open.spotify.com/track/5uyPg6RKpcogkXhf9GqI51) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 3:11 |
 | 112 | [Jungle Kitty](https://open.spotify.com/track/4pW2Ji64uDyBX0HytEWJyd) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 2:58 |
-| 113 | [Orson](https://open.spotify.com/track/2oKMb55RKeEfMqUnL7sMsZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:52 |
-| 114 | [Still in Love](https://open.spotify.com/track/4w0kftdiMk4ho8iJw3qEXk) | [Anaïs Reno](https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK), [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Lovesome Thing](https://open.spotify.com/album/3qQ95ohKlbRI8ZbMhFKuFP) | 2:41 |
+| 113 | [Still in Love](https://open.spotify.com/track/4w0kftdiMk4ho8iJw3qEXk) | [Anaïs Reno](https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK), [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Lovesome Thing](https://open.spotify.com/album/3qQ95ohKlbRI8ZbMhFKuFP) | 2:41 |
+| 114 | [Orson](https://open.spotify.com/track/2oKMb55RKeEfMqUnL7sMsZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:52 |
 | 115 | [Mysterious Chick](https://open.spotify.com/track/5dVnnFvhmMNqfi3HWFOPDU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 3:13 |
 | 116 | [Intimacy of the Blues](https://open.spotify.com/track/2nzAThlkPFolmK9u9FOHzi) | [Dave Glasser](https://open.spotify.com/artist/4G9E2ztSafPvatE32vjk6v), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU), [Barry Harris](https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX) | [Uh! Oh!](https://open.spotify.com/album/3eAdsI63k3sLjANop2GSPt) | 6:06 |
 | 117 | [Barefoot Stomper](https://open.spotify.com/track/0stKOZV1Agri5NeptzXq18) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 2:50 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 177 | [Rhumbop](https://open.spotify.com/track/6ebY9lVt94BL4VWduLL0eq) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:29 |
 | 178 | [Up and Down, up and Down \(I Will Lead Them up and Down\)](https://open.spotify.com/track/2miKp3bcM2dEB9FmLOG9nT) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 2:52 |
 
-Snapshot ID: `AcivpAAAAADcGjcTqN9qOPLdLuRYvR0m`
+Snapshot ID: `Aci1RAAAAAA1k7ffBw4L2T+Iwrmb+WAJ`

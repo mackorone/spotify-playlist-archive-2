@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,917 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,962 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 26 | [Nee Jathaga](https://open.spotify.com/track/3e5HkIp1di0RUea9OEaAnU) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Yevadu](https://open.spotify.com/album/0ZwieTHIvMpScPTGCXCwzw) | 4:34 |
 | 27 | [Naalo Nenena](https://open.spotify.com/track/6tXShWP3IuWp6ky3h9q0hD) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [Baanam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RfmahLnpRGHH2Ib9kqXP0) | 5:50 |
 | 28 | [Uyyalo Uyyalo \(Female\)](https://open.spotify.com/track/0hA3jkijDBZePC5GaOMmL1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [The Paradise \(Telugu\)](https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9) | 3:42 |
-| 29 | [Na Cheli Rojave](https://open.spotify.com/track/2m6TJmIwvx1GNAPG2owG0b) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rajasri](https://open.spotify.com/artist/3G5cb8bwTVQFkCWJH8n4sN) | [Roja \(Telugu\)](https://open.spotify.com/album/700R0gU93Jal21rivBK7EA) | 4:56 |
-| 30 | [O My Friend](https://open.spotify.com/track/2dM6gB1xw3afy3iovxFcfk) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Happy Days](https://open.spotify.com/album/3zwlmA5XSHN0ovt9Y0Vkjk) | 5:02 |
+| 29 | [O My Friend](https://open.spotify.com/track/2dM6gB1xw3afy3iovxFcfk) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Happy Days](https://open.spotify.com/album/3zwlmA5XSHN0ovt9Y0Vkjk) | 5:02 |
+| 30 | [Na Cheli Rojave](https://open.spotify.com/track/2m6TJmIwvx1GNAPG2owG0b) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rajasri](https://open.spotify.com/artist/3G5cb8bwTVQFkCWJH8n4sN) | [Roja \(Telugu\)](https://open.spotify.com/album/700R0gU93Jal21rivBK7EA) | 4:56 |
 | 31 | [Nuvve Na Shwasa](https://open.spotify.com/track/2G9sZ9ut0REo1BecuQNDop) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Okariki Okaru](https://open.spotify.com/album/76e0gPp9N6NRTU3fQGGUEv) | 5:04 |
 | 32 | [O Cheli Thaara](https://open.spotify.com/track/6bPRGizJcgvsREfNI76hbm) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Sammohanam](https://open.spotify.com/album/3OUStgGMbZTFPGpzQDLST2) | 4:47 |
 | 33 | [Naalo Maimarapu](https://open.spotify.com/track/2J66O8gYIqJy3YffPMV1eU) | [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD) | [Oh Baby](https://open.spotify.com/album/57ZKIhcW8ADGBb4aaDn7Fl) | 3:48 |

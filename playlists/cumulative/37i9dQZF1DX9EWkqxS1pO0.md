@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: zei
 
-483 songs - 1 day 0 hr 50 min
+484 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [DENEDİM](https://open.spotify.com/track/3tU7TL9iW0U8MfBD3IyuCa) | [Turgut Çıngı](https://open.spotify.com/artist/35YhU76tb48fqmNxu2dZ1W) | [DENEDİM](https://open.spotify.com/album/6i8NNzjPrEXAHcBpeZ0KvB) | 3:09 | 2024-11-28 | 2025-02-09 |
 | [Denerim](https://open.spotify.com/track/2SSA0UN1VcHakUXH4JPqzS) | [KAOL](https://open.spotify.com/artist/1boFLjOE17z2zp7BtHLB3v) | [Denerim](https://open.spotify.com/album/2rTW4ASwjLM8D17NcbrcYH) | 4:42 | 2025-05-29 |  |
 | [Denge](https://open.spotify.com/track/3CqV6CvOlsOd4Cs8EKyKgt) | [Ezgi Alaş](https://open.spotify.com/artist/3MPYl70VF5QlFVTOTRC9PZ) | [Denge](https://open.spotify.com/album/7osWDA40E72p6fvSrQZUdB) | 3:01 | 2026-03-27 | 2026-04-11 |
+| [Derine](https://open.spotify.com/track/7G2WXWqRBDptlJYanzsuji) | [Ozan Buğra Kaya](https://open.spotify.com/artist/2ojjkWS7CBgLd9UIHdjG1l) | [Derine](https://open.spotify.com/album/2EVdKSfIVS01PeaDKixYsO) | 2:51 | 2026-11-24 |  |
 | [Dikenli Diller](https://open.spotify.com/track/0JwRs88fqOrZiuuhWM6tBG) | [Tesadüfen Karşılaştık](https://open.spotify.com/artist/1Fm0unHNngf7VWVc0yR0H6) | [Dikenli Diller](https://open.spotify.com/album/7bMds6kPZ63g9emOEpEcTu) | 3:40 | 2026-09-15 | 2026-10-26 |
 | [Dilek](https://open.spotify.com/track/6qFCqCsgyHTquQGCkthy0Q) | [Tutku Tarçın](https://open.spotify.com/artist/0bScMiM2EDnMKYMhkS2zBW) | [Dilek](https://open.spotify.com/album/7egQJBrpZY1eSGuI3YVFTO) | 2:52 | 2026-10-06 | 2026-11-18 |
 | [Dilemma](https://open.spotify.com/track/13FS4vkbfSGZOBcXkGBdVx) | [MA RA](https://open.spotify.com/artist/768QxHapruFsSAhTeWlrlw) | [Dilemma](https://open.spotify.com/album/7aUESfoPjoABUQfSNrQBiw) | 2:21 | 2026-11-17 |  |
@@ -328,7 +329,7 @@
 | [Sen Ol](https://open.spotify.com/track/3jfK4hieQJyLEnQkpTcEjf) | [Ekin Kurt](https://open.spotify.com/artist/0iM3AuF59TOPyxJkpl3MiM), [Julia Jarabanda](https://open.spotify.com/artist/6hHrXYqMiRMiOQ0hTeFaTz) | [Sen Ol](https://open.spotify.com/album/72FRlkbaouw3dYnCuUHwg2) | 3:12 | 2025-08-28 | 2025-09-05 |
 | [sendin izlerim](https://open.spotify.com/track/4bQtBQfboIxsdKwLP7Do8s) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa), [Cotard](https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8) | [mani](https://open.spotify.com/album/39HaoKUrwGZnMpxgiqPvpH) | 2:35 | 2024-06-20 | 2024-09-06 |
 | [Seni Sevmek Kaldı](https://open.spotify.com/track/5BEqptwkS8PnvKY6s5hqJF) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [Seni Sevmek Kaldı](https://open.spotify.com/album/4QsAQhdmqreEcmJ7tJ2BDK) | 3:02 | 2024-08-15 | 2024-10-24 |
-| [Seni Unutamadım](https://open.spotify.com/track/2TSihn4foVahsS8Uau6876) | [Piiz](https://open.spotify.com/artist/3K2LeXoWGM9YnbtrRj4WS3) | [Seni Unutamadım](https://open.spotify.com/album/4JHiqViEOv2I69jxRxlypN) | 3:32 | 2024-09-27 |  |
+| [Seni Unutamadım](https://open.spotify.com/track/2TSihn4foVahsS8Uau6876) | [Piiz](https://open.spotify.com/artist/3K2LeXoWGM9YnbtrRj4WS3) | [Seni Unutamadım](https://open.spotify.com/album/4JHiqViEOv2I69jxRxlypN) | 3:32 | 2024-09-27 | 2026-11-28 |
 | [senin bi' hikayen yok](https://open.spotify.com/track/4kPnDITlHE8oA8H8vMe3Aa) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [senin bi' hikayen yok](https://open.spotify.com/album/5AAcBxqQRiKja1wBDHUlfq) | 2:24 | 2024-10-03 | 2024-12-07 |
 | [Senin Olsun](https://open.spotify.com/track/6IRuWQvn6p0ite4H4s7J2n) | [Ceylin Arslan](https://open.spotify.com/artist/1WQSj0aNrCPWRw7zf1PYcw) | [Senin Olsun](https://open.spotify.com/album/25erIZ2spmY3cH5TgwMJUp) | 2:18 | 2025-11-06 | 2026-11-25 |
 | [Senin Yüzünden](https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Senin Yüzünden](https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1) | 2:56 | 2024-06-20 | 2026-11-08 |

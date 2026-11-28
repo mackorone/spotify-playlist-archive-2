@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Sido, Aya Nakamura, Pronto, RnBoi, Jain, felix jaehn & many more!
 
-25,224 songs - 52 day 2 hr 28 min
+25,227 songs - 52 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2425,7 +2425,7 @@
 | [Bentayga](https://open.spotify.com/track/3edw7WU4699exxjr3S8WEB) | [Nite06](https://open.spotify.com/artist/3zq3LvvPt7Mh8EnfWQ7Zi5) | [Bentayga](https://open.spotify.com/album/7KDaMomsdTTjruuy01vvtZ) | 2:21 | 2026-07-02 | 2026-07-10 |
 | [Bentley \(feat\. Simba La Rue, J Lord\)](https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 1:59 | 2023-10-12 | 2023-10-20 |
 | [Bentley in weiss](https://open.spotify.com/track/5X0ANp8KSvFqM59xAvhIpk) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Bentley in weiss](https://open.spotify.com/album/23nxZH1hG0Kn80hNA1Rcd9) | 2:14 | 2023-05-11 | 2023-05-19 |
-| [BENTLEYJEEP](https://open.spotify.com/track/3dKArVojPMShJuNoviS02G) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [LONDON DRY 2 EP](https://open.spotify.com/album/26s6mZdV8swqIL4z2WxJf5) | 2:31 | 2026-11-27 |  |
+| [BENTLEYJEEPS](https://open.spotify.com/track/3dKArVojPMShJuNoviS02G) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [LONDON DRY 2](https://open.spotify.com/album/26s6mZdV8swqIL4z2WxJf5) | 2:31 | 2026-11-27 |  |
 | [Benz](https://open.spotify.com/track/2myW2Gi0RmNBQ1nEUmgzDL) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Benz](https://open.spotify.com/album/0NTquXrtnzUP8poB33iDsh) | 2:36 | 2025-10-09 | 2025-10-17 |
 | [Benz](https://open.spotify.com/track/5Fs6Vjs2h8HlQWKgOENWes) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Benz](https://open.spotify.com/album/52fbcfvgainVZDsJbDwjzb) | 3:05 | 2025-05-01 | 2025-05-09 |
 | [BENZ](https://open.spotify.com/track/1oOOleyvb2P3JRY5Pg00x9) | [Tieums](https://open.spotify.com/artist/09LApfSn8eH7xMWcpVV6c5) | [VISION](https://open.spotify.com/album/2tFMFAplcUy5q52CyP1Smc) | 2:56 | 2024-12-19 | 2025-01-03 |
@@ -6433,6 +6433,7 @@
 | [Ego](https://open.spotify.com/track/6Veq163ZF7hLuBPJAurdlH) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4), [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [Ego](https://open.spotify.com/album/1uTtsysm6UG7RcyW5NtKgW) | 3:35 | 2024-03-14 | 2024-03-22 |
 | [Ego](https://open.spotify.com/track/76W3rxKoImvJAFC8h1RTJB) | [Dives](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Ego](https://open.spotify.com/album/1m2vCmA3Y6Cn2sFz6RS162) | 2:53 | 2022-05-19 | 2022-05-27 |
 | [ego](https://open.spotify.com/track/3P6OM3banpZj231sFOt9JF) | [EMELIA](https://open.spotify.com/artist/0uYu9QLcueuZeyLsDsXXMn) | [ego](https://open.spotify.com/album/1bda3fchsX1HQXQNTZDrta) | 2:25 | 2025-03-27 | 2025-04-04 |
+| [EGO](https://open.spotify.com/track/3keBgr45QvhzRL7gqqMIUQ) | [Gigi Malua](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [EGO](https://open.spotify.com/album/6RNY9IkrHB2ThCyJeXvzKJ) | 2:24 | 2026-11-27 |  |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-05 | 2024-09-13 |
 | [Ego](https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Ego](https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf) | 2:52 | 2023-04-13 | 2023-04-21 |
 | [Ego](https://open.spotify.com/track/7eDmnuJY1U8HqvZuA5PRlf) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Geb dir alles, stimmt so](https://open.spotify.com/album/50CL8CSrwQQghQSrkNRU1S) | 2:28 | 2025-06-05 | 2025-06-13 |
@@ -23376,6 +23377,7 @@
 | [Walk](https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Walk](https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM) | 2:56 | 2026-02-27 | 2026-03-06 |
 | [Walk \(feat\. Kwabs\)](https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Walk \(feat\. Kwabs\)](https://open.spotify.com/album/4sdOjJNd4xXgRQ3tOeWWEN) | 2:19 | 2025-09-25 | 2025-10-03 |
 | [Walk Alone](https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Walk Alone](https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz) | 2:49 | 2025-08-29 | 2025-09-05 |
+| [Walk Away](https://open.spotify.com/track/18uGxCebOxi4zSt4bG6v1Y) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Walk Away](https://open.spotify.com/album/0QIKsk2wwbBigkyCFkFxBV) | 2:53 | 2026-11-27 |  |
 | [Walk Away](https://open.spotify.com/track/1LZOh9k6qtQ4nUyZvDuVA1) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [2025](https://open.spotify.com/album/6rhlQi13LyDs5JzrZShE0C) | 2:46 | 2025-12-04 | 2025-12-12 |
 | [Walk in My Shoes](https://open.spotify.com/track/1Ri6xap06hHj87TkvkE2Wv) | [Callon](https://open.spotify.com/artist/73afBsrDXvflTAOhuYujsQ) | [Walk in My Shoes](https://open.spotify.com/album/3ezUc2ysiFceeOZ5EpIZBJ) | 2:24 | 2024-05-16 | 2024-05-24 |
 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 | 2024-03-07 | 2024-03-15 |
@@ -24160,6 +24162,7 @@
 | [Where The Heartbreak Goes](https://open.spotify.com/track/4xhq5Esge0BZukqweXFSiV) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Where The Heartbreak Goes](https://open.spotify.com/album/4jN6rU7CxXZTVn28tLrjLH) | 2:41 | 2025-12-04 | 2025-12-12 |
 | [WHERE THE HELL HAVE YOU BEEN?](https://open.spotify.com/track/55igdPzQKZdJtKu2yPemg0) | [Caroline Alves](https://open.spotify.com/artist/6H54MC0LiueYOlL3lKLb4r) | [WHERE THE HELL HAVE YOU BEEN?](https://open.spotify.com/album/24QrUotDYkaFIoXsN6JSUM) | 3:24 | 2024-05-23 | 2024-06-01 |
 | [Where the Love Is](https://open.spotify.com/track/2px8KFjWAgVfwz45N39MZ2) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Where the Love Is](https://open.spotify.com/album/2BYddWobRY0mNWGcOg238t) | 2:29 | 2022-03-10 | 2022-03-18 |
+| [Where There's A Will](https://open.spotify.com/track/2wiqk6v8eR8P0bTNTprgvY) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues, Loose Lips](https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3) | 4:48 | 2026-11-27 |  |
 | [Where To Start](https://open.spotify.com/track/260EW8FU6e45oZ6sylXrfS) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Where To Start](https://open.spotify.com/album/55wb82Be19wprPto18OIX6) | 3:34 | 2025-06-19 | 2025-06-27 |
 | [WHERE U ARE](https://open.spotify.com/track/0aztQxrrQdiD57rkYPcksn) | [ARRIE](https://open.spotify.com/artist/37D1KGtq2dx0DEzDJZjJ6A) | [WHERE U ARE](https://open.spotify.com/album/0YiaExdPkAlxnNxNo4guDY) | 2:17 | 2025-12-18 | 2026-01-15 |
 | [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 | 2026-04-10 | 2026-04-17 |

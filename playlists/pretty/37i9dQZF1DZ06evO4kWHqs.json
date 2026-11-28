@@ -1,37 +1,13 @@
 {
   "description": "This is SadBoi. The essential tracks, all in one playlist.",
-  "num_followers": 460,
+  "num_followers": 461,
   "original_name": "This Is SadBoi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAACxeLxxnIAEaoGLlplhvA/0",
+  "snapshot_id": "awd2gAAAAADnnk75rHsvt7u62QIiDkzQ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/3o3lb4NBhaBrDLf0rLWCZR"
-      },
-      "artists": [
-        {
-          "name": "Yogi",
-          "url": "https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "NENE",
-          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
-        }
-      ],
-      "duration_ms": 112663,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/4So79a72CTrd0RRK0DSJCV"
-    },
     {
       "added_at": null,
       "album": {
@@ -75,6 +51,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/3o3lb4NBhaBrDLf0rLWCZR"
+      },
+      "artists": [
+        {
+          "name": "Yogi",
+          "url": "https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        }
+      ],
+      "duration_ms": 112663,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/4So79a72CTrd0RRK0DSJCV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strictly 4 The Scythe",
         "url": "https://open.spotify.com/album/3Ge6S7DSl3XH69XR3Cg6T6"
       },
@@ -99,26 +99,6 @@
       "duration_ms": 246903,
       "name": "UP [Feat. Rich The Kid, A$AP Ferg & SadBoi]",
       "url": "https://open.spotify.com/track/4hmWsHD1oTyMph2ftkFsoH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Time (feat. SadBoi)",
-        "url": "https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe"
-      },
-      "artists": [
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "No Time (feat. SadBoi)",
-      "url": "https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC"
     },
     {
       "added_at": null,
@@ -151,6 +131,26 @@
       "duration_ms": 168736,
       "name": "Wifey Riddim (feat. Jorja Smith & SadBoi) - George Daniel Remix",
       "url": "https://open.spotify.com/track/6aG0JW87HgZcYF7XZDBb6w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Time (feat. SadBoi)",
+        "url": "https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "No Time (feat. SadBoi)",
+      "url": "https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC"
     },
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/5prR8SvevjhGMlFlKliVlR"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 118309,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/1ls7ozfIGPp9Y8ItqzhO9U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gilberto's Son",
         "url": "https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 136847,
       "name": "Scars",
       "url": "https://open.spotify.com/track/3HnXO5psqLAfH6wrwl248f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/5prR8SvevjhGMlFlKliVlR"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 118309,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/1ls7ozfIGPp9Y8ItqzhO9U"
     },
     {
       "added_at": null,
@@ -644,13 +644,13 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         },
         {
-          "name": "DJ SAZE",
-          "url": "https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         }
       ],
-      "duration_ms": 110769,
-      "name": "rosa",
-      "url": "https://open.spotify.com/track/1j8xdNqCaZ02QO14dS8Y1D"
+      "duration_ms": 169208,
+      "name": "cunty (feat. Duquesa)",
+      "url": "https://open.spotify.com/track/4VZXiqqOV4fNg4IS2SecgL"
     },
     {
       "added_at": null,
@@ -712,13 +712,13 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         },
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "DJ SAZE",
+          "url": "https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot"
         }
       ],
-      "duration_ms": 169208,
-      "name": "cunty (feat. Duquesa)",
-      "url": "https://open.spotify.com/track/4VZXiqqOV4fNg4IS2SecgL"
+      "duration_ms": 110769,
+      "name": "rosa",
+      "url": "https://open.spotify.com/track/1j8xdNqCaZ02QO14dS8Y1D"
     },
     {
       "added_at": null,
@@ -732,25 +732,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 100000,
-      "name": "Bathroom Sink",
-      "url": "https://open.spotify.com/track/7kIIuZp49vKZksGqsLfFLp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "were all the ig girls worth it?",
-        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 125397,
-      "name": "blaming me",
-      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
+      "duration_ms": 162062,
+      "name": "Money Talk",
+      "url": "https://open.spotify.com/track/09OAr6V0fktrtjn33mZJFx"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 146548,
       "name": "U Dun Kno",
       "url": "https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "were all the ig girls worth it?",
+        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 125397,
+      "name": "blaming me",
+      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 162062,
-      "name": "Money Talk",
-      "url": "https://open.spotify.com/track/09OAr6V0fktrtjn33mZJFx"
+      "duration_ms": 100000,
+      "name": "Bathroom Sink",
+      "url": "https://open.spotify.com/track/7kIIuZp49vKZksGqsLfFLp"
     },
     {
       "added_at": null,
@@ -959,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sister Wives",
-        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
+        "name": "DRY CRY",
+        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 198842,
-      "name": "Sister Wives",
-      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
+      "duration_ms": 149333,
+      "name": "nana",
+      "url": "https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj"
     }
   ],
   "unique_name": "This Is SadBoi",

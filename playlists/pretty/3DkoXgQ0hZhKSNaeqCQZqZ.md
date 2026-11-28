@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,277 likes - 441 songs - 22 hr 39 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,279 likes - 441 songs - 22 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [RUDOLPH REINDEER BOY](https://open.spotify.com/track/77UiDteFZF5JDw5ZdSMiMZ) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RUDOLPH REINDEER BOY](https://open.spotify.com/album/17U7c7NQ4sQNYYCevBywkI) | 2:20 |
-| 2 | [\#puppycore](https://open.spotify.com/track/6B3Y9HIoDRAjetGqU5e0IO) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [sighthound](https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO) | 1:54 |
-| 3 | [how much i really care](https://open.spotify.com/track/30mLAouFYtE0hAH8lXApAg) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [sighthound](https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO) | 2:43 |
-| 4 | [tell u sum](https://open.spotify.com/track/2krkj5Wali172QzLcM8x1z) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [sighthound](https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO) | 2:03 |
-| 5 | [Frequency](https://open.spotify.com/track/0SHOCzd91grkQuEFZzLWmd) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Thousand Knives](https://open.spotify.com/album/4EBXOsHhpItBXEX6mHGgP4) | 2:35 |
-| 6 | [AWOO](https://open.spotify.com/track/13iiAgKF6nW3IGH0HlhCE2) | [Fur:Trash](https://open.spotify.com/artist/1jp7cmyHDn5nuP3MMSwm1m), [RavePuppy](https://open.spotify.com/artist/6cPAGYmKP81QfU9CLPRHWJ) | [SCHOOLYARD UNDERDOG](https://open.spotify.com/album/2mkocqj5zNy1BWQ2hm0JPA) | 4:05 |
+| 2 | [AWOO](https://open.spotify.com/track/13iiAgKF6nW3IGH0HlhCE2) | [Fur:Trash](https://open.spotify.com/artist/1jp7cmyHDn5nuP3MMSwm1m), [RavePuppy](https://open.spotify.com/artist/6cPAGYmKP81QfU9CLPRHWJ) | [SCHOOLYARD UNDERDOG](https://open.spotify.com/album/2mkocqj5zNy1BWQ2hm0JPA) | 4:05 |
+| 3 | [\#puppycore](https://open.spotify.com/track/6B3Y9HIoDRAjetGqU5e0IO) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [sighthound](https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO) | 1:54 |
+| 4 | [how much i really care](https://open.spotify.com/track/30mLAouFYtE0hAH8lXApAg) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [sighthound](https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO) | 2:43 |
+| 5 | [tell u sum](https://open.spotify.com/track/2krkj5Wali172QzLcM8x1z) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [sighthound](https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO) | 2:03 |
+| 6 | [Frequency](https://open.spotify.com/track/0SHOCzd91grkQuEFZzLWmd) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Thousand Knives](https://open.spotify.com/album/4EBXOsHhpItBXEX6mHGgP4) | 2:35 |
 | 7 | [Eat San Diego](https://open.spotify.com/track/3pOA5EAQyDjn38bAIAxg6U) | [Deathbed Parthenon](https://open.spotify.com/artist/3VLmRE795i59vG0mjDXN3I) | [Lilac Shitty / Eat San Diego](https://open.spotify.com/album/3IwJCN5KR4NLjteGIfQxUt) | 3:24 |
 | 8 | [Picture Day](https://open.spotify.com/track/5yfcSmeUqKwDbEoCdQI4tU) | [The Fencesitters](https://open.spotify.com/artist/0gI9RERWedVfOj0IDIce9G) | [Picture Day](https://open.spotify.com/album/0PfPzhKKQxQnfPXPuWURyz) | 4:40 |
 | 9 | [abaddon](https://open.spotify.com/track/6J84RJG0wHi2QVfX2fVYLf) | [lillybug](https://open.spotify.com/artist/4E2TcTjE4vNGZ8eNtMzQ7U) | [abaddon](https://open.spotify.com/album/3cdzx5kK1c6Sbi4q5Nu5JC) | 4:11 |
@@ -450,4 +450,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 440 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 441 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAGU1lWgoGO8TPhQ94UyxwKVdAhoM0s`
+Snapshot ID: `AAAGVH7NL3vIlAvzypssCJ19oZ5EZhek`

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-447 songs - 1 day 0 hr 22 min
+448 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Blue Filter](https://open.spotify.com/track/7nL0EvBm9jMo1CqMRuSTth) | [Delia Derbyshire Appreciation Society](https://open.spotify.com/artist/7tftZY77A5wi6W5wngbBxu) | [Blue Filter](https://open.spotify.com/album/4LYOHA2LHBYfYxIvxpM65U) | 4:52 | 2021-01-15 | 2021-03-06 |
 | [blur](https://open.spotify.com/track/5VjJPdMBnKOJ1do6OJMUmC) | [austice](https://open.spotify.com/artist/1iZ4k3yVszfq6m6vw1AQ5L) | [blur](https://open.spotify.com/album/3Ou0H8ykbrjo124XgqyJab) | 2:26 | 2026-02-12 |  |
 | [Bordeaux Moon](https://open.spotify.com/track/09JbJj21UNrdtkj9G3j625) | [Julie G.](https://open.spotify.com/artist/1VG91IxmTFXz0RCvxb0K4t) | [Bordeaux Moon](https://open.spotify.com/album/2UYphakqsLg8j9EBBpLSNd) | 2:56 | 2022-05-19 | 2026-10-13 |
-| [Break Of Light](https://open.spotify.com/track/0My0Vrhhhj2sSBUSYD4ueD) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Break Of Light](https://open.spotify.com/album/72vxY2rFJ8retG2PxG49EF) | 1:57 | 2025-10-01 |  |
+| [Break Of Light](https://open.spotify.com/track/0My0Vrhhhj2sSBUSYD4ueD) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Break Of Light](https://open.spotify.com/album/72vxY2rFJ8retG2PxG49EF) | 1:57 | 2025-10-01 | 2026-11-28 |
 | [Breakthrough](https://open.spotify.com/track/1JF7MGHMuarWty6Yjbyfhr) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Breakthrough](https://open.spotify.com/album/3s6qRbBjaaX7hUVJ0Wnpay) | 2:41 | 2024-04-29 | 2026-11-23 |
 | [Breathing Space](https://open.spotify.com/track/1jSZD1nuMd0N1UBDwXzj1r) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Breathing Space](https://open.spotify.com/album/4vNAJb2kHQGi8hpYHhAvmG) | 2:33 | 2022-09-30 | 2025-01-15 |
 | [Bridges](https://open.spotify.com/track/5GiEgcvmqbD1WgHzICDvOb) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [Bridges](https://open.spotify.com/album/1iMu7CCrDIfXnQggRXNLq9) | 3:41 | 2021-01-15 | 2021-03-18 |
@@ -86,6 +86,7 @@
 | [Brooding](https://open.spotify.com/track/0oCRt1aONzpz97nMTSCvTe) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Brooding](https://open.spotify.com/album/6swTHBD1IWDd3yKUSbfIXL) | 2:28 | 2021-09-17 | 2025-07-16 |
 | [Butterfly Waltz](https://open.spotify.com/track/3IJrQE24xD4buW3KCQ6ChA) | [Facing the Void](https://open.spotify.com/artist/0IcjbbwIRynJJg25UP2nzt) | [Butterfly Waltz](https://open.spotify.com/album/1Hlur9p4ZS1xkkpooBOgIs) | 2:54 | 2020-12-08\* | 2021-05-27 |
 | [Calm Essence](https://open.spotify.com/track/21I5P7i7NOb6qoUTwttb2E) | [Dreamweavers](https://open.spotify.com/artist/7oX6DZ1QAvDb4TbSFPYq3I) | [Calm Essence](https://open.spotify.com/album/485ZOj1OlOoF7DhlZ6AXj2) | 3:15 | 2024-09-19 |  |
+| [can't remember how to feel](https://open.spotify.com/track/463JUhIlhqIgwPoRTv7Wpy) | [vvrld](https://open.spotify.com/artist/5jPixNS9GwHDZsSICckoWo) | [can't remember how to feel](https://open.spotify.com/album/7eAOIScBGLF6S7SdPRHytL) | 2:19 | 2026-10-05 |  |
 | [can't sleep](https://open.spotify.com/track/51h8OOwcmfbgkfU8SjcaV7) | [Nova Dust](https://open.spotify.com/artist/5UyiEIfJDSqqBP0lRVQUVI) | [can't sleep](https://open.spotify.com/album/5EQnwpuO2ayCxiNGefURQ1) | 2:12 | 2025-07-15 |  |
 | [capitulate](https://open.spotify.com/track/4FgTPvpdO2vrnymIZ5Nm00) | [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7), [Monoquartz](https://open.spotify.com/artist/0d0YxnQSNc7NKKB9fjVslv) | [capitulate](https://open.spotify.com/album/5045wUxQoUth1sf1R1TgcP) | 1:28 | 2026-02-12 |  |
 | [Carmel](https://open.spotify.com/track/5N8JUiG7xDh6Qj2bhySXaC) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Carmel](https://open.spotify.com/album/4pQvnenO5YrnuEp1qd24rZ) | 3:48 | 2021-01-15 | 2021-05-27 |

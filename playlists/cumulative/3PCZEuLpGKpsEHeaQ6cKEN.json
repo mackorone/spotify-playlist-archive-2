@@ -20079,6 +20079,24 @@
     },
     {
       "album": {
+        "name": "La Vida Loca",
+        "url": "https://open.spotify.com/album/34BnPUSzGUfS4eNmvyzDGb"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "La Vida Loca",
+      "url": "https://open.spotify.com/track/4ygwPl8XkKgdcU330rowBf"
+    },
+    {
+      "album": {
         "name": "Ladadi",
         "url": "https://open.spotify.com/album/3oh3mzkLzBP0xB0c8rTHIo"
       },

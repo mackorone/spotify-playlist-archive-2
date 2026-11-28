@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Zo\u00eb M\u00eb",
-  "num_followers": 37532,
+  "num_followers": 37533,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Da wo du bist",
-        "url": "https://open.spotify.com/album/5BXLMtP5k0YBggmXdAaZry"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtB\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 187710,
-      "name": "Da wo du bist",
-      "url": "https://open.spotify.com/track/3SfNIecskTH5GPWDjJjg9R"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 214404,
       "name": "Fcuk!",
       "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
+        "name": "Da wo du bist",
+        "url": "https://open.spotify.com/album/5BXLMtP5k0YBggmXdAaZry"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtB\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 187710,
+      "name": "Da wo du bist",
+      "url": "https://open.spotify.com/track/3SfNIecskTH5GPWDjJjg9R"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "Running Love",
         "url": "https://open.spotify.com/album/73CrWbbOIg8KTZ4qEcKzhc"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 173864,
       "name": "Rather Be Wrong",
       "url": "https://open.spotify.com/track/0D4X0kEAAutSOL7lnKT09r"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/31PPWVoWDehQCDwiJJ2cwc"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 160279,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4tfe4xSUv04RfK1M6gpdHG"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "Backyard By The River",
         "url": "https://open.spotify.com/album/7kdKVcRUFsPY4AagcozeXt"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 169500,
       "name": "River",
       "url": "https://open.spotify.com/track/4rhnAszHuZWU0237E7cdlI"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/31PPWVoWDehQCDwiJJ2cwc"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 160279,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4tfe4xSUv04RfK1M6gpdHG"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/7nK6vEIK0sdUSuEA2iD57w"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 166782,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2ovqDAWhl1pa6uWyWi1Ibi"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/63obpfI1ml9lYY0MxFyvXI"
       },
@@ -531,18 +515,34 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "WHERE\u2019S THE FUN?",
-        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/7nK6vEIK0sdUSuEA2iD57w"
       },
       "artists": [
         {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 205794,
-      "name": "WHERE\u2019S THE FUN?",
-      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
+      "duration_ms": 166782,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2ovqDAWhl1pa6uWyWi1Ibi"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
+        "name": "BORN BLUE (THE SONG)",
+        "url": "https://open.spotify.com/album/7J3K7vYvEDFCQbhpCXdECr"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "BORN BLUE (THE SONG)",
+      "url": "https://open.spotify.com/track/4UWtyESSkgFuLL7JU6YsdX"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -563,18 +563,18 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "BORN BLUE (THE SONG)",
-        "url": "https://open.spotify.com/album/7J3K7vYvEDFCQbhpCXdECr"
+        "name": "WHERE\u2019S THE FUN?",
+        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
       },
       "artists": [
         {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 210000,
-      "name": "BORN BLUE (THE SONG)",
-      "url": "https://open.spotify.com/track/4UWtyESSkgFuLL7JU6YsdX"
+      "duration_ms": 205794,
+      "name": "WHERE\u2019S THE FUN?",
+      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "Let Myself Go",
-      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "WITHDRAWAL SYMPTOMS",
         "url": "https://open.spotify.com/album/5NNr9nRArk1NzuD8drNsiE"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 219718,
       "name": "\u2601\ufe0e purple orange sky \u2601\ufe0e",
       "url": "https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Let Myself Go",
+      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 164851,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "Darling You\u2019re The Worst",
         "url": "https://open.spotify.com/album/3uKIoyw5PjZhtRSzFW4D53"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 192360,
       "name": "Darling You\u2019re The Worst",
       "url": "https://open.spotify.com/track/1oGQ9YBiav74Q9MjjOTwi8"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Down To My Bones",
-        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Down To My Bones",
-      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "backbone",
         "url": "https://open.spotify.com/album/5oJk44MiQxfydL5aTYU5S0"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
+        "name": "Down To My Bones",
+        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
       },
       "artists": [
         {
-          "name": "Anna Rossinelli",
-          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 163917,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
+      "duration_ms": 201541,
+      "name": "Down To My Bones",
+      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -931,6 +915,22 @@
       "duration_ms": 237680,
       "name": "Milchstrass (feat. Aaron Asteria)",
       "url": "https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
+      },
+      "artists": [
+        {
+          "name": "Anna Rossinelli",
+          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
+        }
+      ],
+      "duration_ms": 163917,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "The Feast",
-        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 302882,
-      "name": "The Feast",
-      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "Jamais \u00c9t\u00e9 (Cool)",
         "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 155700,
       "name": "Jamais \u00c9t\u00e9 (Cool)",
       "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
+        "name": "The Feast",
+        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 302882,
+      "name": "The Feast",
+      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Vergessen",
-        "url": "https://open.spotify.com/album/6dn2tNWfhTNLhql28OKTLZ"
-      },
-      "artists": [
-        {
-          "name": "Seulfa",
-          "url": "https://open.spotify.com/artist/7bbqldmfBkBtAyjjBVs4xA"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Vergessen",
-      "url": "https://open.spotify.com/track/5bABCHSlFAsetJuWHAa8Tt"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "Ehrlich",
         "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Shouting with a Whisper",
-        "url": "https://open.spotify.com/album/0wWfFcMUyMDWAQd0pm7rV1"
+        "name": "Vergessen",
+        "url": "https://open.spotify.com/album/6dn2tNWfhTNLhql28OKTLZ"
       },
       "artists": [
         {
-          "name": "Lovebugs",
-          "url": "https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89"
+          "name": "Seulfa",
+          "url": "https://open.spotify.com/artist/7bbqldmfBkBtAyjjBVs4xA"
         }
       ],
-      "duration_ms": 205667,
-      "name": "Shouting with a Whisper",
-      "url": "https://open.spotify.com/track/5s9VItQqugAg3FYacTU61O"
+      "duration_ms": 138000,
+      "name": "Vergessen",
+      "url": "https://open.spotify.com/track/5bABCHSlFAsetJuWHAa8Tt"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
+        "name": "Shouting with a Whisper",
+        "url": "https://open.spotify.com/album/0wWfFcMUyMDWAQd0pm7rV1"
+      },
+      "artists": [
+        {
+          "name": "Lovebugs",
+          "url": "https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89"
+        }
+      ],
+      "duration_ms": 205667,
+      "name": "Shouting with a Whisper",
+      "url": "https://open.spotify.com/track/5s9VItQqugAg3FYacTU61O"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
         "name": "Prosecco",
         "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 227613,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
-        "name": "Blue Light",
-        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 206755,
-      "name": "Blue Light",
-      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
+        "name": "Blue Light",
+        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 206755,
+      "name": "Blue Light",
+      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
         "name": "SWITCH",
         "url": "https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Don't Let Him Go",
-        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
-      },
-      "artists": [
-        {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "Don't Let Him Go",
-      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "These Walls",
         "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 184893,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
+        "name": "Don't Let Him Go",
+        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "Don't Let Him Go",
+      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 163712,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "Since We Met",
         "url": "https://open.spotify.com/album/7ID8FWy8D2I6A8J62xHrHh"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 144373,
       "name": "Since We Met",
       "url": "https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 163712,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Devil On My Back",
-        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 194741,
-      "name": "Devil On My Back",
-      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
-    },
-    {
-      "added_at": "2026-11-26 23:01:09",
-      "album": {
         "name": "Falling Out",
         "url": "https://open.spotify.com/album/5lPdeiQXvpoadovLXXexe2"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2026-11-26 23:01:09",
       "album": {
-        "name": "Change You",
-        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
+        "name": "Devil On My Back",
+        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
       },
       "artists": [
         {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 266105,
-      "name": "Change You",
-      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
+      "duration_ms": 194741,
+      "name": "Devil On My Back",
+      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
     },
     {
       "added_at": "2026-11-26 23:01:09",
@@ -1631,6 +1615,22 @@
       "duration_ms": 194626,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT"
+    },
+    {
+      "added_at": "2026-11-26 23:01:09",
+      "album": {
+        "name": "Change You",
+        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "duration_ms": 266105,
+      "name": "Change You",
+      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     }
   ],
   "unique_name": "Swiss Made",

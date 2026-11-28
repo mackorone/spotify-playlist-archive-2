@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Erika de Casier
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,332 likes - 200 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,425 likes - 200 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

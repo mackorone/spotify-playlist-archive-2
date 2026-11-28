@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed no hay nostalgia, \u00a1se vino la pachanga!, y el <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM\">Rock S\u00f3nico</a> tambi\u00e9n!",
-  "num_followers": 392148,
+  "num_followers": 392139,
   "original_name": "Los 90 Argentina",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Los Ladrones Sueltos",
-        "url": "https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u"
-      },
-      "artists": [
-        {
-          "name": "Los Ladrones Sueltos",
-          "url": "https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF"
-        }
-      ],
-      "duration_ms": 252080,
-      "name": "La Rubia del Avi\u00f3n",
-      "url": "https://open.spotify.com/track/3rgd481ClPZIR6XEDTl2VU"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 321173,
       "name": "El Murguero",
       "url": "https://open.spotify.com/track/2cDkpGaVD0rbZkUZ6m2mMk"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Los Ladrones Sueltos",
+        "url": "https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u"
+      },
+      "artists": [
+        {
+          "name": "Los Ladrones Sueltos",
+          "url": "https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF"
+        }
+      ],
+      "duration_ms": 252080,
+      "name": "La Rubia del Avi\u00f3n",
+      "url": "https://open.spotify.com/track/3rgd481ClPZIR6XEDTl2VU"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 245266,
       "name": "Te V\u00ed en un Tren",
       "url": "https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -747,8 +747,8 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Gol De Mujer",
-        "url": "https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS"
+        "name": "Acariciando Lo Aspero",
+        "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 250106,
-      "name": "Nene de Antes",
-      "url": "https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP"
+      "duration_ms": 149533,
+      "name": "El 38",
+      "url": "https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -827,8 +827,8 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Acariciando Lo Aspero",
-        "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
+        "name": "Gol De Mujer",
+        "url": "https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 149533,
-      "name": "El 38",
-      "url": "https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr"
+      "duration_ms": 250106,
+      "name": "Nene de Antes",
+      "url": "https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Positiva Vibraci\u00f3n",
-        "url": "https://open.spotify.com/album/79ObMjPYMUaP3pu8fp7PLd"
-      },
-      "artists": [
-        {
-          "name": "La Zimbabwe",
-          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Traici\u00f3n A La Mexicana",
-      "url": "https://open.spotify.com/track/3TB8yNtLqwugHCols5sPx3"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Devorador De Corazones",
         "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Tiempo De Amor",
-        "url": "https://open.spotify.com/album/5OwelDcaYYS0UhTpkugIOO"
+        "name": "Positiva Vibraci\u00f3n",
+        "url": "https://open.spotify.com/album/79ObMjPYMUaP3pu8fp7PLd"
       },
       "artists": [
         {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
         }
       ],
-      "duration_ms": 245653,
-      "name": "Me Enamor\u00e9 De Una Zamba",
-      "url": "https://open.spotify.com/track/3HaGUHpK1zyL3BqbIz2cCO"
+      "duration_ms": 250600,
+      "name": "Traici\u00f3n A La Mexicana",
+      "url": "https://open.spotify.com/track/3TB8yNtLqwugHCols5sPx3"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1051,6 +1035,22 @@
       "duration_ms": 259506,
       "name": "Jugo",
       "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Tiempo De Amor",
+        "url": "https://open.spotify.com/album/5OwelDcaYYS0UhTpkugIOO"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Me Enamor\u00e9 De Una Zamba",
+      "url": "https://open.spotify.com/track/3HaGUHpK1zyL3BqbIz2cCO"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Cosa Peligrosa",
-      "url": "https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Cosa Peligrosa",
+      "url": "https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Big Yuyo",
-        "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "Mi Resistencia",
-      "url": "https://open.spotify.com/track/0txbNwVOPJcpGupF4TNDLl"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Diego Torres",
         "url": "https://open.spotify.com/album/1iORUN5udfrSa98iKDzgqR"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 222853,
       "name": "Estamos Juntos",
       "url": "https://open.spotify.com/track/4cqTzKCPsDSWnfL1NqABVu"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Big Yuyo",
+        "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "Mi Resistencia",
+      "url": "https://open.spotify.com/track/0txbNwVOPJcpGupF4TNDLl"
     },
     {
       "added_at": "2024-06-12 23:23:10",

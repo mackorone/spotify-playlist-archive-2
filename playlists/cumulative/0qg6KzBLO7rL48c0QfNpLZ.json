@@ -3926,7 +3926,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 172446,
       "name": "Blas\u00e9",
       "url": "https://open.spotify.com/track/5xEiKJyXks0JSTAHAppp0c"
@@ -10410,7 +10410,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 360000,
       "name": "Electrico",
       "url": "https://open.spotify.com/track/4gvupsW3oNzTXIZ1wod3cZ"
@@ -10864,7 +10864,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 210360,
       "name": "Everybody Likes Red",
       "url": "https://open.spotify.com/track/7gpkRDBxFPnf7YNsNnviql"
@@ -13452,7 +13452,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 236160,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/24a4HJbyfKM376WKlPLL3E"
@@ -14880,6 +14880,24 @@
       "duration_ms": 199880,
       "name": "Hand in Mine",
       "url": "https://open.spotify.com/track/0o80s14cgLH0sm7KmyrrSM"
+    },
+    {
+      "album": {
+        "name": "Happened On Happenstance",
+        "url": "https://open.spotify.com/album/0u2pujZDL5RGhE4PRkK9A2"
+      },
+      "artists": [
+        {
+          "name": "Heather Smith",
+          "url": "https://open.spotify.com/artist/3rxviWZeCSYBFZiHeoTJN9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196190,
+      "name": "Happened On Happenstance",
+      "url": "https://open.spotify.com/track/3JH79HJCq3CKIOEOTd8O8J"
     },
     {
       "album": {
@@ -17029,6 +17047,24 @@
     },
     {
       "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/5HNR7FmYFb5zSS7YFnrzLp"
+      },
+      "artists": [
+        {
+          "name": "Amy Louise",
+          "url": "https://open.spotify.com/artist/7zJNcdXP4QFpALIxhELZNY"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/2TnFpegEw8jtu9QI3PR0BL"
+    },
+    {
+      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -17360,7 +17396,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 252012,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/6XPa1TCJ8l0ArS12lrMzWH"
@@ -18076,7 +18112,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 236190,
       "name": "I'll Follow",
       "url": "https://open.spotify.com/track/30EGgezbFTSZ2RBI2Zhcs5"
@@ -20507,6 +20543,24 @@
     },
     {
       "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/76xJN6ExcyhYucHb2pgP06"
+      },
+      "artists": [
+        {
+          "name": "Jon Parratt",
+          "url": "https://open.spotify.com/artist/5PfOqWy1NFYkbHZsIcZOoQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224493,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2iCwHoubG0BKUJIyWJKM9R"
+    },
+    {
+      "album": {
         "name": "Leaving Me",
         "url": "https://open.spotify.com/album/3y6WIOumon20fOKrFbEBbS"
       },
@@ -20762,6 +20816,24 @@
       "duration_ms": 179246,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/6XONlc4fkRSNfbpUKgkj8H"
+    },
+    {
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/4YVVrtU5Poj9FSF5D36NYZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Chase",
+          "url": "https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/0NOLBqKd4PCEZrtC72xw3M"
     },
     {
       "album": {
@@ -22369,6 +22441,24 @@
     },
     {
       "album": {
+        "name": "lost track",
+        "url": "https://open.spotify.com/album/5g6HpcvVe8Txj46FnrnyZn"
+      },
+      "artists": [
+        {
+          "name": "FK",
+          "url": "https://open.spotify.com/artist/4yXJ0seawIpcG3BOPr9eKG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244250,
+      "name": "lost track",
+      "url": "https://open.spotify.com/track/3AwGjteELIjSuFDKPwJxoX"
+    },
+    {
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/6gMUqpxi8SItGg5PDxs831"
       },
@@ -22548,7 +22638,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 264960,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/1dTJLfuHZVvB8Gz94SZj7D"
@@ -22984,7 +23074,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 219375,
       "name": "Loving You (The Rebirth)",
       "url": "https://open.spotify.com/track/613hIMr4vy7MbQcA6lnLyA"
@@ -23050,7 +23140,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 225346,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/5G2CLPhnDh061bdIbNPulT"
@@ -23227,6 +23317,28 @@
     },
     {
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/15aUsoeMBqTP2O9Mlypzwn"
+      },
+      "artists": [
+        {
+          "name": "Calm Springs",
+          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
+        },
+        {
+          "name": "Vitaly Gray",
+          "url": "https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/5aIUuOSLecALk9rImSvGPN"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/0GkFN8yeV4aTOm2UlU6t1e"
       },
@@ -23399,6 +23511,24 @@
     },
     {
       "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1A5Vt38tRCRhMv1tZZBw4u"
+      },
+      "artists": [
+        {
+          "name": "VLX",
+          "url": "https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131681,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/40LG8nY9GajILLnC0P4203"
+    },
+    {
+      "album": {
         "name": "Make Me Feel (feat. maybealice)",
         "url": "https://open.spotify.com/album/5sJRg8uokPWOs9lQfEiuCA"
       },
@@ -23476,6 +23606,24 @@
       "duration_ms": 186562,
       "name": "Making You Love Me",
       "url": "https://open.spotify.com/track/6DTkJVURvTEzNcWdHKeEgU"
+    },
+    {
+      "album": {
+        "name": "MALDITA SEA LA MEMORIA",
+        "url": "https://open.spotify.com/album/0fj3kKIzKgqcgJ2LuNVSNF"
+      },
+      "artists": [
+        {
+          "name": "Maria Raquel Bonifacino",
+          "url": "https://open.spotify.com/artist/5OBLTR4GvaD43DPkZvRnKs"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244920,
+      "name": "MALDITA SEA LA MEMORIA",
+      "url": "https://open.spotify.com/track/2fqB8OZyTXwLx6uBi4k1JL"
     },
     {
       "album": {
@@ -24132,7 +24280,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 215652,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4bWu5dGxpyq27J3cONmUeb"
@@ -26451,6 +26599,24 @@
     },
     {
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6loB3Usf9xkkDLl2x4mztw"
+      },
+      "artists": [
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138818,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/6vHg2sUvtOE44MTxV8GkPf"
+    },
+    {
+      "album": {
         "name": "Nothing Compares",
         "url": "https://open.spotify.com/album/4kzfJcvLN1mgcOgrehDX7m"
       },
@@ -27558,7 +27724,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 186577,
       "name": "One of Us - Ryan Sundry Remix",
       "url": "https://open.spotify.com/track/3Lnfcyvqp7IiVOiaQCZeSF"
@@ -27820,7 +27986,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 204094,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/508CFMUg1IWtPoAi9zbeXz"
@@ -28050,7 +28216,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 316347,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/42xGQVfLeF5ItY5J5L1Nkj"
@@ -28236,6 +28402,24 @@
       "duration_ms": 144466,
       "name": "Over Now",
       "url": "https://open.spotify.com/track/4Ksme4ZYdozZKvPkg9UQ6E"
+    },
+    {
+      "album": {
+        "name": "over u",
+        "url": "https://open.spotify.com/album/4KPMs0UHSWUsy2KTqChsh5"
+      },
+      "artists": [
+        {
+          "name": "Dimside",
+          "url": "https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "over u",
+      "url": "https://open.spotify.com/track/18vuigv3rDGsgnfTlFSP3W"
     },
     {
       "album": {
@@ -29631,6 +29815,32 @@
     },
     {
       "album": {
+        "name": "Reason (feat. Lyge)",
+        "url": "https://open.spotify.com/album/4RWHJT56nxnOWeYYwq07dW"
+      },
+      "artists": [
+        {
+          "name": "Jaker",
+          "url": "https://open.spotify.com/artist/1OiylLVpVrT0ToNcZBZaZY"
+        },
+        {
+          "name": "Kurt Royce",
+          "url": "https://open.spotify.com/artist/7hsXHPoHJ8Ov48AAVtKSRJ"
+        },
+        {
+          "name": "Lyge",
+          "url": "https://open.spotify.com/artist/2TFo3t2jsLG5XDT8GD9XKH"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156638,
+      "name": "Reason (feat. Lyge)",
+      "url": "https://open.spotify.com/track/2FfQSY0mpgjfcPZlhNf8Lx"
+    },
+    {
+      "album": {
         "name": "Recess",
         "url": "https://open.spotify.com/album/3lkW2RSE39igPYRtVEncWe"
       },
@@ -29642,7 +29852,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 170372,
       "name": "Recess",
       "url": "https://open.spotify.com/track/66K8x5WoKkFcPNxsS938Hi"
@@ -32628,7 +32838,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 162240,
       "name": "Small Things",
       "url": "https://open.spotify.com/track/0KP0bVpuyUBMZvaWpC64Ie"
@@ -33632,7 +33842,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 288750,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3i25S1USykBQvHX3iInxAJ"
@@ -34296,7 +34506,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 200000,
       "name": "Street Shuffle",
       "url": "https://open.spotify.com/track/6isRpLiNaSxL5NzZFZFPF8"
@@ -35900,7 +36110,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 124266,
       "name": "Taste Of Your Love",
       "url": "https://open.spotify.com/track/3ddu8au2g7Rj0u32xv65Ks"
@@ -36820,6 +37030,24 @@
       "duration_ms": 130080,
       "name": "The Sun Always Finds Its Way",
       "url": "https://open.spotify.com/track/3SW3SYqmkcHMa1dghoCDZ1"
+    },
+    {
+      "album": {
+        "name": "The Third Temple (alt version)",
+        "url": "https://open.spotify.com/album/2D8256iYpz9Iny1u3v21ys"
+      },
+      "artists": [
+        {
+          "name": "David\u2019s Line",
+          "url": "https://open.spotify.com/artist/50qGLQ7BAiJ8ZqzRQudgin"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242440,
+      "name": "The Third Temple - alt version",
+      "url": "https://open.spotify.com/track/6Sxc9g7NQE0L3aVljDyBTW"
     },
     {
       "album": {
@@ -37916,7 +38144,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 279379,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/3zsE93VAdsdjLlNjAdPkqb"
@@ -38012,6 +38240,24 @@
       "duration_ms": 185593,
       "name": "Torn",
       "url": "https://open.spotify.com/track/7rMxuyblcRQ0h3V4h4pyDc"
+    },
+    {
+      "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/1nNMXFB6mFDdeScOKQR56e"
+      },
+      "artists": [
+        {
+          "name": "Badscandal",
+          "url": "https://open.spotify.com/artist/29kaubgb6Esvwu0idVndGy"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/6Y0BIHxJvTVIjOmk636Cw3"
     },
     {
       "album": {
@@ -40786,7 +41032,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 180883,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/4dtysLpwJjADrd9e9vr83o"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Warhaus
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,366 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,377 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 44 | [The Pack](https://open.spotify.com/track/1kAzy3e3CgVARF6C7VWEOf) | [Wasted Youth Club](https://open.spotify.com/artist/6fPbsRQTwFE5HTMNwZqyhw) | [Frantic Living](https://open.spotify.com/album/2f13okqZDfOJERActhQBPh) | 2:23 |
 | 45 | [Reeling](https://open.spotify.com/track/2NlTUJ1dh2V2xyjVwV8yoM) | [Velocity Made Good](https://open.spotify.com/artist/2g5ncBxg2wwfS9HkIFQUPs) | [Big Breakers](https://open.spotify.com/album/0ipwAVN48iJ1Tbf5tw4azi) | 4:28 |
 | 46 | [Tower Of Joking](https://open.spotify.com/track/6M90eKi3Y5qNs2UenJ8XbF) | [Absynthe Minded](https://open.spotify.com/artist/6AVfW2Y10P7zqLC6Z3O0xj) | [Tower Of Joking](https://open.spotify.com/album/76N3mcokIsWWNcf1ObJw2y) | 3:25 |
-| 47 | [Midnight Crying](https://open.spotify.com/track/3GzPuUiZQeWyYugjfkalgJ) | [The Sha\-La\-Lee's](https://open.spotify.com/artist/2AVxbfK80JPQi7sRsjYIQo) | [Midnight Crying](https://open.spotify.com/album/5jOsI4FJiqoJm78oVgYTbm) | 2:56 |
+| 47 | [Midnight Crying](https://open.spotify.com/track/3GzPuUiZQeWyYugjfkalgJ) | [Sha\-La\-Lees](https://open.spotify.com/artist/2AVxbfK80JPQi7sRsjYIQo) | [Midnight Crying](https://open.spotify.com/album/5jOsI4FJiqoJm78oVgYTbm) | 2:56 |
 | 48 | [Jacob](https://open.spotify.com/track/729cU3h8m4msZIsbKEYM3y) | [Subterranean Street Society](https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe) | [Out of Skin, Into Bloom](https://open.spotify.com/album/0yESMhBoWKMkgYpKZyJ9VR) | 3:30 |
 | 49 | [Random Violence](https://open.spotify.com/track/0T3vTM8KUAwGMukdAhNVj2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Random Violence](https://open.spotify.com/album/3z8j4xdVVyUH12VXFWRCVK) | 5:15 |
 | 50 | [Bad Aim](https://open.spotify.com/track/5QvDo7Q4jUaE4O8d07h4Us) | [Niis](https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X) | [Play Niis](https://open.spotify.com/album/229GwK7pxQ81okcU4phzEC) | 3:19 |

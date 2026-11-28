@@ -2,9 +2,9 @@
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: KREAM
+> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover:  MORTEN &amp; David Guetta
 
-1,334 songs - 2 day 19 hr 28 min
+1,335 songs - 2 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -961,6 +961,7 @@
 | [Right Here, Right Now](https://open.spotify.com/track/0zYjllevbCpjeOI06v40bu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Right Here, Right Now](https://open.spotify.com/album/6yEtqmOfxybN4fSxPIAFsQ) | 2:32 | 2025-04-24 | 2025-05-31 |
 | [Right Now](https://open.spotify.com/track/1cz3L1SLXxv75C1AFzhr6k) | [NO\. SYGNL](https://open.spotify.com/artist/1tJIyQ7VJERr5YGEKpgmun), [FAME Sounds](https://open.spotify.com/artist/47gZgELu7feCG8NwdhoNF2) | [Right Now](https://open.spotify.com/album/4x2JNectnsXcwXsloJiU3f) | 4:28 | 2025-12-12 | 2026-02-07 |
 | [Rock Da House](https://open.spotify.com/track/2iIZ8iEGsCoxoa6lSpkeXD) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Rock Da House](https://open.spotify.com/album/7jVI8Hx2v5yahCSTCoViFB) | 2:27 | 2024-07-12 | 2024-07-19 |
+| [Rock The Beat](https://open.spotify.com/track/7Bhth1urV6to3liyiVOmxY) | [FLØW STATE](https://open.spotify.com/artist/04FnmbC1ErgFEXdX5ZQ1H2) | [Rock The Beat](https://open.spotify.com/album/4CWYSOkHl2r0gMmw1Ck2gw) | 3:00 | 2026-11-27 |  |
 | [Rock The Rhythm](https://open.spotify.com/track/2xoCiK3hZhSGBT99fR0vae) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Rock The Rhythm](https://open.spotify.com/album/6owFjmnDvjSpYkUkzlBMqX) | 3:00 | 2026-02-13 |  |
 | [Rollin'](https://open.spotify.com/track/2Rnr6ztcJt9vrJMkqZ7eVb) | [Nota Baxua](https://open.spotify.com/artist/1cFRemxURzd9fohFUoUgAT) | [Rollin'](https://open.spotify.com/album/5ndJHv9ftMEAmHdvFhEBcI) | 5:15 | 2026-02-27 |  |
 | [Roses \(feat\. Richard Judge\)](https://open.spotify.com/track/2l0uDfDDdz1cGLvAzw474o) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Roses \(feat\. Richard Judge\)](https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR) | 2:44 | 2026-06-25 |  |

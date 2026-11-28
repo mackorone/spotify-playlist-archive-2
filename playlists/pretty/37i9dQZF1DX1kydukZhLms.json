@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1580415,
+  "num_followers": 1580523,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Heartbreak Station",
+        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Heartbreak Station",
+      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Ordinary Man (feat. Elton John)",
         "url": "https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 301730,
       "name": "Ordinary Man (feat. Elton John)",
       "url": "https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Heartbreak Station",
-        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Heartbreak Station",
-      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Theatre of Pain",
-        "url": "https://open.spotify.com/album/18fYN6Hlig5t7ObBfQYUPe"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Home Sweet Home",
-      "url": "https://open.spotify.com/track/4zXvB4MoQD8onk0NCZbeHG"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 284800,
       "name": "Don't Cry (Original)",
       "url": "https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Theatre of Pain",
+        "url": "https://open.spotify.com/album/18fYN6Hlig5t7ObBfQYUPe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Home Sweet Home",
+      "url": "https://open.spotify.com/track/4zXvB4MoQD8onk0NCZbeHG"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "In a Darkened Room",
-      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Crazy World",
         "url": "https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 273200,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "In a Darkened Room",
+      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Vol. 4 (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 282493,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Get A Grip (Reissue - Remaster)",
         "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
       },
@@ -1575,6 +1591,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Love At First Sting (50th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1uA6edd8Y46UPXMF2chKSd"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 388613,
+      "name": "Still Loving You",
+      "url": "https://open.spotify.com/track/5u8yv7FPvdRZLBF40BaThB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "The World Needs a Hero",
         "url": "https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa"
       },
@@ -1619,38 +1651,6 @@
       "duration_ms": 234533,
       "name": "Forever and One (Neverland)",
       "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Deadly Sting: The Mercury Years",
-        "url": "https://open.spotify.com/album/6aiwtadb1HB5ImfuFgX4r7"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/4YJ4n7DsZhR5hrnsMfn6zV"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Apocalyptica",
-        "url": "https://open.spotify.com/album/6gWLb5vcuUzWzPli9ubIX4"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 333013,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/7b71VGiqL6DdpzCyaaJEaD"
     }
   ],
   "unique_name": "Heavy Ballads",

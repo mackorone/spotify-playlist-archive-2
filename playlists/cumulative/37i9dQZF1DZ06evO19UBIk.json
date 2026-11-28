@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "The Singles (2017 Remaster)",
+        "url": "https://open.spotify.com/album/437coS14MKFBIjXNj3bRAC"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2026-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133600,
+      "name": "Albinoni: Adagio - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2N8Xf6RJMUQjqSnq5pZ022"
+    },
+    {
+      "album": {
         "name": "An American Prayer",
         "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
       },

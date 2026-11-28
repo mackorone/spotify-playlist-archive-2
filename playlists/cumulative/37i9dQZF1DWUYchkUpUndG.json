@@ -148124,6 +148124,24 @@
     {
       "album": {
         "name": "Salama",
+        "url": "https://open.spotify.com/album/0UiMoLimHRqBLifPNVnk1f"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224064,
+      "name": "Salama",
+      "url": "https://open.spotify.com/track/5mDEOySEO5ms34XSlvfAoa"
+    },
+    {
+      "album": {
+        "name": "Salama",
         "url": "https://open.spotify.com/album/2mHBDqJk4iieUSIFLXTE9E"
       },
       "artists": [

@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Sanguijuelas del Guadiana.
 
-870 songs - 1 day 21 hr 18 min
+871 songs - 1 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,7 +571,7 @@
 | [No veo una salida](https://open.spotify.com/track/4y9eXCqePXQUSfQYzymJ6X) | [Amante Laffón](https://open.spotify.com/artist/73nKf9LdEfuRB5TJRkai1T) | [No veo una salida](https://open.spotify.com/album/3xX8d14amWZyJ3yhvwmCc4) | 3:12 | 2025-09-18 | 2025-11-07 |
 | [No Vuelvo a Beber](https://open.spotify.com/track/418FokTpwu0uEUS58VMJ0U) | [Ciervoss](https://open.spotify.com/artist/1CAML4WFHPiDUjW2uByMu3), [REZELO](https://open.spotify.com/artist/1nSlIKzRjn19dziheCrVdU) | [No Vuelvo a Beber](https://open.spotify.com/album/3KOB2bRzJHL8KEdPkv8j3C) | 2:10 | 2025-07-03 | 2025-07-14 |
 | [Noche de Casino \(This Gambling Man\)](https://open.spotify.com/track/5z1qOTwU2nCaGEv6zVsAUQ) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Noche de Casino \(This Gambling Man\)](https://open.spotify.com/album/3Zyt72JMHaOMjU5UIbkcAV) | 3:42 | 2025-11-27 |  |
-| [Noche de Pánico](https://open.spotify.com/track/7tfmaigofuhzvdozxa414W) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [Noche de Pánico](https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW) | 4:10 | 2026-11-26 |  |
+| [Noche de Pánico](https://open.spotify.com/track/7tfmaigofuhzvdozxa414W) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [Noche de Pánico](https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW) | 4:10 | 2026-11-26 | 2026-11-28 |
 | [NOLOMEREZCO](https://open.spotify.com/track/0UldlanZFgAnNpRNgFwFTw) | [Radio Palmer](https://open.spotify.com/artist/5ERh7l2QU2n5g0YxrHATe3) | [NOLOMEREZCO](https://open.spotify.com/album/7FTbB06QGrrhrHwmKB9Or5) | 3:28 | 2025-07-17 | 2026-11-20 |
 | [Non Sei Como](https://open.spotify.com/track/48Qrb6fpGg0N0VoDSBteuv) | [The Rapants](https://open.spotify.com/artist/6n9E45r5Ewzy1qXMqSVMA7), [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Non Sei Como](https://open.spotify.com/album/69nLTmEQvfhh4q4sf6ri4u) | 3:21 | 2026-02-05 |  |
 | [Normal](https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X) | 2:30 | 2024-10-25 | 2025-08-22 |
@@ -758,6 +758,7 @@
 | [The Bed, The Room, The Rain and You](https://open.spotify.com/track/73MkKDeELnYufTdyA3Xj5R) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Bed, The Room, The Rain and You](https://open.spotify.com/album/1TPWuITTFW8RdqRfrNVEO5) | 2:28 | 2024-08-15 | 2024-09-06 |
 | [The Last of Us](https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [The Last of Us](https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw) | 4:30 | 2024-06-27 | 2024-09-27 |
 | [Ti máis eu](https://open.spotify.com/track/7Fzi4YxYUFwOkgkQQfl4U0) | [Grande Amore](https://open.spotify.com/artist/1FVM2KsOjbVwhAYApEhSzQ), [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Ti máis eu](https://open.spotify.com/album/193Aj0RWSaScutfDEL9zAq) | 1:31 | 2025-02-13 | 2025-04-25 |
+| [Tiempo de Descuento](https://open.spotify.com/track/4RQAQpLaQDjYDG2xXyJU7q) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [Noche de Pánico](https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW) | 5:16 | 2026-11-27 |  |
 | [TIPOS DUROS](https://open.spotify.com/track/6O5EF55NTj7Pf8dkTvs9GL) | [RATA](https://open.spotify.com/artist/28xI1L1VYJXU9XnhzWmHdR) | [TIPOS DUROS](https://open.spotify.com/album/5kUpKxg9udGOi8sliS9z4m) | 3:39 | 2026-04-09 |  |
 | [Tirant lo Blanc](https://open.spotify.com/track/4xv0OxmZ1p2gJLxxVDAA8m) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Tirant lo Blanc](https://open.spotify.com/album/4BnDmTrXNNHZtGPfu3PgxQ) | 3:55 | 2025-11-27 | 2026-02-13 |
 | [Todas las cosas que no te decía](https://open.spotify.com/track/5SyuKCkZ6qyfs8N2OiCYM3) | [Junio](https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8) | [Todas las cosas que no te decía](https://open.spotify.com/album/30SLv9bbXxBA358ZcSh9sa) | 2:26 | 2026-06-04 | 2026-06-12 |

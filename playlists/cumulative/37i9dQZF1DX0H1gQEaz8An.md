@@ -4,7 +4,7 @@
 
 > Lo que diga el corazón ❤️💔 Cover: Estilo Real
 
-273 songs - 14 hr 9 min
+276 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [BBY THAY](https://open.spotify.com/track/4to70Lv4ryOqFhvXTyyU6H) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [BBY THAY](https://open.spotify.com/album/4dnBX7VN3W51os5tF6EpKI) | 3:34 | 2025-04-25 | 2025-08-09 |
 | [Bebé](https://open.spotify.com/track/48UP7L6H0iAVuE76RyHZLZ) | [Mando Exclusivo](https://open.spotify.com/artist/16GWmOhbfnUn6NmBrg9j3l) | [Bebé](https://open.spotify.com/album/3udwWyV9bBLXoVXfM5jt9k) | 3:24 | 2025-01-17 | 2025-07-05 |
 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 | 2024-03-15 | 2025-05-28 |
+| [BELLA](https://open.spotify.com/track/1L95jqzylTYTR42QfBybXh) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [ATRAVESAO](https://open.spotify.com/album/0N2N0fNmfFL9PGIL67ziRw) | 2:57 | 2026-11-27 |  |
 | [BERLIN](https://open.spotify.com/track/5gZ3Ws7QsnWOn7Vv9Eb4mN) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [CONEXIONES](https://open.spotify.com/album/4AkbZVrb8du3FF5sr9Tjjd) | 2:29 | 2026-10-23 |  |
 | [BESOS](https://open.spotify.com/track/2wwPT2D9wADniE3XzFHyEY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [E$ENCIA](https://open.spotify.com/album/5LNnHcNU0pQPjCPxRCbKMm) | 3:50 | 2025-08-08 | 2026-04-04 |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2024-03-15 | 2026-01-24 |
@@ -81,6 +82,7 @@
 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 | 2024-03-15 | 2025-07-26 |
 | [DOS JOVENES](https://open.spotify.com/track/7lNvXFcxTeLalvSIdZac0J) | [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [PANDEMIA](https://open.spotify.com/album/63T0LpVVcekwfnRrryviWx) | 3:09 | 2024-03-15 | 2024-12-14 |
 | [Dos Tragos](https://open.spotify.com/track/21ck2spLtlxVSAGWRqWwkX) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Dos Tragos](https://open.spotify.com/album/5X04ENxaDm8fmSRINAgX8N) | 2:48 | 2026-02-06 |  |
+| [El Coleccionista](https://open.spotify.com/track/6Ezn2Ln8mtdyyDpY7210yE) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [El Coleccionista](https://open.spotify.com/album/2IOCEw7UQClBai9ZPWybPi) | 3:00 | 2026-11-27 |  |
 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 | 2024-03-15 | 2026-04-04 |
 | [El Malo](https://open.spotify.com/track/6LDB1KY7hbf9r7iiroZzPC) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [El Malo](https://open.spotify.com/album/67U1kwS0PBZnxJclw4TSaZ) | 2:59 | 2025-07-04 | 2025-12-20 |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2024-03-15 | 2025-04-26 |
@@ -203,6 +205,7 @@
 | [Por Esos Ojos](https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Por Esos Ojos](https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp) | 3:08 | 2025-02-26 |  |
 | [Por Nada Te Cambio](https://open.spotify.com/track/7EuzjgPCCn4302zxRQdzeI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Por Nada Te Cambio](https://open.spotify.com/album/4ZYJW43k53sh0EmZhsPykI) | 3:25 | 2025-02-26 |  |
 | [POR SUS BESOS](https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [POR SUS BESOS](https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI) | 3:06 | 2025-07-25 |  |
+| [Princesa](https://open.spotify.com/track/4br4zFlJph6OI5FFy6ZCBx) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Princesa](https://open.spotify.com/album/11HKHpT3qO0HnRf4sMaurq) | 3:06 | 2026-11-27 |  |
 | [PRINCESA](https://open.spotify.com/track/5MvPOrI2YGBG0wnvwARTD0) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [ONLY ENAMORADOS](https://open.spotify.com/album/2mEvV18XEfAwIT73TiO8dU) | 2:28 | 2025-02-26 | 2025-03-01 |
 | [punchbowl](https://open.spotify.com/track/0XdYL8Z6LTSUXM5JtRtdTK) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [punchbowl](https://open.spotify.com/album/2fsUjpzzA7swEZbpFjujyc) | 2:34 | 2026-04-03 |  |
 | [Pvta Luna](https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Pvta Luna](https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa) | 3:18 | 2025-09-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,215 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,222 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 31 | [A Pretty Girl Is Like a Melody](https://open.spotify.com/track/3XTGJlIluS71fut4P7uBsI) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:37 |
 | 32 | [I Can't Give You Anything but Love](https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Eugène Vées](https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX), [Emmanuel Soudieux](https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh), [André Jourdan](https://open.spotify.com/artist/2sjYUxqrgEigSXEVd121GO), [Gérard Lévéque](https://open.spotify.com/artist/6SRezP01JXsVi5SrOsOcjB), [Fred Ermelin](https://open.spotify.com/artist/4ecpqdGuEdsVGC5NVXxITi) | [Electric Django: Radio Recordings 1947](https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY) | 2:52 |
 | 33 | [Ol' Man River](https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 2:37 |
-| 34 | [Tea for Two](https://open.spotify.com/track/3J0vC7T9DmAJdXDIp8Xq7v) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol7 / 1937 \- 1938](https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F) | 2:48 |
-| 35 | [I Saw Stars \(feat\. Stéphane Grappelli\) \- Remastered 2002](https://open.spotify.com/track/7bK6vG5VbBtSbr831Fgsi5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangology \(feat\. Stéphane Grappelli\)](https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK) | 3:27 |
+| 34 | [I Saw Stars \(feat\. Stéphane Grappelli\) \- Remastered 2002](https://open.spotify.com/track/7bK6vG5VbBtSbr831Fgsi5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangology \(feat\. Stéphane Grappelli\)](https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK) | 3:27 |
+| 35 | [Tea for Two](https://open.spotify.com/track/3J0vC7T9DmAJdXDIp8Xq7v) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol7 / 1937 \- 1938](https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F) | 2:48 |
 | 36 | [Baby](https://open.spotify.com/track/6HOD79or2cqZXXDcJjHv2Q) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:39 |
 | 37 | [Place de Brouckere](https://open.spotify.com/track/4ryT12OMraUMCIhBb4bbly) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 2:56 |
 | 38 | [Limehouse Blues](https://open.spotify.com/track/6lMMTn73wVaDh1gJW3rsBu) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangologie Vol.2 / 1936 \- 1937](https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 49 | [Anniversary Song](https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 3:31 |
 | 50 | [Fiddle's Blues](https://open.spotify.com/track/6En4XJAnYIeMUWMRG3WhCD) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol6 / 1937](https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf) | 2:46 |
 
-Snapshot ID: `awYlAAAAAABkRjrcVil2jPpnGG/LWIjN`
+Snapshot ID: `awd2gAAAAABHqH2UnpE4UBYi3vJHsk58`

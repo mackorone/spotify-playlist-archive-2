@@ -4,7 +4,7 @@
 
 > somos una fusión que no termina✨💚 Grupo Frontera, Yandel en portada
 
-1,171 songs - 2 day 14 hr 3 min
+1,172 songs - 2 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1138,6 +1138,7 @@
 | [Winnie Pooh](https://open.spotify.com/track/6syifuZ5Q2DrTNp68Mprt2) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Winnie Pooh](https://open.spotify.com/album/4ccjb3XicrtLOoPln1YOia) | 2:52 | 2024-03-22 | 2024-08-14 |
 | [WISCACHOS](https://open.spotify.com/track/2rApWcTGUQuq4iDuB8n763) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 2:58 | 2025-06-06 | 2025-11-15 |
 | [Y Ahora](https://open.spotify.com/track/6BS4DNTZF4vnuZwBHCNtUQ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf) | [Y Ahora](https://open.spotify.com/album/1MZT7MnJFA2ECV68CMdR0U) | 2:41 | 2023-04-28 | 2023-06-03 |
+| [Y al final \- Demo](https://open.spotify.com/track/2Mo4uEIdZfuMaO2XLM728j) | [Starboooy.](https://open.spotify.com/artist/4utu1WEJsJVw2G3EuiQzQ4), [Dj Aciz](https://open.spotify.com/artist/2v1wZqTrySSsqVp97A31DC) | [Y al final \(Demo\)](https://open.spotify.com/album/243PRMgx5Mbn3lLPO68IrW) | 2:51 | 2026-11-27 |  |
 | [Y LLORO](https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:59 | 2023-10-06 | 2024-01-27 |
 | [Y Que Soporten](https://open.spotify.com/track/0dXNs41HnOKdIkYtfmTNYB) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Y Que Soporten](https://open.spotify.com/album/6DWrKCUvFC2yGSSpOOzcO3) | 3:35 | 2023-11-10 | 2023-12-02 |
 | [Y Si Te Vas](https://open.spotify.com/track/20L8fUsTo0eK1cdzTyH7v9) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Y Si Te Vas](https://open.spotify.com/album/5TgDIHQBUUuFbsdCMEOyrL) | 2:57 | 2025-07-12 | 2025-07-26 |

@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Ala\u00edde Costa, Emicida",
-  "num_followers": 352691,
+  "num_followers": 352676,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
-        "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
-        "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 249856,
-      "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
-      "url": "https://open.spotify.com/track/2qsEj3ukRXgYA1bJuOkD0m"
-    },
-    {
-      "added_at": "2026-11-27 03:00:34",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 259406,
       "name": "Quando Chego",
       "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
+    },
+    {
+      "added_at": "2026-11-27 03:00:34",
+      "album": {
+        "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
+        "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 249856,
+      "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
+      "url": "https://open.spotify.com/track/2qsEj3ukRXgYA1bJuOkD0m"
     },
     {
       "added_at": "2026-11-27 03:00:34",
@@ -411,26 +411,6 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
-        "name": "Itapuano",
-        "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9zar Mendes",
-          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
-        },
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 190991,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/12WNxDkTfNOVy5qajaRn6T"
-    },
-    {
-      "added_at": "2026-11-27 03:00:34",
-      "album": {
         "name": "O Descobridor dos Sete Mares",
         "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
       },
@@ -451,26 +431,22 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
-        "name": "Amigos Novos e Antigos",
-        "url": "https://open.spotify.com/album/1fR9eyUb98QHYIiB5Wz4ms"
+        "name": "Itapuano",
+        "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+          "name": "C\u00e9zar Mendes",
+          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
         },
         {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
-        },
-        {
-          "name": "Mestrinho",
-          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
         }
       ],
-      "duration_ms": 276013,
-      "name": "Amigos Novos e Antigos",
-      "url": "https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4"
+      "duration_ms": 190991,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/12WNxDkTfNOVy5qajaRn6T"
     },
     {
       "added_at": "2026-11-27 03:00:34",
@@ -511,6 +487,30 @@
       "duration_ms": 205415,
       "name": "Dr\u00e3o",
       "url": "https://open.spotify.com/track/3iULRVHchU7ARgxHrIzsTS"
+    },
+    {
+      "added_at": "2026-11-27 03:00:34",
+      "album": {
+        "name": "Amigos Novos e Antigos",
+        "url": "https://open.spotify.com/album/1fR9eyUb98QHYIiB5Wz4ms"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Amigos Novos e Antigos",
+      "url": "https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4"
     },
     {
       "added_at": "2026-11-27 03:00:34",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
-        "name": "Perfei\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 250880,
-      "name": "Perfei\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
-    },
-    {
-      "added_at": "2026-11-27 03:00:34",
-      "album": {
         "name": "Leo Jaime - As Mais Pedidas",
         "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
       },
@@ -623,6 +603,26 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
+        "name": "Perfei\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 250880,
+      "name": "Perfei\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
+    },
+    {
+      "added_at": "2026-11-27 03:00:34",
+      "album": {
         "name": "Saara No Rio",
         "url": "https://open.spotify.com/album/3X8zN1yXYLLJntjAB996UB"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 282720,
       "name": "Saara No Rio",
       "url": "https://open.spotify.com/track/3fgYUrgScJ7C1zLR9u0016"
+    },
+    {
+      "added_at": "2026-11-27 03:00:34",
+      "album": {
+        "name": "Uirapuru",
+        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        }
+      ],
+      "duration_ms": 102143,
+      "name": "Uirapuru",
+      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
     },
     {
       "added_at": "2026-11-27 03:00:34",
@@ -679,22 +695,6 @@
       "duration_ms": 236061,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
-    },
-    {
-      "added_at": "2026-11-27 03:00:34",
-      "album": {
-        "name": "Uirapuru",
-        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        }
-      ],
-      "duration_ms": 102143,
-      "name": "Uirapuru",
-      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
     },
     {
       "added_at": "2026-11-27 03:00:34",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
+        "name": "Fantasia + Breu",
+        "url": "https://open.spotify.com/album/0CdueUTNeWbN9cKQ780s7v"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "Breu",
+      "url": "https://open.spotify.com/track/112E78h3Bj4s2bW4EqlYSL"
+    },
+    {
+      "added_at": "2026-11-27 03:00:34",
+      "album": {
         "name": "AMARINA Canta Kid Abelha",
         "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
       },
@@ -843,22 +859,22 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
-        "name": "Jo\u00e3o",
-        "url": "https://open.spotify.com/album/4afLVA7wfxfZb3ZMV2DtUb"
+        "name": "Melodia, Letra E M\u00fasica",
+        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
       },
       "artists": [
         {
-          "name": "C\u00e9zar Mendes",
-          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
         },
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
         }
       ],
-      "duration_ms": 214831,
-      "name": "Jo\u00e3o",
-      "url": "https://open.spotify.com/track/4rfBy8eeyvMaaXbuWjIkBe"
+      "duration_ms": 234262,
+      "name": "Brasil Zerado",
+      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
     },
     {
       "added_at": "2026-11-27 03:00:34",
@@ -883,38 +899,22 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
-        "name": "Melodia, Letra E M\u00fasica",
-        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
+        "name": "Jo\u00e3o",
+        "url": "https://open.spotify.com/album/4afLVA7wfxfZb3ZMV2DtUb"
       },
       "artists": [
         {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+          "name": "C\u00e9zar Mendes",
+          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
         },
         {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 234262,
-      "name": "Brasil Zerado",
-      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
-    },
-    {
-      "added_at": "2026-11-27 03:00:34",
-      "album": {
-        "name": "Fantasia + Breu",
-        "url": "https://open.spotify.com/album/0CdueUTNeWbN9cKQ780s7v"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "Breu",
-      "url": "https://open.spotify.com/track/112E78h3Bj4s2bW4EqlYSL"
+      "duration_ms": 214831,
+      "name": "Jo\u00e3o",
+      "url": "https://open.spotify.com/track/4rfBy8eeyvMaaXbuWjIkBe"
     },
     {
       "added_at": "2026-11-27 03:00:34",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
+        "name": "MATUMBI (Ao vivo)",
+        "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
+      },
+      "artists": [
+        {
+          "name": "Lazzo Matumbi",
+          "url": "https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "MATUMBI - Ao vivo",
+      "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
+    },
+    {
+      "added_at": "2026-11-27 03:00:34",
+      "album": {
         "name": "A Paz",
         "url": "https://open.spotify.com/album/7bplnsf0SiATd2ttUgTaxo"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 273031,
       "name": "A Paz",
       "url": "https://open.spotify.com/track/3ouuEgaeWNHBQQFDjZcG4l"
-    },
-    {
-      "added_at": "2026-11-27 03:00:34",
-      "album": {
-        "name": "MATUMBI (Ao vivo)",
-        "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
-      },
-      "artists": [
-        {
-          "name": "Lazzo Matumbi",
-          "url": "https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "MATUMBI - Ao vivo",
-      "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
     },
     {
       "added_at": "2026-11-27 03:00:34",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
+        "name": "Mais Uma Flor",
+        "url": "https://open.spotify.com/album/15DpNDco72qFNsUaedBIOA"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        },
+        {
+          "name": "Z\u00e9 Manoel",
+          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
+        }
+      ],
+      "duration_ms": 274949,
+      "name": "Mais Uma Flor",
+      "url": "https://open.spotify.com/track/7IbkhLHcUXPB84mCEkrgcB"
+    },
+    {
+      "added_at": "2026-11-27 03:00:34",
+      "album": {
         "name": "Reconstruir / Mancha de Dend\u00ea",
         "url": "https://open.spotify.com/album/5rcaJoROklX83yCv1YPKsC"
       },
@@ -1123,22 +1143,18 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
-        "name": "Mais Uma Flor",
-        "url": "https://open.spotify.com/album/15DpNDco72qFNsUaedBIOA"
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/1Hu7oxpLBXFeJgz1epgEvH"
       },
       "artists": [
         {
-          "name": "Assucena",
-          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
-        },
-        {
-          "name": "Z\u00e9 Manoel",
-          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
         }
       ],
-      "duration_ms": 274949,
-      "name": "Mais Uma Flor",
-      "url": "https://open.spotify.com/track/7IbkhLHcUXPB84mCEkrgcB"
+      "duration_ms": 213429,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/4EeabehFz5I7NY7va3jdlI"
     },
     {
       "added_at": "2026-11-27 03:00:34",
@@ -1195,22 +1211,6 @@
       "duration_ms": 254500,
       "name": "Ci\u00eancia",
       "url": "https://open.spotify.com/track/2WoXB1yitKjWPziYhOJ3xN"
-    },
-    {
-      "added_at": "2026-11-27 03:00:34",
-      "album": {
-        "name": "Miragem",
-        "url": "https://open.spotify.com/album/1Hu7oxpLBXFeJgz1epgEvH"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 213429,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/4EeabehFz5I7NY7va3jdlI"
     },
     {
       "added_at": "2026-11-27 03:00:34",
@@ -1399,6 +1399,78 @@
     {
       "added_at": "2026-11-27 03:00:34",
       "album": {
+        "name": "Cinema Brasileiro",
+        "url": "https://open.spotify.com/album/5mw3q3GTzGhn2hKXQ8TRYo"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Rodrigo Bittencourt",
+          "url": "https://open.spotify.com/artist/2IlBhuwIzNLOvExaplv0tj"
+        }
+      ],
+      "duration_ms": 219507,
+      "name": "Um Roberto",
+      "url": "https://open.spotify.com/track/6lub3iBiIppuW4E4vLrTdJ"
+    },
+    {
+      "added_at": "2026-11-27 03:00:34",
+      "album": {
+        "name": "Rua Primeira",
+        "url": "https://open.spotify.com/album/6xnOJTqF7yckXR3IT91dOw"
+      },
+      "artists": [
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "Salvador Rua Primeira - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/36cuTS2I63A6IgEUaJsokD"
+    },
+    {
+      "added_at": "2026-11-27 03:00:34",
+      "album": {
+        "name": "De L\u00e1 Pra C\u00e1",
+        "url": "https://open.spotify.com/album/21BEkYawHAW8nuo0STyp8H"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 181734,
+      "name": "De L\u00e1, Pra C\u00e1",
+      "url": "https://open.spotify.com/track/3xWf70i5iLUDcAJh4h0Qsl"
+    },
+    {
+      "added_at": "2026-11-27 03:00:34",
+      "album": {
+        "name": "OUTRA DAN\u00c7A",
+        "url": "https://open.spotify.com/album/0VMl05rXaLW8YDFjS7pEc0"
+      },
+      "artists": [
+        {
+          "name": "Juliano Holanda",
+          "url": "https://open.spotify.com/artist/3wg2dojocgkzfZFx66oHSt"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 194222,
+      "name": "OUTRA DAN\u00c7A",
+      "url": "https://open.spotify.com/track/2HbFETge1WIhYpKw2BlJHm"
+    },
+    {
+      "added_at": "2026-11-27 03:00:34",
+      "album": {
         "name": "Calmo",
         "url": "https://open.spotify.com/album/6qyS648OD8JhbdrLxcR1sF"
       },
@@ -1459,78 +1531,6 @@
       "duration_ms": 160100,
       "name": "Maria Pequena",
       "url": "https://open.spotify.com/track/2San9jI0yHRtnF8jmUHMHY"
-    },
-    {
-      "added_at": "2026-11-27 03:00:34",
-      "album": {
-        "name": "De L\u00e1 Pra C\u00e1",
-        "url": "https://open.spotify.com/album/21BEkYawHAW8nuo0STyp8H"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 181734,
-      "name": "De L\u00e1, Pra C\u00e1",
-      "url": "https://open.spotify.com/track/3xWf70i5iLUDcAJh4h0Qsl"
-    },
-    {
-      "added_at": "2026-11-27 03:00:34",
-      "album": {
-        "name": "Rua Primeira",
-        "url": "https://open.spotify.com/album/6xnOJTqF7yckXR3IT91dOw"
-      },
-      "artists": [
-        {
-          "name": "Carlinhos Brown",
-          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "Salvador Rua Primeira - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/36cuTS2I63A6IgEUaJsokD"
-    },
-    {
-      "added_at": "2026-11-27 03:00:34",
-      "album": {
-        "name": "OUTRA DAN\u00c7A",
-        "url": "https://open.spotify.com/album/0VMl05rXaLW8YDFjS7pEc0"
-      },
-      "artists": [
-        {
-          "name": "Juliano Holanda",
-          "url": "https://open.spotify.com/artist/3wg2dojocgkzfZFx66oHSt"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 194222,
-      "name": "OUTRA DAN\u00c7A",
-      "url": "https://open.spotify.com/track/2HbFETge1WIhYpKw2BlJHm"
-    },
-    {
-      "added_at": "2026-11-27 03:00:34",
-      "album": {
-        "name": "Cinema Brasileiro",
-        "url": "https://open.spotify.com/album/5mw3q3GTzGhn2hKXQ8TRYo"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Rodrigo Bittencourt",
-          "url": "https://open.spotify.com/artist/2IlBhuwIzNLOvExaplv0tj"
-        }
-      ],
-      "duration_ms": 219507,
-      "name": "Um Roberto",
-      "url": "https://open.spotify.com/track/6lub3iBiIppuW4E4vLrTdJ"
     }
   ],
   "unique_name": "Divina MPB",

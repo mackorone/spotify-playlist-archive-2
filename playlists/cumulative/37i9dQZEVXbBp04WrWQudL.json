@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/1FELSuT6qsHJHTen2TRA4Z"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189924,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/0Lsu4kjV6NSxOLaYh1nL97"
+    },
+    {
+      "album": {
         "name": "Babyglock",
         "url": "https://open.spotify.com/album/46l5QHXU8Oqme4uNER7KRV"
       },
@@ -2797,6 +2815,28 @@
     },
     {
       "album": {
+        "name": "GRACIAS X TODO",
+        "url": "https://open.spotify.com/album/6dweK7yO2y4Egfvru2huTe"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227091,
+      "name": "GRACIAS X TODO",
+      "url": "https://open.spotify.com/track/6AvL7IhHYhHMbstVvjLcwI"
+    },
+    {
+      "album": {
         "name": "Great Expectation",
         "url": "https://open.spotify.com/album/3OeD69xYZOuHhBvBvQb5sH"
       },
@@ -2990,7 +3030,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 273207,
       "name": "Hell Nah",
       "url": "https://open.spotify.com/track/0SnwV3ybEI5G93zD8OyYJo"
@@ -3030,7 +3070,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 218218,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/6sEtce6qTCrPZQQMGY3nRD"
@@ -3120,7 +3160,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 153174,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/7tN8t1hdcS2VF7aSakMfOT"
@@ -3254,7 +3294,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 192170,
       "name": "I Knew It, I Knew You x Our Song - Live From The 60th CMA Awards",
       "url": "https://open.spotify.com/track/0sYnWbdznUbJExknlyf03S"
@@ -3304,7 +3344,7 @@
       ],
       "date_added": "2026-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 192832,
       "name": "I Knew It, I Knew You x Our Song - Live on The 60th Annual CMA Awards",
       "url": "https://open.spotify.com/track/28WhgZycgd0HRaRZ8PBN40"
@@ -3526,7 +3566,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 207936,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/2mcGxpc9wsuXm2JTKkJOxf"
@@ -5085,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "Orbiter (Live from New York)",
+        "url": "https://open.spotify.com/album/15071E3qaSdT63S9UJHh93"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332548,
+      "name": "Orbiter - Live from New York",
+      "url": "https://open.spotify.com/track/2m6HxTgHJVb6bAC5vRpcqs"
+    },
+    {
+      "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/4BfXBNMwUjRE82v8yy7Gre"
       },
@@ -5230,7 +5288,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 312320,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L"
@@ -6062,7 +6120,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 181760,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/2pKNCmXX8NyGz88xfw9cc5"
@@ -6552,7 +6610,7 @@
       ],
       "date_added": "2026-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 195912,
       "name": "Superman - The Shop Sessions",
       "url": "https://open.spotify.com/track/3gj08hIqFhccQVJ2ACHrTj"

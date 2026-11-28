@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:Neon Adejo
 
-9,665 songs - 30 day 15 hr 41 min
+9,666 songs - 30 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7285,6 +7285,7 @@
 | [Sagona](https://open.spotify.com/track/7q5Hub5C9r8H4BrICTufGV) | [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [Sagona](https://open.spotify.com/album/4ExhBArXnjrY9y3lvAZz1A) | 2:38 | 2025-08-01 | 2025-08-15 |
 | [Sai Gobe](https://open.spotify.com/track/4D2QqTimqvIqQ6yzXFgZbq) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Sai Gobe](https://open.spotify.com/album/5Q0O0phQDKQ4HOpjRkizlO) | 2:55 | 2023-05-26 | 2023-06-09 |
 | [Salama](https://open.spotify.com/track/3iS7XFHcYakI9Bd34Z25iK) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Salama](https://open.spotify.com/album/4QhxDKmbYscT2BQkraZOYr) | 2:50 | 2024-09-27 | 2024-10-11 |
+| [Salama](https://open.spotify.com/track/5mDEOySEO5ms34XSlvfAoa) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Salama](https://open.spotify.com/album/0UiMoLimHRqBLifPNVnk1f) | 3:44 | 2026-11-27 |  |
 | [Salama](https://open.spotify.com/track/3Ue9FEj4cAJjv2Gq7hOZ0g) | [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR), [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi), [Noble City](https://open.spotify.com/artist/2IZSVIW7JctOMEvfw8hbaY) | [Salama](https://open.spotify.com/album/2mHBDqJk4iieUSIFLXTE9E) | 3:07 | 2024-01-19 | 2024-02-02 |
 | [Salama](https://open.spotify.com/track/0eN0J7GkiqMNre6K9bQXEX) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca) | [Salama](https://open.spotify.com/album/3ejG1t8q2Yc8ObSx3VAWMh) | 2:43 | 2024-06-28 | 2024-07-12 |
 | [Salama II](https://open.spotify.com/track/43SUXITNOXZIdGTSWcpUCM) | [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR), [Noble City](https://open.spotify.com/artist/2IZSVIW7JctOMEvfw8hbaY) | [Salama II](https://open.spotify.com/album/3Ua91oj0qU3r2UTPFu6PRo) | 3:07 | 2024-02-02 | 2024-02-16 |

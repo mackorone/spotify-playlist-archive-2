@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1619896,
+  "num_followers": 1619911,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -895,34 +895,6 @@
     {
       "added_at": "2026-11-27 05:00:49",
       "album": {
-        "name": "Love Me Again",
-        "url": "https://open.spotify.com/album/3pmq8saXKW47PbcAGvBQNA"
-      },
-      "artists": [
-        {
-          "name": "Matt Pridgyn",
-          "url": "https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu"
-        },
-        {
-          "name": "AURALIZE",
-          "url": "https://open.spotify.com/artist/7aEgiw47d1LpJXF3wVl7sH"
-        },
-        {
-          "name": "Max Robinson",
-          "url": "https://open.spotify.com/artist/6vB5aktp1Q3664BHNasLlx"
-        },
-        {
-          "name": "Lexi Scatena",
-          "url": "https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/537GgjNn5YFi3OmjSKjBcq"
-    },
-    {
-      "added_at": "2026-11-27 05:00:49",
-      "album": {
         "name": "Now Until Forever",
         "url": "https://open.spotify.com/album/36Rd0V6qIYKIYBogd5e8k1"
       },
@@ -955,6 +927,34 @@
       "duration_ms": 182815,
       "name": "Now Until Forever",
       "url": "https://open.spotify.com/track/42t7ZmVF7fuUKsySyQAJcR"
+    },
+    {
+      "added_at": "2026-11-27 05:00:49",
+      "album": {
+        "name": "Love Me Again",
+        "url": "https://open.spotify.com/album/3pmq8saXKW47PbcAGvBQNA"
+      },
+      "artists": [
+        {
+          "name": "Matt Pridgyn",
+          "url": "https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu"
+        },
+        {
+          "name": "AURALIZE",
+          "url": "https://open.spotify.com/artist/7aEgiw47d1LpJXF3wVl7sH"
+        },
+        {
+          "name": "Max Robinson",
+          "url": "https://open.spotify.com/artist/6vB5aktp1Q3664BHNasLlx"
+        },
+        {
+          "name": "Lexi Scatena",
+          "url": "https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/537GgjNn5YFi3OmjSKjBcq"
     },
     {
       "added_at": "2026-11-27 05:00:49",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2026-11-27 05:00:49",
       "album": {
+        "name": "Keep Me Up",
+        "url": "https://open.spotify.com/album/7BFK1xjZqGecYVt7Cgu8xp"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "BJOERN",
+          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
+        }
+      ],
+      "duration_ms": 231562,
+      "name": "Keep Me Up",
+      "url": "https://open.spotify.com/track/4U8HGyQPnClspBlkHBYQbv"
+    },
+    {
+      "added_at": "2026-11-27 05:00:49",
+      "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/7qPWRxHCpAciE2ZmHaFamE"
       },
@@ -1063,26 +1083,6 @@
     {
       "added_at": "2026-11-27 05:00:49",
       "album": {
-        "name": "Keep Me Up",
-        "url": "https://open.spotify.com/album/7BFK1xjZqGecYVt7Cgu8xp"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "BJOERN",
-          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
-        }
-      ],
-      "duration_ms": 231562,
-      "name": "Keep Me Up",
-      "url": "https://open.spotify.com/track/4U8HGyQPnClspBlkHBYQbv"
-    },
-    {
-      "added_at": "2026-11-27 05:00:49",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 198190,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
-    },
-    {
-      "added_at": "2026-11-27 05:00:49",
-      "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
     },
     {
       "added_at": "2026-11-27 05:00:49",
@@ -1147,22 +1131,18 @@
     {
       "added_at": "2026-11-27 05:00:49",
       "album": {
-        "name": "Rajada",
-        "url": "https://open.spotify.com/album/6kYN2vsmpLd6fw6o3RwdbI"
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 239999,
-      "name": "Rajada",
-      "url": "https://open.spotify.com/track/2TfQdeD0hXYLV6Nco71GJm"
+      "duration_ms": 249573,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
     },
     {
       "added_at": "2026-11-27 05:00:49",
@@ -1179,6 +1159,26 @@
       "duration_ms": 442500,
       "name": "Ameonna",
       "url": "https://open.spotify.com/track/2QWVzSa39qQ66oJdIXclo1"
+    },
+    {
+      "added_at": "2026-11-27 05:00:49",
+      "album": {
+        "name": "Rajada",
+        "url": "https://open.spotify.com/album/6kYN2vsmpLd6fw6o3RwdbI"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Rajada",
+      "url": "https://open.spotify.com/track/2TfQdeD0hXYLV6Nco71GJm"
     },
     {
       "added_at": "2026-11-27 05:00:49",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-11-27 05:00:49",
       "album": {
-        "name": "Major Drop",
-        "url": "https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 190154,
-      "name": "Major Drop",
-      "url": "https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG"
-    },
-    {
-      "added_at": "2026-11-27 05:00:49",
-      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 230487,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
+    },
+    {
+      "added_at": "2026-11-27 05:00:49",
+      "album": {
+        "name": "Major Drop",
+        "url": "https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 190154,
+      "name": "Major Drop",
+      "url": "https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG"
     },
     {
       "added_at": "2026-11-27 05:00:49",
@@ -1759,30 +1759,6 @@
     {
       "added_at": "2026-11-27 05:00:49",
       "album": {
-        "name": "High On A Feeling",
-        "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
-      },
-      "artists": [
-        {
-          "name": "Layla Benitez",
-          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
-        },
-        {
-          "name": "FR3ADY",
-          "url": "https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya"
-        },
-        {
-          "name": "JULIANNA",
-          "url": "https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q"
-        }
-      ],
-      "duration_ms": 211535,
-      "name": "High On A Feeling",
-      "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
-    },
-    {
-      "added_at": "2026-11-27 05:00:49",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0nU3kBbCtjjOXY4mQXK4Pc"
       },
@@ -1819,18 +1795,26 @@
     {
       "added_at": "2026-11-27 05:00:49",
       "album": {
-        "name": "Bounce Music",
-        "url": "https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G"
+        "name": "High On A Feeling",
+        "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
       },
       "artists": [
         {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+          "name": "Layla Benitez",
+          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
+        },
+        {
+          "name": "FR3ADY",
+          "url": "https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya"
+        },
+        {
+          "name": "JULIANNA",
+          "url": "https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q"
         }
       ],
-      "duration_ms": 230769,
-      "name": "Bounce Music",
-      "url": "https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP"
+      "duration_ms": 211535,
+      "name": "High On A Feeling",
+      "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
     },
     {
       "added_at": "2026-11-27 05:00:49",
@@ -1855,6 +1839,22 @@
       "duration_ms": 214946,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
+    },
+    {
+      "added_at": "2026-11-27 05:00:49",
+      "album": {
+        "name": "Bounce Music",
+        "url": "https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Bounce Music",
+      "url": "https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP"
     },
     {
       "added_at": "2026-11-27 05:00:49",
@@ -1971,6 +1971,26 @@
     {
       "added_at": "2026-11-27 05:00:49",
       "album": {
+        "name": "City Reverie",
+        "url": "https://open.spotify.com/album/0yCosyR8w4qAwmCpbYMYh4"
+      },
+      "artists": [
+        {
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        }
+      ],
+      "duration_ms": 212883,
+      "name": "Forgive Them",
+      "url": "https://open.spotify.com/track/243FH8uZwrSMpQqEuoPjJ2"
+    },
+    {
+      "added_at": "2026-11-27 05:00:49",
+      "album": {
         "name": "Now We Are Free (B Jones Remix)",
         "url": "https://open.spotify.com/album/57f75W90HKQrPNKXLkU4kf"
       },
@@ -1991,26 +2011,6 @@
       "duration_ms": 210490,
       "name": "Now We Are Free - B Jones Remix",
       "url": "https://open.spotify.com/track/1J8k92DuKPAmJEOfKmCTYQ"
-    },
-    {
-      "added_at": "2026-11-27 05:00:49",
-      "album": {
-        "name": "City Reverie",
-        "url": "https://open.spotify.com/album/0yCosyR8w4qAwmCpbYMYh4"
-      },
-      "artists": [
-        {
-          "name": "Deeparture",
-          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
-        },
-        {
-          "name": "Lazarusman",
-          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
-        }
-      ],
-      "duration_ms": 212883,
-      "name": "Forgive Them",
-      "url": "https://open.spotify.com/track/243FH8uZwrSMpQqEuoPjJ2"
     },
     {
       "added_at": "2026-11-27 05:00:49",

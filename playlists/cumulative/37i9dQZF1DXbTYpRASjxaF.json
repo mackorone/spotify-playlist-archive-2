@@ -10695,6 +10695,36 @@
     },
     {
       "album": {
+        "name": "SUPER NEGRO, VOL. 2",
+        "url": "https://open.spotify.com/album/6rpQUpuPSRLO3tz66uF1VI"
+      },
+      "artists": [
+        {
+          "name": "okie",
+          "url": "https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Yoko",
+          "url": "https://open.spotify.com/artist/0UenuJp55lQTf168bwDCcH"
+        },
+        {
+          "name": "bwhatudoin",
+          "url": "https://open.spotify.com/artist/4efJOhkoi4uqW0vULYPEUR"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Orangotango",
+      "url": "https://open.spotify.com/track/5O1volUdpPPnU2cJBj8sBy"
+    },
+    {
+      "album": {
         "name": "Linguagem De Rua",
         "url": "https://open.spotify.com/album/1pdDqLCha7jsiouRVoNPNH"
       },
@@ -12754,7 +12784,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 149684,
       "name": "Rebola Na Vara",
       "url": "https://open.spotify.com/track/1FU24ZYS74ElrWpoJq01kJ"

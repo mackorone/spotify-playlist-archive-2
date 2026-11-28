@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 87126,
+  "num_followers": 87132,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAA1TcKSrQhlyCsgRFqT4t7S",
+  "snapshot_id": "awd2gAAAAADBTVxiEXQ4GiedUD3PZn5z",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Edith M\u00e1rquez. S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/4N5kJyBmPIXTT4cCKMEzKw"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Hazme Olvidarlo",
+      "url": "https://open.spotify.com/track/0A3VGRslEA7QHh45NRXasw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memorias Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 218920,
       "name": "El primero, el \u00fanico, el \u00faltimo",
       "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Edith M\u00e1rquez. S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/4N5kJyBmPIXTT4cCKMEzKw"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Hazme Olvidarlo",
-      "url": "https://open.spotify.com/track/0A3VGRslEA7QHh45NRXasw"
     },
     {
       "added_at": null,

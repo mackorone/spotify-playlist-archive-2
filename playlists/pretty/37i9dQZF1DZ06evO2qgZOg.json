@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 336352,
+  "num_followers": 336391,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAAqWgGbvgrl9fj/cjxXrLJ1",
+  "snapshot_id": "awd2gAAAAAC4eK57q84vWD4DBwuaieqJ",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 238168,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/5sxSfajurxK1jzBUzTLou5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awake (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 229200,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/6TwT18qPHvu1T3p91MtgyN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 238168,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/5sxSfajurxK1jzBUzTLou5"
     },
     {
       "added_at": null,

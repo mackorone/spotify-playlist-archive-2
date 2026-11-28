@@ -4,7 +4,7 @@
 
 > The best new Irish music in one place 📍 Cover: Radie Peat
 
-669 songs - 1 day 13 hr 16 min
+670 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [no indication](https://open.spotify.com/track/7dANeBcbg08qI0mZ4xa2II) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [repeat it aloud](https://open.spotify.com/album/6PW7s1KjrVaDZmiKqAcWiW) | 4:06 | 2026-11-27 |  |
 | [No More](https://open.spotify.com/track/7af2f5aBB7qe3bIgJUNjrb) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq) | [No More](https://open.spotify.com/album/0UizShvXdzrnmPWPm2X8xW) | 2:13 | 2026-05-21 | 2026-09-04 |
 | [No Right Time](https://open.spotify.com/track/02VawMWSiIOTvzxRN1xVtj) | [Zaska](https://open.spotify.com/artist/3gzJlKscDvfqlV0z1B5g8k), [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [No Right Time](https://open.spotify.com/album/59939dOiGsLhlQR3foHWYY) | 3:59 | 2024-10-18 | 2025-05-31 |
+| [No Surrender](https://open.spotify.com/track/5eCMtgcxInhutsiSP1YsX9) | [Joe Cleere](https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA) | [No Surrender](https://open.spotify.com/album/4VGs1pJ0Tsqn9TB9WMg2v7) | 3:47 | 2026-11-27 |  |
 | [NOBLE](https://open.spotify.com/track/36jgline0lR83kGP9YFXcE) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/7kSO56we07fodbcyHOSCps) | 3:05 | 2026-01-23 | 2026-11-13 |
 | [Nobody's Coming To Save You](https://open.spotify.com/track/0difWBwYseFbbXTAj6TyOi) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nobody's Coming To Save You](https://open.spotify.com/album/08GMRYh0ZUnEE9w7y9S0CF) | 3:42 | 2026-05-21 | 2026-09-11 |
 | [Nobu](https://open.spotify.com/track/0t8lulg4WM4813ib0klR9S) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Nobu](https://open.spotify.com/album/3tF98Bm6QCkrYH4nhxz7nu) | 2:49 | 2024-05-16 | 2024-10-19 |
@@ -641,7 +642,7 @@
 | [What About Love](https://open.spotify.com/track/4X363jPq3db7ODossYt3l7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 3:37 | 2025-11-14 | 2026-07-23 |
 | [What Can I Do](https://open.spotify.com/track/60fPbVgMVPyeupXThhwYsr) | [Seán Parnell](https://open.spotify.com/artist/4T2113mnfHPC18oWfR1n5u) | [What Can I Do](https://open.spotify.com/album/1gwzS5aSIiElQqOrjyY671) | 3:50 | 2024-02-02 | 2024-05-03 |
 | [WHAT IF?](https://open.spotify.com/track/5M6eDxEy9OdZNAGvmqmyXv) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [PHANTOM OF THE AFTERS](https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy) | 3:27 | 2024-02-02 | 2024-07-19 |
-| [What You Started](https://open.spotify.com/track/3w9oWaHByKZuSDzxGFwhie) | [palefase](https://open.spotify.com/artist/4x7nX5fdyvHDJu3fxm3HF4) | [Good Grief](https://open.spotify.com/album/12YhneKsxbpz9GlEpXsevZ) | 2:51 | 2026-10-30 |  |
+| [What You Started](https://open.spotify.com/track/3w9oWaHByKZuSDzxGFwhie) | [palefase](https://open.spotify.com/artist/4x7nX5fdyvHDJu3fxm3HF4) | [Good Grief](https://open.spotify.com/album/12YhneKsxbpz9GlEpXsevZ) | 2:51 | 2026-10-30 | 2026-11-28 |
 | [WHAT'S LEFT?](https://open.spotify.com/track/1jSeEBRo7r56Hi9i7G3LnZ) | [USNA](https://open.spotify.com/artist/1gvfXsq7lTgVZNr104nV1i) | [REPRESENT](https://open.spotify.com/album/1kmKUlRZBN5tLV5e56mm4n) | 3:06 | 2024-08-16 | 2025-02-01 |
 | [WHATCHIMACALLIT.](https://open.spotify.com/track/1IeYkGRtIGwMt714teSfla) | [Ahmed, With Love.](https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK) | [WHATCHIMACALLIT.](https://open.spotify.com/album/0F81Vw5HTtRRixA1etxJoW) | 2:01 | 2024-07-19 | 2024-12-07 |
 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 | 2026-07-22 | 2026-11-06 |

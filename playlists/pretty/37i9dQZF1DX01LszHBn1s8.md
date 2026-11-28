@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > I ❤️ U...but my body isn't ready!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,063 likes - 96 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,047 likes - 96 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

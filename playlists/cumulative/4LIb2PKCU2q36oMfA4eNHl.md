@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-497 songs - 1 day 7 hr 51 min
+498 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [p.m](https://open.spotify.com/track/17mCeGB2pXP4NbYQiLuhep) | [Gollden](https://open.spotify.com/artist/6ihCC4ynwJas1AbDb030Vy) | [Sundial](https://open.spotify.com/album/413cZ9D5jlXeM7qN67v1hb) | 4:26 | 2026-10-28 |  |
 | [Painting Out \- Robyn Sherwell Revisit](https://open.spotify.com/track/42BJCTF3U5NU78lrEaNDx3) | [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Painting Out \(Robyn Sherwell Revisit\)](https://open.spotify.com/album/343TJWS9VH04cqFffmQgDs) | 4:50 | 2024-10-04 | 2025-05-17 |
 | [Pandora](https://open.spotify.com/track/5e5Q1bAFyR6o3dpB5gufQw) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Pandora](https://open.spotify.com/album/4L7o78mSbrbTB6AXSzqgdj) | 6:38 | 2024-09-20 | 2025-01-14 |
+| [PATTERNS](https://open.spotify.com/track/5BFmKRDd5AfV2mKvNSxyRG) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [PATTERNS](https://open.spotify.com/album/3NZUsypk66zOhWZT43dYwP) | 3:48 | 2026-11-27 |  |
 | [Peaceful Avenues \- Unplugged Instrumental](https://open.spotify.com/track/2ucQtiO5cCdbGJGiRfYC3H) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [Peaceful Avenues](https://open.spotify.com/album/2tSLZZXtD1PDRuRTNNKnst) | 4:00 | 2024-04-16 | 2024-12-07 |
 | [Peacock Tail](https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:24 | 2025-08-15 | 2026-01-28 |
 | [Persevere \- An Evening With Wife's Piano Playing](https://open.spotify.com/track/2uy39vRSVXKvYzEwJfbCRu) | [Alex Rusin](https://open.spotify.com/artist/5ncIkDwysG4a84OvqiL4uS) | [Reflections 09](https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5) | 2:25 | 2024-07-19 | 2024-10-12 |
@@ -504,6 +505,6 @@
 | [Your Depth Of Imagination](https://open.spotify.com/track/3RFMabGRVnc46cWqceyT9W) | [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [My Mother Was A Synthesizer EP](https://open.spotify.com/album/21dxrmqpCfgpnMA4V2GocZ) | 2:38 | 2023-12-08 | 2023-12-16 |
 | [Your Love's Not Wasted](https://open.spotify.com/track/1at0ZV2iOErop550JQLyZR) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Jakke](https://open.spotify.com/artist/4J2F2H9mhFcaXDs64WCMxQ) | [Your Love's Not Wasted](https://open.spotify.com/album/6a92sVEH9NRJWTpLbJfO9L) | 4:00 | 2024-07-31 | 2024-09-07 |
 | [Yuta's Curse](https://open.spotify.com/track/5XvQ06RzxVYNE2CcHlWW25) | [Tropicalpurples](https://open.spotify.com/artist/5P14dIQyeZyLCJpi5uhVRd) | [Uhh.\. EP](https://open.spotify.com/album/1qEaa6JOjp0TG9r20FBv8q) | 3:18 | 2025-02-28 | 2025-08-16 |
-| [Énouement \- Electronic](https://open.spotify.com/track/7gpVvlNPL6zCpRFj5uniwt) | [Iskarelyn](https://open.spotify.com/artist/6EYhZnGfuQEGRjxjfOx9Hd), [Raffaele Grimaldi](https://open.spotify.com/artist/4OCjOBEzP8yTUPh6puX8ly) | [Énouement \(Electronic\)](https://open.spotify.com/album/30wWjsUMHMMwHNKCgl9X1R) | 2:54 | 2026-05-26 |  |
+| [Énouement \- Electronic](https://open.spotify.com/track/7gpVvlNPL6zCpRFj5uniwt) | [Iskarelyn](https://open.spotify.com/artist/6EYhZnGfuQEGRjxjfOx9Hd), [Raffaele Grimaldi](https://open.spotify.com/artist/4OCjOBEzP8yTUPh6puX8ly) | [Énouement \(Electronic\)](https://open.spotify.com/album/30wWjsUMHMMwHNKCgl9X1R) | 2:54 | 2026-05-26 | 2026-11-28 |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

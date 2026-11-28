@@ -1,33 +1,13 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 446253,
+  "num_followers": 446285,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAAMj/sdqbTvpwCdeeXvw0QJ",
+  "snapshot_id": "awd2gAAAAAAtsAqa/vES5rv0UuxSbDjS",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming For You (Hometown Remix)",
-        "url": "https://open.spotify.com/album/62NbAvdDqkkuHff5v9MSBb"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        },
-        {
-          "name": "yaboyNOIS",
-          "url": "https://open.spotify.com/artist/7LDnsvMHUPhLu0fkjRoVkG"
-        }
-      ],
-      "duration_ms": 162302,
-      "name": "Coming For You - Hometown Remix",
-      "url": "https://open.spotify.com/track/1W7CnNSMlOTGQezT8NlgUl"
-    },
     {
       "added_at": null,
       "album": {
@@ -819,6 +799,22 @@
       "duration_ms": 203640,
       "name": "Ok, But This Is The Last Time",
       "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ignition (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 152466,
+      "name": "Session - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
     }
   ],
   "unique_name": "This Is The Offspring",

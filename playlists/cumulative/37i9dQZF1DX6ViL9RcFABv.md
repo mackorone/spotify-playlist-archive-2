@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: Buba Espinho
 
-635 songs - 1 day 9 hr 32 min
+636 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [Pôr do Sol](https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Pôr do Sol](https://open.spotify.com/album/656nGI6shKfsEFNGBZTOKA) | 2:40 | 2025-04-24 | 2026-01-16 |
 | [Qualquer Hora](https://open.spotify.com/track/0BSU8iPYumjAXX7PNXqVjc) | [Criss Calisto](https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX) | [Qualquer Hora](https://open.spotify.com/album/3iUGxF5uo6k4X8zKUAWGge) | 2:52 | 2025-04-10 | 2025-10-03 |
 | [Quando as vês](https://open.spotify.com/track/20DOQsUkkgHL12fuijAq29) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Um Brinde ao Agora](https://open.spotify.com/album/6qrAiIIlSK6YDc9hXtOdCr) | 2:55 | 2025-05-15 | 2025-09-27 |
+| [QUANDO CHORO É PRA CHORAR](https://open.spotify.com/track/65kqhQ1MG1fnQeM2jBydHG) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [QUANDO CHORO É PRA CHORAR](https://open.spotify.com/album/6E4bgvp0xCqrYiJszQXFju) | 3:26 | 2026-11-27 |  |
 | [Quando Te Fores Embora](https://open.spotify.com/track/3sIKPC4xlPiymxgPjLlACX) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Quando Te Fores Embora](https://open.spotify.com/album/0ljfcronV5BqH5q2vl6Bvj) | 2:55 | 2025-06-12 | 2025-10-03 |
 | [Quanto Tempo Tem](https://open.spotify.com/track/2Ydka52H6YTx151H9uB9Lf) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Quanto Tempo Tem](https://open.spotify.com/album/0fN3KrSOFJ89X9NXPhSvke) | 3:23 | 2025-10-31 | 2026-04-10 |
 | [Quase](https://open.spotify.com/track/379xKgGDBUTsg0hq67M4pC) | [Archie](https://open.spotify.com/artist/6BQmTsPNeH0wmWXxa1CF4P) | [Quase](https://open.spotify.com/album/35Bc7PzXeGfqGSiYXwp4Ua) | 2:55 | 2026-07-30 |  |

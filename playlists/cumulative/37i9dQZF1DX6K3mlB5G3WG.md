@@ -4,7 +4,7 @@
 
 > Santamarea in cover  + le migliori nuove uscite 🇮🇹 e 🌎!
 
-4,113 songs - 8 day 20 hr 48 min
+4,116 songs - 8 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Amori Disperati](https://open.spotify.com/track/5VUEsDCUuCaaKHRxb7LrN5) | [Michelle](https://open.spotify.com/artist/0S6wRCTfCfHTetJ218deAm) | [Amori Disperati](https://open.spotify.com/album/5YkxDDKtYZCI1ygp0xqM6u) | 2:30 | 2025-06-12 | 2025-07-11 |
 | [amoureux](https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [amoureux](https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh) | 2:13 | 2026-06-18 | 2026-07-10 |
 | [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 | 2025-01-30 | 2025-02-21 |
+| [ANANKE](https://open.spotify.com/track/6E8su60m0v3jP3cdQYPHMD) | [Tìaso](https://open.spotify.com/artist/6MNJgw78E2Nallm3kgSKvV) | [ANANKE](https://open.spotify.com/album/7rltsYDr7DgTgWYTWWZ7eI) | 2:06 | 2026-11-27 |  |
 | [Anche a vent’anni si muore](https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Anche a vent’anni si muore](https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM) | 3:40 | 2026-01-23 | 2026-02-20 |
 | [Anche Se Ti Amo \(con Frah Quintale, nayt & prima stanza a destra\)](https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:27 | 2025-05-29 | 2025-06-27 |
 | [ANCORA](https://open.spotify.com/track/0wpHfNrcHhorXg5hAShozc) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [ANCORA](https://open.spotify.com/album/0UVmCwuninL78hS7RUYq5L) | 2:33 | 2026-03-19 | 2026-04-10 |
@@ -1067,6 +1068,7 @@
 | [Due come noi due](https://open.spotify.com/track/6BZvp54X7G243O4QyFMal4) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Due come noi due](https://open.spotify.com/album/1JUn9SHjOvWXTaQZjBruJA) | 3:19 | 2026-10-15 | 2026-11-03 |
 | [DUE GATTI A MILANO](https://open.spotify.com/track/07ml1sRzeQQIj6U6lfWS95) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [VITA\_FUSA](https://open.spotify.com/album/7lUQ8zSvRJwgC77Pb3St5Z) | 2:52 | 2025-03-06 | 2025-04-04 |
 | [DUE SETTIMANE](https://open.spotify.com/track/5No1FtxyDFpuvroVqIOhjK) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [DUE SETTIMANE](https://open.spotify.com/album/1K9zQt6GJPwwY885MqBhHX) | 3:37 | 2026-07-02 | 2026-09-04 |
+| [Due siga \(feat\. Sgribaz\)](https://open.spotify.com/track/2wzKI79hs4eMQ3WxEFUEO4) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi), [Frenkie G](https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k) | [CONTROCIELO](https://open.spotify.com/album/48CQHXETpbCXCp4BzMakdr) | 2:44 | 2026-11-27 |  |
 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 | 2024-10-31 | 2024-12-06 |
 | [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 | 2025-08-07 | 2025-09-12 |
 | [Dye My Hair](https://open.spotify.com/track/62YLxkkdwBWRI0TKeSRcjt) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Dye My Hair](https://open.spotify.com/album/2e17yDVpBl5Buq9GJ7LJzz) | 3:27 | 2026-09-03 | 2026-09-18 |
@@ -2689,6 +2691,7 @@
 | [PASSPORT](https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PASSPORT](https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K) | 2:11 | 2025-09-12 | 2025-10-04 |
 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 | 2025-11-06 | 2025-11-28 |
 | [Past Won't Leave My Bed](https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/3WVLl7wbF8oNra7oMZ62Ta) | 2:46 | 2026-02-05 | 2026-02-25 |
+| [pastries](https://open.spotify.com/track/0M0HKuy0M53iAuiI5eja6B) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [coming of age](https://open.spotify.com/album/3jRmvBYzoASoB1r80uxXus) | 2:51 | 2026-11-27 |  |
 | [PaToLasGyales](https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [LOS ANGELITOS](https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5) | 3:38 | 2026-06-18 | 2026-07-10 |
 | [PATRONA](https://open.spotify.com/track/7y7NzMaaeT78ljVFGOALzU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [PATRONA](https://open.spotify.com/album/42ezAHV90jXuRCgi94UTvf) | 2:45 | 2026-06-25 | 2026-07-17 |
 | [Paura del buio](https://open.spotify.com/track/7LxxMsZUi8T9FQ6XW47wtJ) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Paura del buio](https://open.spotify.com/album/2aB1GGNNYg2rD3djwOMAtp) | 3:33 | 2026-11-26 |  |

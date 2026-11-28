@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Lucero, Majo Aguilar \ud83d\udcf8",
-  "num_followers": 368433,
+  "num_followers": 368448,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
+        "name": "Se\u00f1ora",
+        "url": "https://open.spotify.com/album/2oyHnW61jWoGpPP28HbbpP"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 179892,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/06nwHtAD2U2k2YrE9xCrBh"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 180865,
       "name": "La De Rogar",
       "url": "https://open.spotify.com/track/4vJWRawk1I1cDzAs3cbbLb"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
-        "name": "Se\u00f1ora",
-        "url": "https://open.spotify.com/album/2oyHnW61jWoGpPP28HbbpP"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 179892,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/06nwHtAD2U2k2YrE9xCrBh"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Por Un Mal Amor",
-        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 193998,
-      "name": "Por Un Mal Amor",
-      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
         "name": "Culpa M\u00eda+ El Mimoso Luis Antonio L\u00f3pez",
         "url": "https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 206043,
       "name": "Cielito Lindo - Live",
       "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
+        "name": "Por Un Mal Amor",
+        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 193998,
+      "name": "Por Un Mal Amor",
+      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Pagar\u00e9 Condena",
-        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Tostado",
-          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
-        }
-      ],
-      "duration_ms": 164960,
-      "name": "Pagar\u00e9 Condena",
-      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
         "name": "Besitos Al Contado",
         "url": "https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 165693,
       "name": "El Target",
       "url": "https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
+        "name": "Pagar\u00e9 Condena",
+        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Tostado",
+          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
+        }
+      ],
+      "duration_ms": 164960,
+      "name": "Pagar\u00e9 Condena",
+      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
     },
     {
       "added_at": "2026-11-20 21:42:08",

@@ -7705,6 +7705,24 @@
     },
     {
       "album": {
+        "name": "playing god (spanish acoustic cover)",
+        "url": "https://open.spotify.com/album/3zPHe6DiSgA0y5fxt9spB9"
+      },
+      "artists": [
+        {
+          "name": "Blanca O",
+          "url": "https://open.spotify.com/artist/2iR8lMNlhkCx6s86sSJUb5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184848,
+      "name": "playing god - spanish acoustic cover",
+      "url": "https://open.spotify.com/track/3HktUewEjgTD7JSG4BHbBU"
+    },
+    {
+      "album": {
         "name": "Pliz non la skippare",
         "url": "https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl"
       },

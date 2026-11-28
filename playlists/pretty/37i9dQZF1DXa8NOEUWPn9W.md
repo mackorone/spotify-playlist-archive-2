@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring IDEMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,037,368 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,037,929 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 9 | [4 THA STREETS](https://open.spotify.com/track/4lYjiK7IY7vIK34Ps4qM9p) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [4 THA STREETS](https://open.spotify.com/album/6jVFuk7QXT01JaCeuqhBo6) | 2:28 |
 | 10 | [Pretty Girl](https://open.spotify.com/track/3pDUobnmt1ZOQfSd7dbEOq) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t), [Sierra Volt](https://open.spotify.com/artist/41VHnv4oiwVogATh4zFsOj) | [Pretty Girl](https://open.spotify.com/album/22t4kIkeFXe5tJfrMJo3my) | 2:44 |
 | 11 | [BbY WOW \- John Summit Remix](https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [BbY WOW \- John Summit Remix](https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv) | 3:38 |
-| 12 | [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 |
+| 12 | [More Than A Friend](https://open.spotify.com/track/0ZWDl9EP8IgrzA22xdhgNn) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [More Than A Friend](https://open.spotify.com/album/15fhEY4D8hwwUYqzQoIIHS) | 3:38 |
 | 13 | [It's Party Time](https://open.spotify.com/track/4ZdblLSO4Bny0JbLHxdDDU) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [It's Party Time](https://open.spotify.com/album/5qk4YtCs9wseZnFs7QmXyl) | 2:51 |
 | 14 | [Energy](https://open.spotify.com/track/2eAIjLSqXgpM6bZoSKNxUv) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Energy EP](https://open.spotify.com/album/3B38ik7ZUfeQp4kNd9tl1E) | 3:25 |
 | 15 | [Personal](https://open.spotify.com/track/624l2EfYCGPJzV6Kn3oWKH) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Personal](https://open.spotify.com/album/08UUNBzSbmrxH6m4FuEeGu) | 3:22 |

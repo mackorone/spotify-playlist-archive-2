@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Bradley Hale, Sully Burrows
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,604 likes - 200 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,610 likes - 200 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Good Ol' Boys](https://open.spotify.com/track/03nViDKX4l6UtQU6zA9zys) | [Bradley Hale](https://open.spotify.com/artist/1TPjClIZ0S2xtgSNfqV6gF), [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Good Ol' Boys](https://open.spotify.com/album/0SdpW5gfPjt7lnRYIa4yU3) | 3:25 |
 | 2 | [Place And Space In Time](https://open.spotify.com/track/1gR8iPbYTp8Gzpa7ScMALI) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In The Feeling \(Deluxe\)](https://open.spotify.com/album/5TPWHD9a20t0eVW4RYrCME) | 3:33 |
-| 3 | [Carolane](https://open.spotify.com/track/6CuhMhEsK1Z4ZwfyROjtpk) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Origine](https://open.spotify.com/album/535GSp5DHaSo7EWWoj05j2) | 2:32 |
+| 3 | [Carolane](https://open.spotify.com/track/6CuhMhEsK1Z4ZwfyROjtpk) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q), [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Origine](https://open.spotify.com/album/535GSp5DHaSo7EWWoj05j2) | 2:32 |
 | 4 | [In The Pines](https://open.spotify.com/track/2z9mTx96kxeplaxkkgkhSw) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Lucas Mason](https://open.spotify.com/album/0pmgusucO04hYc5yc3BmMw) | 3:16 |
 | 5 | [Good Lord](https://open.spotify.com/track/7v6GQMlq3Vejxue251OKvc) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Good Lord](https://open.spotify.com/album/20bzdjZZyvuHwoj9zY1xsI) | 2:48 |
 | 6 | [I Ain’t Free](https://open.spotify.com/track/4UtlnwM0lRBDicD1FQ3Tgx) | [Catie St.Germain](https://open.spotify.com/artist/5CNov9zScAO79WvNww2tdv) | [I Ain’t Free](https://open.spotify.com/album/0aIzftIxmAjtPV48Lrnq7u) | 3:08 |

@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,926 songs - 4 day 6 hr 11 min
+1,927 songs - 4 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -909,6 +909,7 @@
 | [La Petite Mort](https://open.spotify.com/track/5JP6q0Hb2hMwFLgv1AT4NC) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [La Petite Mort](https://open.spotify.com/album/3TH2HwxTPUQetZFsZxPaVj) | 3:44 | 2023-06-22 | 2023-08-01 |
 | [La Playa](https://open.spotify.com/track/1W1GlXELMT9LM9bFZ5EAlf) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:32 | 2023-07-31 | 2023-12-14 |
 | [La Playa](https://open.spotify.com/track/5W0DBnF4KbWbyrKiioUP41) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [La Playa](https://open.spotify.com/album/1EZogjxmesbePlL8Ap6Rjc) | 3:32 | 2023-06-01 | 2023-08-01 |
+| [La Vida Loca](https://open.spotify.com/track/4ygwPl8XkKgdcU330rowBf) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [La Vida Loca](https://open.spotify.com/album/34BnPUSzGUfS4eNmvyzDGb) | 3:02 | 2026-11-27 |  |
 | [Ladadi](https://open.spotify.com/track/5QoWlncCKu3KDHYnrvxHVq) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Ladadi](https://open.spotify.com/album/3oh3mzkLzBP0xB0c8rTHIo) | 2:30 | 2025-03-27 | 2025-07-18 |
 | [Lalo's Theme Song](https://open.spotify.com/track/6FVQNFaTfSxvqnCI0gq14W) | [George Feely](https://open.spotify.com/artist/754g9H1CJLzlgTmMZTFC81) | [Lalo's Theme Song](https://open.spotify.com/album/7F3uXtZ36akR5XruK3FhDb) | 3:09 | 2023-02-09 | 2023-03-03 |
 | [Larger Than Life](https://open.spotify.com/track/18W9I2wA2gvfzpo4Oqc04O) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Larger Than Life](https://open.spotify.com/album/7lzfAlDx8WeHENV6CDhHVG) | 2:55 | 2024-05-30 | 2024-10-19 |

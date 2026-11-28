@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de Pepe Walker",
-  "num_followers": 93883,
+  "num_followers": 93885,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -607,18 +607,22 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "LOBO",
-        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
+        "name": "Amor x Dosis (Deluxe)",
+        "url": "https://open.spotify.com/album/2rHFxiVI5DgyChVksONf3n"
       },
       "artists": [
         {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 147386,
-      "name": "LOBO",
-      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
+      "duration_ms": 185717,
+      "name": "Chiquilla",
+      "url": "https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -643,22 +647,18 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "Amor x Dosis (Deluxe)",
-        "url": "https://open.spotify.com/album/2rHFxiVI5DgyChVksONf3n"
+        "name": "LOBO",
+        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
       },
       "artists": [
         {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
         }
       ],
-      "duration_ms": 185717,
-      "name": "Chiquilla",
-      "url": "https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN"
+      "duration_ms": 147386,
+      "name": "LOBO",
+      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
-        "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
-      },
-      "artists": [
-        {
-          "name": "El Verumcito",
-          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
-        },
-        {
-          "name": "Emiliano Athie",
-          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "14 plegarias /x\\",
-      "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/1k4LIFLuSsXyS4VjsS3O0t"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 146865,
       "name": "URUS",
       "url": "https://open.spotify.com/track/1orFV83o0XxHF3HHyJCsLD"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
+        "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
+      },
+      "artists": [
+        {
+          "name": "El Verumcito",
+          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
+        },
+        {
+          "name": "Emiliano Athie",
+          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "14 plegarias /x\\",
+      "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "Manuel (Ojal\u00e1 que nunca escuches este disco)",
-        "url": "https://open.spotify.com/album/2V2m6U5rE9O6zVhWJW8rVm"
-      },
-      "artists": [
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 125449,
-      "name": "El alma de la fiesta",
-      "url": "https://open.spotify.com/track/512TbNoyJjDVaCfid6NYh3"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "Mirando desde afuera",
         "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 203750,
       "name": "Mirando desde afuera",
       "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "Manuel (Ojal\u00e1 que nunca escuches este disco)",
+        "url": "https://open.spotify.com/album/2V2m6U5rE9O6zVhWJW8rVm"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 125449,
+      "name": "El alma de la fiesta",
+      "url": "https://open.spotify.com/track/512TbNoyJjDVaCfid6NYh3"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
+        "name": "Cumbia y Calle",
+        "url": "https://open.spotify.com/album/5SDPeLlYTq1lEW0uaPKnP3"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        }
+      ],
+      "duration_ms": 149617,
+      "name": "No Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/1E0Ok2WEsRmm93n9xNo3wg"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
         "name": "hoy les digo que",
         "url": "https://open.spotify.com/album/6ArPxheUgUkE5lfXli0vxA"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 236341,
       "name": "los quiero de verdad",
       "url": "https://open.spotify.com/track/6mhuq822JPDG5gEp5Ey2KF"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
-        "name": "Cumbia y Calle",
-        "url": "https://open.spotify.com/album/5SDPeLlYTq1lEW0uaPKnP3"
-      },
-      "artists": [
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        }
-      ],
-      "duration_ms": 149617,
-      "name": "No Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/1E0Ok2WEsRmm93n9xNo3wg"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
+        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
+        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "CADENAS",
+      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
         "name": "T.V ADDICT (nitro)",
         "url": "https://open.spotify.com/album/727LHY7Z8C6n1S9qbbxbnJ"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 210258,
       "name": "buttermilk 2",
       "url": "https://open.spotify.com/track/2yT6DwSVxB3WgyIUmDrnDZ"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
-        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
-        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
-      },
-      "artists": [
-        {
-          "name": "Gloory Hole",
-          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "CADENAS",
-      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
     },
     {
       "added_at": "2026-11-06 05:59:35",

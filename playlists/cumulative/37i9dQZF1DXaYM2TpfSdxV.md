@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudarte a dormir.
 
-387 songs - 17 hr 28 min
+387 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Flowy White Noise](https://open.spotify.com/track/7qJL93l2CXjAYOHtyH05Ep) | [The Art of Nature](https://open.spotify.com/artist/1O9LwphbHD5aIvUVGxQqbR) | [Relax In Noise](https://open.spotify.com/album/1xkuWJZVCKAMWMXRADvb1Q) | 2:18 | 2023-03-09 | 2023-04-13 |
 | [Flujo De Ruido](https://open.spotify.com/track/0H7AdLmbt8cB8tiGiQThDr) | [Tiempo Discreto](https://open.spotify.com/artist/0Pz9iAW7D7jzpx0DkXap7U) | [Ruido De Vuelo](https://open.spotify.com/album/5cF6tBiZ2CExYwTBxIrgix) | 1:49 | 2023-04-12 | 2023-06-29 |
 | [Focus Noise](https://open.spotify.com/track/0ONrfTPB8dvQf8ZcQCSHTm) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [Focus White Noise](https://open.spotify.com/album/6qx7NHPPTW8eZWL2hTjHx3) | 2:38 | 2023-04-12 | 2026-07-24 |
-| [Focus On Noise](https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 1:39 | 2023-04-12 |  |
+| [Focus On Noise](https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:29 | 2023-04-12 |  |
 | [Focus Waves](https://open.spotify.com/track/3x0EoMEp16dyEcraUR1beL) | [Gamma Ism](https://open.spotify.com/artist/13WXoLsp6BS82T8AWnnRHi) | [Focus Waves](https://open.spotify.com/album/3phP2ItswTCo5Zc1NV07rw) | 2:24 | 2023-03-09 | 2026-04-01 |
 | [Forces Within](https://open.spotify.com/track/5fVkkLrE7t9OTceS8IiQQz) | [Ambernois](https://open.spotify.com/artist/7bENpLRUNVijAdBIKLdYu1) | [Quantum](https://open.spotify.com/album/39cUKayVtjxZc6wZJ9ELbu) | 4:46 | 2023-03-09 | 2023-04-13 |
 | [Forever Ambient Noise](https://open.spotify.com/track/4Qs93QCHeZOsf01IVNQCBY) | [Noise Factory](https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe) | [The Rhythm Of Noise](https://open.spotify.com/album/5A2FT4FE0UZU06spwKPqox) | 2:22 | 2023-04-12 |  |
@@ -104,7 +104,7 @@
 | [Fuori Zona](https://open.spotify.com/track/7efOZRH7Zu4oCvQwZ8ppIq) | [Ablation](https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD) | [Fuori Zona](https://open.spotify.com/album/3lTDHYbUaQxWlYrmKaNOM0) | 2:21 | 2023-04-12 |  |
 | [FX Noise](https://open.spotify.com/track/0r07HUVhRRaku5uI7sXCUF) | [BBVB](https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP) | [In the back of the Cabin](https://open.spotify.com/album/5S12zt9R6E8GnTQLyA0Iqm) | 2:21 | 2023-04-12 |  |
 | [Gentle Static White Noise](https://open.spotify.com/track/58zHDtZpL11BylIbcwhDP0) | [Willow Shore](https://open.spotify.com/artist/6H3X9P23CDGZ5O3w7GeZBB) | [Gentle Static White Noise](https://open.spotify.com/album/5aucHuDrICyE790inzCLsX) | 3:15 | 2026-03-31 |  |
-| [Gentle White](https://open.spotify.com/track/0fYBdMaoVYP9cNopoEN9yg) | [Karmatico](https://open.spotify.com/artist/5CRhiev45r0raAcmlvJ3HV) | [White Noise Magic](https://open.spotify.com/album/6C96lLQOER0vraMAWy3laA) | 2:51 | 2023-03-09 | 2026-11-15 |
+| [Gentle White](https://open.spotify.com/track/0fYBdMaoVYP9cNopoEN9yg) | [Karmatico](https://open.spotify.com/artist/5CRhiev45r0raAcmlvJ3HV) | [White Noise Magic](https://open.spotify.com/album/6C96lLQOER0vraMAWy3laA) | 2:51 | 2023-03-09 |  |
 | [Gentle White Noise \- Seamless](https://open.spotify.com/track/2COPUH8f4mlt1vzZG83zqU) | [Natura Ferox](https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH) | [Gentle White Noise](https://open.spotify.com/album/6oxEgz8aIaZ62WeUlApe0c) | 2:53 | 2023-04-12 |  |
 | [Gentle White Noise Generator](https://open.spotify.com/track/7xirU92R68BcxUGYy4MeF1) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [Gentle White Noise Generator](https://open.spotify.com/album/2h6CzSLW1o2XzNZB3B8hAx) | 4:06 | 2023-03-09 |  |
 | [Good Night, White Noise](https://open.spotify.com/track/7wvFYp6DH6wnmssGxljA6Y) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Good Night, White Noise](https://open.spotify.com/album/6JdZfBjzn0tyfuzu0efVYp) | 4:58 | 2023-03-09 |  |
@@ -173,7 +173,7 @@
 | [Ocean of White Noise](https://open.spotify.com/track/1U32wy73T96IdYuq1L6yDf) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [Ocean of White Noise](https://open.spotify.com/album/78WC0lUTsf9C5a4wpWf6hh) | 2:07 | 2023-04-12 | 2024-02-03 |
 | [Ocean Shore Relax Noise](https://open.spotify.com/track/5UZ8QCyZFJU3N9bWO8uvp2) | [Ali Noise](https://open.spotify.com/artist/51qGEABC0Z9GNKIzgELIji) | [Relaxing Noise Soundscapes](https://open.spotify.com/album/1xP1E4qdhtQDfUsZ1KBsPb) | 1:13 | 2023-04-12 | 2023-06-29 |
 | [Office Canceling Noise](https://open.spotify.com/track/2oFm8HbzGMCRnOozyIonRB) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Momentary Repose](https://open.spotify.com/album/1giBQuyDOKrKsgt3WcYzNo) | 2:23 | 2023-03-09 | 2026-10-10 |
-| [Only White Noise](https://open.spotify.com/track/6JGPa5e2e85YSioo0Sy5Re) | [Nox](https://open.spotify.com/artist/0L3c6s49gKcqEgkXCeolrX) | [Only White Noise](https://open.spotify.com/album/5yEqyuRV0BoI7tFwGvQnRi) | 3:13 | 2023-04-12 |  |
+| [Only White Noise](https://open.spotify.com/track/6JGPa5e2e85YSioo0Sy5Re) | [Nox](https://open.spotify.com/artist/0L3c6s49gKcqEgkXCeolrX) | [Only White Noise](https://open.spotify.com/album/5yEqyuRV0BoI7tFwGvQnRi) | 3:13 | 2023-04-12 | 2026-11-28 |
 | [Out Cold with White Noise](https://open.spotify.com/track/2qcROjiCc0JSGVUiNsWrtw) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Out Cold with White Noise](https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70) | 4:02 | 2023-03-09 |  |
 | [Over The Clouds White Noise](https://open.spotify.com/track/5Wdp9jmSOnwnqNaus5hnTT) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Over The Clouds White Noise](https://open.spotify.com/album/3qZo7vN14fjqMYtBH8HAuK) | 3:01 | 2023-03-09 | 2025-12-02 |
 | [Pause The Noise](https://open.spotify.com/track/0mDQqx2jS7Da0kok7oUiiJ) | [Deep Horizon Waves](https://open.spotify.com/artist/5aw5WfeOV5ThlwFcfaK9JO) | [Oblivious Noise](https://open.spotify.com/album/4pdI1rB7U4PNUlTzP9zzhK) | 2:04 | 2023-04-12 |  |

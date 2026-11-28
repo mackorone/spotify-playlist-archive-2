@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,303 likes - 75 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,319 likes - 75 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 72 | [Chithirai Nilavu](https://open.spotify.com/track/0nQkNBxQrbZZgt7BKtW7GF) | [Jayachandran,Minmini](https://open.spotify.com/artist/03vYbI4ZFmXpaxpMaJbvI2) | [Vandicholai Chinnarasu \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/07Zi0VvutqeHXZuRJQT3cY) | 4:47 |
 | 73 | [Konjam Nilavu](https://open.spotify.com/track/7MBpd31LfRWqSq4S6iXm0t) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chandralekha Annupamaa](https://open.spotify.com/artist/2qpBRQ66e1zdpzBVNklhSv), [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 5:48 |
 | 74 | [Kaadhal Yogi](https://open.spotify.com/track/4gmqahu6i5AXRMgn4Lmg1f) | [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Thaalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1dqjhGrFSVGCsqf0BhDx4s) | 6:30 |
-| 75 | [Thanga Thamari Magale](https://open.spotify.com/track/3UBL5FEA4JgMHj2z94fLSW) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Minsara Kanavu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0lu9EJwZFYWUogxPtptP3N) | 5:02 |
+| 75 | [En Kadhale](https://open.spotify.com/track/1NyK6HEYrFuA6nNwEaCOai) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Noel James](https://open.spotify.com/artist/2rp7t72puDdjCwrA3WjJOk) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 6:00 |
 
 Snapshot ID: `AAAAAJKGiCTMDQUglf0Us5F5/3nSiiB6`

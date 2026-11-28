@@ -4,7 +4,7 @@
 
 > \#SadCuhHour gems 🥀🥹
 
-481 songs - 1 day 3 hr 15 min
+483 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Baby](https://open.spotify.com/track/6ycrt2KyR7HLWB0E9VTkt9) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Baby](https://open.spotify.com/album/3vzNE4iHp8Tjz4pNxezDRb) | 3:54 | 2022-01-01 | 2025-09-20 |
 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 | 2024-04-12 |  |
 | [Bebé](https://open.spotify.com/track/48UP7L6H0iAVuE76RyHZLZ) | [Mando Exclusivo](https://open.spotify.com/artist/16GWmOhbfnUn6NmBrg9j3l) | [Bebé](https://open.spotify.com/album/3udwWyV9bBLXoVXfM5jt9k) | 3:24 | 2025-02-04 | 2025-09-20 |
+| [BELLA](https://open.spotify.com/track/1L95jqzylTYTR42QfBybXh) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [ATRAVESAO](https://open.spotify.com/album/0N2N0fNmfFL9PGIL67ziRw) | 2:57 | 2026-11-27 |  |
 | [Besame](https://open.spotify.com/track/63Fc3kXyXWpk7e1uZVym9d) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Besame](https://open.spotify.com/album/7vSPTce8LJvIcQGBLs2ARi) | 4:20 | 2022-03-21 | 2022-07-22 |
 | [Beso De Peda](https://open.spotify.com/track/0NDZle5X6aJPXj2dcZpKA7) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 2:48 | 2022-09-23 | 2025-09-20 |
 | [Bien Viajado](https://open.spotify.com/track/0S5u8WOWx5nJL2VZa0PWJW) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT) | [Bien Viajado](https://open.spotify.com/album/1NgEnf7t3IwNc3ClydAKI3) | 3:19 | 2022-09-23 | 2022-10-15 |
@@ -112,6 +113,7 @@
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-10 | 2025-02-05 |
 | [déjame vivir](https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 3:27 | 2023-02-24 | 2023-04-15 |
 | [El Amor de Mi Vida](https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [El Amor de Mi Vida](https://open.spotify.com/album/4T4LzOrGQAAvs4CjQ4ZrXv) | 3:32 | 2022-01-01 | 2022-03-22 |
+| [El Coleccionista](https://open.spotify.com/track/6Ezn2Ln8mtdyyDpY7210yE) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [El Coleccionista](https://open.spotify.com/album/2IOCEw7UQClBai9ZPWybPi) | 3:00 | 2026-11-27 |  |
 | [El Dueño De Tu Amor](https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:45 | 2023-02-24 | 2024-04-19 |
 | [El Dueño De Tu Amor](https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:45 | 2022-01-01 | 2023-02-24 |
 | [El Humillado](https://open.spotify.com/track/5zLsSLY0cwfX80nf9R0BhA) | [Clave 51](https://open.spotify.com/artist/4iY2MxD3WzbpgyX1uCs4Yf) | [El Humillado](https://open.spotify.com/album/1RmJvwO5RQYDv4FNRPYMxt) | 2:29 | 2022-01-01 | 2023-01-26 |
@@ -364,7 +366,7 @@
 | [Sabes](https://open.spotify.com/track/5t611UH604oEYrYUm6SVd1) | [Uliseesssss](https://open.spotify.com/artist/6IuHLYVEFYdAyXJ95RU66t) | [Sabes](https://open.spotify.com/album/4e9NkTft117gtD535Kj2xl) | 3:38 | 2022-01-01 | 2025-09-20 |
 | [Sad Cuh Hours](https://open.spotify.com/track/363nkaf21Rl0I9co1ITG1D) | [Victor Leon](https://open.spotify.com/artist/6QbfPR16VF9Vic43Y0xWUo) | [Sad Cuh Hours](https://open.spotify.com/album/142n89R5IgEyDpO8Z8sHb5) | 3:50 | 2022-07-22 | 2022-09-24 |
 | [SAD EYES](https://open.spotify.com/track/3ApV2EqK706aKHyiaq8gLY) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [SILENCIO HABLA](https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS) | 3:32 | 2026-02-06 | 2026-10-10 |
-| [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 | 2024-04-12 |  |
+| [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 | 2024-04-12 | 2026-11-28 |
 | [Sale Para Ser Feliz](https://open.spotify.com/track/0reBZSEtwbvqkXoWGtmV0k) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 3:12 | 2024-09-03 |  |
 | [San Valentin](https://open.spotify.com/track/7vCzhTTYStL1bfYz6W90lD) | [Israel De San Antonio](https://open.spotify.com/artist/2tF8wx2Z2J6ce9ckc2PD3i) | [San Valentin](https://open.spotify.com/album/3uuuiDgAexECO1z7pzxp5V) | 4:01 | 2022-02-04 | 2022-07-15 |
 | [Sentimental](https://open.spotify.com/track/5UC3eepiSagX0bjGMOzEwa) | [Edgar Baldovino](https://open.spotify.com/artist/4bvkbZuxxVl8pvbMjzAjog) | [Sentimental](https://open.spotify.com/album/5jP6KNobUTPPnjWge0FJUC) | 3:21 | 2022-02-25 | 2022-07-05 |
@@ -381,7 +383,7 @@
 | [Sin Pagar Renta](https://open.spotify.com/track/2NQZVzSRRatbbPWD5IfadH) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Sin Pagar Renta](https://open.spotify.com/album/6THFGUOwWMPRb6x58aVpDZ) | 3:13 | 2024-01-05 |  |
 | [Sin Sentimientos](https://open.spotify.com/track/0hYRO2jvFLoNFMeBcw6Ju9) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos Deluxe](https://open.spotify.com/album/243erGm5J8f1OhvFRkb3f0) | 2:40 | 2022-01-01 | 2022-07-20 |
 | [Sin Sentimientos](https://open.spotify.com/track/3zBK0bthYTDx3bnsDPTesO) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/4Wh5bBHfEXqzd1NPf5yHKn) | 2:41 | 2022-01-01 | 2022-07-17 |
-| [Sin Ti](https://open.spotify.com/track/2beqL6C5zRet6fXvSXhXPz) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Sin Ti](https://open.spotify.com/album/64AKuMd5pjsKwBtvWeEhx4) | 2:40 | 2026-02-06 |  |
+| [Sin Ti](https://open.spotify.com/track/2beqL6C5zRet6fXvSXhXPz) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Sin Ti](https://open.spotify.com/album/64AKuMd5pjsKwBtvWeEhx4) | 2:40 | 2026-02-06 | 2026-11-28 |
 | [Sin Ti](https://open.spotify.com/track/5nZX1fxWVJyEy0BpjPWfKy) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Sin Ti](https://open.spotify.com/album/0dGYft5LHTTkWRovN2lo4a) | 4:20 | 2025-09-19 | 2026-05-05 |
 | [SLND](https://open.spotify.com/track/3g1EtdqVDWuVkmB3trsh91) | [Marco Soriano](https://open.spotify.com/artist/2LPVDi9bhYq2iXQKDbE5Ak) | [SLND](https://open.spotify.com/album/4qepmQnX3P85ihKmFng2Ym) | 4:16 | 2022-02-04 | 2022-07-23 |
 | [Sola](https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Sola](https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC) | 2:53 | 2022-09-23 | 2022-11-08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 210502,
+  "num_followers": 210506,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAACVjOPpStfzQ8WRnWOJsvO7",
+  "snapshot_id": "awd2gAAAAABw9nH8/L9YtHvyWvZMGo5E",
   "tracks": [
     {
       "added_at": null,
@@ -863,13 +863,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Unruly Mess I've Made",
-        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
+        "name": "Lesser Oceans",
+        "url": "https://open.spotify.com/album/3BHWgxELnhUxh6O3MnNKTp"
       },
       "artists": [
         {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          "name": "Fences",
+          "url": "https://open.spotify.com/artist/6vjCIhbLklvyaDBgCcpH57"
         },
         {
           "name": "Macklemore",
@@ -878,15 +878,11 @@
         {
           "name": "Ryan Lewis",
           "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Need To Know (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
+      "duration_ms": 235557,
+      "name": "Arrows (feat. Macklemore & Ryan Lewis)",
+      "url": "https://open.spotify.com/track/6nTqAwkbh7I2ij0N52dxiw"
     },
     {
       "added_at": null,
@@ -915,13 +911,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lesser Oceans",
-        "url": "https://open.spotify.com/album/3BHWgxELnhUxh6O3MnNKTp"
+        "name": "This Unruly Mess I've Made",
+        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
       "artists": [
         {
-          "name": "Fences",
-          "url": "https://open.spotify.com/artist/6vjCIhbLklvyaDBgCcpH57"
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
         },
         {
           "name": "Macklemore",
@@ -930,11 +926,15 @@
         {
           "name": "Ryan Lewis",
           "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 235557,
-      "name": "Arrows (feat. Macklemore & Ryan Lewis)",
-      "url": "https://open.spotify.com/track/6nTqAwkbh7I2ij0N52dxiw"
+      "duration_ms": 232000,
+      "name": "Need To Know (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
     },
     {
       "added_at": null,
@@ -955,34 +955,6 @@
       "duration_ms": 263732,
       "name": "Love Song (feat. Evan Roman)",
       "url": "https://open.spotify.com/track/2RZ9EanhMHmfzFRH9WhZbW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Unruly Mess I've Made",
-        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
-      },
-      "artists": [
-        {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
-        },
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 280200,
-      "name": "Kevin (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/5qjWSyuU0rTLI8ohmx2K3Q"
     },
     {
       "added_at": null,
@@ -1027,6 +999,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Unruly Mess I've Made",
+        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
+      },
+      "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 280200,
+      "name": "Kevin (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/5qjWSyuU0rTLI8ohmx2K3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rio (feat. Macklemore & Digital Farm Animals) [Remix]",
         "url": "https://open.spotify.com/album/6hoaFK2OO9qH9qf4KM8h4Z"
       },
@@ -1051,6 +1051,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Unplanned Mixtape",
+        "url": "https://open.spotify.com/album/0Oy5pcr8Ijx4TqNn9AbC2k"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/7nCYx2tac5Jl4GUhbleKNI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Firse Machayenge (Remix)",
         "url": "https://open.spotify.com/album/4rO2r1Mv1vbHPJbP1DF6rO"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 209933,
       "name": "Firse Machayenge (Remix)",
       "url": "https://open.spotify.com/track/5c3wEyCcw1enilCGmC9czZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Unplanned Mixtape",
-        "url": "https://open.spotify.com/album/0Oy5pcr8Ijx4TqNn9AbC2k"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/7nCYx2tac5Jl4GUhbleKNI"
     },
     {
       "added_at": null,

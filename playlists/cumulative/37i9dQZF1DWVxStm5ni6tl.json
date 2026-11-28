@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-27",
-  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Chiara Savasta, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in Canada. Updates every week. Cover: Etienne Dufresne, Artwork: Isu Kim",
   "name": "Fresh Finds Canada",
   "tracks": [
     {
@@ -12339,6 +12339,24 @@
     },
     {
       "album": {
+        "name": "deadbolt",
+        "url": "https://open.spotify.com/album/2HJ2Oy3c15tAV3AuzIZTkL"
+      },
+      "artists": [
+        {
+          "name": "Haleluya Hailu",
+          "url": "https://open.spotify.com/artist/7CSaduBt5yKoOLzznHpijS"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181012,
+      "name": "deadbolt",
+      "url": "https://open.spotify.com/track/3nIhysySdTHtkUsWyji76Z"
+    },
+    {
+      "album": {
         "name": "All Cylinders",
         "url": "https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH"
       },
@@ -17770,6 +17788,24 @@
       "duration_ms": 243040,
       "name": "For Me",
       "url": "https://open.spotify.com/track/6GLLvQW5o0FQEjtx48xjCZ"
+    },
+    {
+      "album": {
+        "name": "PENUMBRA",
+        "url": "https://open.spotify.com/album/7GNXp0uaNzLmvKe3qI4OW3"
+      },
+      "artists": [
+        {
+          "name": "$anteria",
+          "url": "https://open.spotify.com/artist/30KpA4NugE4H0PLXjC8AU7"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "FOR PEACE",
+      "url": "https://open.spotify.com/track/1W4xvvG5AUk0HpWQorOkM1"
     },
     {
       "album": {
@@ -24911,6 +24947,24 @@
     },
     {
       "album": {
+        "name": "If You Were Mine (Again) - 2 Pack",
+        "url": "https://open.spotify.com/album/0NV4ULZ3vvkCGJ5ioQSUIT"
+      },
+      "artists": [
+        {
+          "name": "SICKOFTHEINTERNET",
+          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162353,
+      "name": "If You Were Mine (Again)",
+      "url": "https://open.spotify.com/track/0Rf7gCqyhAvgCDpHz0Y0oE"
+    },
+    {
+      "album": {
         "name": "IFYGF",
         "url": "https://open.spotify.com/album/02PMAdeF21U9rdrt08wWJv"
       },
@@ -27379,6 +27433,24 @@
     },
     {
       "album": {
+        "name": "Out of the Blue: Extended Forecast (Deluxe)",
+        "url": "https://open.spotify.com/album/3vmBk7M6J4H9mi3UNWhgZe"
+      },
+      "artists": [
+        {
+          "name": "Kelsi Mayne",
+          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197037,
+      "name": "Keep You Company",
+      "url": "https://open.spotify.com/track/43d02wU1sfmd3bMVHfMGHK"
+    },
+    {
+      "album": {
         "name": "Ketchup",
         "url": "https://open.spotify.com/album/3Rc9SpfmAFy661xFZRZXKY"
       },
@@ -29650,6 +29722,50 @@
       "duration_ms": 161019,
       "name": "Loads Of Us",
       "url": "https://open.spotify.com/track/0YaruEraJ82lrucpx0g1mf"
+    },
+    {
+      "album": {
+        "name": "6 TO THE WORLD",
+        "url": "https://open.spotify.com/album/4mCjSWmQs70C4cibQVGsDR"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9e",
+          "url": "https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d"
+        },
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215268,
+      "name": "LOAFTERS",
+      "url": "https://open.spotify.com/track/4X5OjBTRM8xon87gikLK7e"
+    },
+    {
+      "album": {
+        "name": "Appauvrissement",
+        "url": "https://open.spotify.com/album/1Tgwm2H0NnSaANSe4YZAal"
+      },
+      "artists": [
+        {
+          "name": "Racasse",
+          "url": "https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6"
+        },
+        {
+          "name": "Prof. Jenkins",
+          "url": "https://open.spotify.com/artist/3DnCssxsYwpE366ZMWFaFi"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146429,
+      "name": "Local 22",
+      "url": "https://open.spotify.com/track/5pticZ24J0TenIHMDNnH4w"
     },
     {
       "album": {
@@ -35343,6 +35459,44 @@
     },
     {
       "album": {
+        "name": "FromTheMud. (Northside Edition)",
+        "url": "https://open.spotify.com/album/6KBOS8WbwmKkDq6tiI7ykq"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        },
+        {
+          "name": "Gritfall",
+          "url": "https://open.spotify.com/artist/7rNjZJ2iF4ixVCkvtl91AI"
+        },
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        },
+        {
+          "name": "KOTO?",
+          "url": "https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We"
+        },
+        {
+          "name": "Kai Banks",
+          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
+        },
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468965,
+      "name": "NewNorthside.",
+      "url": "https://open.spotify.com/track/72zA92ni5UqA5XIDXAhSVc"
+    },
+    {
+      "album": {
         "name": "Divine Timing, Vol. 1",
         "url": "https://open.spotify.com/album/5PJhKPeTU9souTwogLAbJX"
       },
@@ -36878,7 +37032,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 177600,
       "name": "number 1",
       "url": "https://open.spotify.com/track/0QbS7u3CLzBXhFrxn4ThyU"
@@ -42313,6 +42467,24 @@
     },
     {
       "album": {
+        "name": "zigzag",
+        "url": "https://open.spotify.com/album/5de5N0q0Q2Pq1uitt2RnmP"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185053,
+      "name": "quelle \u00e9poque",
+      "url": "https://open.spotify.com/track/68aRTk3AHVniMwsb4vyip9"
+    },
+    {
+      "album": {
         "name": "Blurring Time",
         "url": "https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw"
       },
@@ -44890,7 +45062,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 191226,
       "name": "Saisons",
       "url": "https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg"
@@ -47004,6 +47176,24 @@
       "duration_ms": 156901,
       "name": "Skull Candy",
       "url": "https://open.spotify.com/track/3Xf7eutogYPpFOj4oFEX97"
+    },
+    {
+      "album": {
+        "name": "Sky Pie",
+        "url": "https://open.spotify.com/album/1P5ZdU3PSZCorhye1F74Go"
+      },
+      "artists": [
+        {
+          "name": "646yf4t",
+          "url": "https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180821,
+      "name": "Sky Pie",
+      "url": "https://open.spotify.com/track/3uGpgNim59nmmjVueA2V8v"
     },
     {
       "album": {
@@ -59422,7 +59612,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 204227,
       "name": "with my legs dragging behind",
       "url": "https://open.spotify.com/track/3TWU7oIi1DKMqcQbqlPFoF"
@@ -60770,7 +60960,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 208571,
       "name": "yours, forever",
       "url": "https://open.spotify.com/track/0i9RiEyH3GFk6igXlpUPES"

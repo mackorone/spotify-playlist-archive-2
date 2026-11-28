@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 
 > 
 
-[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 28 songs - 1 hr 24 min
+[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 32 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,9 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 | 26 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
 | 27 | [It's On \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/5eEmVNuqo4oKDh9MDeCAmt) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Jordan Francis](https://open.spotify.com/artist/3HYpSvGctSamkShNEVX9gS), [Meaghan Martin](https://open.spotify.com/artist/4D4d4SGHSnXy5TxqhfDl3H), [Alyson Stoner](https://open.spotify.com/artist/5ZuWrQzWBgJXbAfcLx2WTL), [Matthew "Mdot" Finley](https://open.spotify.com/artist/6VlHZVWsWDe7xtzWk5HxCk), [Roshon Fegan](https://open.spotify.com/artist/07bq0KjNoXHDavbLV3NQus), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 4:02 |
 | 28 | [We Rock](https://open.spotify.com/track/7r6ubHsaieaig4kORmmsDy) | [Cast Of Camp Rock](https://open.spotify.com/artist/6BaEtrOzEuvmxmHZRR1nNa), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock](https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ) | 3:10 |
+| 29 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
+| 30 | [BEAT UP CHANEL$](https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:18 |
+| 31 | [CANNIBALISM!](https://open.spotify.com/track/6jMEUqnoREUTIJyVqJaWth) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:47 |
+| 32 | [OLD FLING$](https://open.spotify.com/track/6xcmJL4UfGrf7ExrPHS88G) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:37 |
 
-Snapshot ID: `AAACJUOSbSOA1FvdZKHiJ4gQUJffjSkS`
+Snapshot ID: `AAACKrUhpJAk1BsV5rX8BhtRkLQVOcAa`

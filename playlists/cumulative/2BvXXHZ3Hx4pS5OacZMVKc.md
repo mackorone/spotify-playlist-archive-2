@@ -4,7 +4,7 @@
 
 > Level up your gaming with the best copyright\-free music from NCS \(NoCopyrightSounds\)\. Epic EDM, electronic anthems, bass and high\-energy tracks for gaming videos, YouTube, Twitch streams and more\. Updated regularly with fresh releases and fan favourites\. 🎮
 
-608 songs - 1 day 7 hr 30 min
+610 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Closer](https://open.spotify.com/track/4KZsB1EanBSHsN5zE8ZMf9) | [Todd Helder](https://open.spotify.com/artist/6nhsSK9KbToX3Brq0xeWbV), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Closer](https://open.spotify.com/album/0y2NOgjeL7Bn9nVls7znsc) | 3:26 | 2022-02-03 | 2023-08-11 |
 | [Cloud 9](https://open.spotify.com/track/7f2tmpbf0auMx8s34kTtIL) | [Narvent](https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7), [Axstin](https://open.spotify.com/artist/2zqctZv5CadQEC6TSSk0ys) | [Cloud 9](https://open.spotify.com/album/3Au2PMGFjQ4Q5J6Amm3dk7) | 1:59 | 2026-11-13 | 2026-11-23 |
 | [Clouds](https://open.spotify.com/track/1Dtl1RQE9LsPHkmrdCVpo7) | [AFK](https://open.spotify.com/artist/3eIM4tCQTGJXb0RDPfF2wL), [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [Clouds](https://open.spotify.com/album/15d2oNM18Hbap1wnwPPGSE) | 4:43 | 2026-11-22 |  |
+| [Club Etiquette](https://open.spotify.com/track/5tUW84qgiA1zy3DGTNy6mL) | [angelrot](https://open.spotify.com/artist/1PtxhGf5zAUnOucwf4fCIJ) | [Clubsensual](https://open.spotify.com/album/4PtHUxU9LIFGfCBDNsFqfW) | 2:10 | 2026-11-27 |  |
 | [COM BOTA](https://open.spotify.com/track/0P3r8UbqWUJPRnsVVcIypM) | [cape](https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K), [crysstales](https://open.spotify.com/artist/3ZIN00As3dOKnQpjA3O8uz) | [COM BOTA](https://open.spotify.com/album/3iyJ3kcWzGB9uBY53XKeyh) | 1:25 | 2026-11-22 |  |
 | [Come Alive](https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam) | [RDLS](https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Come Alive](https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH) | 2:56 | 2022-07-15 | 2023-08-11 |
 | [COME UP](https://open.spotify.com/track/38QHXAcAAt6flDWzZFRSUr) | [Dwonji](https://open.spotify.com/artist/3LPN9SczhFaeLnDmGEYW9F) | [COME UP](https://open.spotify.com/album/1X7PhPmeliA1DkbMjWJqct) | 3:31 | 2022-02-03 | 2023-08-11 |
@@ -391,6 +392,7 @@
 | [Paranormal](https://open.spotify.com/track/1rVTqykzrgXV6xCY1slhTL) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Paranormal](https://open.spotify.com/album/14C33CaR2qT3MQdNNrbDB9) | 2:40 | 2026-10-27 |  |
 | [Patience](https://open.spotify.com/track/2wB3bSpptrSiz9vAA9YQbZ) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Patience](https://open.spotify.com/album/5xKP3ZZUuqeqhmsyAJslh5) | 3:36 | 2022-06-24 | 2023-08-11 |
 | [Perfect 10](https://open.spotify.com/track/0qBsKuOidWZ1HlxzHAwiJm) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [Perfect 10](https://open.spotify.com/album/6ECu2TAocOc0iztpksUvWm) | 3:24 | 2026-11-22 |  |
+| [Permanente](https://open.spotify.com/track/4kgPknXwGR4Q9MPXvCa9vZ) | [angelrot](https://open.spotify.com/artist/1PtxhGf5zAUnOucwf4fCIJ) | [Clubsensual](https://open.spotify.com/album/4PtHUxU9LIFGfCBDNsFqfW) | 2:43 | 2026-11-27 |  |
 | [Phenomenon](https://open.spotify.com/track/68atSZYNfc9ar2xugNxZlO) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Faceless](https://open.spotify.com/album/4sZni6V6NvVYhfUFGqKuR3) | 2:56 | 2022-02-03 | 2022-09-15 |
 | [Phoenix](https://open.spotify.com/track/7CkTv4SjCYliV3ZgkZn6om) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Phoenix](https://open.spotify.com/album/3keEnBYmFB6WP89CN1gGnI) | 3:58 | 2022-02-03 | 2022-09-15 |
 | [Phototropic](https://open.spotify.com/track/0fRXf9wnpaNQcUmxtAgAIh) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Phototropic](https://open.spotify.com/album/1KkkDknyr0h9VakkNCAMrF) | 4:04 | 2026-11-22 |  |

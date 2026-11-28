@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 51205,
+  "num_followers": 51215,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -591,18 +591,22 @@
     {
       "added_at": "2026-11-23 14:05:36",
       "album": {
-        "name": "Money Lingo",
-        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
+        "name": "Money In A Wheelbarrow",
+        "url": "https://open.spotify.com/album/32m2f3GYYruC2fGBN6su7c"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 159757,
-      "name": "Money Lingo",
-      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
+      "duration_ms": 151909,
+      "name": "Money In A Wheelbarrow",
+      "url": "https://open.spotify.com/track/65K31Yui1Sfn4pSub3uKJP"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -619,6 +623,22 @@
       "duration_ms": 213451,
       "name": "Mbiri",
       "url": "https://open.spotify.com/track/7HuWPTmnO8hhZz03R3dXMr"
+    },
+    {
+      "added_at": "2026-11-23 14:05:36",
+      "album": {
+        "name": "Money Lingo",
+        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 159757,
+      "name": "Money Lingo",
+      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -643,26 +663,6 @@
       "duration_ms": 153055,
       "name": "COCA BODY",
       "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
-    },
-    {
-      "added_at": "2026-11-23 14:05:36",
-      "album": {
-        "name": "Money In A Wheelbarrow",
-        "url": "https://open.spotify.com/album/32m2f3GYYruC2fGBN6su7c"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 151909,
-      "name": "Money In A Wheelbarrow",
-      "url": "https://open.spotify.com/track/65K31Yui1Sfn4pSub3uKJP"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-11-23 14:05:36",
       "album": {
-        "name": "YoYo",
-        "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "YoYo",
-      "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
-    },
-    {
-      "added_at": "2026-11-23 14:05:36",
-      "album": {
         "name": "In Tunez We Trust Vol. 1",
         "url": "https://open.spotify.com/album/7juWJSfCEy4gJ5AfQF63RO"
       },
@@ -755,34 +739,18 @@
     {
       "added_at": "2026-11-23 14:05:36",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
+        "name": "YoYo",
+        "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys"
       },
       "artists": [
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Can You Stay",
-      "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
-    },
-    {
-      "added_at": "2026-11-23 14:05:36",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 154705,
-      "name": "2FRESH",
-      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
+      "duration_ms": 200666,
+      "name": "YoYo",
+      "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -807,18 +775,34 @@
     {
       "added_at": "2026-11-23 14:05:36",
       "album": {
-        "name": "SHON PE (Count Your Money)",
-        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
       "artists": [
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 158400,
-      "name": "SHON PE (Count Your Money)",
-      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
+      "duration_ms": 154705,
+      "name": "2FRESH",
+      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
+    },
+    {
+      "added_at": "2026-11-23 14:05:36",
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Can You Stay",
+      "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -863,6 +847,22 @@
     {
       "added_at": "2026-11-23 14:05:36",
       "album": {
+        "name": "SHON PE (Count Your Money)",
+        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "SHON PE (Count Your Money)",
+      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
+    },
+    {
+      "added_at": "2026-11-23 14:05:36",
+      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 174159,
       "name": "ARMED & DANGEROUS (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
+    },
+    {
+      "added_at": "2026-11-23 14:05:36",
+      "album": {
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/2Q4Qfg1RqBjjcTWFDSv0P7"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "duration_ms": 146386,
+      "name": "Bully",
+      "url": "https://open.spotify.com/track/1MkuUagmzdRVZj6dPdoKJW"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -903,18 +919,18 @@
     {
       "added_at": "2026-11-23 14:05:36",
       "album": {
-        "name": "Bully",
-        "url": "https://open.spotify.com/album/2Q4Qfg1RqBjjcTWFDSv0P7"
+        "name": "KOWOPE",
+        "url": "https://open.spotify.com/album/2L1fGehxU3KbiqKaPgKoAN"
       },
       "artists": [
         {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 146386,
-      "name": "Bully",
-      "url": "https://open.spotify.com/track/1MkuUagmzdRVZj6dPdoKJW"
+      "duration_ms": 229811,
+      "name": "KOWOPE",
+      "url": "https://open.spotify.com/track/5mMkcsSWFnSzFsh9RF9NPO"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -935,22 +951,6 @@
       "duration_ms": 188041,
       "name": "365 Days",
       "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
-    },
-    {
-      "added_at": "2026-11-23 14:05:36",
-      "album": {
-        "name": "KOWOPE",
-        "url": "https://open.spotify.com/album/2L1fGehxU3KbiqKaPgKoAN"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 229811,
-      "name": "KOWOPE",
-      "url": "https://open.spotify.com/track/5mMkcsSWFnSzFsh9RF9NPO"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2026-11-23 14:05:36",
       "album": {
+        "name": "Ginga Fever II",
+        "url": "https://open.spotify.com/album/2rCHV6u5CmzamcJKfwA755"
+      },
+      "artists": [
+        {
+          "name": "Gingaman",
+          "url": "https://open.spotify.com/artist/5xVp58jgk6nrQvtsdeS9s3"
+        },
+        {
+          "name": "Terry Apala",
+          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
+        }
+      ],
+      "duration_ms": 147702,
+      "name": "Ginga Fever II",
+      "url": "https://open.spotify.com/track/2ferxsbMbEnPrpQ8EEs5m4"
+    },
+    {
+      "added_at": "2026-11-23 14:05:36",
+      "album": {
         "name": "Stylish",
         "url": "https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 181495,
       "name": "DEARLY",
       "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
-    },
-    {
-      "added_at": "2026-11-23 14:05:36",
-      "album": {
-        "name": "Ginga Fever II",
-        "url": "https://open.spotify.com/album/2rCHV6u5CmzamcJKfwA755"
-      },
-      "artists": [
-        {
-          "name": "Gingaman",
-          "url": "https://open.spotify.com/artist/5xVp58jgk6nrQvtsdeS9s3"
-        },
-        {
-          "name": "Terry Apala",
-          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
-        }
-      ],
-      "duration_ms": 147702,
-      "name": "Ginga Fever II",
-      "url": "https://open.spotify.com/track/2ferxsbMbEnPrpQ8EEs5m4"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-11-23 14:05:36",
       "album": {
-        "name": "5am in Paris",
-        "url": "https://open.spotify.com/album/7tA8uKGR4lF3HJQ10sFDSP"
-      },
-      "artists": [
-        {
-          "name": "Mckay",
-          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
-        }
-      ],
-      "duration_ms": 113780,
-      "name": "5am in Paris",
-      "url": "https://open.spotify.com/track/0ZbFZwQD4tCeJd6aj5URJ1"
-    },
-    {
-      "added_at": "2026-11-23 14:05:36",
-      "album": {
         "name": "Perspe",
         "url": "https://open.spotify.com/album/39q1Diw7kiA322DpcOLOBF"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 201000,
       "name": "Perspe",
       "url": "https://open.spotify.com/track/5pVFf9ldLYN9cf7v7Swgax"
+    },
+    {
+      "added_at": "2026-11-23 14:05:36",
+      "album": {
+        "name": "5am in Paris",
+        "url": "https://open.spotify.com/album/7tA8uKGR4lF3HJQ10sFDSP"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "duration_ms": 113780,
+      "name": "5am in Paris",
+      "url": "https://open.spotify.com/track/0ZbFZwQD4tCeJd6aj5URJ1"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-11-23 14:05:36",
       "album": {
-        "name": "ANGELINA",
-        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
-      },
-      "artists": [
-        {
-          "name": "Mckay",
-          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "ANGELINA",
-      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
-    },
-    {
-      "added_at": "2026-11-23 14:05:36",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/1Vfb2GTERiAb8mEGYBKyQu"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2026-11-23 14:05:36",
       "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+        "name": "ANGELINA",
+        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
         }
       ],
-      "duration_ms": 157388,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
+      "duration_ms": 154000,
+      "name": "ANGELINA",
+      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2026-11-23 14:05:36",
       "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 157388,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
+    },
+    {
+      "added_at": "2026-11-23 14:05:36",
+      "album": {
         "name": "Ten Ten",
         "url": "https://open.spotify.com/album/2S3DHXubpBKKAdlpz6VfCz"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 141250,
       "name": "Ten Ten",
       "url": "https://open.spotify.com/track/6o2i6XRwvtcan3Harp04Jw"
+    },
+    {
+      "added_at": "2026-11-23 14:05:36",
+      "album": {
+        "name": "FINE SHIT",
+        "url": "https://open.spotify.com/album/1NAF5JmDyhAJ4MzeI50zgQ"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "duration_ms": 140979,
+      "name": "FINE SHIT",
+      "url": "https://open.spotify.com/track/1HljNtyI1FuDDaeVhiGR1z"
     },
     {
       "added_at": "2026-11-23 14:05:36",
@@ -1471,22 +1487,6 @@
       "duration_ms": 136533,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC"
-    },
-    {
-      "added_at": "2026-11-23 14:05:36",
-      "album": {
-        "name": "FINE SHIT",
-        "url": "https://open.spotify.com/album/1NAF5JmDyhAJ4MzeI50zgQ"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 140979,
-      "name": "FINE SHIT",
-      "url": "https://open.spotify.com/track/1HljNtyI1FuDDaeVhiGR1z"
     },
     {
       "added_at": "2026-11-23 14:05:36",

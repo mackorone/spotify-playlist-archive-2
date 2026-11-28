@@ -1,6 +1,6 @@
 {
   "description": "La  selecci\u00f3n  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify",
-  "num_followers": 39607,
+  "num_followers": 39609,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-11-27 06:00:18",
       "album": {
+        "name": "Parras",
+        "url": "https://open.spotify.com/album/4nyIodEOBoNS05fp8rfG8l"
+      },
+      "artists": [
+        {
+          "name": "no hay ni\u00f1os en el parque",
+          "url": "https://open.spotify.com/artist/0PDCp8aQ1WUGhQDyMIGegw"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Parras",
+      "url": "https://open.spotify.com/track/5PN7ynq0HnyrJ2ekMfQzeJ"
+    },
+    {
+      "added_at": "2026-11-27 06:00:18",
+      "album": {
         "name": "kickflip",
         "url": "https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 300596,
       "name": "Destello",
       "url": "https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz"
-    },
-    {
-      "added_at": "2026-11-27 06:00:18",
-      "album": {
-        "name": "Parras",
-        "url": "https://open.spotify.com/album/4nyIodEOBoNS05fp8rfG8l"
-      },
-      "artists": [
-        {
-          "name": "no hay ni\u00f1os en el parque",
-          "url": "https://open.spotify.com/artist/0PDCp8aQ1WUGhQDyMIGegw"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Parras",
-      "url": "https://open.spotify.com/track/5PN7ynq0HnyrJ2ekMfQzeJ"
     },
     {
       "added_at": "2026-11-27 06:00:18",

@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Meme del Real
 
-5,991 songs - 14 day 8 hr 30 min
+5,992 songs - 14 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3930,7 +3930,7 @@
 | [Noche de Casino \(This Gambling Man\)](https://open.spotify.com/track/5z1qOTwU2nCaGEv6zVsAUQ) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Noche de Casino \(This Gambling Man\)](https://open.spotify.com/album/3Zyt72JMHaOMjU5UIbkcAV) | 3:42 | 2025-11-28 | 2025-12-20 |
 | [Noche de Guerra](https://open.spotify.com/track/1P1WwXRbOPF8e99Fd3K4bd) | [Prayers](https://open.spotify.com/artist/7a0G4CC3dZdKAAzVRnaRGu) | [Noche de Guerra](https://open.spotify.com/album/0bAvf4pjosR9qzHMbUA1kK) | 4:27 | 2026-11-13 |  |
 | [NOCHE DE PAZ](https://open.spotify.com/track/3WsTX8sOTe1dNh3m4VfR6W) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [NOCHE DE PAZ](https://open.spotify.com/album/7KupdoNEQB4fChPRNwVzla) | 2:33 | 2023-12-15 | 2024-01-13 |
-| [Noche de Pánico](https://open.spotify.com/track/7tfmaigofuhzvdozxa414W) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [Noche de Pánico](https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW) | 4:10 | 2026-11-27 |  |
+| [Noche de Pánico](https://open.spotify.com/track/7tfmaigofuhzvdozxa414W) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [Noche de Pánico](https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW) | 4:10 | 2026-11-27 | 2026-11-28 |
 | [Noche en la Ciudad](https://open.spotify.com/track/2IF7ZxnOiVGfaE4PG4VhqA) | [Cuentos Borgeanos](https://open.spotify.com/artist/159dqEoG4ZofiTrcmWEwBG) | [Noche en la Ciudad](https://open.spotify.com/album/5ODyt3Uy1Ph969S9BKjMJK) | 3:30 | 2025-05-02 | 2025-05-10 |
 | [Noche en Vela](https://open.spotify.com/track/6M8mNX6VEnnbH8O2bJZ1VG) | [Hermana Furia](https://open.spotify.com/artist/4HDtqal17o1XyKuLwA4aWK) | [Todo Mal](https://open.spotify.com/album/1cWrCoxtBqTNn1qJWn6AUN) | 3:08 | 2022-11-25 | 2022-12-10 |
 | [Noche Estelar](https://open.spotify.com/track/5jj4mN9MQcGnpgCj1bootx) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Noche Estelar](https://open.spotify.com/album/0CDcUKQydmwaQ0zHdXwMo5) | 3:36 | 2023-01-20 | 2023-04-01 |
@@ -5281,6 +5281,7 @@
 | [Tiempo](https://open.spotify.com/track/26O60rz0MdvMaZrXnxmUx2) | [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN), [Morti](https://open.spotify.com/artist/4jhxAI0EpziXCoDYePeCVU), [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA) | [Tiempo](https://open.spotify.com/album/1v0D9N9Bxgb5elc8lMwDsW) | 4:23 | 2023-12-01 | 2023-12-30 |
 | [Tiempo al Tiempo](https://open.spotify.com/track/3ktdoW2ABePbS3PQ4drxaD) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Tiempo al Tiempo](https://open.spotify.com/album/6aPh6HYOL8rpNQol6FETo9) | 4:47 | 2024-03-29 | 2024-04-06 |
 | [Tiempo Conmigo](https://open.spotify.com/track/0mBq8jXhjaIL5uESPDGDgg) | [Santa Engracia](https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF) | [Tiempo Conmigo](https://open.spotify.com/album/3vdxkZDOTFgzq9IfOtsukv) | 3:12 | 2024-10-11 | 2024-10-19 |
+| [Tiempo de Descuento](https://open.spotify.com/track/4RQAQpLaQDjYDG2xXyJU7q) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [Noche de Pánico](https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW) | 5:16 | 2026-11-27 |  |
 | [Tiempo Para Perder \(Reimagined\)](https://open.spotify.com/track/7pp2QaMJ90XoLSDGrMfJ6c) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Piérdete Conmigo, Pt\. 3](https://open.spotify.com/album/7wNLEyOXCfj35Oc1PwCo7k) | 4:17 | 2023-01-27 | 2023-02-18 |
 | [Tiempos Que Arden](https://open.spotify.com/track/6bItU6lWn4gsSUKY1Vtuzg) | [Alfredo Piedrafita](https://open.spotify.com/artist/0Y93RnnfowqScS5INK5EUi), [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R), [Paco Ventura](https://open.spotify.com/artist/0t4whqdKopyVMwKXVfBgWs), [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Tiempos Que Arden](https://open.spotify.com/album/0vFS6Q9dVNVhYcaA1MTFFk) | 3:40 | 2024-09-13 | 2024-09-28 |
 | [Tierra Mojada](https://open.spotify.com/track/0FTznGnaxsMaPd3X0fF6Tj) | [Bonier](https://open.spotify.com/artist/6LEuyIWuV6IvaqeT7o1QkD) | [La Noria](https://open.spotify.com/album/5uO7gix24zz7wvH4qXo4vz) | 3:21 | 2025-02-14 | 2025-03-08 |

@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: LUM!X
 
-7,286 songs - 14 day 15 hr 40 min
+7,287 songs - 14 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5175,6 +5175,7 @@
 | [Rave \(All I Want\)](https://open.spotify.com/track/1MdddafHu8hUzsk7eNAG2Y) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Rave \(All I Want\)](https://open.spotify.com/album/68AeX81W42YPUqj1eST433) | 2:43 | 2024-07-18 | 2024-08-09 |
 | [Rave \(PAROOKAVILLE Anthem 2026\)](https://open.spotify.com/track/1cRRRqlpF8yFANcY1q2jX3) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Rave \(PAROOKAVILLE Anthem 2026\)](https://open.spotify.com/album/7aivdp2f8VWUPkarXpYCQp) | 2:30 | 2026-07-02 | 2026-07-10 |
 | [Rave All Night](https://open.spotify.com/track/15KSBT2wZGISkCGKDGh5TI) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO) | [Rave All Night](https://open.spotify.com/album/0QwWXzuDfGFlNbkpDYSosO) | 2:12 | 2026-02-12 | 2026-02-20 |
+| [Rave All Night](https://open.spotify.com/track/7GSDbLUhuGtdp1dahOdRY6) | [DJ IP](https://open.spotify.com/artist/7fv38XqMnjKou11W8jG4aK) | [Rave All Night](https://open.spotify.com/album/5zPqipvpuPGQKFgOoQS0Jc) | 3:21 | 2026-11-27 |  |
 | [Rave All Night](https://open.spotify.com/track/7dpeqGrArVGvDNdRhsxpe3) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Rave All Night](https://open.spotify.com/album/1Hs56yuRXoji0VMOGSRMsY) | 2:34 | 2026-02-26 | 2026-03-06 |
 | [Rave All Night](https://open.spotify.com/track/1XVKd7DL3DL9GYMKOCktph) | [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1), [mrgnstrn](https://open.spotify.com/artist/1XiL3DW4quvSBoZn7V2ALc) | [Rave All Night](https://open.spotify.com/album/4zcswomUqGGF4DEZp7airG) | 2:44 | 2025-11-13 | 2025-11-28 |
 | [Rave Baby](https://open.spotify.com/track/5Gc4fbTUrQzqNGIWLaZHmC) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [Evil Twiin](https://open.spotify.com/artist/4Wi32nMyDHreHb97iXd9zN) | [Rave Baby](https://open.spotify.com/album/3jDrXPC1SlciGoCYe4YQLi) | 3:17 | 2026-01-15 | 2026-01-30 |

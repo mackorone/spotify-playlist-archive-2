@@ -35267,6 +35267,40 @@
     },
     {
       "album": {
+        "name": "SUPER NEGRO, VOL. 2",
+        "url": "https://open.spotify.com/album/6rpQUpuPSRLO3tz66uF1VI"
+      },
+      "artists": [
+        {
+          "name": "okie",
+          "url": "https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ"
+        },
+        {
+          "name": "OGMECBABY",
+          "url": "https://open.spotify.com/artist/1OKegS9uz9X9755V9ajflv"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        },
+        {
+          "name": "Yoko",
+          "url": "https://open.spotify.com/artist/0UenuJp55lQTf168bwDCcH"
+        },
+        {
+          "name": "bwhatudoin",
+          "url": "https://open.spotify.com/artist/4efJOhkoi4uqW0vULYPEUR"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/1YGbZiwyuoaRiffrOEkl45"
+    },
+    {
+      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/3Frf8JZ3cinrSMaScM9e1e"
       },

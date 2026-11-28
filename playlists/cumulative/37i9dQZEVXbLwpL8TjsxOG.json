@@ -7578,7 +7578,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 223000,
       "name": "Good Goodbye",
       "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
@@ -14150,7 +14150,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 200011,
       "name": "On a SunnyDay",
       "url": "https://open.spotify.com/track/6PKraUz7pKyBqyeI2B7A0y"
@@ -15912,7 +15912,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -18850,7 +18850,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -21812,7 +21812,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 181911,
       "name": "You're Under Arrest",
       "url": "https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG"
@@ -25404,7 +25404,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 259133,
       "name": "\u5bcc\u58eb\u5c71\u4e0b",
       "url": "https://open.spotify.com/track/3cthRwQ2X0SNTaauD7tjn5"
@@ -26956,7 +26956,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-27",
+      "date_removed": null,
       "duration_ms": 194812,
       "name": "\u65cb\u8f49\u6728\u99ac",
       "url": "https://open.spotify.com/track/5YOyplpxGqOuxDr0BlQI0u"
@@ -28760,6 +28760,24 @@
       "duration_ms": 247384,
       "name": "\u7121\u4eba\u4e0d\u77e5\u7684\u6230\u679c (ViuTV\u5287\u96c6: \u5b63\u524d\u8cfd\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/6rLZknU66zYG9Q2NI4fCYl"
+    },
+    {
+      "album": {
+        "name": "\u7121\u4eba\u99d5\u99db (5:55pm on the bus) [Live]",
+        "url": "https://open.spotify.com/album/2LBVXqdXuXZE75GsKirf5i"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246176,
+      "name": "\u7121\u4eba\u99d5\u99db (5:55pm on the bus) - Live",
+      "url": "https://open.spotify.com/track/1f0vdxCtyYGFTo7iIMJu2t"
     },
     {
       "album": {
@@ -30690,7 +30708,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 215154,
       "name": "\u81f3\u5c11\u76f8\u64c1\u6c92\u932f",
       "url": "https://open.spotify.com/track/1hUCAVgmwiU3op5Pw16SSf"
@@ -32708,7 +32726,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 181911,
       "name": "\uccb4\ud3ec\ud558\uaca0\uc5b4",
       "url": "https://open.spotify.com/track/30T1Q5lsYzCEKzifUWwFWM"

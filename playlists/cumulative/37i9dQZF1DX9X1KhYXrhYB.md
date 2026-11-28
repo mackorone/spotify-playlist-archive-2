@@ -4,7 +4,7 @@
 
 > Secrets will be spilled\. Listen to the music from Yellowjackets, now streaming on Paramount+.
 
-142 songs - 9 hr 17 min
+146 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Night in Rio](https://open.spotify.com/track/213iEl0bXJ9Qrjo2OZfHkg) | [Graham De Wilde](https://open.spotify.com/artist/460n0z7RWA7eJ8xCar7uzH) | [Atmospheric Journeys 2](https://open.spotify.com/album/4H6sy38N08EqbLWPEvv8Xu) | 1:49 | 2023-05-26 |  |
 | [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 | 2023-05-26 |  |
 | [Alright](https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv) | 3:00 | 2025-04-14 |  |
+| [Angel](https://open.spotify.com/track/1OaeFSgNdm1jnZNiihaUUK) | [that dog.](https://open.spotify.com/artist/0tXdvAMrxsEOVmnMJIHolv) | [That Dog](https://open.spotify.com/album/3gtD00whcl4lPfCK1yEU7w) | 3:48 | 2026-11-27 |  |
 | [Angst In My Pants](https://open.spotify.com/track/1Oovzlhz3SgYVFsDcJHpVn) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Angst In My Pants](https://open.spotify.com/album/7eMZ934Zpj7TrFsEhajh7q) | 3:29 | 2023-05-26 |  |
 | [Bae Nosy](https://open.spotify.com/track/2GzGt2xHBKeDAn8DlqkPBx) | [LohArano](https://open.spotify.com/artist/1niZm9pb4k3oHZbKYyNYZP) | [Bae Nosy](https://open.spotify.com/album/0oyJNLxkuCwhGTuWw07bKi) | 1:59 | 2025-03-14 |  |
 | [Be There](https://open.spotify.com/track/3mSLDBYXKqrOIUECeE5Nty) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Songs for a Dead Pilot](https://open.spotify.com/album/2mHUUmVMTqr1P4hk9Q5Kor) | 4:42 | 2025-03-14 |  |
@@ -41,6 +42,7 @@
 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 | 2023-05-26 |  |
 | [Drown](https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:30 | 2023-05-26 |  |
 | [Emergency](https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK) | [Emergency](https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY) | 3:12 | 2023-05-26 |  |
+| [Enjoy the Silence](https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 4:15 | 2026-11-27 |  |
 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 | 2025-04-14 |  |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2023-05-26 |  |
 | [Far Behind](https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:59 | 2025-02-14 |  |
@@ -53,6 +55,7 @@
 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2023-05-26 |  |
 | [Fresh Blood](https://open.spotify.com/track/68fTlDCqNZkW0nr7ToytOE) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [EELS So Good: Essential EELS Vol\. 2 \(2007\-2020\)](https://open.spotify.com/album/4symEKHxXLNmhte2LJVE3u) | 4:26 | 2025-02-28 |  |
 | [Fuck Tha Police \- Remastered 2006](https://open.spotify.com/track/0aE3DOqNJrCgCI1y2KGzrg) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [90s Rap Hip Hop](https://open.spotify.com/album/3v5FGFLiMiTYRxSRdH3KyH) | 5:14 | 2023-05-26 |  |
+| [Full Time Jack Move 1](https://open.spotify.com/track/67zbbFsDMNOi1QDhkjzs3j) | [Larry T West](https://open.spotify.com/artist/7ET1e1qvWNeZW4eXdk6HhE) | [RAPCD 2](https://open.spotify.com/album/26ZOo39WwLEK3CaAj3hL3c) | 4:00 | 2026-11-27 |  |
 | [Gepetto](https://open.spotify.com/track/1GB1oyt7Ar8GWa76B4dV1h) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:23 | 2023-05-26 |  |
 | [Girl From Ipanema](https://open.spotify.com/track/7kqZn81xqQLhH494mXKHYf) | [David Wilson](https://open.spotify.com/artist/0ZSIn8mBDHCRYntC1knmNb) | [Elegancia](https://open.spotify.com/album/3wANvXZDwzkvc7HmVxYwuO) | 3:40 | 2025-04-14 |  |
 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 | 2023-05-26 |  |
@@ -140,6 +143,7 @@
 | [Uninvited](https://open.spotify.com/track/7c1iI6dwdCpHGYT8DGEfab) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 4:36 | 2023-05-26 |  |
 | [Vienna](https://open.spotify.com/track/3cbLm923IeoVDOMEPOfosc) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/5CoUCJmVlRuGJUKjx8Zh4T) | 4:38 | 2023-05-26 |  |
 | [Virtual Insanity](https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Pop Music: The Modern Era 1976\-1999](https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h) | 3:47 | 2025-02-14 |  |
+| [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 | 2026-11-27 |  |
 | [What If...](https://open.spotify.com/track/3qZgd4HWXOdAabUK4OCQTf) | [Dore Soul](https://open.spotify.com/artist/75MOaB7tN9qveuE1xtpqdm) | [The New Shit](https://open.spotify.com/album/4xPqDWxiHDO75FrTko7CIP) | 3:39 | 2023-05-26 |  |
 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 | 2023-05-26 |  |
 | [When I Go Walking](https://open.spotify.com/track/598xDgAdZrcgGl8enCL9Qi) | [Popecoke](https://open.spotify.com/artist/7eymBgyW6fYpsZbDWonk2k) | [Popecoke](https://open.spotify.com/album/1Gnb0IRbTRUVVTL2ybfucV) | 2:03 | 2023-05-26 |  |

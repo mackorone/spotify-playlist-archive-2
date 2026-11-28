@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16744,
+  "num_followers": 16748,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAACVUVqcMoXWJaac1SrWMx2B",
+  "snapshot_id": "awd2gAAAAACgt61RCOkahinmPu6tnFn5",
   "tracks": [
     {
       "added_at": null,
@@ -271,18 +271,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
+        "name": "Creed II: The Album",
+        "url": "https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP"
       },
       "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
         {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 175699,
-      "name": "The Book of Boba Fett",
-      "url": "https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ"
+      "duration_ms": 125082,
+      "name": "Ice Cold (Final Round) (with Vince Staples & Ludwig G\u00f6ransson)",
+      "url": "https://open.spotify.com/track/701RVIizxCUMCO92CfcPby"
     },
     {
       "added_at": null,
@@ -319,26 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creed II: The Album",
-        "url": "https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP"
+        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
       },
       "artists": [
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        },
         {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 125082,
-      "name": "Ice Cold (Final Round) (with Vince Staples & Ludwig G\u00f6ransson)",
-      "url": "https://open.spotify.com/track/701RVIizxCUMCO92CfcPby"
+      "duration_ms": 175699,
+      "name": "The Book of Boba Fett",
+      "url": "https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ"
     },
     {
       "added_at": null,

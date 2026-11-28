@@ -5909,6 +5909,28 @@
     },
     {
       "album": {
+        "name": "GOOD MOURNING",
+        "url": "https://open.spotify.com/album/7ghOfqndW5q5OLVCfxAb4Z"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "GOOD MOURNING (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/4RqY82QomGazMGN0Cyk5UF"
+    },
+    {
+      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },

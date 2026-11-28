@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAADwzQzbpS9DAEP8JVi0WX7M",
+  "snapshot_id": "awd2gAAAAAB/0wJlU34Ahqp5Z3xieQnp",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/3YKoxarWdKzwVasA7oiAu7"
+      "duration_ms": 189000,
+      "name": "Wishful (draft)",
+      "url": "https://open.spotify.com/track/6Fcv3gmhC5rQctkZ3FlbDV"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Wishful (draft)",
-      "url": "https://open.spotify.com/track/6Fcv3gmhC5rQctkZ3FlbDV"
+      "duration_ms": 226000,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3YKoxarWdKzwVasA7oiAu7"
     },
     {
       "added_at": null,

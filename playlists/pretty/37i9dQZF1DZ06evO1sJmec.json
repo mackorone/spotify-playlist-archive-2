@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2131749,
+  "num_followers": 2131836,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAABmu5aejPu3gOnAbmkwRWjp",
+  "snapshot_id": "awd2gAAAAAAlSnYltM+NKrNjUdtSQ+Ka",
   "tracks": [
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 256573,
-      "name": "Of Wolf and Man - Remastered 2021",
-      "url": "https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K"
+      "duration_ms": 227573,
+      "name": "Holier Than Thou - Remastered 2021",
+      "url": "https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 227573,
-      "name": "Holier Than Thou - Remastered 2021",
-      "url": "https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv"
+      "duration_ms": 256573,
+      "name": "Of Wolf and Man - Remastered 2021",
+      "url": "https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 385986,
-      "name": "Eye of the Beholder",
-      "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S&M",
         "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 343200,
       "name": "No Leaf Clover - Live",
       "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 385986,
+      "name": "Eye of the Beholder",
+      "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 395101,
-      "name": "The Shortest Straw",
-      "url": "https://open.spotify.com/track/4hvo7eCLfhs7dFr0mpk3zi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 86906,
       "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
       "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 395101,
+      "name": "The Shortest Straw",
+      "url": "https://open.spotify.com/track/4hvo7eCLfhs7dFr0mpk3zi"
     }
   ],
   "unique_name": "This Is Metallica",

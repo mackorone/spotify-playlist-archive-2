@@ -1,6 +1,6 @@
 {
   "description": "The songs soundtracking the best years ",
-  "num_followers": 88066,
+  "num_followers": 88144,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
-        "name": "SPOTLIGHT",
-        "url": "https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9"
-      },
-      "artists": [
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/1x9iAQOjMEHWZX7UeqiyWV"
-    },
-    {
-      "added_at": "2026-09-22 19:05:19",
-      "album": {
         "name": "Motigbana",
         "url": "https://open.spotify.com/album/7yXxe2Zkyf2E3sMDEVaDK6"
       },
@@ -527,22 +511,18 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT"
+        "name": "SPOTLIGHT",
+        "url": "https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9"
       },
       "artists": [
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
         }
       ],
-      "duration_ms": 206982,
-      "name": "Ohema (feat. Mr Eazi)",
-      "url": "https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH"
+      "duration_ms": 185564,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/1x9iAQOjMEHWZX7UeqiyWV"
     },
     {
       "added_at": "2026-09-22 19:05:19",
@@ -567,6 +547,26 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 206982,
+      "name": "Ohema (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH"
+    },
+    {
+      "added_at": "2026-09-22 19:05:19",
+      "album": {
         "name": "Touch My Blood",
         "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 328085,
       "name": "Fela In Versace",
       "url": "https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3"
+    },
+    {
+      "added_at": "2026-09-22 19:05:19",
+      "album": {
+        "name": "Science Student",
+        "url": "https://open.spotify.com/album/79XGlgrg9qYDI4Rm7O3Hn8"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 203363,
+      "name": "Science Student",
+      "url": "https://open.spotify.com/track/3nlHlYHEvLxkwCiiqbjCKI"
     },
     {
       "added_at": "2026-09-22 19:05:19",
@@ -603,22 +619,6 @@
       "duration_ms": 166008,
       "name": "Ello Baby",
       "url": "https://open.spotify.com/track/5zN3hyqfKLYMZ0VGnBvahT"
-    },
-    {
-      "added_at": "2026-09-22 19:05:19",
-      "album": {
-        "name": "Science Student",
-        "url": "https://open.spotify.com/album/79XGlgrg9qYDI4Rm7O3Hn8"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 203363,
-      "name": "Science Student",
-      "url": "https://open.spotify.com/track/3nlHlYHEvLxkwCiiqbjCKI"
     },
     {
       "added_at": "2026-09-22 19:05:19",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
-        "name": "Money Symphony",
-        "url": "https://open.spotify.com/album/6Y09q1ChXcorX4V97153QS"
-      },
-      "artists": [
-        {
-          "name": "Dice Ailes",
-          "url": "https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa"
-        }
-      ],
-      "duration_ms": 185115,
-      "name": "Otedola",
-      "url": "https://open.spotify.com/track/1hQyklmtL6RqaxAN19UkFL"
-    },
-    {
-      "added_at": "2026-09-22 19:05:19",
-      "album": {
         "name": "Totori",
         "url": "https://open.spotify.com/album/36VLr78k31cN2mq0bFBrFP"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 204255,
       "name": "Totori",
       "url": "https://open.spotify.com/track/1yTWPSRe64KqojEYHRjxnc"
+    },
+    {
+      "added_at": "2026-09-22 19:05:19",
+      "album": {
+        "name": "Money Symphony",
+        "url": "https://open.spotify.com/album/6Y09q1ChXcorX4V97153QS"
+      },
+      "artists": [
+        {
+          "name": "Dice Ailes",
+          "url": "https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa"
+        }
+      ],
+      "duration_ms": 185115,
+      "name": "Otedola",
+      "url": "https://open.spotify.com/track/1hQyklmtL6RqaxAN19UkFL"
     },
     {
       "added_at": "2026-09-22 19:05:19",

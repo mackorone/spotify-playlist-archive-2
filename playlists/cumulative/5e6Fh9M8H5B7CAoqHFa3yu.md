@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,892 songs - 6 day 23 hr 41 min
+2,896 songs - 6 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [Che cosa sei](https://open.spotify.com/track/3mmgHEuuhEdSPFpG30XgBy) | [Lucya](https://open.spotify.com/artist/0Xg8PoHJghxrn0g6coKbUy) | [Che cosa sei](https://open.spotify.com/album/5vdREj01XmHOMBqBzwkCxj) | 3:24 | 2024-06-20 |  |
 | [Checking In](https://open.spotify.com/track/4qQXrqAy6z0Rguk3YRYIgF) | [gungwave](https://open.spotify.com/artist/1LK36CHZv2UZGpAFicw0Sp) | [Checking In](https://open.spotify.com/album/3HW7qRR6F3573SWJQA04EQ) | 2:15 | 2025-11-02 |  |
 | [Cheer Up Baby](https://open.spotify.com/track/6ZDDcq12xtnkefCCogV6Hw) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 3:42 | 2025-07-02 |  |
+| [Chicago Slow Evening](https://open.spotify.com/track/59f99k0X8tvkoEtBP3KO9P) | [Carlito Home](https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0), [Mister BoO](https://open.spotify.com/artist/6r70GFn8sPjePrZadKcPHu) | [Chicago Slow Evening](https://open.spotify.com/album/54u39w6v10Pf3CTXCHwLHX) | 3:14 | 2026-11-27 |  |
 | [Chicken Nuggets](https://open.spotify.com/track/4P68x6XRWEZQDKzhZN0bAm) | [King Hansom](https://open.spotify.com/artist/19nbXBEBmc6z0hUdb9AB7f) | [Blasphemy](https://open.spotify.com/album/3Z4k9LlWDBV8vpALmVoO38) | 2:50 | 2025-10-07 |  |
 | [Children \- Hitt 30\-10](https://open.spotify.com/track/3TFJu77tG1ODx2zlI5gQJz) | [CROSSFIT WORKOUT](https://open.spotify.com/artist/25dYdNv02BZie634eo6Ezm) | [Hiit 30/10](https://open.spotify.com/album/0nPCoEyWJs2ZHwUGaBcSan) | 1:20 | 2024-03-08 |  |
 | [Chill & Grind](https://open.spotify.com/track/16GXhEHAqhlz7B6Y8CVG3T) | [Funk Lazarus](https://open.spotify.com/artist/27Lj5gvLs9RK7jYpd3q5Cf), [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Chill & Grind](https://open.spotify.com/album/6F9ZJH5RvxQklzvkewbTO4) | 2:53 | 2026-08-05 |  |
@@ -892,6 +893,7 @@
 | [Frontier Snow](https://open.spotify.com/track/6zZjIZVJT45u3VDOtC6vIu) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:19 | 2025-12-19 |  |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2023-03-15 |  |
 | [Frío](https://open.spotify.com/track/4rbPUfo46Aa90VDk293dlu) | [César Maltrago](https://open.spotify.com/artist/0nilA2j3BsBqp3iWOhQloM) | [Frío](https://open.spotify.com/album/4OKBpSYyczTbXn7BOfWUGZ) | 2:43 | 2026-05-19 |  |
+| [Fuego](https://open.spotify.com/track/7404eAtT2tWG1YXp20Lkuu) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Fuego](https://open.spotify.com/album/5kWoswFSKFQBOQ00dle8UD) | 4:07 | 2026-11-28 |  |
 | [Fuego en la Tormenta](https://open.spotify.com/track/0csItzvJBsYcK8bjTlAzrj) | [Antiguos Jovenes](https://open.spotify.com/artist/36iNwhnUFPuwJ3Ga8D4V4G) | [Fuego en la Tormenta](https://open.spotify.com/album/4lD9hMYLzkC3MxyP1x1bMp) | 2:57 | 2025-08-28 |  |
 | [Fuerte y Claro](https://open.spotify.com/track/4EYGFw4pbPG3xapwXTnC8W) | [Pancha](https://open.spotify.com/artist/1NCyHLIUPd2MDVtExBx1Xw), [Oyaremmm](https://open.spotify.com/artist/7fjiBle1xNdkaLAUYDjxgK), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Fuerte y Claro](https://open.spotify.com/album/1AJUWz07LocDB4M1QsLMWl) | 3:19 | 2026-11-15 |  |
 | [Fumo Di Londra](https://open.spotify.com/track/5eVtrTLC1gkT3GX5S3boLB) | [\-\->FrAmE!](https://open.spotify.com/artist/0300JDaLzNwXHEnpBwkkgP), [Bers Bane](https://open.spotify.com/artist/6IiwgMhZQASrSm6oVpSkhx) | [Fumo Di Londra](https://open.spotify.com/album/34CE9Sc9KFNtSUZ3bfBYah) | 2:28 | 2024-06-24 |  |
@@ -1856,6 +1858,7 @@
 | [Park Drive](https://open.spotify.com/track/5xxmvdmNxi2nHLeZoMVOB5) | [Mats Skimmelå](https://open.spotify.com/artist/3ff8WCVNd542FKA32N1yO2) | [Park Drive](https://open.spotify.com/album/62hw9zsbVgbwu0CaV8E7fk) | 4:14 | 2026-01-14 |  |
 | [Partiu, Beijo, Tchau e Bênção](https://open.spotify.com/track/5sxa9PSxmuLtN7BvCayLCU) | [Os Bardos da Pangeia](https://open.spotify.com/artist/3KMlVXkS8GLgNqU0ao8Hst) | [Partiu, Beijo, Tchau e Bênção](https://open.spotify.com/album/5sqHmlrgn635ddOqWK6RSH) | 3:52 | 2025-06-17 |  |
 | [Party girl](https://open.spotify.com/track/2k0hFFHvtXgMhNyEfC75g5) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Party girl](https://open.spotify.com/album/51ZqJeqymp7UtdybBk9jxx) | 1:50 | 2025-10-21 |  |
+| [Passarinha](https://open.spotify.com/track/2f0EpzPUm4eTfIGa9s6zIZ) | [Amanda Mendonça](https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm) | [Passarinha](https://open.spotify.com/album/2Jw1vDxIEzMDeqOPpIptB2) | 3:37 | 2026-11-27 |  |
 | [Passion](https://open.spotify.com/track/1ER4nMT5jBeGIiIBAwr1dH) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Passion](https://open.spotify.com/album/0vWCmyxjbs6oiHYp8yCvXt) | 2:19 | 2025-05-14 |  |
 | [Past Friends](https://open.spotify.com/track/5v2DGEoZf0xGAczmQNNnWe) | [BxRI SzN](https://open.spotify.com/artist/1PUQFMKFlyhCunWecgoeSW) | [Past Friends](https://open.spotify.com/album/1E7zM7gOGRHKOj79QzIa3c) | 2:27 | 2025-11-16 |  |
 | [Past Midnight](https://open.spotify.com/track/1gKUMev30Y2sJGJbDNcitL) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Past Midnight](https://open.spotify.com/album/0kdF4ZQpjOR2GLw77jPduc) | 2:30 | 2025-10-04 | 2026-09-26 |
@@ -2436,6 +2439,7 @@
 | [The 9\-to\-5 Nirvana](https://open.spotify.com/track/07y7u9DNnZnqBJiCz34d6r) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [The Great Void's Echo](https://open.spotify.com/album/4iBlc0gBxnwL8xNHNTZXf5) | 2:39 | 2026-04-23 |  |
 | [The 900 Number](https://open.spotify.com/track/5u3eiRm1CNn80OFO1xNDpN) | [45 King](https://open.spotify.com/artist/5g41NCgZ70kV1xXoSYoL8f) | [The 900 Number](https://open.spotify.com/album/7EpaXaZTojhl7DQuqILcHz) | 3:34 | 2026-02-07 |  |
 | [The Alien](https://open.spotify.com/track/5eKfpH2dQ7FltCqb7LWEGJ) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 5:28 | 2026-04-12 |  |
+| [THE BEAT \- Radio Edit](https://open.spotify.com/track/3Ziusvq0xf6jbJu8YPY6dj) | [CARUSO](https://open.spotify.com/artist/4gPWSjh9OJolHoeTQ995Tw), [VALENZIANO](https://open.spotify.com/artist/6ZRVg1mv3nhx6METtSYaVj), [Mr Ludwik](https://open.spotify.com/artist/2EQ1ue9aPklRwKhAkUYmJd) | [THE BEAT](https://open.spotify.com/album/5l6zvfw7SLvy5dCAubAQGD) | 2:01 | 2026-11-27 |  |
 | [The Big House](https://open.spotify.com/track/1horHByM1axyVe7mQmgI9I) | [Alessandro Liccardo](https://open.spotify.com/artist/256CcBQU76vRqixx59jpgN) | [The Venosa Session](https://open.spotify.com/album/5zQmf6E0PQ5Ln7hPOUZUkT) | 3:47 | 2026-09-21 |  |
 | [The Bridge Is Over \(Red Alert Version\)](https://open.spotify.com/track/3ncD9UOwfdZWGE5oaY0xcY) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 3:24 | 2026-02-07 |  |
 | [The Charlie Song](https://open.spotify.com/track/01wjH8ORTll0A52useIlp5) | [One MInd Music](https://open.spotify.com/artist/1PoRHqbNOaCn3fGlnxWnZv), [Apolline](https://open.spotify.com/artist/776fUz9VPpXm6Xg1cQjtpC) | [The Charlie Song](https://open.spotify.com/album/6QMv1mpzswQYopYNTuum6z) | 2:50 | 2025-06-09 |  |

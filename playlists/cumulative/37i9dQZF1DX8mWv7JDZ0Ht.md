@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Vitor Kley
 
-1,035 songs - 2 day 4 hr 4 min
+1,036 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Baila Comigo](https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Baila Comigo](https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H) | 3:06 | 2024-09-20 | 2025-06-28 |
 | [Balada do Amor Inabalável](https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Balada do Amor Inabalável](https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE) | 2:22 | 2024-02-02 | 2025-05-17 |
 | [BALANÇO](https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [BALANÇO](https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx) | 2:16 | 2026-03-27 |  |
-| [Banco De Trás](https://open.spotify.com/track/3nXy8hXNDKFPqcoWmb6odS) | [juje](https://open.spotify.com/artist/3NzADmDhxyvvpIH2D0vCJb), [Gomesz](https://open.spotify.com/artist/64F5dm6rUZ1e80A7y7PZvw) | [Banco De Trás](https://open.spotify.com/album/3jxAmtuA0KkQrJEl9WtqeB) | 2:43 | 2026-11-27 |  |
+| [Banco De Trás](https://open.spotify.com/track/3nXy8hXNDKFPqcoWmb6odS) | [juje](https://open.spotify.com/artist/3NzADmDhxyvvpIH2D0vCJb), [Gomesz](https://open.spotify.com/artist/64F5dm6rUZ1e80A7y7PZvw) | [Banco De Trás](https://open.spotify.com/album/3jxAmtuA0KkQrJEl9WtqeB) | 2:43 | 2026-11-27 | 2026-11-28 |
 | [Barco de Papel](https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv), [Breno Duarte](https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG) | [Maré Alta](https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR) | 3:06 | 2025-07-11 | 2026-07-28 |
 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 | 2022-08-26 | 2023-01-28 |
 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
@@ -875,6 +875,7 @@
 | [Suave](https://open.spotify.com/track/7yp9hrQRwoXIlkLnQjuYKH) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Deb Ribeiro](https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Orgânico Verão 2023](https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim) | 3:56 | 2022-12-23 | 2023-04-29 |
 | [SUDAMÉRICA](https://open.spotify.com/track/7H4xwxwmxKtoF5mRTXyUNo) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [ROLIDEI](https://open.spotify.com/album/4RMCtuuCtPCxRHJCNuOEtT) | 3:08 | 2026-04-10 | 2026-08-07 |
 | [Sumido](https://open.spotify.com/track/1lalcRBPVD5XJT1lQHcgoE) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Vitória](https://open.spotify.com/album/3xL7lEKuL1icXn7LjVudx0) | 3:09 | 2024-10-11 | 2024-11-09 |
+| [Sussurrou](https://open.spotify.com/track/0icRdAELjHn3D3nKjSSDkh) | [Guga Lamar](https://open.spotify.com/artist/3QigRg4SZFhg2NWT9LD80N), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Sussurrou](https://open.spotify.com/album/4XdszGEKZYCWSpB3cwEONA) | 2:45 | 2026-11-27 |  |
 | [Sustentar](https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi), [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [Sustentar](https://open.spotify.com/album/4x3tqq8eCMgPfTtQjRl4eF) | 2:27 | 2023-07-28 | 2023-09-30 |
 | [São Paulo É uma Mãe](https://open.spotify.com/track/1oocuM8DsztweVZaMUQv01) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [São Paulo É uma Mãe](https://open.spotify.com/album/5xBV6oU16k5ilDsjn6eAJB) | 2:11 | 2026-05-22 | 2026-06-07 |
 | [Só love](https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Só love](https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi) | 2:41 | 2025-02-14 | 2026-01-31 |

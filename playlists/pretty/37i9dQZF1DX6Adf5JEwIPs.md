@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Victor García 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,320 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,394 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 44 | [Dia Sad](https://open.spotify.com/track/6FcQb0eWmWxJR1yfREhabA) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ) | [Dia Sad](https://open.spotify.com/album/2XVyIoHnrYsBZ9im7dvI5F) | 3:16 |
 | 45 | [Franklin En Pacas](https://open.spotify.com/track/2kApra6zGbuL0bGasJfqCK) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY) | [La Más Chula \(Deluxe\)](https://open.spotify.com/album/6POpUaHCq5vKUcZkqeFlUy) | 3:23 |
 | 46 | [Hecha A La Medida](https://open.spotify.com/track/1mgldABcyehnc2DKB0yDgj) | [Adrián Barraza](https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt) | [Hecha A La Medida](https://open.spotify.com/album/4ZcrHE2zW7FGbSOGwH7mKZ) | 3:05 |
-| 47 | [El Cholo](https://open.spotify.com/track/5MO1WZJ7dLUqMwxeF42OF6) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [El Cholo](https://open.spotify.com/album/3hF8Kl76rjyHZArTD34FxJ) | 3:35 |
-| 48 | [Tu Nuevo Cariñito](https://open.spotify.com/track/3IzVw8nMvlEg6k5kCruZcy) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Sierreñas Pa’ Pistear](https://open.spotify.com/album/64Ggi51mFhBRoGtyJvuVGn) | 5:03 |
-| 49 | [Ebrio De Amor](https://open.spotify.com/track/37fJtPvEYDDOuI6zgRcGXH) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr), [La Nueva Banda De MZT](https://open.spotify.com/artist/3CZr6vSESa4pGIrYz4t9Th) | [Ebrio De Amor](https://open.spotify.com/album/7INAwRcaiSmqiurYpM310l) | 2:58 |
-| 50 | [MENSAJES](https://open.spotify.com/track/1F4Yesnon6rTZFyYviRevi) | [Alta Autoridad](https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB) | [CHALE](https://open.spotify.com/album/1zNyzQtcon9lB7dObkmCY1) | 2:39 |
-| 51 | [24 Horas del Dia](https://open.spotify.com/track/5PMxcRo1mRihIR732hqm9o) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [24 Horas del Dia](https://open.spotify.com/album/6JGMiKECn0w1ZEEzlbhS6g) | 2:42 |
-| 52 | [Siempre En Mi Mente](https://open.spotify.com/track/450eeTSABtbUmjsK7uQ5IF) | [Los Varones De California](https://open.spotify.com/artist/4JtXEZQTssP9XfeaPbi8NF) | [La Varoniza 2.0](https://open.spotify.com/album/7E39LMVF1O6PFCn4I4OuZR) | 2:45 |
-| 53 | [Yo Bailo](https://open.spotify.com/track/49yKrssw0Kc0fr9AInJOMF) | [Fievre Looka](https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd) | [Yo Bailo](https://open.spotify.com/album/4QphYjKIzFP9m3ajo0e9C8) | 2:30 |
-| 54 | [El Coleccionista](https://open.spotify.com/track/6Ezn2Ln8mtdyyDpY7210yE) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [El Coleccionista](https://open.spotify.com/album/2IOCEw7UQClBai9ZPWybPi) | 3:00 |
-| 55 | [Me Besa Aquí, Me Besa Allá](https://open.spotify.com/track/0xvb3fNhJsr6p0kNUuyN8p) | [Los de Alanis](https://open.spotify.com/artist/5eNHR93VE5ArQE8X1fpt3u) | [Tradición Sin Fronteras](https://open.spotify.com/album/4AReJrZI9uqJYuphoJXAmm) | 2:26 |
+| 47 | [El Coleccionista](https://open.spotify.com/track/6Ezn2Ln8mtdyyDpY7210yE) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [El Coleccionista](https://open.spotify.com/album/2IOCEw7UQClBai9ZPWybPi) | 3:00 |
+| 48 | [El Cholo](https://open.spotify.com/track/5MO1WZJ7dLUqMwxeF42OF6) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [El Cholo](https://open.spotify.com/album/3hF8Kl76rjyHZArTD34FxJ) | 3:35 |
+| 49 | [Tu Nuevo Cariñito](https://open.spotify.com/track/3IzVw8nMvlEg6k5kCruZcy) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Sierreñas Pa’ Pistear](https://open.spotify.com/album/64Ggi51mFhBRoGtyJvuVGn) | 5:03 |
+| 50 | [Ebrio De Amor](https://open.spotify.com/track/37fJtPvEYDDOuI6zgRcGXH) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr), [La Nueva Banda De MZT](https://open.spotify.com/artist/3CZr6vSESa4pGIrYz4t9Th) | [Ebrio De Amor](https://open.spotify.com/album/7INAwRcaiSmqiurYpM310l) | 2:58 |
+| 51 | [MENSAJES](https://open.spotify.com/track/1F4Yesnon6rTZFyYviRevi) | [Alta Autoridad](https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB) | [CHALE](https://open.spotify.com/album/1zNyzQtcon9lB7dObkmCY1) | 2:39 |
+| 52 | [24 Horas del Dia](https://open.spotify.com/track/5PMxcRo1mRihIR732hqm9o) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [24 Horas del Dia](https://open.spotify.com/album/6JGMiKECn0w1ZEEzlbhS6g) | 2:42 |
+| 53 | [Siempre En Mi Mente](https://open.spotify.com/track/450eeTSABtbUmjsK7uQ5IF) | [Los Varones De California](https://open.spotify.com/artist/4JtXEZQTssP9XfeaPbi8NF) | [La Varoniza 2.0](https://open.spotify.com/album/7E39LMVF1O6PFCn4I4OuZR) | 2:45 |
+| 54 | [Yo Bailo](https://open.spotify.com/track/49yKrssw0Kc0fr9AInJOMF) | [Fievre Looka](https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd) | [Yo Bailo](https://open.spotify.com/album/4QphYjKIzFP9m3ajo0e9C8) | 2:30 |
+| 55 | [Y Me Besa](https://open.spotify.com/track/0xvb3fNhJsr6p0kNUuyN8p) | [Los de Alanis](https://open.spotify.com/artist/5eNHR93VE5ArQE8X1fpt3u) | [Tradición Sin Fronteras](https://open.spotify.com/album/4AReJrZI9uqJYuphoJXAmm) | 2:26 |
 | 56 | [¿QUIÉN SERÁ?](https://open.spotify.com/track/1uyHrzrx8jpSAB2Xh25mvt) | [Paulina Del Campo](https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt) | [¿QUIÉN SERÁ?](https://open.spotify.com/album/0EMR3GtCTaLujSsi44JGSF) | 3:00 |
 | 57 | [Caribe](https://open.spotify.com/track/5gKDS3oCWx6F2dZjhPjEW8) | [Grupo Ajedrez](https://open.spotify.com/artist/7jL6rRF6jLrBVK2qAKmWrQ), [Grupo En Califas](https://open.spotify.com/artist/2XD1avUsri0Gkf2IMX65wg) | [Moviendo Piezas](https://open.spotify.com/album/2BWE2RNVDAfECPExhCvznc) | 2:35 |
 | 58 | [TRP](https://open.spotify.com/track/6Ejxb4pEs6pfkHiOKD2XRt) | [Cheko Mg](https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA) | [TRP](https://open.spotify.com/album/3zN6PQ9NWLxxG4xAdKZEkm) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 74 | [Pero Ni Modo](https://open.spotify.com/track/7MtsTEp0im1TuCZFBKOwF3) | [Axel Terrazas](https://open.spotify.com/artist/6m91SHIkTDOwVXGVRU4F5n) | [Pero Ni Modo](https://open.spotify.com/album/7zkGnuXRdmg6Xn1OpPbIXo) | 2:49 |
 | 75 | [Oveja Negra](https://open.spotify.com/track/7LcDqOSX8tVQSAbDAdFUuk) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Oveja Negra](https://open.spotify.com/album/1v4zFBshC4YmJv1snxbxWC) | 2:23 |
 
-Snapshot ID: `AAAAAKoiuiLy4UPZzY+YI2hugjuwQEPh`
+Snapshot ID: `AAAAAIiS1Cmjjwh6Y3tF+GDDmNShVlOE`

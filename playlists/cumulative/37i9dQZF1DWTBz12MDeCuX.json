@@ -27686,7 +27686,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 164819,
       "name": "Hardtekk Tutorial",
       "url": "https://open.spotify.com/track/2VtJ8QY3fzrq5tXbqjcnK4"
@@ -37742,6 +37742,24 @@
       "duration_ms": 171337,
       "name": "LASS LOS",
       "url": "https://open.spotify.com/track/2YI2wLwy4DqZKyMD0sfYeh"
+    },
+    {
+      "album": {
+        "name": "Lass mich frei",
+        "url": "https://open.spotify.com/album/22dlhyhJP7msYkCOnrk0YS"
+      },
+      "artists": [
+        {
+          "name": "FEDX",
+          "url": "https://open.spotify.com/artist/1i6K6RNWO4mV9LNVls5eFc"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Lass mich frei",
+      "url": "https://open.spotify.com/track/2wOlfET10btwYO9zy0exQe"
     },
     {
       "album": {
@@ -59509,7 +59527,7 @@
     },
     {
       "album": {
-        "name": "So k\u00fchl",
+        "name": "so k\u00fchl",
         "url": "https://open.spotify.com/album/4gqe8YWvQViubLoaJTkWem"
       },
       "artists": [
@@ -59522,7 +59540,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171500,
-      "name": "So k\u00fchl",
+      "name": "so k\u00fchl",
       "url": "https://open.spotify.com/track/18chZ85CvMAQP1cXTrNjvO"
     },
     {

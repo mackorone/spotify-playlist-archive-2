@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 524,
+  "num_followers": 523,
   "original_name": "u pwetty",
   "owner": {
     "name": "CerVon Campbell",
     "url": "https://open.spotify.com/user/1275620579"
   },
-  "snapshot_id": "AAAWOG2bH4sdrTC6PphTGV6teht8q/O3",
+  "snapshot_id": "AAAWPFN/GbdT17LYEiRyCRdz5tZfgp6U",
   "tracks": [
     {
       "added_at": "2025-03-12 13:37:59",
@@ -5187,6 +5187,90 @@
       "duration_ms": 280122,
       "name": "Fl\u00fcchtlinge - Radio Edit",
       "url": "https://open.spotify.com/track/1ENK4X6NnxxdR0uIU0XwUI"
+    },
+    {
+      "added_at": "2026-11-28 02:54:12",
+      "album": {
+        "name": "SATURATION",
+        "url": "https://open.spotify.com/album/2BQB5dXXMSsYAQKx0V8YMb"
+      },
+      "artists": [
+        {
+          "name": "Adanah",
+          "url": "https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "V\u00e9n\u00e8re",
+      "url": "https://open.spotify.com/track/1xDFFCL5erS9Lxz35edhrC"
+    },
+    {
+      "added_at": "2026-11-28 02:54:16",
+      "album": {
+        "name": "Verso de amor",
+        "url": "https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 226098,
+      "name": "Tu mirada",
+      "url": "https://open.spotify.com/track/6nQiWo06oUAeFwWBvsYh4v"
+    },
+    {
+      "added_at": "2026-11-28 02:54:18",
+      "album": {
+        "name": "Psyop (Piano Ballata)",
+        "url": "https://open.spotify.com/album/4CQZbuoogORxfvsixj6OEW"
+      },
+      "artists": [
+        {
+          "name": "Berqfeld",
+          "url": "https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr"
+        },
+        {
+          "name": "Miroslaw Bojadzijew",
+          "url": "https://open.spotify.com/artist/1XQQujTdjrWCCWpG8Iqu4Y"
+        }
+      ],
+      "duration_ms": 173591,
+      "name": "Psyop - Piano Ballata",
+      "url": "https://open.spotify.com/track/0CZfa975EMmjpUrX7H4kxo"
+    },
+    {
+      "added_at": "2026-11-28 02:54:22",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/10k86T5QXMw3z8tSUsxstE"
+      },
+      "artists": [
+        {
+          "name": "Tyler J. Thierry",
+          "url": "https://open.spotify.com/artist/05GcYwcTVPFZdSZwiYNlS4"
+        },
+        {
+          "name": "liam vee",
+          "url": "https://open.spotify.com/artist/77zlFkyzNmuNZ5CXGfkVLw"
+        },
+        {
+          "name": "Serein Vail",
+          "url": "https://open.spotify.com/artist/0UFwvMZiZYu8iv4dyyVOt8"
+        },
+        {
+          "name": "Reynakah",
+          "url": "https://open.spotify.com/artist/5YnNwdL9oVehL2bWoBnDek"
+        },
+        {
+          "name": "New Soul Renaissance",
+          "url": "https://open.spotify.com/artist/339M72HUxlsIPR0JfDBK0J"
+        }
+      ],
+      "duration_ms": 258037,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/2u7Fqv2VrrLPd3qbQVvSWC"
     }
   ],
   "unique_name": "u pwetty",

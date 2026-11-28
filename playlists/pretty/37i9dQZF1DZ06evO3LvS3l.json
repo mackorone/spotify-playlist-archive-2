@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 29337,
+  "num_followers": 29340,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAAt4fr8EYfL95T6B9HYOH/t",
+  "snapshot_id": "awd2gAAAAABCLCkShILLP9A9iBTiMigH",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Matter of Life and Death",
-        "url": "https://open.spotify.com/album/5iAcxskUK5WGatU8Yzkp2e"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6X8awE7FqsGMyZCkH1psD7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darlin', Darlin'",
         "url": "https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 258160,
       "name": "Why You Been Gone So Long",
       "url": "https://open.spotify.com/track/38gJbvK9xkufMJmYelSyMz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Matter of Life and Death",
+        "url": "https://open.spotify.com/album/5iAcxskUK5WGatU8Yzkp2e"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6X8awE7FqsGMyZCkH1psD7"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon a Rhyme",
-        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Piece of Wood and Steel",
-      "url": "https://open.spotify.com/track/62xpXHNltQvHLtQUGX7ArA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 143760,
       "name": "Just to Prove My Love for You",
       "url": "https://open.spotify.com/track/3K4J9hsXjF5Cnrf5YtnMMx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once Upon a Rhyme",
+        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Piece of Wood and Steel",
+      "url": "https://open.spotify.com/track/62xpXHNltQvHLtQUGX7ArA"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Got Something to Say",
-        "url": "https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Hank Williams Junior-Junior",
-      "url": "https://open.spotify.com/track/1fiPB8rWT31z8it5R8V6Hv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 141000,
       "name": "Hey Gypsy",
       "url": "https://open.spotify.com/track/1mhMZNhh6uwgJYYZYOrBdO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Got Something to Say",
+        "url": "https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Hank Williams Junior-Junior",
+      "url": "https://open.spotify.com/track/1fiPB8rWT31z8it5R8V6Hv"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Allan Coe Sings Merle Haggard",
-        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Mama Tried",
-      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at Billy Bob's Texas",
         "url": "https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 170200,
       "name": "This Bottle (In My Hand)",
       "url": "https://open.spotify.com/track/2eeK8aAZy6o7iyQhvhg5n0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Allan Coe Sings Merle Haggard",
+        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
     },
     {
       "added_at": null,

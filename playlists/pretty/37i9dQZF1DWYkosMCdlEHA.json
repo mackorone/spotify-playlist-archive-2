@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 155666,
+  "num_followers": 155680,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
+        "name": "Real Gold",
+        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Real Gold",
+      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
         "name": "Sess\u00e3o Da Tarde",
         "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 182784,
       "name": "Sess\u00e3o Da Tarde",
       "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
-        "name": "Real Gold",
-        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Real Gold",
-      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
     },
     {
       "added_at": "2026-07-02 21:47:25",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
-        "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 257604,
-      "name": "N\u00e3o \u00e9 S\u00e9rio - Ao Vivo - Chegou Quem Faltava",
-      "url": "https://open.spotify.com/track/4hXfkCgImL8rhqlppBrDPj"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
         "name": "Peace in a Time of War",
         "url": "https://open.spotify.com/album/4Wps42vdfVXj2aJW4mf2yn"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 256733,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2Y9WfjpGt3kzv7cbRl3s3O"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
+        "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 257604,
+      "name": "N\u00e3o \u00e9 S\u00e9rio - Ao Vivo - Chegou Quem Faltava",
+      "url": "https://open.spotify.com/track/4hXfkCgImL8rhqlppBrDPj"
     },
     {
       "added_at": "2026-07-02 21:47:25",

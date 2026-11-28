@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played music videos right now - Global.",
-  "num_followers": 11590,
+  "num_followers": 11631,
   "original_name": "Music Video Charts - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MpvbOAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mp0oCAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "Hong Kong (feat. \u738b\u83f2\u5b63\u5019\u98a8)",
         "url": "https://open.spotify.com/album/0Ird3BTe1tW5ru9cMLhpwK"
@@ -25,39 +25,87 @@
       "url": "https://open.spotify.com/track/2KSPGgMz3fdWRGSiinMSSh"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
-        "url": "https://open.spotify.com/album/7hvLc1GT15iRwqmOkw8yP9"
+        "name": "I Knew It, I Knew You x Our Song (Live on The 60th Annual CMA Awards)",
+        "url": "https://open.spotify.com/album/3CLtCAVJBozHrkPpxGgfat"
       },
       "artists": [
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bill Anderson",
+          "url": "https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh"
+        },
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
+        {
+          "name": "Sugarland",
+          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
         }
       ],
-      "duration_ms": 192170,
-      "name": "I Knew It, I Knew You x Our Song - Live From The 60th CMA Awards",
-      "url": "https://open.spotify.com/track/0sYnWbdznUbJExknlyf03S"
+      "duration_ms": 192832,
+      "name": "I Knew It, I Knew You x Our Song - Live on The 60th Annual CMA Awards",
+      "url": "https://open.spotify.com/track/28WhgZycgd0HRaRZ8PBN40"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "take me home (4 christmas)",
-        "url": "https://open.spotify.com/album/0SiEXbxSydiP9ZoLVGzzGR"
+        "name": "Orbiter (Live from New York)",
+        "url": "https://open.spotify.com/album/15071E3qaSdT63S9UJHh93"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 187711,
-      "name": "take me home (4 christmas)",
-      "url": "https://open.spotify.com/track/5ILgxqmRS3ST1nXlAFnAr2"
+      "duration_ms": 332548,
+      "name": "Orbiter - Live from New York",
+      "url": "https://open.spotify.com/track/2m6HxTgHJVb6bAC5vRpcqs"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/3Y3HGHWLrtJEzdwuTWU6Tp"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 236010,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/0XSzsXxRtHARGF0wuULAUG"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
         "url": "https://open.spotify.com/album/0bR9zyzCCGI8JB3aNlAYwE"
@@ -85,39 +133,7 @@
       "url": "https://open.spotify.com/track/0Mo2L3SNEchkcNwMvjcB5w"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Housewife (Live from The Victoria's Secret Fashion Show 2026)",
-        "url": "https://open.spotify.com/album/1FVI4nxZlKMv5zvU0KMQGp"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 219690,
-      "name": "Housewife - Live from The Victoria's Secret Fashion Show 2026",
-      "url": "https://open.spotify.com/track/61LsiYvjx6R4taEZUOyWQb"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/3Y3HGHWLrtJEzdwuTWU6Tp"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 236010,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/0XSzsXxRtHARGF0wuULAUG"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/6KwQ61tsNF4ru0Di47b5Df"
@@ -133,63 +149,55 @@
       "url": "https://open.spotify.com/track/2sIvNRBvLNQX1rxVoPwJPE"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "Tremendo Desastre",
-        "url": "https://open.spotify.com/album/7GoPMGOeV3VA6ToZvWRSVK"
+        "name": "Housewife (Live from The Victoria's Secret Fashion Show 2026)",
+        "url": "https://open.spotify.com/album/1FVI4nxZlKMv5zvU0KMQGp"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 218560,
-      "name": "Tremendo Desastre",
-      "url": "https://open.spotify.com/track/5Rhd8HeMY3qPozk96ZS0WO"
+      "duration_ms": 219690,
+      "name": "Housewife - Live from The Victoria's Secret Fashion Show 2026",
+      "url": "https://open.spotify.com/track/61LsiYvjx6R4taEZUOyWQb"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/4VTgcjLUtqudJhB0X7irDx"
+        "name": "take me home (4 christmas)",
+        "url": "https://open.spotify.com/album/0SiEXbxSydiP9ZoLVGzzGR"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 237504,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/59ulCNXlrxTeZ86ZshGkS8"
+      "duration_ms": 187711,
+      "name": "take me home (4 christmas)",
+      "url": "https://open.spotify.com/track/5ILgxqmRS3ST1nXlAFnAr2"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "2.0 (Live at Pier 17) | Presented by Spotify",
-        "url": "https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih"
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/1tJYYXnms7BP6ssPSme35N"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 190281,
-      "name": "2.0 (Live at Pier 17) | Presented by Spotify",
-      "url": "https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj"
+      "duration_ms": 145353,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5tDCvnUhZ6i56UTamEQUo5"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "BbY WOW",
         "url": "https://open.spotify.com/album/5nxte76LzyziSGXcU7qwq8"
@@ -213,55 +221,43 @@
       "url": "https://open.spotify.com/track/2d4FSdKcsMiKVFKBcZxs2f"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "My Body Isn't Ready (Orchestral Version from Sound City)",
-        "url": "https://open.spotify.com/album/4rGc5TUUgDGNYHn3Wzxl6k"
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/1FELSuT6qsHJHTen2TRA4Z"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
         }
       ],
-      "duration_ms": 225557,
-      "name": "My Body Isn't Ready - Orchestral Version from Sound City",
-      "url": "https://open.spotify.com/track/4rAi1EJ6yDzVdrOTFZOukF"
+      "duration_ms": 189924,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/0Lsu4kjV6NSxOLaYh1nL97"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "SWIM (Live at Pier 17) | Presented by Spotify",
-        "url": "https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD"
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/4VTgcjLUtqudJhB0X7irDx"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 162163,
-      "name": "SWIM (Live at Pier 17) | Presented by Spotify",
-      "url": "https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/1tJYYXnms7BP6ssPSme35N"
-      },
-      "artists": [
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
         {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 145353,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/5tDCvnUhZ6i56UTamEQUo5"
+      "duration_ms": 237504,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/59ulCNXlrxTeZ86ZshGkS8"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "Rockin' Around The Christmas Tree",
         "url": "https://open.spotify.com/album/3v9TQC44lcHLiHlbND1m7z"
@@ -277,119 +273,7 @@
       "url": "https://open.spotify.com/track/04ND14bW1gyo8bDNDgv5Cc"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "stupid song (acoustic)",
-        "url": "https://open.spotify.com/album/5D2kP4GkBgIcJGEqSDwX1F"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 220228,
-      "name": "stupid song - acoustic",
-      "url": "https://open.spotify.com/track/6Frk5ICLnAsTMhQIGS3rJZ"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/2ebbnxsdZE76RvNxL1Z74C"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 209088,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/7C6i75mzAOyJz1K3nqgMAr"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4WHQLXePiOEUb2oWwPrIQx"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 290718,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/55JGFPfzflPicYMXvpKeig"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/58U3R37geWab1eYfUSh5zt"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 340923,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0xai4CfhBoCFfKqPQJ9URa"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Snowman",
-        "url": "https://open.spotify.com/album/40XYrlP145PTVWNZBQzJMM"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/4478hK5vl9IVnYr2pxW7jP"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
-        "url": "https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 191305,
-      "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
-      "url": "https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Stop The Wedding!",
-        "url": "https://open.spotify.com/album/6SoOItn8A9lwORTSuoVa1X"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 208298,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/4aMJ34GZtHbDu5rolkF0Hy"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "Se Toco El T#tito Con Mi Gl*ck",
         "url": "https://open.spotify.com/album/5iHeDOEhyeeJgCV28UtoHn"
@@ -405,23 +289,323 @@
       "url": "https://open.spotify.com/track/2tMRq0fwDu3a4kXz2lVzYN"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "Superman (The Shop Sessions)",
-        "url": "https://open.spotify.com/album/39V83Uzlrcm5CjPnWG0qOr"
+        "name": "2.0 (Live at Pier 17) | Presented by Spotify",
+        "url": "https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 195912,
-      "name": "Superman - The Shop Sessions",
-      "url": "https://open.spotify.com/track/3gj08hIqFhccQVJ2ACHrTj"
+      "duration_ms": 190281,
+      "name": "2.0 (Live at Pier 17) | Presented by Spotify",
+      "url": "https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Tremendo Desastre",
+        "url": "https://open.spotify.com/album/7GoPMGOeV3VA6ToZvWRSVK"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Tremendo Desastre",
+      "url": "https://open.spotify.com/track/5Rhd8HeMY3qPozk96ZS0WO"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "GRACIAS X TODO",
+        "url": "https://open.spotify.com/album/6dweK7yO2y4Egfvru2huTe"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 227091,
+      "name": "GRACIAS X TODO",
+      "url": "https://open.spotify.com/track/6AvL7IhHYhHMbstVvjLcwI"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "SWIM (Live at Pier 17) | Presented by Spotify",
+        "url": "https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 162163,
+      "name": "SWIM (Live at Pier 17) | Presented by Spotify",
+      "url": "https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/58U3R37geWab1eYfUSh5zt"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 340923,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0xai4CfhBoCFfKqPQJ9URa"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4WHQLXePiOEUb2oWwPrIQx"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 290718,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/55JGFPfzflPicYMXvpKeig"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "My Body Isn't Ready (Orchestral Version from Sound City)",
+        "url": "https://open.spotify.com/album/4rGc5TUUgDGNYHn3Wzxl6k"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 225557,
+      "name": "My Body Isn't Ready - Orchestral Version from Sound City",
+      "url": "https://open.spotify.com/track/4rAi1EJ6yDzVdrOTFZOukF"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/2ebbnxsdZE76RvNxL1Z74C"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 209088,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/7C6i75mzAOyJz1K3nqgMAr"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/40XYrlP145PTVWNZBQzJMM"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/4478hK5vl9IVnYr2pxW7jP"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "It's the Most Wonderful Time of the Year",
+        "url": "https://open.spotify.com/album/74OT8kuxobjgKY39TP8gHk"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151296,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1VA6PuxJV09rs3qBtRXd3E"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "stupid song (acoustic)",
+        "url": "https://open.spotify.com/album/5D2kP4GkBgIcJGEqSDwX1F"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 220228,
+      "name": "stupid song - acoustic",
+      "url": "https://open.spotify.com/track/6Frk5ICLnAsTMhQIGS3rJZ"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Let It Snow! Let It Snow! Let It Snow!",
+        "url": "https://open.spotify.com/album/32NtPV0J3xkRXDslV8H4mV"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 116324,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/05QiGprgJxR3u2xsheW2a4"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "TU SANCHO",
+        "url": "https://open.spotify.com/album/2GcbOw6CG4n17SIoOF5QHQ"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "TU SANCHO",
+      "url": "https://open.spotify.com/track/2ODIsJE5Brg2BN3kMH7GQh"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/6SoOItn8A9lwORTSuoVa1X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 208298,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/4aMJ34GZtHbDu5rolkF0Hy"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Underneath the Tree",
+        "url": "https://open.spotify.com/album/6ujNsCA5MLvAqlRUm6b4o2"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 239274,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/4SPPEJQS7HjoJ4WUBRaUKD"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Nicole Kidman",
+        "url": "https://open.spotify.com/album/0HCLdQDbY4uVGjb6p1j8oF"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 219633,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/4fBnFBSVjHfDv8dqXxKw05"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/27THCDYBxFzA9R1Ku7TfIJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 252302,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/1Ywk7HecwsfJWy2pxaaQZM"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
+        "url": "https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 191305,
+      "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
+      "url": "https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/3v2H0Gu2KxusfMdGnhksRV"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 212309,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/3ixd3roAc4Zlxejevskffz"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "ICONIC BY MISTAKE",
         "url": "https://open.spotify.com/album/0gjfMkpsH1y95M4wfe7WUJ"
@@ -445,43 +629,23 @@
       "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "Nicole Kidman",
-        "url": "https://open.spotify.com/album/0HCLdQDbY4uVGjb6p1j8oF"
+        "name": "SWIM (Live Clip II.) (Swimming Pool ver.)",
+        "url": "https://open.spotify.com/album/34uciNqbK9ahfNCBhpboNI"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 219633,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/4fBnFBSVjHfDv8dqXxKw05"
+      "duration_ms": 186889,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/1MWM26yX1gcw4IRQbVL6aw"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/27THCDYBxFzA9R1Ku7TfIJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 252302,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/1Ywk7HecwsfJWy2pxaaQZM"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "Cuando El Agua Hirviendo (En Vivo desde Colombia)",
         "url": "https://open.spotify.com/album/16kFcLCCypyiltgpLUo0Ac"
@@ -501,151 +665,23 @@
       "url": "https://open.spotify.com/track/7vqgovQZfgD6po0vU2uwCv"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/3v2H0Gu2KxusfMdGnhksRV"
+        "name": "Las mas bonitas son p#tas",
+        "url": "https://open.spotify.com/album/2cag3Hwu0GW3QiRFpT8deb"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 212309,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/3ixd3roAc4Zlxejevskffz"
+      "duration_ms": 158801,
+      "name": "Las mas bonitas son p#tas",
+      "url": "https://open.spotify.com/track/0cBpT2wN2wxjks14Ln1s1J"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "TU SANCHO",
-        "url": "https://open.spotify.com/album/2GcbOw6CG4n17SIoOF5QHQ"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "TU SANCHO",
-      "url": "https://open.spotify.com/track/2ODIsJE5Brg2BN3kMH7GQh"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "You're Under Arrest",
-        "url": "https://open.spotify.com/album/0HnvQlUVgl8yD11bmohZI1"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 189043,
-      "name": "You're Under Arrest",
-      "url": "https://open.spotify.com/track/74NlZddGvBw0RfEXR0hDje"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "SWIM (Live Clip II.) (Swimming Pool ver.)",
-        "url": "https://open.spotify.com/album/34uciNqbK9ahfNCBhpboNI"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 186889,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/1MWM26yX1gcw4IRQbVL6aw"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "It's the Most Wonderful Time of the Year",
-        "url": "https://open.spotify.com/album/74OT8kuxobjgKY39TP8gHk"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151296,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1VA6PuxJV09rs3qBtRXd3E"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/6a4GYeEa0rFoCGhvjam7pd"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 253219,
-      "name": "Circles - F-1Trillion Album Livestream",
-      "url": "https://open.spotify.com/track/03PSDRVwlj5GK5VvWOeQR2"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Underneath the Tree",
-        "url": "https://open.spotify.com/album/6ujNsCA5MLvAqlRUm6b4o2"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 239274,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/4SPPEJQS7HjoJ4WUBRaUKD"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "P\u00f3s (Ao Vivo)",
-        "url": "https://open.spotify.com/album/46ULCI22PFVSZqGWSZYKGI"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "duration_ms": 92821,
-      "name": "P\u00f3s - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HwhXxizGIXkdZV8yzgoBH"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Patient Zero",
-        "url": "https://open.spotify.com/album/0KtMqHPyc0L7unLa6wcKsA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 312320,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
         "url": "https://open.spotify.com/album/7CltFZwxxVUprhzostOe2p"
@@ -661,23 +697,87 @@
       "url": "https://open.spotify.com/track/2gL72mqdPomBDn2t5ojn47"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "Let It Snow! Let It Snow! Let It Snow!",
-        "url": "https://open.spotify.com/album/32NtPV0J3xkRXDslV8H4mV"
+        "name": "P\u00f3s (Ao Vivo)",
+        "url": "https://open.spotify.com/album/46ULCI22PFVSZqGWSZYKGI"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
         }
       ],
-      "duration_ms": 116324,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/05QiGprgJxR3u2xsheW2a4"
+      "duration_ms": 92821,
+      "name": "P\u00f3s - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HwhXxizGIXkdZV8yzgoBH"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "You're Under Arrest",
+        "url": "https://open.spotify.com/album/0HnvQlUVgl8yD11bmohZI1"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 189043,
+      "name": "You're Under Arrest",
+      "url": "https://open.spotify.com/track/74NlZddGvBw0RfEXR0hDje"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/5ulLgaXSGELJRGFsO8p2pZ"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 421269,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/0ghp9ki0bxO4KpvZajAyqO"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/2pKNCmXX8NyGz88xfw9cc5"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
+      "album": {
+        "name": "The Happy Song",
+        "url": "https://open.spotify.com/album/7yXL5f1zaLiL8DOiewjU5m"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 157802,
+      "name": "The Happy Song",
+      "url": "https://open.spotify.com/track/6rGCAmKx251e3P77NPc1LP"
+    },
+    {
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/5vB8gQU8bR7Vt9OTsVwz5d"
@@ -693,7 +793,7 @@
       "url": "https://open.spotify.com/track/3ODLb2WTwadkfL3vPWy55q"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/7xws1ukY6rom1XiNMkqymW"
@@ -713,23 +813,7 @@
       "url": "https://open.spotify.com/track/7jxvTuayRsXvlmh2U0L7yf"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Hootie Frutti",
-        "url": "https://open.spotify.com/album/2rPaL00arekWCIcHG319Mo"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 153174,
-      "name": "Hootie Frutti",
-      "url": "https://open.spotify.com/track/7tN8t1hdcS2VF7aSakMfOT"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "Beauty And A Beat",
         "url": "https://open.spotify.com/album/1X68xZ3V7TNgzApECVuFXJ"
@@ -749,55 +833,23 @@
       "url": "https://open.spotify.com/track/3UaxFZPbvtVPWt9HvVemtl"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "Every Breath You Take",
-        "url": "https://open.spotify.com/album/2KtejeEquzzMwIVfdSCVb2"
+        "name": "It's Beginning to Look a Lot like Christmas",
+        "url": "https://open.spotify.com/album/4zrXOi2GJgGYEIdr1PtOhE"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 235520,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/5fTGZbWKEI0PHOpZVcyS68"
+      "duration_ms": 207936,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/2mcGxpc9wsuXm2JTKkJOxf"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/5ulLgaXSGELJRGFsO8p2pZ"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 421269,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Las mas bonitas son p#tas",
-        "url": "https://open.spotify.com/album/2cag3Hwu0GW3QiRFpT8deb"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 158801,
-      "name": "Las mas bonitas son p#tas",
-      "url": "https://open.spotify.com/track/0cBpT2wN2wxjks14Ln1s1J"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
         "name": "El Hombre Que Yo Amo | Noches de Latinaje",
         "url": "https://open.spotify.com/album/6e82QSaCnzksZdjn2PxC6W"
@@ -813,64 +865,36 @@
       "url": "https://open.spotify.com/track/6cBR9nuVWBMVqRsZOpmu5R"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "The Happy Song",
-        "url": "https://open.spotify.com/album/7yXL5f1zaLiL8DOiewjU5m"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/6a4GYeEa0rFoCGhvjam7pd"
       },
       "artists": [
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 157802,
-      "name": "The Happy Song",
-      "url": "https://open.spotify.com/track/6rGCAmKx251e3P77NPc1LP"
+      "duration_ms": 253219,
+      "name": "Circles - F-1Trillion Album Livestream",
+      "url": "https://open.spotify.com/track/03PSDRVwlj5GK5VvWOeQR2"
     },
     {
-      "added_at": "2026-11-26 14:03:12",
+      "added_at": "2026-11-27 14:12:33",
       "album": {
-        "name": "Hell Nah",
-        "url": "https://open.spotify.com/album/65SFSffQKFdOZkrNoXVQT6"
+        "name": "Every Breath You Take",
+        "url": "https://open.spotify.com/album/2KtejeEquzzMwIVfdSCVb2"
       },
       "artists": [
         {
-          "name": "Mez",
-          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 273207,
-      "name": "Hell Nah",
-      "url": "https://open.spotify.com/track/0SnwV3ybEI5G93zD8OyYJo"
-    },
-    {
-      "added_at": "2026-11-26 14:03:12",
-      "album": {
-        "name": "Hips Don't Lie (featuring Wyclef Jean)",
-        "url": "https://open.spotify.com/album/0keVByjZriV0GqFZKUl5Si"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 218218,
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
-      "url": "https://open.spotify.com/track/6sEtce6qTCrPZQQMGY3nRD"
+      "duration_ms": 235520,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/5fTGZbWKEI0PHOpZVcyS68"
     }
   ],
   "unique_name": "Music Video Charts - Global",

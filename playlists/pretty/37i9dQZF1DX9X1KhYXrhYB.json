@@ -1,13 +1,77 @@
 {
   "description": "Secrets will be spilled. Listen to the music from Yellowjackets, now streaming on Paramount+.",
-  "num_followers": 184560,
+  "num_followers": 184778,
   "original_name": "Yellowjackets Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFsCvTObDc19/5FGMsgUU3bW1jpS",
+  "snapshot_id": "AAAAAKRPg1H0WNaBG4KB0p3qVPUU3d1N",
   "tracks": [
+    {
+      "added_at": "2026-11-27 08:00:12",
+      "album": {
+        "name": "The Singles 86-98",
+        "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh"
+    },
+    {
+      "added_at": "2026-11-27 08:00:12",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 293200,
+      "name": "Wandering Star",
+      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
+    },
+    {
+      "added_at": "2026-11-27 08:00:12",
+      "album": {
+        "name": "RAPCD 2",
+        "url": "https://open.spotify.com/album/26ZOo39WwLEK3CaAj3hL3c"
+      },
+      "artists": [
+        {
+          "name": "Larry T West",
+          "url": "https://open.spotify.com/artist/7ET1e1qvWNeZW4eXdk6HhE"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Full Time Jack Move 1",
+      "url": "https://open.spotify.com/track/67zbbFsDMNOi1QDhkjzs3j"
+    },
+    {
+      "added_at": "2026-11-27 08:00:12",
+      "album": {
+        "name": "That Dog",
+        "url": "https://open.spotify.com/album/3gtD00whcl4lPfCK1yEU7w"
+      },
+      "artists": [
+        {
+          "name": "that dog.",
+          "url": "https://open.spotify.com/artist/0tXdvAMrxsEOVmnMJIHolv"
+        }
+      ],
+      "duration_ms": 228893,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1OaeFSgNdm1jnZNiihaUUK"
+    },
     {
       "added_at": "2026-11-21 05:00:18",
       "album": {

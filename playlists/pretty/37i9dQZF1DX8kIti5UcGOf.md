@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kIti5UcGOf.md) - [plain]
 
 > The official soundtrack of I Play Rocky, in theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 32 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 274 likes - 32 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

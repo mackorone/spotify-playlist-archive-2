@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Chiodos
 
-[Spotify](https://open.spotify.com/user/spotify) - 959,844 likes - 288 songs - 16 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 959,769 likes - 288 songs - 16 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

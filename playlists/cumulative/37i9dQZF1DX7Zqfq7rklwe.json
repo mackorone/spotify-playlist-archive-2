@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 190803,
       "name": "From the Bottom of My Heart",
       "url": "https://open.spotify.com/track/5lzUEsc8znqAzlBVewkony"
@@ -3476,6 +3476,24 @@
       "duration_ms": 247680,
       "name": "Kylie",
       "url": "https://open.spotify.com/track/2hq1XgYec0eejLFiDnytUY"
+    },
+    {
+      "album": {
+        "name": "Kynnet",
+        "url": "https://open.spotify.com/album/1wyv7ugOM3A0t0EWvDX9pD"
+      },
+      "artists": [
+        {
+          "name": "KOISIA",
+          "url": "https://open.spotify.com/artist/2K881mYa29KafqnYtqjrkQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159132,
+      "name": "Kynnet",
+      "url": "https://open.spotify.com/track/6Hhyow3dxA9KjVhvoShSiB"
     },
     {
       "album": {

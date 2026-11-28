@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "Acid All Night / Superfreak",
+        "url": "https://open.spotify.com/album/6xzbvEOCFrG8zHuDymnju4"
+      },
+      "artists": [
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Knorst",
+          "url": "https://open.spotify.com/artist/72VmJeabwbXWiHrJzZ5Htg"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Acid All Night",
+      "url": "https://open.spotify.com/track/1u44zorhtLVHDGzgl7XT2m"
+    },
+    {
+      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/5xMB9NEfwoWIdoL00KX8Wj"
       },
@@ -488,7 +510,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 164285,
       "name": "Bad Man",
       "url": "https://open.spotify.com/track/7DVBNud2HvZ4C4Mfcw3v8w"
@@ -659,6 +681,28 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1H0vHvi6N5kfKJ6FoQOLI2"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "Nick Francis",
+          "url": "https://open.spotify.com/artist/4VQyjHVrLyfCrUQtOiNmh3"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/7epufSKAHvEzCD7Yud4Tq1"
+    },
+    {
+      "album": {
         "name": "Best Be Believing",
         "url": "https://open.spotify.com/album/0j00bWGcetHSeCa3ZkFPxB"
       },
@@ -806,7 +850,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 331508,
       "name": "Body Action",
       "url": "https://open.spotify.com/track/2ehc5VYZ2ktmEQO90cYjnG"
@@ -1253,6 +1297,28 @@
     },
     {
       "album": {
+        "name": "Come Get My Lovin",
+        "url": "https://open.spotify.com/album/5t6p68bT3SJuVX0wi04mNT"
+      },
+      "artists": [
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "DJ Rae",
+          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202380,
+      "name": "Come Get My Lovin",
+      "url": "https://open.spotify.com/track/3UV2n3Qy3V0n6Y5yGPv5Vi"
+    },
+    {
+      "album": {
         "name": "Come Get Up",
         "url": "https://open.spotify.com/album/7C72n4E6EJBrXFpr0GYt13"
       },
@@ -1636,7 +1702,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 200201,
       "name": "Disco Hammer",
       "url": "https://open.spotify.com/track/7yO6lROS1o8kPPQIYEUYIR"
@@ -4325,6 +4391,24 @@
     },
     {
       "album": {
+        "name": "Lobi",
+        "url": "https://open.spotify.com/album/1VmfCC7XUhq6RA4l2i6GFa"
+      },
+      "artists": [
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Lobi",
+      "url": "https://open.spotify.com/track/2NVAjTv8LrwdgK0HQbG6C8"
+    },
+    {
+      "album": {
         "name": "Lonely No More",
         "url": "https://open.spotify.com/album/54OwcyY2THstkmpGzaMTvF"
       },
@@ -4610,6 +4694,24 @@
       "duration_ms": 154153,
       "name": "Marido Dansa",
       "url": "https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE"
+    },
+    {
+      "album": {
+        "name": "Maya Maya",
+        "url": "https://open.spotify.com/album/08QaYLvssFrTSsMR0lGHId"
+      },
+      "artists": [
+        {
+          "name": "Tony Cortez",
+          "url": "https://open.spotify.com/artist/0vJ1pIGHRduH7om9qJG73s"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194671,
+      "name": "Maya Maya",
+      "url": "https://open.spotify.com/track/4ahy1fH6Wlcn3PIm2nMQNd"
     },
     {
       "album": {
@@ -5884,7 +5986,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 203636,
       "name": "Pushin' On - Radio Edit",
       "url": "https://open.spotify.com/track/6Ew3KMWtyrCD8glkQLf4M5"
@@ -6467,6 +6569,36 @@
     },
     {
       "album": {
+        "name": "Signs (Us Two Remix)",
+        "url": "https://open.spotify.com/album/5VnoC9O0vcYimGXTzVPCWk"
+      },
+      "artists": [
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        },
+        {
+          "name": "Us Two",
+          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204374,
+      "name": "Signs - Us Two Remix",
+      "url": "https://open.spotify.com/track/1GCALTvlkERy2j5ljGKJ8s"
+    },
+    {
+      "album": {
         "name": "Silver Lines (feat. Emily Warren)",
         "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
       },
@@ -6592,7 +6724,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 163064,
       "name": "So True",
       "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
@@ -7514,7 +7646,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 162187,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/7pdnrLzhnwtEAdlcIPpAwe"

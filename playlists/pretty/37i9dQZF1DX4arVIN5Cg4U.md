@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 
 > Get your bassface on with these classic Dubstep tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,871 likes - 40 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,903 likes - 40 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 37 | [Cockney Violin](https://open.spotify.com/track/25f6IzJOQ5uymIlzPBm4L8) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Cockney Violin](https://open.spotify.com/album/1gBFdnkrZSu5iCx5dHyjbv) | 4:05 |
 | 38 | [Roll with the Punches](https://open.spotify.com/track/1DxvkBAExfcsgq8H916RUL) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP) | [Roll with the Punches / Die Brücke](https://open.spotify.com/album/7KG7KAgw46V8TGZIbI91TZ) | 6:44 |
 | 39 | [Girl from Codeine City](https://open.spotify.com/track/5htke1OQszCuQekmRzMwAs) | [L\-Wiz](https://open.spotify.com/artist/0nGg1te3vliCXlKbYHLF9B) | [Centurion](https://open.spotify.com/album/0ZPMBDghsxeSpZqnb8cZEn) | 5:44 |
-| 40 | [Pretty Bright Light](https://open.spotify.com/track/2sJlDr8V10DYpnxra6tWkR) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Corner Dub \(Blue & Red Mix\) / Pretty Bright Light](https://open.spotify.com/album/1ZLzAQlEXAIMNAhhYzq0jI) | 5:10 |
+| 40 | [Starry Eyed \- Jakwob Remix](https://open.spotify.com/track/055TcMyKhz8NV8XzTTeKGu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [James Jacob](https://open.spotify.com/artist/6zREiaEjYXtcirqnoxXs71) | [Generation Dubstep](https://open.spotify.com/album/7oOdk7kXghCgkLaSbh1SwH) | 4:36 |
 
 Snapshot ID: `AAAAAMqPqiwLeWW6VaZqNaXma/bwivTw`

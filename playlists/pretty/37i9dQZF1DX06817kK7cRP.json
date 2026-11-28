@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're focusing, studying or relaxing.",
-  "num_followers": 204240,
+  "num_followers": 204246,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "canvas",
+        "url": "https://open.spotify.com/album/2APuLlyBNRY1GAuo4Iyog9"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        },
+        {
+          "name": "Kylan",
+          "url": "https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "canvas",
+      "url": "https://open.spotify.com/track/3CrwuTDI5YwuPJhUZrG6vg"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "chrome",
         "url": "https://open.spotify.com/album/20bHalKNFZ5BsVPR7kSYJL"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 130500,
       "name": "Wind",
       "url": "https://open.spotify.com/track/604BAQOd2ZXTnQkVIUKK1c"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "canvas",
-        "url": "https://open.spotify.com/album/2APuLlyBNRY1GAuo4Iyog9"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        },
-        {
-          "name": "Kylan",
-          "url": "https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "canvas",
-      "url": "https://open.spotify.com/track/3CrwuTDI5YwuPJhUZrG6vg"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "moments",
-        "url": "https://open.spotify.com/album/4JNzCvA37BbzSpNWVDIDqi"
-      },
-      "artists": [
-        {
-          "name": "Jost Esser",
-          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
-        },
-        {
-          "name": "wielandwieland",
-          "url": "https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n"
-        }
-      ],
-      "duration_ms": 113323,
-      "name": "tuesday evenings",
-      "url": "https://open.spotify.com/track/1Rl4Qph0hXgF6cadGi4qcd"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/4R8Vz6szozsXUipPIUhrDO"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 101538,
       "name": "Views",
       "url": "https://open.spotify.com/track/5fXTFdLOni8XLNHMTcmgUz"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "moments",
+        "url": "https://open.spotify.com/album/4JNzCvA37BbzSpNWVDIDqi"
+      },
+      "artists": [
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        },
+        {
+          "name": "wielandwieland",
+          "url": "https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n"
+        }
+      ],
+      "duration_ms": 113323,
+      "name": "tuesday evenings",
+      "url": "https://open.spotify.com/track/1Rl4Qph0hXgF6cadGi4qcd"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Missed The Bus",
-        "url": "https://open.spotify.com/album/1avRrVZQ9pw41KpqYowUC3"
-      },
-      "artists": [
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        },
-        {
-          "name": "S\u00e1tyr",
-          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
-        }
-      ],
-      "duration_ms": 99397,
-      "name": "Missed The Bus",
-      "url": "https://open.spotify.com/track/2xjiEAWpBAOzrW23LNTBH6"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/4NF6j0UpqxnbooPCltEehL"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 109756,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/1ULVlnExqXN3JGy3gTuRv1"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Missed The Bus",
+        "url": "https://open.spotify.com/album/1avRrVZQ9pw41KpqYowUC3"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        }
+      ],
+      "duration_ms": 99397,
+      "name": "Missed The Bus",
+      "url": "https://open.spotify.com/track/2xjiEAWpBAOzrW23LNTBH6"
     },
     {
       "added_at": "2026-10-16 07:28:54",

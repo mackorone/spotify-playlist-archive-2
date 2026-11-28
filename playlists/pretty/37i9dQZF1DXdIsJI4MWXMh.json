@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 86617,
+  "num_followers": 86640,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Imperio de la Cumbia",
-        "url": "https://open.spotify.com/album/1kqgUvarUhcaekac3a877D"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 288857,
-      "name": "La Carretera 1",
-      "url": "https://open.spotify.com/track/36vgcsCHl6tHC3xSeKxKPu"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "Cuidado Que Te Supero",
         "url": "https://open.spotify.com/album/2NAHj2Pxk1nDNPyBIolmd7"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 217706,
       "name": "Cuidado Que Te Supero",
       "url": "https://open.spotify.com/track/5YpVvlyYpPnLeq5IrREbnx"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
+        "name": "Imperio de la Cumbia",
+        "url": "https://open.spotify.com/album/1kqgUvarUhcaekac3a877D"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 288857,
+      "name": "La Carretera 1",
+      "url": "https://open.spotify.com/track/36vgcsCHl6tHC3xSeKxKPu"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Arrogancia",
-        "url": "https://open.spotify.com/album/7JdPbrNF0uGfRHwmygCTwT"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Arrogancia",
-      "url": "https://open.spotify.com/track/0r1GMinYwx4MFqpzOSNSD6"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "La Magia",
         "url": "https://open.spotify.com/album/63NoNp8ngqTGgRJcMx5DY6"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 250278,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/172SV9dOah2zXqcRUBpkNO"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
+        "name": "Arrogancia",
+        "url": "https://open.spotify.com/album/7JdPbrNF0uGfRHwmygCTwT"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Arrogancia",
+      "url": "https://open.spotify.com/track/0r1GMinYwx4MFqpzOSNSD6"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Carretera 3",
-        "url": "https://open.spotify.com/album/5ZE9DGRkkY9zFclTXoQW7k"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "Carretera 3",
-      "url": "https://open.spotify.com/track/49l8hG7YAsqY74acHoge2J"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "Quiero Volver a Ser Romeo",
         "url": "https://open.spotify.com/album/3ilCq0Yw6zkmUldX81gy7j"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 241002,
       "name": "Quiero Volver a Ser Romeo",
       "url": "https://open.spotify.com/track/5UKgp6inBN6fI1ZQ3fg2ON"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
+        "name": "Carretera 3",
+        "url": "https://open.spotify.com/album/5ZE9DGRkkY9zFclTXoQW7k"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "Carretera 3",
+      "url": "https://open.spotify.com/track/49l8hG7YAsqY74acHoge2J"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Cumpliendo Sue\u00f1os",
-        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
-      },
-      "artists": [
-        {
-          "name": "Amor Sure\u00f1o",
-          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
-        }
-      ],
-      "duration_ms": 268031,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "Si Te Vuelvo a Llamar",
         "url": "https://open.spotify.com/album/0JqKHvv61xOGlP2xQIKfPA"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 375600,
       "name": "Mix Peregrinos del Amor 2026: Color\u00edn Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Qu\u00e9date",
       "url": "https://open.spotify.com/track/45bjfClZfLUFd7sLzfYAD6"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
+        "name": "Cumpliendo Sue\u00f1os",
+        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
+      },
+      "artists": [
+        {
+          "name": "Amor Sure\u00f1o",
+          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
+        }
+      ],
+      "duration_ms": 268031,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Se Olvid\u00f3",
-        "url": "https://open.spotify.com/album/75PFbJlFjdsTvNddapPTZD"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Se Olvid\u00f3",
-      "url": "https://open.spotify.com/track/6OPiaQPgi2Sj5gNibn5fY9"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "La Ultima Granada",
         "url": "https://open.spotify.com/album/2EHRSifbFayruTaspm9lRf"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 186848,
       "name": "La Ultima Granada",
       "url": "https://open.spotify.com/track/5pxqqimSThgFxpLJywZ5WU"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
+        "name": "Se Olvid\u00f3",
+        "url": "https://open.spotify.com/album/75PFbJlFjdsTvNddapPTZD"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Se Olvid\u00f3",
+      "url": "https://open.spotify.com/track/6OPiaQPgi2Sj5gNibn5fY9"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Tequila y Ron",
-        "url": "https://open.spotify.com/album/2C6JZAGFsgvtd0FDqHrZNX"
-      },
-      "artists": [
-        {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
-        }
-      ],
-      "duration_ms": 160512,
-      "name": "Tequila y Ron",
-      "url": "https://open.spotify.com/track/6lcF2tjoK1kLwlxYdGRIkw"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "El Intruso",
         "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 205746,
       "name": "El Intruso",
       "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
+        "name": "Tequila y Ron",
+        "url": "https://open.spotify.com/album/2C6JZAGFsgvtd0FDqHrZNX"
+      },
+      "artists": [
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+        }
+      ],
+      "duration_ms": 160512,
+      "name": "Tequila y Ron",
+      "url": "https://open.spotify.com/track/6lcF2tjoK1kLwlxYdGRIkw"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
+        "name": "Bye Bye Bye",
+        "url": "https://open.spotify.com/album/3HybQiBARxXq9r98LJgr4u"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/1OsDVNWHqW6cCCPPFAYMLD"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
         "name": "Por una Yegua No Se para la Trilla",
         "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Bye Bye Bye",
-        "url": "https://open.spotify.com/album/3HybQiBARxXq9r98LJgr4u"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/1OsDVNWHqW6cCCPPFAYMLD"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "EN HONOR A NUESTRO HERMANO",
         "url": "https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Siempre en Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
       },
       "artists": [
         {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+          "name": "Los Rancheros de Quilleco",
+          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
         }
       ],
-      "duration_ms": 311016,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
+      "duration_ms": 229084,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
+        "name": "Siempre en Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
       },
       "artists": [
         {
-          "name": "Los Rancheros de Quilleco",
-          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
         }
       ],
-      "duration_ms": 229084,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
+      "duration_ms": 311016,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
+        "name": "Cuento de Hadas",
+        "url": "https://open.spotify.com/album/3j2guUqN0UrPppKJA0qid9"
+      },
+      "artists": [
+        {
+          "name": "Los Machos de la Cumbia",
+          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
+        }
+      ],
+      "duration_ms": 179865,
+      "name": "Cuento de Hadas",
+      "url": "https://open.spotify.com/track/2hvbGXOjn30Om5lgAx60Fy"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 193125,
       "name": "La Mesa 20",
       "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
-        "name": "Cuento de Hadas",
-        "url": "https://open.spotify.com/album/3j2guUqN0UrPppKJA0qid9"
-      },
-      "artists": [
-        {
-          "name": "Los Machos de la Cumbia",
-          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
-        }
-      ],
-      "duration_ms": 179865,
-      "name": "Cuento de Hadas",
-      "url": "https://open.spotify.com/track/2hvbGXOjn30Om5lgAx60Fy"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Volver\u00e9",
-        "url": "https://open.spotify.com/album/1cRSqJ1LSMCCOf4NIBc0WU"
-      },
-      "artists": [
-        {
-          "name": "El Llanero del Lago Villarrica",
-          "url": "https://open.spotify.com/artist/1ETTzSKxOD9LBXp1hyYzzf"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
-        }
-      ],
-      "duration_ms": 256874,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/10JXQH7W7OzK5kqeLTnpmV"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "A Trav\u00e9s del Vaso (Remix)",
         "url": "https://open.spotify.com/album/34BUoxHKkDIPjrfjJWLS84"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 239701,
       "name": "A Trav\u00e9s del Vaso - Remix",
       "url": "https://open.spotify.com/track/2Q8lTtjk4TYapqf6meBBKc"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
+        "name": "Volver\u00e9",
+        "url": "https://open.spotify.com/album/1cRSqJ1LSMCCOf4NIBc0WU"
+      },
+      "artists": [
+        {
+          "name": "El Llanero del Lago Villarrica",
+          "url": "https://open.spotify.com/artist/1ETTzSKxOD9LBXp1hyYzzf"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "duration_ms": 256874,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/10JXQH7W7OzK5kqeLTnpmV"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "12 A\u00f1os de Historia",
-        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
-      },
-      "artists": [
-        {
-          "name": "Los Cumbieros",
-          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "La Rumbera",
-      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "Todos a la Pista",
         "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 267859,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
+        "name": "12 A\u00f1os de Historia",
+        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
+      },
+      "artists": [
+        {
+          "name": "Los Cumbieros",
+          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "La Rumbera",
+      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Golero Emparamao",
-        "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
-      },
-      "artists": [
-        {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
-        }
-      ],
-      "duration_ms": 268324,
-      "name": "Golero Emparamao",
-      "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "Siempre Villanos",
         "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Me Voy a Emborrachar",
-        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
+        "name": "Golero Emparamao",
+        "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n Rimac",
-          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
         }
       ],
-      "duration_ms": 160000,
-      "name": "El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
+      "duration_ms": 268324,
+      "name": "Golero Emparamao",
+      "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -1519,6 +1503,22 @@
       "duration_ms": 195353,
       "name": "El Cocho",
       "url": "https://open.spotify.com/track/1GHIKA3KDtjCJ8zzaK1QMk"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
+        "name": "Me Voy a Emborrachar",
+        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Rimac",
+          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Ac\u00e1bame de Matar",
-        "url": "https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV"
-      },
-      "artists": [
-        {
-          "name": "El Azote",
-          "url": "https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh"
-        }
-      ],
-      "duration_ms": 215370,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "Galantes y Caballeros",
         "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 152816,
       "name": "Galantes y Caballeros",
       "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
+        "name": "Ac\u00e1bame de Matar",
+        "url": "https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV"
+      },
+      "artists": [
+        {
+          "name": "El Azote",
+          "url": "https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh"
+        }
+      ],
+      "duration_ms": 215370,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "La Vida No Vale Nada",
-        "url": "https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 204255,
-      "name": "La Vida No Vale Nada",
-      "url": "https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7"
-    },
-    {
-      "added_at": "2026-11-20 03:00:50",
-      "album": {
         "name": "Un Nuevo Estilo Campesino",
         "url": "https://open.spotify.com/album/1O8h1QrvakmCmUDn99vwdy"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 218023,
       "name": "La Porotera",
       "url": "https://open.spotify.com/track/4tjQKSv3MNQ0U0zh6acZLR"
+    },
+    {
+      "added_at": "2026-11-20 03:00:50",
+      "album": {
+        "name": "La Vida No Vale Nada",
+        "url": "https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 204255,
+      "name": "La Vida No Vale Nada",
+      "url": "https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7"
     },
     {
       "added_at": "2026-11-20 03:00:50",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2026-11-20 03:00:50",
       "album": {
-        "name": "Amor Salvaje",
-        "url": "https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4"
+        "name": "Los Mandados",
+        "url": "https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw"
       },
       "artists": [
         {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        },
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
         }
       ],
-      "duration_ms": 307966,
-      "name": "Amor Salvaje",
-      "url": "https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU"
+      "duration_ms": 197110,
+      "name": "Los Mandados",
+      "url": "https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT"
     }
   ],
   "unique_name": "Ranchera Chilena",

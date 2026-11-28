@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 520943,
+  "num_followers": 520865,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -963,26 +963,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "You Need To Calm Down (Clean Bandit Remix)",
-        "url": "https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        }
-      ],
-      "duration_ms": 152773,
-      "name": "You Need To Calm Down - Clean Bandit Remix",
-      "url": "https://open.spotify.com/track/7Bjf96uNizpvXLvNyOJpst"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "I Do (with Zeeba)",
         "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 173446,
       "name": "I Do - with Zeeba",
       "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "You Need To Calm Down (Clean Bandit Remix)",
+        "url": "https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        }
+      ],
+      "duration_ms": 152773,
+      "name": "You Need To Calm Down - Clean Bandit Remix",
+      "url": "https://open.spotify.com/track/7Bjf96uNizpvXLvNyOJpst"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 201660,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "I Just Wanna (feat. Bow Anderson)",
         "url": "https://open.spotify.com/album/1IyHQhcn2u53scCz3w8HsS"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 159657,
       "name": "I Just Wanna (feat. Bow Anderson)",
       "url": "https://open.spotify.com/track/1cVQmBnSLjhWB67iqAXYZZ"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 201660,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
     },
     {
       "added_at": "2025-02-07 03:01:15",

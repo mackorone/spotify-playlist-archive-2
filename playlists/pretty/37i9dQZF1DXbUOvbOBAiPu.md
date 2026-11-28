@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Issah, Bleu Soleil, RnBoi, Charlotte de Witte, Caballero  and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,059 likes - 126 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,133 likes - 126 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 100 | [CORPSE](https://open.spotify.com/track/4v70VUimausNYahpHv7DmL) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [CORPSE](https://open.spotify.com/album/5ivxcL9BGKaHIDMbNW3dxd) | 3:15 |
 | 101 | [Doudou an mwen](https://open.spotify.com/track/26b6xSeGbv8OoxCBhkriT7) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Doudou an mwen](https://open.spotify.com/album/7bmL12wjCr92NzZ0E4e1jx) | 3:20 |
 | 102 | [Moves \(with Jhené Aiko\)](https://open.spotify.com/track/3pHqs2CmdJS74NgPM8nDel) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Vault 6](https://open.spotify.com/album/55x70IxJx3dtwgUDpAF1Fo) | 3:12 |
-| 103 | [Batman](https://open.spotify.com/track/6xbm3SABfyvW2MQD4wj5Bd) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Batman](https://open.spotify.com/album/6uARLMmJtcFedhaCV500Sj) | 3:46 |
+| 103 | [BATMAN](https://open.spotify.com/track/6xbm3SABfyvW2MQD4wj5Bd) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [BATMAN](https://open.spotify.com/album/6uARLMmJtcFedhaCV500Sj) | 3:46 |
 | 104 | [Jean Slim](https://open.spotify.com/track/0dVoqYFf3UPnA0LL1Mrqeq) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [CRUSH](https://open.spotify.com/album/7fG1tEw3OQO72MlpXYGg0N) | 2:50 |
 | 105 | [Love Dub Down](https://open.spotify.com/track/7ubDR7HC0BWU4Cl1uWpp6B) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Love Dub Down](https://open.spotify.com/album/6G25T1DW1TRt3NYnW0gc6S) | 2:56 |
 | 106 | [Lord of Lords](https://open.spotify.com/track/3AcvOxzSi4lcL5DJIg0VcX) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Lord of Lords](https://open.spotify.com/album/7r3bUn5QpU08Mv1ISXgF8a) | 4:28 |
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 117 | [fate](https://open.spotify.com/track/7587WhwYgGIaf3IXrYJVc0) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [fate](https://open.spotify.com/album/0luGcyLvJj3n0Kv8r4XE9e) | 2:44 |
 | 118 | [Rendez\-vous au 51](https://open.spotify.com/track/2ExV98mKHvluwn3jDgpL7k) | [Hermance](https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS) | [Rendez\-vous au 51](https://open.spotify.com/album/5t0a7BfD0l2jZY2eumI8KR) | 3:30 |
 | 119 | [JAB](https://open.spotify.com/track/5K6175MZ5IOgb3vLFx4M2o) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [JD](https://open.spotify.com/artist/0qcbI7oxRa27auD5l0dY57) | [JAB](https://open.spotify.com/album/63t6q5oRqWZRsdGLn6Ntpk) | 2:00 |
-| 120 | [Après le silence...](https://open.spotify.com/track/3gvHNCsKzB5i0haXpM2NKS) | [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg), [MASTA](https://open.spotify.com/artist/5qrcWXxLiTl4tustyWMnke) | [Après le silence...](https://open.spotify.com/album/4lO20gMDSsCL0CFbUjC9n3) | 4:33 |
+| 120 | [Après le silence...](https://open.spotify.com/track/3gvHNCsKzB5i0haXpM2NKS) | [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg), [Masta](https://open.spotify.com/artist/0b0LkTGyw4LGv0FS8hc0s6) | [Après le silence...](https://open.spotify.com/album/4lO20gMDSsCL0CFbUjC9n3) | 4:33 |
 | 121 | [Twilight Room](https://open.spotify.com/track/46GsFIa135TatApguVf4VO) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Twilight Room](https://open.spotify.com/album/1oNZdcyNJQFtAjYOVNsJlT) | 3:36 |
 | 122 | [MOUSSO](https://open.spotify.com/track/1SCbrmRhSSCAtXw0Mui9un) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [DIVAS](https://open.spotify.com/album/6hdqkXEnPI1YscyRKSVOEp) | 3:37 |
 | 123 | [Sans blague](https://open.spotify.com/track/6fII1aSQwmAzRTQlisQvhJ) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh), [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Sans blague](https://open.spotify.com/album/4EsexNqvWwzymTLeoAim1A) | 2:53 |

@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Lekaye & Shiro, Travis Scott och Svart Ridå med flera\. Happy New Music Friday!
 
-26,830 songs - 58 day 1 hr 19 min
+26,831 songs - 58 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12617,7 +12617,7 @@
 | [Just Be Bodies](https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms / Just Be Bodies](https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw) | 3:27 | 2026-07-16 | 2026-07-24 |
 | [Just Because](https://open.spotify.com/track/7Fft5fn4VlRMv3cFiYHbo5) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Become A Light](https://open.spotify.com/album/1SXQyMhQalnohCyxpP4DXy) | 3:11 | 2025-09-25 | 2025-10-03 |
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-04 | 2023-05-12 |
-| [Just Because \(Nine to Six : Original Television Soundtrack\)](https://open.spotify.com/track/2Uvz3LstH9r7mlKDU9yZWb) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Nine to Six, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/66bGa9gTJc8PJDBRlRVZsb) | 3:10 | 2026-11-26 |  |
+| [Just Because \(Nine to Six : Original Television Soundtrack\)](https://open.spotify.com/track/2Uvz3LstH9r7mlKDU9yZWb) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Nine to Six, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/66bGa9gTJc8PJDBRlRVZsb) | 3:10 | 2026-11-26 | 2026-11-28 |
 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 | 2022-07-21 | 2022-07-29 |
 | [Just Coz](https://open.spotify.com/track/1vThiuxP3lAHp85Q9qO8E5) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Just Coz](https://open.spotify.com/album/1LZzgEgmuOh5fhpCb2oUWy) | 3:16 | 2022-04-28 | 2022-05-06 |
 | [just for the night](https://open.spotify.com/track/2kZSry1RFeI8IzFk0RTr0y) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9) | [just for the night](https://open.spotify.com/album/1cbKJJrsN37uwfmFw4q9xI) | 2:15 | 2023-02-23 | 2023-03-03 |
@@ -15691,6 +15691,7 @@
 | [Monday, Monday](https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 3:33 | 2025-04-03 | 2025-04-11 |
 | [Money](https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Money](https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X) | 3:32 | 2025-12-18 | 2026-01-02 |
 | [money](https://open.spotify.com/track/4ERPdoojx58VTr9hBFRtjv) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0), [NATHALIA](https://open.spotify.com/artist/5NTS78KR2R1X37eRqtuEDE) | [money](https://open.spotify.com/album/04hnpmg8zZZcCrWsIyB0Dd) | 2:16 | 2026-07-23 | 2026-07-31 |
+| [Money](https://open.spotify.com/track/06NVaj4r1mnTwjrl5J1gNq) | [Leoney](https://open.spotify.com/artist/3ol0uH1CnoPNB0FSHEUogd) | [Money](https://open.spotify.com/album/6eFnwLKu9kBfFiEcfVvh5h) | 2:28 | 2026-11-27 |  |
 | [Money](https://open.spotify.com/track/7rewueb4Gi7XJ7SFyz4Lyk) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Money](https://open.spotify.com/album/2pe0owZ6XB7MnLTzi6Qf8M) | 2:40 | 2023-05-04 | 2023-05-12 |
 | [Money](https://open.spotify.com/track/6Lqe0nG9HGv3s0j7foP0Bu) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Manual of Dreams](https://open.spotify.com/album/4G4qgOnJGdOYQiiTEuPl88) | 2:56 | 2026-10-15 | 2026-10-23 |
 | [Money & Fame \(feat\. Peg Parnevik\)](https://open.spotify.com/track/5XNp0OTbuVL3xK9F2bpr9N) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j), [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Skrubbsår og Skallebank 2](https://open.spotify.com/album/0MPHCS5KaZiZei1JEiioLy) | 2:21 | 2025-05-29 | 2025-06-06 |

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Banjaare, Kayan, Abhijeet Srivastava and other exciting artists.
 
-1,677 songs - 3 day 20 hr 24 min
+1,678 songs - 3 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Baawra](https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [Baawra](https://open.spotify.com/album/58CpJdSRp7B0Hg96V45ch1) | 4:28 | 2024-08-09 | 2024-12-07 |
 | [Baawra Mann](https://open.spotify.com/track/1PYbrx8dVS1fpbjPWILEzG) | [Shunya](https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0) | [Baawra Mann](https://open.spotify.com/album/7h2nzvqLaUZnMqwbDTreRN) | 4:12 | 2025-11-21 | 2026-01-24 |
 | [Back 2 U](https://open.spotify.com/track/6sEVxXlAcot28Q8JZRqLv4) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Back 2 U](https://open.spotify.com/album/2iLdPmEWDk3QiMLQgaXVKa) | 3:20 | 2026-08-28 | 2026-11-14 |
-| [Back to the Beginning](https://open.spotify.com/track/759KblBb2LaGW9inDp5mCV) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Where Was I?](https://open.spotify.com/album/3fTqy8wYSowZeA71B9iBXK) | 3:31 | 2026-11-06 |  |
+| [Back to the Beginning](https://open.spotify.com/track/759KblBb2LaGW9inDp5mCV) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Where Was I?](https://open.spotify.com/album/3fTqy8wYSowZeA71B9iBXK) | 3:31 | 2026-11-06 | 2026-11-28 |
 | [Badal](https://open.spotify.com/track/5gwMfrLGUV91qxBNbX9Fri) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Badal](https://open.spotify.com/album/4vX0qUy6r5iN5cZ6nJluEB) | 3:44 | 2023-09-08 | 2023-10-07 |
 | [Badastoor](https://open.spotify.com/track/4SctmiwRI2ygVHhgZ1s7C1) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Badastoor](https://open.spotify.com/album/1wIhDHHh84OmEaBOCOr85J) | 2:09 | 2024-07-26 | 2024-11-09 |
 | [Badila](https://open.spotify.com/track/14tR6AnKR90VAahdfIYf9F) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf), [Rutuja Lad](https://open.spotify.com/artist/6dcj7PFzG1ybNHHJyMUS3m), [Akshay Jadhav](https://open.spotify.com/artist/1qvovvgGVEdrhHTLJYsizG), [Sandeep Mishra](https://open.spotify.com/artist/4vjj2jTnfLbFTAyQzX6sjO), [Nusrat Apoorv](https://open.spotify.com/artist/3AA6aNLg3R7Yj98JjpZg6b), [Joy Sengupta](https://open.spotify.com/artist/2w5FAQc2JWciNPGhsTBf4B) | [Badila](https://open.spotify.com/album/2zmkZI42FY6dAgf6spsfXO) | 8:38 | 2026-08-28 | 2026-10-14 |
@@ -321,6 +321,7 @@
 | [Daayre](https://open.spotify.com/track/2g3MhKjVZUpKoTxSYZTNSo) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Daayre](https://open.spotify.com/album/6LgM6XY041WDIP0LixD4OY) | 3:20 | 2024-11-08 | 2025-02-08 |
 | [Daira](https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Daira](https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM) | 2:42 | 2026-04-24 | 2026-07-11 |
 | [Dard Dil Ke](https://open.spotify.com/track/0qz9oYAWgOZ2FByzrpdmH4) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Dard Dil Ke](https://open.spotify.com/album/6lZGJ90RYvRi17wrY39xz4) | 4:55 | 2025-09-12 | 2025-09-20 |
+| [Dard/Pain](https://open.spotify.com/track/4sLIHXUaJ4JSjSCRo7BC6j) | [Samad \- Bharath](https://open.spotify.com/artist/5RzGM81zRc77CEAZVCWFxN), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Dard/Pain](https://open.spotify.com/album/436Cud9mcsSmaMT5ASWSLF) | 3:35 | 2026-11-27 |  |
 | [Dariaa](https://open.spotify.com/track/1IIK5l7cDgwNeaDSqzkqPe) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR) | [Dariaa](https://open.spotify.com/album/3kgwWQdxryWLeRfxhAJaxm) | 2:33 | 2025-12-05 | 2025-12-13 |
 | [Dariya](https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [CIRCLES](https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t) | 2:52 | 2025-03-27 | 2025-07-05 |
 | [Dariya](https://open.spotify.com/track/4u8xrxiKDqh2w8Q2wUjee4) | [Katoptris](https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Dariya](https://open.spotify.com/album/6WVSEvJg5pezdpMlOU6dfi) | 3:09 | 2023-09-22 | 2023-10-21 |

@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 278576,
+  "num_followers": 278586,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-11-13 00:00:55",
       "album": {
-        "name": "Tiger J",
-        "url": "https://open.spotify.com/album/75kClBh4BxMYW2vDLRQZPv"
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/78XbGK7E58bZuKdG30UlYQ"
       },
       "artists": [
         {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "Nohr",
+          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
         }
       ],
-      "duration_ms": 142374,
-      "name": "Tiger J",
-      "url": "https://open.spotify.com/track/6flDEslugdakU3TXKKFfaP"
+      "duration_ms": 147840,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/5NQMv0smXYCkzRAY1IbzIN"
     },
     {
       "added_at": "2026-11-13 00:00:55",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-11-13 00:00:55",
       "album": {
+        "name": "Tiger J",
+        "url": "https://open.spotify.com/album/75kClBh4BxMYW2vDLRQZPv"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "duration_ms": 142374,
+      "name": "Tiger J",
+      "url": "https://open.spotify.com/track/6flDEslugdakU3TXKKFfaP"
+    },
+    {
+      "added_at": "2026-11-13 00:00:55",
+      "album": {
         "name": "Ride At Dawn",
         "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 173554,
       "name": "Ride At Dawn",
       "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
-    },
-    {
-      "added_at": "2026-11-13 00:00:55",
-      "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/78XbGK7E58bZuKdG30UlYQ"
-      },
-      "artists": [
-        {
-          "name": "Nohr",
-          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/5NQMv0smXYCkzRAY1IbzIN"
     },
     {
       "added_at": "2026-11-13 00:00:55",

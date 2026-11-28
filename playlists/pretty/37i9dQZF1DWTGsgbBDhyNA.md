@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > aspero\. WAKINA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,140 likes - 22 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,128 likes - 22 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

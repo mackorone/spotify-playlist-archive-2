@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Hamilton y Sech.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Mario Bautista y El Bogueto.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -1996,6 +1996,28 @@
       "duration_ms": 198014,
       "name": "Amor Con Rabia",
       "url": "https://open.spotify.com/track/4onvgTedcSskQgi6eGi5Zp"
+    },
+    {
+      "album": {
+        "name": "AMOR DE LEJOS",
+        "url": "https://open.spotify.com/album/7n9vlHKvR2kWf9sIuJI94U"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204130,
+      "name": "AMOR DE LEJOS",
+      "url": "https://open.spotify.com/track/3WI49CwQKxXBK83uFTQljO"
     },
     {
       "album": {
@@ -7792,7 +7814,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -13599,6 +13621,24 @@
     },
     {
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/0xDAR4nDF29Q7Wohr9Uzw3"
+      },
+      "artists": [
+        {
+          "name": "Hector Nazza",
+          "url": "https://open.spotify.com/artist/1WGxt0iUo8qfQlzwIAlxQB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/52SfHOhe7ipBcNryfocmye"
+    },
+    {
+      "album": {
         "name": "I Love U",
         "url": "https://open.spotify.com/album/6nJZsSOYEj3qKGzvv2lfiy"
       },
@@ -13874,7 +13914,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 137691,
       "name": "Isla Pa Dos (Wawawao)",
       "url": "https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp"

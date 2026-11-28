@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 210566,
+  "num_followers": 210560,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAAD71SgjExU88F8HPeH7P/Pj",
+  "snapshot_id": "awd2gAAAAABEL/rbw/rZrYwSsEsWtqM1",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 185062,
-      "name": "Favorite Song",
-      "url": "https://open.spotify.com/track/1tyCvK8fhQ1UUVK0nY1JlH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy (Acoustic)",
         "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 205815,
       "name": "Holy - Acoustic",
       "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 185062,
+      "name": "Favorite Song",
+      "url": "https://open.spotify.com/track/1tyCvK8fhQ1UUVK0nY1JlH"
     },
     {
       "added_at": null,
@@ -1047,26 +1047,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broad Shoulders",
-        "url": "https://open.spotify.com/album/61KTKfjFX7exj2Od31ulYA"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
       "artists": [
         {
-          "name": "Taylor Bennett",
-          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
-        },
-        {
-          "name": "Ludlow",
-          "url": "https://open.spotify.com/artist/1M53T7uktQTvgqM2ui1fui"
-        },
-        {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         }
       ],
-      "duration_ms": 227263,
-      "name": "Broad Shoulders (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/6m3ZXs465Rt4Tc1iiLktXL"
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": null,

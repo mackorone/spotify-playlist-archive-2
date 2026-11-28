@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: HYUKOH \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,254 likes - 105 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,261 likes - 105 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 26 | [Traces](https://open.spotify.com/track/5b9sdOfsG30qP4ig5zYwDh) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Reprise](https://open.spotify.com/album/0e27fGyK96o3H2zGv2WKNu) | 3:13 |
 | 27 | [Bidadari](https://open.spotify.com/track/6lQ6rBWwhPbOUMDe8WHckG) | [DUKES](https://open.spotify.com/artist/1KhiHfllvx27hGdOK6kPER) | [Bidadari](https://open.spotify.com/album/3C0iagKirUj891coM8znec) | 4:23 |
 | 28 | [So Easy](https://open.spotify.com/track/6FtgB2NeIKz8yr3EPkp275) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym) | [So Easy](https://open.spotify.com/album/6BCPh71ueKpgFirFXtnDav) | 3:20 |
-| 29 | [Cool with It](https://open.spotify.com/track/08hUXtrnTTHi4FRAhEZ5nk) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Cool With It](https://open.spotify.com/album/0R1YgKlglom75RkilyXFRH) | 3:38 |
+| 29 | [Cool With It](https://open.spotify.com/track/08hUXtrnTTHi4FRAhEZ5nk) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Cool With It](https://open.spotify.com/album/0R1YgKlglom75RkilyXFRH) | 3:38 |
 | 30 | [Pinot noir](https://open.spotify.com/track/2DXknNYBaZlCC7tDM0i23O) | [iVy](https://open.spotify.com/artist/70lDezP0StoGMa58IcLXCc) | [reason for being](https://open.spotify.com/album/0CQJPuVnW2ruQGgBCLvj2R) | 3:12 |
 | 31 | [My Obsession](https://open.spotify.com/track/7MGPl0jNhIVEQMs4M49OHU) | [Cherrywise](https://open.spotify.com/artist/13xE8mPO7yhIBKSbZ1XfC8) | [Between Doubts](https://open.spotify.com/album/0xssRCZeuD2gpuKzL9Mv2r) | 3:13 |
 | 32 | [Dream Girl](https://open.spotify.com/track/1N4wgxNYJ3TI24YBlYFcW8) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [Dream Girl](https://open.spotify.com/album/2Tm131P5KVvAGRpqRc7qA3) | 2:23 |

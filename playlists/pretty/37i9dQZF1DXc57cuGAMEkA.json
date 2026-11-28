@@ -1,6 +1,6 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Travis Scott, Slayyyter, 21 Savage, The Rolling Stones and more!",
-  "num_followers": 176142,
+  "num_followers": 176242,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
@@ -749,7 +749,7 @@
         }
       ],
       "duration_ms": 218718,
-      "name": "Cool with It",
+      "name": "Cool With It",
       "url": "https://open.spotify.com/track/08hUXtrnTTHi4FRAhEZ5nk"
     },
     {
@@ -1099,6 +1099,26 @@
       "duration_ms": 193548,
       "name": "Miss Demeanour",
       "url": "https://open.spotify.com/track/6MBvUN8cYTm5UUvNuZlF3O"
+    },
+    {
+      "added_at": "2026-11-27 05:00:53",
+      "album": {
+        "name": "GOOD MOURNING",
+        "url": "https://open.spotify.com/album/7ghOfqndW5q5OLVCfxAb4Z"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "GOOD MOURNING (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/4RqY82QomGazMGN0Cyk5UF"
     },
     {
       "added_at": "2026-11-27 05:00:53",

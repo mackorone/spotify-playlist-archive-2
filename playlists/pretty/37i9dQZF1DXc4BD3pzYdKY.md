@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Rap & Hip Hop today\.  Cover: Jackie Hill Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,613 likes - 74 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,629 likes - 74 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 73 | [CHOSEN](https://open.spotify.com/track/4iIcEBdkPvbr17YttcTOAW) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [CHOSEN](https://open.spotify.com/album/0afpI85zO7cNvtzDPf79mB) | 2:19 |
 | 74 | [ALPHA OMEGA](https://open.spotify.com/track/5YPscbKN2dnhwWBFc0CEfL) | [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [MAC](https://open.spotify.com/album/2bOFrOLf6CMDWHYOJ5tLC9) | 2:51 |
 
-Snapshot ID: `AAAAAINu26bc+i8JGKLqOS1GTWK78Oex`
+Snapshot ID: `AAAAAJkd7r3I8ABmL+yRN2VUuiOTpOot`

@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,732 songs - 2 day 23 hr 47 min
+1,733 songs - 2 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1567,6 +1567,7 @@
 | [Tomorrow \(feat\. 433\)](https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [433](https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln) | [Tomorrow \(feat\. 433\)](https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf) | 2:45 | 2021-12-16 | 2022-04-21 |
 | [Tomten Betalar \(Ho Ho Ho\)](https://open.spotify.com/track/3i8LLSsIbd0jN0tzusWq0J) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Tomten Betalar \(Ho Ho Ho\)](https://open.spotify.com/album/17NxvLxqqrUFYpxA7mqgMf) | 2:21 | 2024-11-14 | 2025-01-03 |
 | [Tomten jag vill ha en riktig jul \- MEGAFJORTISTRANCE 2000 MiX](https://open.spotify.com/track/5GurCTMNTNSVuHDRyQKBlg) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3), [Målbrottet](https://open.spotify.com/artist/2na3kX3dxagN7riWLfStdI) | [Tomten jag vill ha en riktig jul \(MEGAFJORTISTRANCE 2000 MiX\)](https://open.spotify.com/album/5Q1TwGWVLmuVC95YyV8F8X) | 2:50 | 2024-11-21 | 2025-01-03 |
+| [TOMTEN KOMMER \(GENOM SKORSTENEN\)](https://open.spotify.com/track/4bZW8OSUQmxygjRGPEMp34) | [Mange Olsson](https://open.spotify.com/artist/40vl1jO3M2576V7tP8h4SR), [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [TOMTEN KOMMER \(GENOM SKORSTENEN\)](https://open.spotify.com/album/6r5a4GB7yQq6fF0NXmYURv) | 2:02 | 2026-11-27 |  |
 | [Tomten kör raggarbil](https://open.spotify.com/track/7E2bGr5gdshwub1p2cYRCd) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [Tomten kör raggarbil](https://open.spotify.com/album/0vZQiiKYEfLozVoY572QHT) | 2:04 | 2022-12-15 | 2023-02-17 |
 | [TOMTEN ÅKER RAGGARBIL](https://open.spotify.com/track/0Lt3FH26hsa0d2S6d1W4Qu) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [TOMTEN ÅKER RAGGARBIL](https://open.spotify.com/album/6cgvK0WGvynSU5AjiwkVX3) | 2:32 | 2023-11-23 | 2024-01-02 |
 | [TOMTENS SYNDER](https://open.spotify.com/track/40BOf3RXXxR73bjTaS4y2g) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [TOMTENS SYNDER](https://open.spotify.com/album/4Pci4whHORZMZHJSUA11AI) | 2:20 | 2024-12-19 | 2025-01-03 |

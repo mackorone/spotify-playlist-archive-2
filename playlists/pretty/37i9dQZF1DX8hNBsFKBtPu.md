@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her\. Lippe på cover ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,566 likes - 206 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,563 likes - 206 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

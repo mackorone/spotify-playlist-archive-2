@@ -1943,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Como Chihiro",
+        "url": "https://open.spotify.com/album/1ZwQaJRzClJNZAWEyV1OR6"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187671,
+      "name": "Como Chihiro",
+      "url": "https://open.spotify.com/track/1p8mw6Trx2wcJcoUROnhfP"
+    },
+    {
+      "album": {
         "name": "como me encanta",
         "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
       },
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 204024,
       "name": "Hablemos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0RZbe3BSnFBII3mnILSQSw"
@@ -4514,6 +4532,28 @@
       "duration_ms": 151604,
       "name": "Incondicional - Les Trois Monde",
       "url": "https://open.spotify.com/track/4tsJwtKLioWx3IClkbHxhA"
+    },
+    {
+      "album": {
+        "name": "IDK YET",
+        "url": "https://open.spotify.com/album/3iBRjuE5mzixZ8lrkXwfIK"
+      },
+      "artists": [
+        {
+          "name": "FAMA",
+          "url": "https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X"
+        },
+        {
+          "name": "Lukas Urkijo",
+          "url": "https://open.spotify.com/artist/0sdq0uQ9MBCqV5gwUZuxMW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137435,
+      "name": "INC\u00cdTAME",
+      "url": "https://open.spotify.com/track/0TB2zV4VRn9IpCnjJY4c1Y"
     },
     {
       "album": {
@@ -7701,6 +7741,28 @@
     },
     {
       "album": {
+        "name": "Que Novedad (Remix)",
+        "url": "https://open.spotify.com/album/6lwOhe5bjANtwYj2oKEsYZ"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/63GuPFQ8R9zS8XDGkqyZ0Y"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174705,
+      "name": "Que Novedad - Remix",
+      "url": "https://open.spotify.com/track/6Pg4CamyKe4NM6mDly0TWO"
+    },
+    {
+      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -9374,7 +9436,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 159419,
       "name": "Tengo Ganas 2.0",
       "url": "https://open.spotify.com/track/1M3VD516JAllFu09LLrbEn"
@@ -9706,7 +9768,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 173778,
       "name": "Todo Baila (feat. M. Ward)",
       "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"

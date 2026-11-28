@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Vago",
-  "num_followers": 89662,
+  "num_followers": 89671,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -27,7 +27,7 @@
     {
       "added_at": "2026-11-27 05:02:45",
       "album": {
-        "name": "Guide pour pour apprendre \u00e0 voler",
+        "name": "Guide pour apprendre \u00e0 voler",
         "url": "https://open.spotify.com/album/4X6j7WYRVAtVDamwP6do8n"
       },
       "artists": [
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-11-27 05:02:45",
       "album": {
+        "name": "A La Base",
+        "url": "https://open.spotify.com/album/2NMkjnOy51mypDJcdnSZU8"
+      },
+      "artists": [
+        {
+          "name": "Mk.official",
+          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "A La Base",
+      "url": "https://open.spotify.com/track/5erzrQzrIwK95QElCVoAvB"
+    },
+    {
+      "added_at": "2026-11-27 05:02:45",
+      "album": {
         "name": "Douze sur douze",
         "url": "https://open.spotify.com/album/1JrHSwOmjfgTETzZvFIgPR"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 140268,
       "name": "Signe (avec Statzz)",
       "url": "https://open.spotify.com/track/2lOmRntQlKRhYfVj5FHyQ3"
-    },
-    {
-      "added_at": "2026-11-27 05:02:45",
-      "album": {
-        "name": "A La Base",
-        "url": "https://open.spotify.com/album/2NMkjnOy51mypDJcdnSZU8"
-      },
-      "artists": [
-        {
-          "name": "Mk.official",
-          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "A La Base",
-      "url": "https://open.spotify.com/track/5erzrQzrIwK95QElCVoAvB"
     },
     {
       "added_at": "2026-11-27 05:02:45",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2026-11-27 05:02:45",
       "album": {
+        "name": "AUCUN MENSONGE",
+        "url": "https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h"
+      },
+      "artists": [
+        {
+          "name": "Rach",
+          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
+        },
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "AUCUN MENSONGE",
+      "url": "https://open.spotify.com/track/0QPuNKfrHyAegpwbwamwPm"
+    },
+    {
+      "added_at": "2026-11-27 05:02:45",
+      "album": {
         "name": "MTL's Finest",
         "url": "https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 141176,
       "name": "MTL's Finest",
       "url": "https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE"
-    },
-    {
-      "added_at": "2026-11-27 05:02:45",
-      "album": {
-        "name": "AUCUN MENSONGE",
-        "url": "https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h"
-      },
-      "artists": [
-        {
-          "name": "Rach",
-          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
-        },
-        {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "AUCUN MENSONGE",
-      "url": "https://open.spotify.com/track/0QPuNKfrHyAegpwbwamwPm"
     },
     {
       "added_at": "2026-11-27 05:02:45",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-11-27 05:02:45",
       "album": {
-        "name": "\u00c0 la prochaine fois",
-        "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
-      },
-      "artists": [
-        {
-          "name": "kinji00",
-          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
-        },
-        {
-          "name": "lb66",
-          "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
-        }
-      ],
-      "duration_ms": 150589,
-      "name": "Cayo Perico",
-      "url": "https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU"
-    },
-    {
-      "added_at": "2026-11-27 05:02:45",
-      "album": {
         "name": "AUCUN MENSONGE",
         "url": "https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 352600,
       "name": "L'\u00e9tage souterrain",
       "url": "https://open.spotify.com/track/5jEY7o6CLzkEqQAvIHaiRG"
+    },
+    {
+      "added_at": "2026-11-27 05:02:45",
+      "album": {
+        "name": "\u00c0 la prochaine fois",
+        "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
+      },
+      "artists": [
+        {
+          "name": "kinji00",
+          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+        },
+        {
+          "name": "lb66",
+          "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
+        }
+      ],
+      "duration_ms": 150589,
+      "name": "Cayo Perico",
+      "url": "https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU"
     },
     {
       "added_at": "2026-11-27 05:02:45",

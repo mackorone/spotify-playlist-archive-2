@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Above My Cloud",
+        "url": "https://open.spotify.com/album/2o3JV1pdaufJRXMgzClNdI"
+      },
+      "artists": [
+        {
+          "name": "Anedom",
+          "url": "https://open.spotify.com/artist/2wleVDBdqcTkS2E6agZ0AU"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207567,
+      "name": "Above My Cloud",
+      "url": "https://open.spotify.com/track/1zA7MmzaVS9enLQYhTmxqW"
+    },
+    {
+      "album": {
         "name": "Acceptance",
         "url": "https://open.spotify.com/album/0FiFGrauAhAwnW5Qs3Uv8h"
       },
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 154019,
       "name": "Endless Reverie",
       "url": "https://open.spotify.com/track/0miJuO3YdsF14aZHLMQsEn"
@@ -2349,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Floating Deep",
+        "url": "https://open.spotify.com/album/2sP23fSE385MYiAAiTlGkY"
+      },
+      "artists": [
+        {
+          "name": "Medtones",
+          "url": "https://open.spotify.com/artist/1xLbxyLWA6auvv57HsNFSL"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "Floating Deep",
+      "url": "https://open.spotify.com/track/58oH1L27PEe3rbktAuIbyT"
+    },
+    {
+      "album": {
         "name": "Floating Dreams",
         "url": "https://open.spotify.com/album/7curM8QR09B6L2793uq76v"
       },
@@ -2490,6 +2526,24 @@
       "duration_ms": 150072,
       "name": "Forest Flute",
       "url": "https://open.spotify.com/track/2mhU1PGoL40zwXYmLcJVd9"
+    },
+    {
+      "album": {
+        "name": "Forest Prayer",
+        "url": "https://open.spotify.com/album/6DiR8MTmhGtxOU4Suwwl8E"
+      },
+      "artists": [
+        {
+          "name": "A \uff06 L",
+          "url": "https://open.spotify.com/artist/2kZCW1AjZjnl998YdNJn9y"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Forest Prayer",
+      "url": "https://open.spotify.com/track/52rQZoL1T4FHAfl02nsOhQ"
     },
     {
       "album": {
@@ -3232,7 +3286,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 192000,
       "name": "Inner Sanctuary",
       "url": "https://open.spotify.com/track/2JeWYGes9TZw0kpdbAryUi"
@@ -4049,6 +4103,24 @@
     },
     {
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/63SFSZY4ajQc7WE8B73Q72"
+      },
+      "artists": [
+        {
+          "name": "Eijra",
+          "url": "https://open.spotify.com/artist/2lYMzv6dwFmmvpSotNXnAk"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207567,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/13ucK4a0QdLVsj4iD1lEnU"
+    },
+    {
+      "album": {
         "name": "Moving waves",
         "url": "https://open.spotify.com/album/3tIKxI8o0LKha4oquMr93K"
       },
@@ -4456,7 +4528,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 157106,
       "name": "Opaque",
       "url": "https://open.spotify.com/track/0n7cjB7t74Vq7l0gXBmfH8"
@@ -5515,6 +5587,24 @@
     },
     {
       "album": {
+        "name": "Sandbeat",
+        "url": "https://open.spotify.com/album/04PoUf1i97PjKXuBbEn70a"
+      },
+      "artists": [
+        {
+          "name": "Deep Sonum",
+          "url": "https://open.spotify.com/artist/5R25LvjBZxc8p0E4OKHcCB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149555,
+      "name": "Sandbeat",
+      "url": "https://open.spotify.com/track/43tLJ7DsavGMFv1Vz2rip5"
+    },
+    {
+      "album": {
         "name": "Sands",
         "url": "https://open.spotify.com/album/60edes2lblpg6vKuTpu1Yw"
       },
@@ -6084,7 +6174,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 199365,
       "name": "sky's prism",
       "url": "https://open.spotify.com/track/3KZCjN8f07tgMPQ83dECWq"
@@ -6937,6 +7027,24 @@
     },
     {
       "album": {
+        "name": "Temporal Estuary",
+        "url": "https://open.spotify.com/album/5e0S7KZgXUDLtnZvFYhVJX"
+      },
+      "artists": [
+        {
+          "name": "Rivers Of Time",
+          "url": "https://open.spotify.com/artist/01HPpfT387ULSdN6EztPip"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Temporal Estuary",
+      "url": "https://open.spotify.com/track/5GgeonMJPjfxyeshHerhUZ"
+    },
+    {
+      "album": {
         "name": "Tenderness",
         "url": "https://open.spotify.com/album/2iTx4Viy4LGZubiWj64qOi"
       },
@@ -7168,6 +7276,60 @@
       "duration_ms": 192678,
       "name": "Tibetan Underworld",
       "url": "https://open.spotify.com/track/6oJqm9plV2yVwqfnuWhcVO"
+    },
+    {
+      "album": {
+        "name": "tinySketch #81",
+        "url": "https://open.spotify.com/album/1lOgG4GenkkIWTNriI3HpS"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "tinySketch #81",
+      "url": "https://open.spotify.com/track/6FhfLfI1FvG3q4So99x870"
+    },
+    {
+      "album": {
+        "name": "tinySketch #91",
+        "url": "https://open.spotify.com/album/0oSl1rBIIyqxB9lfWOMGXf"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "tinySketch #91",
+      "url": "https://open.spotify.com/track/0DrYsjSa1oLf76RlOVOWE8"
+    },
+    {
+      "album": {
+        "name": "tinySketch #92",
+        "url": "https://open.spotify.com/album/2Ks99uvjqZgkqfKOHfFPGz"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "tinySketch #92",
+      "url": "https://open.spotify.com/track/0WlfY3lQeWeglx8Qz2QtQi"
     },
     {
       "album": {

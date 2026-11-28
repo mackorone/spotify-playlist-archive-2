@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 139984,
+  "num_followers": 140001,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Welcome to the Dollhouse",
-        "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
-      },
-      "artists": [
-        {
-          "name": "Danity Kane",
-          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Damaged",
-      "url": "https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 255866,
       "name": "Holler",
       "url": "https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Welcome to the Dollhouse",
+        "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
+      },
+      "artists": [
+        {
+          "name": "Danity Kane",
+          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "I Don't Wanna Grow Up",
+        "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 207775,
+      "name": "I'm Gonna Show You Crazy",
+      "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "SuperLove",
         "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 461737,
       "name": "Greatest Hits Megamix",
       "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "I Don't Wanna Grow Up",
-        "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 207775,
-      "name": "I'm Gonna Show You Crazy",
-      "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "A Public Affair",
-        "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
-      },
-      "artists": [
-        {
-          "name": "Jessica Simpson",
-          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
-        }
-      ],
-      "duration_ms": 201466,
-      "name": "A Public Affair",
-      "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Demi",
         "url": "https://open.spotify.com/album/5v2YP7qaJJsOuWwojxUti8"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/1WINLcGPEw9jDs2z0zLKIU"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "A Public Affair",
+        "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
+      },
+      "artists": [
+        {
+          "name": "Jessica Simpson",
+          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+        }
+      ],
+      "duration_ms": 201466,
+      "name": "A Public Affair",
+      "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "American Girl",
-        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie McKee",
-          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Dedicated",
         "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 166293,
       "name": "Want You In My Room",
       "url": "https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Real Girl",
-        "url": "https://open.spotify.com/album/18EjOWuILmihCbwNbx6w44"
-      },
-      "artists": [
-        {
-          "name": "Mutya Buena",
-          "url": "https://open.spotify.com/artist/1g5PorBgjWrL60NdotRE6Q"
-        },
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Song 4 Mutya (Out Of Control)",
-      "url": "https://open.spotify.com/track/08oDoZiAYgEqh7Tzr5wRVV"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Glorious (Deluxe)",
         "url": "https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 236533,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7wgxq27uOvfydLunYkcmAU"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Real Girl",
+        "url": "https://open.spotify.com/album/18EjOWuILmihCbwNbx6w44"
+      },
+      "artists": [
+        {
+          "name": "Mutya Buena",
+          "url": "https://open.spotify.com/artist/1g5PorBgjWrL60NdotRE6Q"
+        },
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Song 4 Mutya (Out Of Control)",
+      "url": "https://open.spotify.com/track/08oDoZiAYgEqh7Tzr5wRVV"
     },
     {
       "added_at": "2024-06-02 21:23:10",

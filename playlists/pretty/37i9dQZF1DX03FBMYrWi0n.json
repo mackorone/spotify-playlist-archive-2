@@ -1,6 +1,6 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: DVTR",
-  "num_followers": 10471,
+  "num_followers": 10476,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-11-27 05:02:47",
       "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+        "name": "Fun ways to get to heaven",
+        "url": "https://open.spotify.com/album/5hxnVQA8krtRxIPjzuYxPA"
       },
       "artists": [
         {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+          "name": "Deadin Dogyears",
+          "url": "https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N"
         }
       ],
-      "duration_ms": 235910,
-      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
-      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
+      "duration_ms": 136375,
+      "name": "Again & again & again",
+      "url": "https://open.spotify.com/track/2GOjLejkasSISpi2YKpbVy"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -739,6 +739,22 @@
       "duration_ms": 136532,
       "name": "1 000 000 de probl\u00e8mes",
       "url": "https://open.spotify.com/track/2QLNaHqtcN5EXgGeAG0Mov"
+    },
+    {
+      "added_at": "2026-11-27 05:02:47",
+      "album": {
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 235910,
+      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
+      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -771,22 +787,6 @@
       "duration_ms": 134746,
       "name": "top of the morning",
       "url": "https://open.spotify.com/track/18lPoK9dIKtRRPYh8z2oyW"
-    },
-    {
-      "added_at": "2026-11-27 05:02:47",
-      "album": {
-        "name": "Fun ways to get to heaven",
-        "url": "https://open.spotify.com/album/5hxnVQA8krtRxIPjzuYxPA"
-      },
-      "artists": [
-        {
-          "name": "Deadin Dogyears",
-          "url": "https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N"
-        }
-      ],
-      "duration_ms": 136375,
-      "name": "Again & again & again",
-      "url": "https://open.spotify.com/track/2GOjLejkasSISpi2YKpbVy"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-11-27 05:02:47",
       "album": {
-        "name": "higher! higher! (for Paul)",
-        "url": "https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ"
-      },
-      "artists": [
-        {
-          "name": "nowhere else to be",
-          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
-        }
-      ],
-      "duration_ms": 168110,
-      "name": "higher! higher! (for Paul)",
-      "url": "https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg"
-    },
-    {
-      "added_at": "2026-11-27 05:02:47",
-      "album": {
         "name": "Le Roi de la montagne",
         "url": "https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 222375,
       "name": "Le Roi de la montagne",
       "url": "https://open.spotify.com/track/3Tj4NZCOKQXzG8FgZJ81fQ"
+    },
+    {
+      "added_at": "2026-11-27 05:02:47",
+      "album": {
+        "name": "Le vice et le culte",
+        "url": "https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm"
+      },
+      "artists": [
+        {
+          "name": "zouz",
+          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+        }
+      ],
+      "duration_ms": 177212,
+      "name": "Le vice et le culte",
+      "url": "https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -903,34 +903,18 @@
     {
       "added_at": "2026-11-27 05:02:47",
       "album": {
-        "name": "Le vice et le culte",
-        "url": "https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm"
+        "name": "higher! higher! (for Paul)",
+        "url": "https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ"
       },
       "artists": [
         {
-          "name": "zouz",
-          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+          "name": "nowhere else to be",
+          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
         }
       ],
-      "duration_ms": 177212,
-      "name": "Le vice et le culte",
-      "url": "https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc"
-    },
-    {
-      "added_at": "2026-11-27 05:02:47",
-      "album": {
-        "name": "Darth Vapor",
-        "url": "https://open.spotify.com/album/4ITo43fKbywNwLHE6hEqBL"
-      },
-      "artists": [
-        {
-          "name": "La Force",
-          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
-        }
-      ],
-      "duration_ms": 255965,
-      "name": "Darth Vapor",
-      "url": "https://open.spotify.com/track/75u37R1IZGJ287WUWJmibo"
+      "duration_ms": 168110,
+      "name": "higher! higher! (for Paul)",
+      "url": "https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -947,6 +931,22 @@
       "duration_ms": 196297,
       "name": "Tourterelle",
       "url": "https://open.spotify.com/track/58v5rZGche1dBOT4149hAC"
+    },
+    {
+      "added_at": "2026-11-27 05:02:47",
+      "album": {
+        "name": "Darth Vapor",
+        "url": "https://open.spotify.com/album/4ITo43fKbywNwLHE6hEqBL"
+      },
+      "artists": [
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        }
+      ],
+      "duration_ms": 255965,
+      "name": "Darth Vapor",
+      "url": "https://open.spotify.com/track/75u37R1IZGJ287WUWJmibo"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-11-27 05:02:47",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/1iZ0lfz4ICkV3iht0kcXOk"
+        "name": "M\u00e9t\u00e9ore",
+        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
       },
       "artists": [
         {
-          "name": "Nicholas Cangiano",
-          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
         }
       ],
-      "duration_ms": 186571,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/3FR6I74FRcFyT3DQqOzA6a"
+      "duration_ms": 137379,
+      "name": "M\u00e9t\u00e9ore",
+      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-11-27 05:02:47",
       "album": {
-        "name": "virer doux",
-        "url": "https://open.spotify.com/album/26b4AFbqEW5MNxICrUwwAl"
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/1iZ0lfz4ICkV3iht0kcXOk"
       },
       "artists": [
         {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+          "name": "Nicholas Cangiano",
+          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
         }
       ],
-      "duration_ms": 253741,
-      "name": "virer doux",
-      "url": "https://open.spotify.com/track/4QRNaONuHp9jlFWQIdR0XK"
+      "duration_ms": 186571,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/3FR6I74FRcFyT3DQqOzA6a"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-11-27 05:02:47",
       "album": {
+        "name": "virer doux",
+        "url": "https://open.spotify.com/album/26b4AFbqEW5MNxICrUwwAl"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 253741,
+      "name": "virer doux",
+      "url": "https://open.spotify.com/track/4QRNaONuHp9jlFWQIdR0XK"
+    },
+    {
+      "added_at": "2026-11-27 05:02:47",
+      "album": {
         "name": "\u00c9ther",
         "url": "https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 255333,
       "name": "Lisbonne",
       "url": "https://open.spotify.com/track/4xo1V1DvrBvgrgizr5b2m0"
-    },
-    {
-      "added_at": "2026-11-27 05:02:47",
-      "album": {
-        "name": "M\u00e9t\u00e9ore",
-        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
-      },
-      "artists": [
-        {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
-        }
-      ],
-      "duration_ms": 137379,
-      "name": "M\u00e9t\u00e9ore",
-      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-11-27 05:02:47",
       "album": {
-        "name": "Requiems",
-        "url": "https://open.spotify.com/album/2BmmdZYovmaDjO6PbXrYsi"
+        "name": "Les fant\u00f4mes",
+        "url": "https://open.spotify.com/album/7e9tE04o6f9jOP2wjGi7Kb"
       },
       "artists": [
         {
-          "name": "Mykalle",
-          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
+          "name": "Chenier",
+          "url": "https://open.spotify.com/artist/6CyZpauvBib7G1oZd5Mztx"
         }
       ],
-      "duration_ms": 269480,
-      "name": "Requiem II",
-      "url": "https://open.spotify.com/track/3on6lHEfvaSjmCAaMxQ1Fh"
+      "duration_ms": 187969,
+      "name": "Tous les miroirs",
+      "url": "https://open.spotify.com/track/3Kkz6SJnDHpzUY0uyvvycr"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-11-27 05:02:47",
       "album": {
-        "name": "Les fant\u00f4mes",
-        "url": "https://open.spotify.com/album/7e9tE04o6f9jOP2wjGi7Kb"
+        "name": "Requiems",
+        "url": "https://open.spotify.com/album/2BmmdZYovmaDjO6PbXrYsi"
       },
       "artists": [
         {
-          "name": "Chenier",
-          "url": "https://open.spotify.com/artist/6CyZpauvBib7G1oZd5Mztx"
+          "name": "Mykalle",
+          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
         }
       ],
-      "duration_ms": 187969,
-      "name": "Tous les miroirs",
-      "url": "https://open.spotify.com/track/3Kkz6SJnDHpzUY0uyvvycr"
+      "duration_ms": 269480,
+      "name": "Requiem II",
+      "url": "https://open.spotify.com/track/3on6lHEfvaSjmCAaMxQ1Fh"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-11-27 05:02:47",
       "album": {
-        "name": "Attendre - mstr 01",
-        "url": "https://open.spotify.com/album/68WOAV6KPFZQj3z1f9YZ0Y"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Hunt",
-          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
-        }
-      ],
-      "duration_ms": 357013,
-      "name": "Attendre - mstr 01",
-      "url": "https://open.spotify.com/track/0EdGzrAXzvOaBXGB5NjI41"
-    },
-    {
-      "added_at": "2026-11-27 05:02:47",
-      "album": {
         "name": "WORST PARTY EVER",
         "url": "https://open.spotify.com/album/53MZyV26JLbusVBWkzTkbJ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 152481,
       "name": "RICH!",
       "url": "https://open.spotify.com/track/034J9CitLjXmZZSqZhY1VK"
+    },
+    {
+      "added_at": "2026-11-27 05:02:47",
+      "album": {
+        "name": "Attendre - mstr 01",
+        "url": "https://open.spotify.com/album/68WOAV6KPFZQj3z1f9YZ0Y"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Hunt",
+          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
+        }
+      ],
+      "duration_ms": 357013,
+      "name": "Attendre - mstr 01",
+      "url": "https://open.spotify.com/track/0EdGzrAXzvOaBXGB5NjI41"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-11-27 05:02:47",
       "album": {
-        "name": "AVALANCHE",
-        "url": "https://open.spotify.com/album/1i3FlcMGOBhQN9jkgUdJ1t"
-      },
-      "artists": [
-        {
-          "name": "Oli F\u00e9ra",
-          "url": "https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw"
-        }
-      ],
-      "duration_ms": 229355,
-      "name": "AVALANCHE",
-      "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
-    },
-    {
-      "added_at": "2026-11-27 05:02:47",
-      "album": {
         "name": "Unessential Oils",
         "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2026-11-27 05:02:47",
       "album": {
-        "name": "Where You Haunt Me: Part 2",
-        "url": "https://open.spotify.com/album/2LXonM7FX9YMTfSRASV2Rb"
+        "name": "AVALANCHE",
+        "url": "https://open.spotify.com/album/1i3FlcMGOBhQN9jkgUdJ1t"
       },
       "artists": [
         {
-          "name": "Dear Youth",
-          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
+          "name": "Oli F\u00e9ra",
+          "url": "https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw"
         }
       ],
-      "duration_ms": 199320,
-      "name": "I Can't Give You What You Want",
-      "url": "https://open.spotify.com/track/69vnX0jY8jLoTQ2fsJpoM9"
+      "duration_ms": 229355,
+      "name": "AVALANCHE",
+      "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
     },
     {
       "added_at": "2026-11-27 05:02:47",
@@ -1463,6 +1447,22 @@
       "duration_ms": 108136,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/6g637SZdJY7UM0kqFSu94k"
+    },
+    {
+      "added_at": "2026-11-27 05:02:47",
+      "album": {
+        "name": "Where You Haunt Me: Part 2",
+        "url": "https://open.spotify.com/album/2LXonM7FX9YMTfSRASV2Rb"
+      },
+      "artists": [
+        {
+          "name": "Dear Youth",
+          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "I Can't Give You What You Want",
+      "url": "https://open.spotify.com/track/69vnX0jY8jLoTQ2fsJpoM9"
     },
     {
       "added_at": "2026-11-27 05:02:47",

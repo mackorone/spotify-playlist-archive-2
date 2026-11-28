@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 13882,
+  "num_followers": 13883,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAADBXvi9L9vmtJbMEi0HWM1h",
+  "snapshot_id": "awd2gAAAAACRdJL99y9STjrobrt+uk0q",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 236240,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/1uNsNmK3BoXyZLHIrsIhYA"
+      "duration_ms": 247253,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/5c8JiWMPVKCpNyLyFJZvpa"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 247253,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/5c8JiWMPVKCpNyLyFJZvpa"
+      "duration_ms": 236240,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/1uNsNmK3BoXyZLHIrsIhYA"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e7KebDjVSG.md) - [plain]
 
 > There is no light where we're going\. Listen to the music from and inspired by Verity\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,664 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,665 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

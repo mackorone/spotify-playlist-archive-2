@@ -2385,6 +2385,28 @@
     },
     {
       "album": {
+        "name": "Chicago Slow Evening",
+        "url": "https://open.spotify.com/album/54u39w6v10Pf3CTXCHwLHX"
+      },
+      "artists": [
+        {
+          "name": "Carlito Home",
+          "url": "https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0"
+        },
+        {
+          "name": "Mister BoO",
+          "url": "https://open.spotify.com/artist/6r70GFn8sPjePrZadKcPHu"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Chicago Slow Evening",
+      "url": "https://open.spotify.com/track/59f99k0X8tvkoEtBP3KO9P"
+    },
+    {
+      "album": {
         "name": "Chillin on the breakdown lane",
         "url": "https://open.spotify.com/album/2vSEepJdDbIcqvHArpOiVq"
       },
@@ -3184,6 +3206,24 @@
       "duration_ms": 250413,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/3oiCerWvwdIlHTND7tswor"
+    },
+    {
+      "album": {
+        "name": "Unbroken After the Storm",
+        "url": "https://open.spotify.com/album/7wsDt2Eqn8EXfE6W22o1Lo"
+      },
+      "artists": [
+        {
+          "name": "Massey's Cross",
+          "url": "https://open.spotify.com/artist/44srOgIHTKwyOBmWW1tqkQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253644,
+      "name": "Darkened Days",
+      "url": "https://open.spotify.com/track/3luZsmfJlLhzCPnnSVdtbY"
     },
     {
       "album": {

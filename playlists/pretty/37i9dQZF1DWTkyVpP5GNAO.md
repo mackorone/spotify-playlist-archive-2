@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Sarai Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,468 likes - 80 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,505 likes - 80 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

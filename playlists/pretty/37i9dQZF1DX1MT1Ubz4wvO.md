@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Meme del Real
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,880 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,890 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Corazón Atómico](https://open.spotify.com/track/41EOetzK0ssh44TvGGWV21) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB), [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea \(Revisitado\)](https://open.spotify.com/album/1xZPF0L6AxIxnsoemmOYTy) | 4:15 |
 | 2 | [PROMESA ROTA](https://open.spotify.com/track/6u2ksFNvTztL9d6A1XDNRH) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [LA UNION HIP.GNOSIS V.3](https://open.spotify.com/album/4541RiZ5yg9GCYqPf7tpax) | 3:25 |
-| 3 | [Noche de Pánico](https://open.spotify.com/track/7tfmaigofuhzvdozxa414W) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [Noche de Pánico](https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW) | 4:10 |
+| 3 | [Tiempo de Descuento](https://open.spotify.com/track/4RQAQpLaQDjYDG2xXyJU7q) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [Noche de Pánico](https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW) | 5:16 |
 | 4 | [Orquídea](https://open.spotify.com/track/7hVT4HuCXp9Oz2grBWJM44) | [El Ruido Inmersivo de los Sueños](https://open.spotify.com/artist/377Ar7C6GQX6YexaDLUMMV) | [Muerte Al Tallo De Una Flor](https://open.spotify.com/album/1EkXROll80PHxH4XR0hzlg) | 3:48 |
 | 5 | [Dogs](https://open.spotify.com/track/6Z2ThlOakgCVax62DxgcO5) | [Mellon Collie](https://open.spotify.com/artist/5nWkSrKwhtPiS3UWWNmlPk) | [Dogs](https://open.spotify.com/album/2f40cItbtPULC3rQmabvz6) | 4:32 |
 | 6 | [Featuring Hot Mulligan](https://open.spotify.com/track/2JTeHbLo9m5qnR7ph9WfIa) | [Awexa](https://open.spotify.com/artist/1tv5NHtc4XP7MpNeupdfYa) | [Featuring Hot Mulligan](https://open.spotify.com/album/7c1zXEuBhqdmF1d6zbfRM7) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Refugio](https://open.spotify.com/track/442wIqwy0fd1yRkOA28QL0) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Refugio](https://open.spotify.com/album/4pbtawMzdmHKmaVg85Dgzv) | 2:58 |
 | 50 | [Loba](https://open.spotify.com/track/2z6IkKOVT8iCfrJDKHxckB) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a) | [Loba](https://open.spotify.com/album/6UQz9dVDv2jt6qWkmYdyvI) | 17:49 |
 
-Snapshot ID: `AAAAAJ7MA0szofl9HxwDM+5vPOYlt1w3`
+Snapshot ID: `AAAAANnCABsE8RWRrOR/5AXz9DQHkVu4`

@@ -4118,7 +4118,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 114400,
       "name": "I Wish You A Merry Christmas - Remastered 2006",
       "url": "https://open.spotify.com/track/1lkhGcjgLCr9StHHYXMyuK"
@@ -9384,6 +9384,24 @@
       "duration_ms": 156466,
       "name": "The Best Things Happen While You're Dancing",
       "url": "https://open.spotify.com/track/66Ye3sCQqV4nZ0OKzuCrYO"
+    },
+    {
+      "album": {
+        "name": "Christmas Hits",
+        "url": "https://open.spotify.com/album/0XJZ6V6mCjennH5mOjbk8T"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192160,
+      "name": "The Christmas Song (Merry Christmas To You) - Remastered 1999",
+      "url": "https://open.spotify.com/track/1fzIMn5fBCUIQuSYqc7VCw"
     },
     {
       "album": {

@@ -4269,6 +4269,28 @@
     },
     {
       "album": {
+        "name": "Gimme Vibe",
+        "url": "https://open.spotify.com/album/1R4Dfa61QjjgpxOpOUUOc7"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        },
+        {
+          "name": "Cieska Lites",
+          "url": "https://open.spotify.com/artist/2zwBfSqc2GS3fm9G7xrg0h"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159344,
+      "name": "Gimme Vibe",
+      "url": "https://open.spotify.com/track/6epUey9ONnungiPdbJ6y3s"
+    },
+    {
+      "album": {
         "name": "Give Me (Story Book Riddim)",
         "url": "https://open.spotify.com/album/0GkSjE0nF9GfromUhQ2Be3"
       },
@@ -4484,7 +4506,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 176333,
       "name": "Gusa",
       "url": "https://open.spotify.com/track/4ndSBxqqaJ9XE7wSYCHmzw"
@@ -5674,7 +5696,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 154468,
       "name": "Ku Munji",
       "url": "https://open.spotify.com/track/5CWwCATkNe7jrAV44cBrnR"
@@ -7232,6 +7254,24 @@
       "duration_ms": 304000,
       "name": "MR DJ",
       "url": "https://open.spotify.com/track/3mpBwA7vh0nbaAuoMXJcRt"
+    },
+    {
+      "album": {
+        "name": "Mr Money",
+        "url": "https://open.spotify.com/album/5DJWT4pgEIp4G744uE3zbR"
+      },
+      "artists": [
+        {
+          "name": "Zafaran",
+          "url": "https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Mr Money",
+      "url": "https://open.spotify.com/track/2bgkH63sXPMNgM4h8hdkuE"
     },
     {
       "album": {
@@ -11181,6 +11221,24 @@
     },
     {
       "album": {
+        "name": "Siri Mulalu",
+        "url": "https://open.spotify.com/album/7mn2tYaSjngUsR8WsKXb3Y"
+      },
+      "artists": [
+        {
+          "name": "Dokta Brain",
+          "url": "https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187346,
+      "name": "Siri Mulalu",
+      "url": "https://open.spotify.com/track/12ZUDZzHdGsZxbt5e89P9X"
+    },
+    {
+      "album": {
         "name": "Sirubala",
         "url": "https://open.spotify.com/album/11M99Bc7YivvY8mnB899VP"
       },
@@ -12092,7 +12150,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 229213,
       "name": "Tewali Kibulayo",
       "url": "https://open.spotify.com/track/7e5qfZrYZQdjfUp0wDmtjm"

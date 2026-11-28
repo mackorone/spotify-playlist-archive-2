@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > ヒップホップの最新トレンドをここでチェック！ Cover: MIKADO / 水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,047 likes - 126 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,061 likes - 126 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

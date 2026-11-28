@@ -209167,6 +209167,28 @@
     },
     {
       "album": {
+        "name": "ORO PRETTU",
+        "url": "https://open.spotify.com/album/6eSMVgFPYB8gHDxrp0mbLR"
+      },
+      "artists": [
+        {
+          "name": "Fumaratto",
+          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
+        },
+        {
+          "name": "Noro$t",
+          "url": "https://open.spotify.com/artist/2GR0zwyO8NyrSyGmueuG35"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "ORO PRETTU",
+      "url": "https://open.spotify.com/track/2FWVVZhn2uAnz1K7aStKD9"
+    },
+    {
+      "album": {
         "name": "Or\u00edgenes Vivos",
         "url": "https://open.spotify.com/album/1kbseorYh6sNkawXLqS5VD"
       },

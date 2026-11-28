@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Donnie & Marco Schuitmaker, Travis Scott, Kris Kross Amsterdam, Idaly, Bella Kay, Kaya Imani en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,888 likes - 68 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,054 likes - 68 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 38 | [17](https://open.spotify.com/track/4zeKwAuCDUdtueuJPAGnCM) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [watch out](https://open.spotify.com/album/1FaGHup8kBPYC47xge7Wim) | 3:26 |
 | 39 | [Madagaskar](https://open.spotify.com/track/32mRRkTKmUzO15DMO1MEBu) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Madagaskar](https://open.spotify.com/album/2x1a73X0WfaZWFfcrm3SUD) | 2:52 |
 | 40 | [Meke De Kong](https://open.spotify.com/track/4W3P6biM4OWEjhFo4V99k9) | [Oomto](https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip) | [Mi Lobi Di Motjo](https://open.spotify.com/album/6a09UwvRYsHL3oAdYJgYlO) | 1:59 |
-| 41 | [Drop It](https://open.spotify.com/track/6WrqPdRqLMnLbYqRxyBNFM) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Drop It](https://open.spotify.com/album/2mdLFmivebnqq7pydmUu8l) | 1:56 |
+| 41 | [Drop It](https://open.spotify.com/track/6WrqPdRqLMnLbYqRxyBNFM) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Drop It](https://open.spotify.com/album/2mdLFmivebnqq7pydmUu8l) | 1:57 |
 | 42 | [Mr Money](https://open.spotify.com/track/0gbpGDB0vKEpHGKmHASwLv) | [Nyarko](https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM) | [Cupido Me](https://open.spotify.com/album/13YfAW7jZrPW4TjqD9fGiW) | 3:21 |
 | 43 | [Proof of Love](https://open.spotify.com/track/4reTscO3zE2lAu4HuirHlG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Proof of Love](https://open.spotify.com/album/5B5SjCdkCIqaV1wDXBqfVZ) | 3:43 |
 | 44 | [FEARLESS](https://open.spotify.com/track/7gfmAb2FDkPQICIU0i7w25) | [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [FEARLESS](https://open.spotify.com/album/1WAXqgo32TqPTy5gqzJQU8) | 4:03 |

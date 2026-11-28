@@ -4,7 +4,7 @@
 
 > This is Spice Girls\. The essential tracks, all in one playlist.
 
-46 songs - 3 hr 18 min
+47 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Let Love Lead The Way](https://open.spotify.com/track/5EE1Uzg0JvtBhs6TRs33R0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:58 | 2025-10-28 |  |
 | [Love Thing](https://open.spotify.com/track/61PwiYyJhF1HLi0OXomzQE) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:38 | 2025-10-28 |  |
 | [Mama](https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 5:04 | 2025-10-28 |  |
+| [Move Over / Generationext \- Live](https://open.spotify.com/track/6sbBHj5SxmQSgDd3c5yHF2) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Step To Me](https://open.spotify.com/album/2eNV48rbqQaJlWxGfVnabw) | 5:29 | 2026-11-28 |  |
 | [My Strongest Suit](https://open.spotify.com/track/5QnDgzbWfvm1TUaUshBewM) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Aida](https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp) | 4:10 | 2025-10-28 |  |
 | [Never Give Up On The Good Times](https://open.spotify.com/track/6RQnRYot6B3TPZsMbbSJ20) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 4:30 | 2025-10-28 |  |
 | [One Of These Girls](https://open.spotify.com/track/7a901tm0xql6ytmNPIkS1C) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 3:33 | 2025-10-28 |  |

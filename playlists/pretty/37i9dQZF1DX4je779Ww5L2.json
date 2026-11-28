@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 189818,
+  "num_followers": 189809,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "Whale Call",
-        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 259503,
-      "name": "Whale Call",
-      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
         "name": "Blizzard",
         "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 248932,
       "name": "To The Sandals",
       "url": "https://open.spotify.com/track/0o1TOuRqbAP2RspbKZmq7P"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
+        "name": "Whale Call",
+        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 259503,
+      "name": "Whale Call",
+      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "Dissolve",
-        "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
+        "name": "Mr. Beckett",
+        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
       },
       "artists": [
         {
-          "name": "Tamino",
-          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+          "name": "Agn\u00e8s Botty",
+          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
         }
       ],
-      "duration_ms": 403787,
-      "name": "Dissolve",
-      "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
+      "duration_ms": 223973,
+      "name": "Mr. Beckett",
+      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "Mr. Beckett",
-        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
+        "name": "Dissolve",
+        "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
       },
       "artists": [
         {
-          "name": "Agn\u00e8s Botty",
-          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
         }
       ],
-      "duration_ms": 223973,
-      "name": "Mr. Beckett",
-      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
+      "duration_ms": 403787,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "Too Late To Be Confused",
-        "url": "https://open.spotify.com/album/6v3Ew5GuZZEnCEF1hTIqRI"
-      },
-      "artists": [
-        {
-          "name": "Julia Adriana",
-          "url": "https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc"
-        }
-      ],
-      "duration_ms": 172617,
-      "name": "Too Late To Be Confused",
-      "url": "https://open.spotify.com/track/6vD91Em9Qy6lmabfBT0RuB"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
         "name": "Hold Me How You Always Do",
         "url": "https://open.spotify.com/album/6ppghl97uqXWuhPf52Y0Y2"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 160523,
       "name": "Something Ain't Right - Acoustic",
       "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
+        "name": "Too Late To Be Confused",
+        "url": "https://open.spotify.com/album/6v3Ew5GuZZEnCEF1hTIqRI"
+      },
+      "artists": [
+        {
+          "name": "Julia Adriana",
+          "url": "https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc"
+        }
+      ],
+      "duration_ms": 172617,
+      "name": "Too Late To Be Confused",
+      "url": "https://open.spotify.com/track/6vD91Em9Qy6lmabfBT0RuB"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "The In-Between",
-        "url": "https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok"
-      },
-      "artists": [
-        {
-          "name": "Leela Rosa",
-          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
-        }
-      ],
-      "duration_ms": 165084,
-      "name": "The In-Between",
-      "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
         "name": "I Don't Feel",
         "url": "https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "Muddy Water",
-        "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
+        "name": "The In-Between",
+        "url": "https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok"
       },
       "artists": [
         {
-          "name": "DeNohr",
-          "url": "https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E"
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
         }
       ],
-      "duration_ms": 160031,
-      "name": "Muddy Water",
-      "url": "https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94"
+      "duration_ms": 165084,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -1131,6 +1115,22 @@
       "duration_ms": 253386,
       "name": "Seven Lonely Nights",
       "url": "https://open.spotify.com/track/4KWwyQtWCtO04TWelNBbe2"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
+        "name": "Muddy Water",
+        "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
+      },
+      "artists": [
+        {
+          "name": "DeNohr",
+          "url": "https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E"
+        }
+      ],
+      "duration_ms": 160031,
+      "name": "Muddy Water",
+      "url": "https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
+        "name": "Dark Sky Reserve",
+        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
+      },
+      "artists": [
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        }
+      ],
+      "duration_ms": 173343,
+      "name": "Tree-lined Lanes",
+      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
         "name": "The Farm",
         "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 302533,
       "name": "The End",
       "url": "https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
-        "name": "Dark Sky Reserve",
-        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
-      },
-      "artists": [
-        {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
-        }
-      ],
-      "duration_ms": 173343,
-      "name": "Tree-lined Lanes",
-      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
+        "name": "Sincerely, Sevens",
+        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "duration_ms": 250306,
+      "name": "Exit Wounds",
+      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
         "name": "More than a warning",
         "url": "https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 220543,
       "name": "You",
       "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
-        "name": "Sincerely, Sevens",
-        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
-      },
-      "artists": [
-        {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "Exit Wounds",
-      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
     },
     {
       "added_at": "2026-11-23 11:00:39",

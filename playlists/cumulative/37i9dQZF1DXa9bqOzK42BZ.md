@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-366 songs - 1 day 8 hr 21 min
+367 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Roho Wa Bwana \- Live](https://open.spotify.com/track/1FjSPs2mz84ESNUOMOsE2x) | [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Roho Wa Bwana \(Live\)](https://open.spotify.com/album/46DoL5j5ZmePvrIZEN1XL3) | 13:17 | 2026-09-11 | 2026-11-13 |
 | [Rohoni Na Mwilini](https://open.spotify.com/track/3cAQfJwO74Hi99h8Lsw6CF) | [Bale John](https://open.spotify.com/artist/6Zm45YPCRDAbBGVdbDuYn6) | [Utukufu](https://open.spotify.com/album/7i58BRlxIRqKipoGXudPUc) | 5:49 | 2022-06-24 | 2023-04-15 |
 | [Saa Hii](https://open.spotify.com/track/6lXFxKbl8WKL9qbDwcndv2) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Saa Hii](https://open.spotify.com/album/0fVsHWPWueKcYZVgQH6JRT) | 4:59 | 2025-09-26 |  |
+| [Salama](https://open.spotify.com/track/5mDEOySEO5ms34XSlvfAoa) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Salama](https://open.spotify.com/album/0UiMoLimHRqBLifPNVnk1f) | 3:44 | 2026-11-27 |  |
 | [Salama](https://open.spotify.com/track/0FD62g19MnyK9ZBXLOsogP) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Salama](https://open.spotify.com/album/1SGn3WiqZbUaIybmhL5x7a) | 3:47 | 2023-04-14 | 2023-06-16 |
 | [Samahani](https://open.spotify.com/track/6EyfjgDNBQlJRiyXF1d1c8) | [Jabidii](https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU) | [Samahani](https://open.spotify.com/album/0VwWZhZ1P69sAVgqr1JVWf) | 2:46 | 2024-08-23 | 2025-02-21 |
 | [SAUTI YANGU](https://open.spotify.com/track/6fykSHV5vHbimF76Th4Yif) | [Jemmimah Thiong'o](https://open.spotify.com/artist/5qSYakkSOUagBtuyQE7CDC) | [PENYA](https://open.spotify.com/album/25a9x8xqLHkc6LTNEpjYAd) | 4:09 | 2023-08-25 | 2024-05-17 |

@@ -506,7 +506,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 176153,
       "name": "Ain Taan",
       "url": "https://open.spotify.com/track/3feUl47mdRICik85rP9vN9"
@@ -5974,7 +5974,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 183453,
       "name": "MALAYI WARGI",
       "url": "https://open.spotify.com/track/04f2KFYjBARqShVTvG4htv"
@@ -7500,7 +7500,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 134693,
       "name": "Putt Jatt Da",
       "url": "https://open.spotify.com/track/6x4Y94EQyusi3mcCnUEwjm"
@@ -8604,6 +8604,32 @@
       "duration_ms": 147000,
       "name": "Suit",
       "url": "https://open.spotify.com/track/3EOBuU6ms5W3LoWlnGRTuz"
+    },
+    {
+      "album": {
+        "name": "Suit Silky",
+        "url": "https://open.spotify.com/album/0W6KEqIyRugABdNq8Ye7Tm"
+      },
+      "artists": [
+        {
+          "name": "Sanddy Mundra",
+          "url": "https://open.spotify.com/artist/7lIllcfx8ChwyI6MHtkLDN"
+        },
+        {
+          "name": "Vishav Bal",
+          "url": "https://open.spotify.com/artist/3BJz9N1x6qbJZoQTIzy6KV"
+        },
+        {
+          "name": "Anmol Lali",
+          "url": "https://open.spotify.com/artist/2AcFGRqSwT3HZCq7vWkIjR"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Suit Silky",
+      "url": "https://open.spotify.com/track/0ARPH5IGrA3fVMMMRKzP07"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 390155,
+  "num_followers": 390210,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJNu2MmDHQK1yYeUsHrnRERlEL3f",
+  "snapshot_id": "AAAAAFiEOxoIPHd4DZXs2CeBGZ9KDQn3",
   "tracks": [
     {
       "added_at": "2026-11-20 13:09:55",
@@ -219,18 +219,22 @@
     {
       "added_at": "2026-11-20 13:09:55",
       "album": {
-        "name": "Lukas Agustinho (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5APvOGecNpXVX7A147Nj2b"
+        "name": "Me Alegrar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5mV6q57MdDUSRU7G7LAmUA"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 139880,
-      "name": "Ele \u00e9 Exaltado - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5Z1bAuX0pHETilmLlmUoFa"
+      "duration_ms": 190786,
+      "name": "Me Alegrar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1APH91wfvZVnKZKLsNP2Cp"
     },
     {
       "added_at": "2026-11-20 13:09:55",
@@ -315,22 +319,6 @@
     {
       "added_at": "2026-11-20 13:09:55",
       "album": {
-        "name": "Algo Novo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5mT4Ohgb4ZJe2AN22B62mG"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Algo Novo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7xIoYG2DgfZ92SkIzHZzXm"
-    },
-    {
-      "added_at": "2026-11-20 13:09:55",
-      "album": {
         "name": "Quem Te Guarda \u00c9 Deus",
         "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
       },
@@ -347,22 +335,34 @@
     {
       "added_at": "2026-11-20 13:09:55",
       "album": {
-        "name": "Me Alegrar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5mV6q57MdDUSRU7G7LAmUA"
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
       },
       "artists": [
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 190786,
-      "name": "Me Alegrar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1APH91wfvZVnKZKLsNP2Cp"
+      "duration_ms": 222607,
+      "name": "Encaixe",
+      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
+    },
+    {
+      "added_at": "2026-11-20 13:09:55",
+      "album": {
+        "name": "Lukas Agustinho (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5APvOGecNpXVX7A147Nj2b"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 139880,
+      "name": "Ele \u00e9 Exaltado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5Z1bAuX0pHETilmLlmUoFa"
     },
     {
       "added_at": "2026-11-20 13:09:55",
@@ -379,22 +379,6 @@
       "duration_ms": 265945,
       "name": "Teus Sonhos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u"
-    },
-    {
-      "added_at": "2026-11-20 13:09:55",
-      "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 222607,
-      "name": "Encaixe",
-      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
     },
     {
       "added_at": "2026-11-20 13:09:55",
@@ -451,6 +435,22 @@
       "duration_ms": 308506,
       "name": "Carta de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/0w9aIkvIjBIStv0AIQrf1O"
+    },
+    {
+      "added_at": "2026-11-20 13:09:55",
+      "album": {
+        "name": "Algo Novo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5mT4Ohgb4ZJe2AN22B62mG"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Algo Novo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7xIoYG2DgfZ92SkIzHZzXm"
     },
     {
       "added_at": "2026-11-20 13:09:55",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-11-20 13:09:55",
       "album": {
-        "name": "N\u00e3o Mais Escravos (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "N\u00e3o Mais Escravos - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4"
-    },
-    {
-      "added_at": "2026-11-20 13:09:55",
-      "album": {
         "name": "Grande \u00c9 o Senhor",
         "url": "https://open.spotify.com/album/3w8C9IwPG42g22aOFflszr"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2026-11-20 13:09:55",
       "album": {
+        "name": "N\u00e3o Mais Escravos (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "N\u00e3o Mais Escravos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4"
+    },
+    {
+      "added_at": "2026-11-20 13:09:55",
+      "album": {
         "name": "Ele \u00c9 Exaltado (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 135000,
       "name": "Ele \u00c9 Exaltado - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1"
-    },
-    {
-      "added_at": "2026-11-20 13:09:55",
-      "album": {
-        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
     },
     {
       "added_at": "2026-11-20 13:09:55",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2026-11-20 13:09:55",
       "album": {
+        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
+    },
+    {
+      "added_at": "2026-11-20 13:09:55",
+      "album": {
         "name": "Medley Ac\u00fastico: Pra Sempre Vou Te Amar Jesus / Dna de Maria (Ao Vivo)",
         "url": "https://open.spotify.com/album/6bpS7bdLRXW7NIVNQOLJCW"
       },
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-11-20 13:09:55",
       "album": {
+        "name": "Intimidade - Vol. 03",
+        "url": "https://open.spotify.com/album/1b0fR8h1vgZnWyXKZtRx8C"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "duration_ms": 227441,
+      "name": "Vendavais",
+      "url": "https://open.spotify.com/track/2KQtvdqhFtNnkz3613nW0t"
+    },
+    {
+      "added_at": "2026-11-20 13:09:55",
+      "album": {
         "name": "Viver Em Comunh\u00e3o",
         "url": "https://open.spotify.com/album/7vpCq0TqxtBc8Ye0K0ZHCb"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 337525,
       "name": "Eu e o Rei - Ao Vivo",
       "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
-    },
-    {
-      "added_at": "2026-11-20 13:09:55",
-      "album": {
-        "name": "Intimidade - Vol. 03",
-        "url": "https://open.spotify.com/album/1b0fR8h1vgZnWyXKZtRx8C"
-      },
-      "artists": [
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 227441,
-      "name": "Vendavais",
-      "url": "https://open.spotify.com/track/2KQtvdqhFtNnkz3613nW0t"
     },
     {
       "added_at": "2026-11-20 13:09:55",

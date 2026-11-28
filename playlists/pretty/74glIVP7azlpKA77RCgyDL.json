@@ -1,13 +1,117 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9210,
+  "num_followers": 9213,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAARgElD1bfQ0oGUghNgxDfv/YIQv7c5",
+  "snapshot_id": "AAARjR85t7uoOa/EZWNEJz15BVBla8wg",
   "tracks": [
+    {
+      "added_at": "2026-11-27 22:29:57",
+      "album": {
+        "name": "PeelingFlesh",
+        "url": "https://open.spotify.com/album/3QPyiUIOXOLFyolBw7v7cu"
+      },
+      "artists": [
+        {
+          "name": "PeelingFlesh",
+          "url": "https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG"
+        },
+        {
+          "name": "Bayway NJ",
+          "url": "https://open.spotify.com/artist/2XCRqHvWppzACWDCE95Xer"
+        }
+      ],
+      "duration_ms": 141124,
+      "name": "Lethal Interjection",
+      "url": "https://open.spotify.com/track/7oFh1AFXj4XWL2J8XPeRnC"
+    },
+    {
+      "added_at": "2026-11-27 22:30:10",
+      "album": {
+        "name": "Mutual Death Warrant (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6Ul8iBUTWthPOsoesxWMY5"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "Mutual Death Warrant (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/5wHEByduQ67cUN48ddtgb0"
+    },
+    {
+      "added_at": "2026-11-27 22:29:01",
+      "album": {
+        "name": "The Tale of The SPICE Begins...",
+        "url": "https://open.spotify.com/album/6NYiTLpNnP3QFIcguqOAt2"
+      },
+      "artists": [
+        {
+          "name": "Infant Annihilator",
+          "url": "https://open.spotify.com/artist/6eSSPyqys0J4j0kdi3hFrR"
+        }
+      ],
+      "duration_ms": 387627,
+      "name": "Antarabh\u016bt Prak\u1e5biti",
+      "url": "https://open.spotify.com/track/6ZtDQpSlnhSYwM5hIa4FdX"
+    },
+    {
+      "added_at": "2026-11-27 22:29:44",
+      "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/7yMWsbfHNltTLoasYCbXBw"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 273115,
+      "name": "The Otherside",
+      "url": "https://open.spotify.com/track/3Bx1e0aKh72bEvhEOAf4IN"
+    },
+    {
+      "added_at": "2026-11-27 22:29:34",
+      "album": {
+        "name": "Die To This",
+        "url": "https://open.spotify.com/album/6VzgZvdcOWpJIuxBf4X5L3"
+      },
+      "artists": [
+        {
+          "name": "Leviathan",
+          "url": "https://open.spotify.com/artist/6CJU2RwwB10D0KoYYqWYeM"
+        }
+      ],
+      "duration_ms": 262107,
+      "name": "Heir Recreant",
+      "url": "https://open.spotify.com/track/4bq6JhiMjjMxtr6a5i7L99"
+    },
+    {
+      "added_at": "2026-11-27 22:28:29",
+      "album": {
+        "name": "A Particular Proclivity for Pain",
+        "url": "https://open.spotify.com/album/3FJG6xhlLeC8WP0oBkpAQ7"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 235715,
+      "name": "A Particular Proclivity for Pain",
+      "url": "https://open.spotify.com/track/7IgwIgLydCzA8KaRIPueEw"
+    },
     {
       "added_at": "2026-11-20 20:32:46",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 204923,
+  "num_followers": 204937,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awYlAAAAAADxs/fCjxkKynie1621qHmG",
+  "snapshot_id": "awd2gAAAAAAr45VmhN25TczRWXd2oiWL",
   "tracks": [
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOWN FOR REAL",
-        "url": "https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE"
-      },
-      "artists": [
-        {
-          "name": "Victor Victor Presents",
-          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 182084,
-      "name": "DOWN FOR REAL",
-      "url": "https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wait (feat. A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 190476,
       "name": "Wait (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOWN FOR REAL",
+        "url": "https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE"
+      },
+      "artists": [
+        {
+          "name": "Victor Victor Presents",
+          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 182084,
+      "name": "DOWN FOR REAL",
+      "url": "https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh"
     },
     {
       "added_at": null,

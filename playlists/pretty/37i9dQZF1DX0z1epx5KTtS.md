@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Shado Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,672 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,722 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [David Fofana](https://open.spotify.com/track/1sYgGGP9aOTpoWjZOJAeyC) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [David Fofana](https://open.spotify.com/album/4hICyNZfHx1LgA1QmRbdsp) | 3:17 |
 | 40 | [Eh pardon \(kpelouai\)](https://open.spotify.com/track/1ehudC9bv5lxFm4rfyW9Te) | [Mille Etoil](https://open.spotify.com/artist/5zN4AUBgav2DbSsVsw0ATF), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Eh pardon \(kpelouai\)](https://open.spotify.com/album/728O99oW2IRGrcSrseUzP8) | 2:44 |
 
-Snapshot ID: `AAAAAGjMk1MpnsqJVlVa8UqS/ceHBz98`
+Snapshot ID: `AAAAANAh0u7165pcMk41E04a8ktSvQ22`

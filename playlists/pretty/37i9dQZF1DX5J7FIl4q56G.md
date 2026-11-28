@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: PeelingFlesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,464 likes - 178 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,543 likes - 178 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

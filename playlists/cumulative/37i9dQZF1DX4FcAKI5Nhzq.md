@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: AMPERS&ONE\)
+> Future K\-Pop hits! \(Cover: SAY MY NAME\)
 
-1,830 songs - 4 day 1 hr 29 min
+1,831 songs - 4 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1176,6 +1176,7 @@
 | [Outerspace \(feat\. Loco\)](https://open.spotify.com/track/6FAxtrYysG7kIZlCreBf0q) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Outerspace \(feat\. Loco\)](https://open.spotify.com/album/2G3pMjDpRpkHu7TuQr1nWM) | 3:14 | 2021-05-15 | 2021-07-30 |
 | [Outsider](https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [4U : OUTSIDE](https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA) | 3:32 | 2021-09-02 | 2021-10-30 |
 | [Over Me](https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF) | [Overdose](https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 3:12 | 2023-04-26 | 2023-12-02 |
+| [Over The New World](https://open.spotify.com/track/42fgMKagEXKDlAoYx9A0de) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS), [Beccaberry](https://open.spotify.com/artist/2voDdEXDJcUK3ssByTyGnD) | [Over The New World](https://open.spotify.com/album/1S5GG8N8zSGiX6slhmb9yi) | 2:47 | 2026-11-27 |  |
 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 | 2020-10-13\* | 2020-11-11 |
 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 | 2025-10-13 | 2025-11-18 |
 | [Overdrop](https://open.spotify.com/track/13o6UaRfD4OO1hkWy4ZcWC) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Overdrop](https://open.spotify.com/album/325EKa2TySalGhdEW189DI) | 2:40 | 2025-10-20 | 2025-11-20 |
@@ -1626,7 +1627,7 @@
 | [Truth](https://open.spotify.com/track/0a4O30qpS18xaHGS5l1ZCT) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Truth](https://open.spotify.com/album/6eT4LKo7jWInz7LDS2Jky3) | 3:03 | 2026-02-12 | 2026-04-06 |
 | [Trying to say good\-bye](https://open.spotify.com/track/1h0bZ8hfhmGM7AYT5M1zGA) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Trying to say good\-bye](https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817) | 3:58 | 2022-03-28 | 2022-05-19 |
 | [TTYL](https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [TTYL](https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg) | 3:03 | 2024-09-05 | 2025-03-28 |
-| [Tunnel](https://open.spotify.com/track/3msF56KakCIEkByfQm0SDF) | [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [Spooky in Love, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6jkZMicMFLzDZvEtH7mQz2) | 3:14 | 2026-07-28 |  |
+| [Tunnel](https://open.spotify.com/track/3msF56KakCIEkByfQm0SDF) | [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [Spooky in Love, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6jkZMicMFLzDZvEtH7mQz2) | 3:14 | 2026-07-28 | 2026-11-28 |
 | [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 | 2025-11-10 | 2026-01-04 |
 | [Turtle \(Feat\. CHUNG HA\)](https://open.spotify.com/track/4EDyTgFsthqY9Kgqkwm2LQ) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:23 | 2024-05-23 | 2024-07-06 |
 | [Twenty](https://open.spotify.com/track/167erVDWj4mi8sbfVWoc06) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Twenty](https://open.spotify.com/album/0lG4UF1YrhCjmc08Ysl6Wg) | 3:10 | 2026-03-09 | 2026-04-21 |

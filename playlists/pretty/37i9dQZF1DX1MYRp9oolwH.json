@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Alias Rukmini",
-  "num_followers": 172699,
+  "num_followers": 172707,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALeKNUS9LLPuWEKPjbdw7+yT4fwk",
+  "snapshot_id": "AAAAAANiw9RP+17o9JkqRFPvr/kG/8Cw",
   "tracks": [
     {
       "added_at": "2026-11-16 13:55:21",
@@ -59,6 +59,30 @@
       "duration_ms": 222500,
       "name": "Meghaalu Sandhramlo (From \"Inka Em Anukoledhu\")",
       "url": "https://open.spotify.com/track/1UJ3TqCsn7BkfZtze10mf3"
+    },
+    {
+      "added_at": "2026-11-27 10:06:21",
+      "album": {
+        "name": "Somewhere Sometime",
+        "url": "https://open.spotify.com/album/6Gq1pWWpAMPWXrFZ7L0guP"
+      },
+      "artists": [
+        {
+          "name": "Aditya BN",
+          "url": "https://open.spotify.com/artist/49YWbmxhOOtBESRFOipQ5E"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+        },
+        {
+          "name": "Raviteja Kampati",
+          "url": "https://open.spotify.com/artist/1pZdOzIEN78FFL3GgUMN4A"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Manasa",
+      "url": "https://open.spotify.com/track/2dsz1PkacypWOuelO5yims"
     },
     {
       "added_at": "2026-11-02 05:42:50",
@@ -1135,30 +1159,6 @@
       "duration_ms": 225058,
       "name": "Dheem Tha Dhirana (From \"Jagamae Sangeetham\")",
       "url": "https://open.spotify.com/track/3KXVnullvdfGoCOuwafSwW"
-    },
-    {
-      "added_at": "2026-08-10 10:34:51",
-      "album": {
-        "name": "Fanaa (From \"HIGH\")",
-        "url": "https://open.spotify.com/album/11RkNKNmgqbWmQpz9vtkik"
-      },
-      "artists": [
-        {
-          "name": "Vikas Badisa",
-          "url": "https://open.spotify.com/artist/0qAOzzMkqTFgv6sZtBAzQf"
-        },
-        {
-          "name": "Shahzad Ali",
-          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Fanaa (From \"HIGH\")",
-      "url": "https://open.spotify.com/track/55uR1YKMkPrCZbNOAeN9vA"
     },
     {
       "added_at": "2026-08-31 08:28:43",

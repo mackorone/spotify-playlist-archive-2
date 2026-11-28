@@ -1,6 +1,6 @@
 {
   "description": "Themes to groove to from Telugu Movies!\n\nCover: Varanasi",
-  "num_followers": 47710,
+  "num_followers": 47720,
   "original_name": "Tollywood Themes",
   "owner": {
     "name": "Spotify",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/0M2CZsPTpNYFUTYlIosMqV"
     },
     {
-      "added_at": "2026-02-09 09:40:30",
-      "album": {
-        "name": "Itlu Kanmani Announcement Theme",
-        "url": "https://open.spotify.com/album/5tg9gAncqIphPnEx6MNJsn"
-      },
-      "artists": [
-        {
-          "name": "Praveen Sriram",
-          "url": "https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6"
-        }
-      ],
-      "duration_ms": 63471,
-      "name": "Itlu Kanmani Announcement Theme",
-      "url": "https://open.spotify.com/track/3UwuNDTGxZhKvgEpneC8mH"
-    },
-    {
       "added_at": "2026-08-10 07:22:26",
       "album": {
         "name": "Title Glimpse (From \"BharataVarsha \u2013 Saga Of Shula\")",
@@ -911,6 +895,22 @@
       "duration_ms": 64615,
       "name": "Title Glimpse (From \"BharataVarsha \u2013 Saga Of Shula\")",
       "url": "https://open.spotify.com/track/1oN3V3I3ZDcae7JKXP4a62"
+    },
+    {
+      "added_at": "2026-02-09 09:40:30",
+      "album": {
+        "name": "Itlu Kanmani Announcement Theme",
+        "url": "https://open.spotify.com/album/5tg9gAncqIphPnEx6MNJsn"
+      },
+      "artists": [
+        {
+          "name": "Praveen Sriram",
+          "url": "https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6"
+        }
+      ],
+      "duration_ms": 63471,
+      "name": "Itlu Kanmani Announcement Theme",
+      "url": "https://open.spotify.com/track/3UwuNDTGxZhKvgEpneC8mH"
     }
   ],
   "unique_name": "Tollywood Themes",

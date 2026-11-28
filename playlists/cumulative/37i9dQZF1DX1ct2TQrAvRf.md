@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- KR$NA & Seedhe Maut
+> India's Rap Scene\. Cover: YUNG DSA
 
-444 songs - 23 hr 45 min
+445 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bhai Hai](https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Bhai Hai](https://open.spotify.com/album/030XdUEQhiS5NI7hgvgLap) | 2:24 | 2024-06-14 | 2024-09-06 |
 | [BHAJANA](https://open.spotify.com/track/512B0737fHqkUu0B9ZXHat) | [Dasagriva](https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn), [CLOWNY BEATZZ](https://open.spotify.com/artist/4AZNZr8cunGj8kKj81NGFm) | [BHAJANA](https://open.spotify.com/album/2SiOTpDEzT2LPiUKGATKyE) | 2:35 | 2026-01-23 | 2026-02-07 |
 | [BHATBHATEY MA](https://open.spotify.com/track/72xKkxLSAWS2G9qIYbWPcQ) | [PURPLE](https://open.spotify.com/artist/3JCL5GixfCiO16yA1RflBw), [Gwala$](https://open.spotify.com/artist/1ze5GbXgLy9iJqFcmKloCx), [4z](https://open.spotify.com/artist/12lMnhblXelZgO3HjCGo9Y) | [BHATBHATEY MA](https://open.spotify.com/album/7jb3sES8ehCK82H89JCAXg) | 3:10 | 2026-01-23 | 2026-01-31 |
-| [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-07-26 |  |
+| [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-07-26 | 2026-11-28 |
 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 | 2024-12-06 | 2025-02-01 |
 | [BLACK MONEY](https://open.spotify.com/track/41seYWMdVrlD6crsKjITa3) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [BLACK MONEY](https://open.spotify.com/album/2Vgj5bKE2x6v5qYShCmaQZ) | 3:48 | 2024-11-29 | 2025-03-29 |
 | [BLACK RIDE](https://open.spotify.com/track/4hGLOuRhiVAZeOG4ZZc4a1) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [BLACK RIDE](https://open.spotify.com/album/22N7U3oPkFr9N5a6PhDgz0) | 2:49 | 2025-11-07 |  |
@@ -326,6 +326,7 @@
 | [Pinnak](https://open.spotify.com/track/4kw1Tl4ryNxjTtAdFJkD19) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2tmCxw86Ns8FiYzR8NYPSx) | 6:30 | 2023-03-27 | 2024-07-06 |
 | [Pistol](https://open.spotify.com/track/1gnSWq0TDPN3DHkXDekuPp) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Pistol](https://open.spotify.com/album/5biAJ9BV2DGyUAS0vcPJuB) | 2:20 | 2025-02-07 | 2025-03-08 |
 | [Pitbull](https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [thekidd.wav](https://open.spotify.com/artist/5LxqBfBqjhbVLjEL32oMj0) | [Pitbull](https://open.spotify.com/album/322Q4AdwCHgFfpFvKossNs) | 2:50 | 2024-07-19 | 2024-08-03 |
+| [Please](https://open.spotify.com/track/6wNq8vUKfexWd5lyTkh80g) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Don't Try This At Home](https://open.spotify.com/album/6gw6WWZBRNIwdhIX7xqKpW) | 3:52 | 2026-11-27 |  |
 | [Poothiri](https://open.spotify.com/track/6lO6phS09XKfyHv0DYzJw7) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic) | [Poothiri](https://open.spotify.com/album/02MrIUsgtabIfXV5wbB4i5) | 4:00 | 2025-07-11 | 2025-08-30 |
 | [Powerplay](https://open.spotify.com/track/304NwJLBI13meQEv2gvoB0) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Powerplay](https://open.spotify.com/album/5uLNF8MhgDplsMBEeFftLE) | 3:24 | 2024-09-13 | 2024-10-22 |
 | [Praying Mantis](https://open.spotify.com/track/7lLYgsbbYZUHD3ykhe8zFd) | [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [Praying Mantis](https://open.spotify.com/album/0FZoOvzYo8La6K82yKnjIn) | 3:12 | 2026-05-08 | 2026-05-16 |

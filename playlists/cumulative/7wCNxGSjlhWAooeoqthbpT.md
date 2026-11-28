@@ -2,9 +2,9 @@
 
 ### [EPIC VIBES](https://open.spotify.com/playlist/7wCNxGSjlhWAooeoqthbpT)
 
-> Vibe out with Epic Records cover: Future, Drake, Travis Scott, &amp; Sexy Redd
+> Vibe out with Epic Records cover: Molly Santana
 
-308 songs - 15 hr 26 min
+311 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [ANXIETY](https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ANXIETY](https://open.spotify.com/album/4urAq6KDiVLZjNGofhWQKm) | 2:16 | 2021-11-19 | 2022-11-12 |
 | [aorta](https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [2MORE](https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV) | 2:11 | 2023-04-14 | 2023-07-24 |
 | [Arm Candy](https://open.spotify.com/track/608GtKp5XtFQOwmxv3pYHx) | [H3RIZON](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Arm Candy](https://open.spotify.com/album/1Az6vDbU2UIdD7FGgIwIm0) | 2:37 | 2026-11-06 |  |
+| [AYO \(Let Me Go Home\)](https://open.spotify.com/track/3sAv6ZAYD9eMWzcQndu2Xz) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Orange Skies](https://open.spotify.com/album/3ah3bsac2VwBxuxUKhidnp) | 3:19 | 2026-11-27 |  |
 | [Baby Blue](https://open.spotify.com/track/4qMTQM4BzpXCUUZnI9rUnG) | [Mai Anna](https://open.spotify.com/artist/2fTXlJF6M8NKBXu5FBWdDT) | [Baby Blue](https://open.spotify.com/album/7uSGajdgpb9gFIbrZD5kMd) | 4:22 | 2026-11-06 |  |
 | [Baby Don't Cry \(feat\. Young Thug\)](https://open.spotify.com/track/08S37oejetoPevVixK6iXN) | [Philmon Lee](https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Baby Don't Cry \(feat\. Young Thug\)](https://open.spotify.com/album/4KeMatc07ZBH1Z2kGEDVZ1) | 3:04 | 2023-01-20 | 2024-01-10 |
 | [Baccwood](https://open.spotify.com/track/5If13CIfsTGrzOcT2FOa1t) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Baccwood](https://open.spotify.com/album/6XC3qtcbgl4Lq25cCAtw94) | 1:27 | 2022-06-10 | 2022-07-16 |
@@ -99,6 +100,7 @@
 | [Flamerz 6](https://open.spotify.com/track/4zhXoppw3anp4mmA9UuHKQ) | [Poundside Pop](https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0) | [Flamerz 6](https://open.spotify.com/album/0REes2g3elezmkW6DcvXNT) | 2:30 | 2023-05-19 | 2023-06-03 |
 | [FOOL ME ONCE \(feat\. Leon Thomas\)](https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:18 | 2026-11-07 |  |
 | [For The Record](https://open.spotify.com/track/7muCbQ50cXlYgDuYQo4fr4) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [For The Record](https://open.spotify.com/album/18zJI0OjYmtDjG8qzn1G7x) | 3:09 | 2021-10-01 | 2022-06-11 |
+| [Forever](https://open.spotify.com/track/61TkW9fjBA5PfKinXEiIxk) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Black Punk](https://open.spotify.com/album/2MsrhQ8K9Qc2l8AeSnAOJT) | 2:38 | 2026-11-27 |  |
 | [Freaknik \(feat\. Rob49\)](https://open.spotify.com/track/01Ddjtgrqnp2OXOqnOCg62) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Jungle Book](https://open.spotify.com/album/5f2Q0HMRM1nvOSe1y29D3n) | 2:37 | 2024-06-13 | 2026-11-07 |
 | [Free](https://open.spotify.com/track/679TFYvv44xVWXiEPefOSu) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/2uk0qRQyJKmqF1NJL2Cjrw) | 3:07 | 2022-02-25 | 2022-07-23 |
 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 | 2023-03-03 | 2024-01-10 |
@@ -113,6 +115,7 @@
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2024-01-09 | 2026-11-07 |
 | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/track/2EA5h6XD8KB070waaoclje) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2) | 3:11 | 2024-03-05 | 2026-11-07 |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-12 | 2023-07-29 |
+| [GO! \(Ngoneni\) \(feat\. MaWhoo, Nkosazana Daughter, Thakzin & Tony Duardo\)](https://open.spotify.com/track/3rqY5CQwJa4FryYrdKjHIB) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [GO! \(Ngoneni\) \(feat\. MaWhoo, Nkosazana Daughter, Thakzin & Tony Duardo\)](https://open.spotify.com/album/5o3drJwg2wzE1VlnWtWuDo) | 5:52 | 2026-11-27 |  |
 | [Going Places](https://open.spotify.com/track/5X75OF1FA0OiR6B7JfuJmU) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G) | [Going Places](https://open.spotify.com/album/4ZHOXutdiNiyr5CJhAMpJv) | 2:51 | 2023-06-09 | 2023-12-14 |
 | [Going To The Top](https://open.spotify.com/track/12tJyz2GOa37X25a8GF2hP) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Going To The Top](https://open.spotify.com/album/7ekSrUcnLASHRSOYvX2UZw) | 1:56 | 2024-02-26 | 2026-11-07 |
 | [Good Times \(feat\. Offset\)](https://open.spotify.com/track/3j3Pdp9PvAhdJQ1asYh6hS) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [LARRY \(Deluxe\)](https://open.spotify.com/album/2N0IPzR54y3sYnQJFT0bsA) | 2:41 | 2022-06-24 | 2022-11-05 |

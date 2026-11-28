@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: AMPERS&ONE)",
+  "description": "Future K-Pop hits! (Cover: SAY MY NAME)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -22085,6 +22085,28 @@
     },
     {
       "album": {
+        "name": "Over The New World",
+        "url": "https://open.spotify.com/album/1S5GG8N8zSGiX6slhmb9yi"
+      },
+      "artists": [
+        {
+          "name": "SAY MY NAME",
+          "url": "https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS"
+        },
+        {
+          "name": "Beccaberry",
+          "url": "https://open.spotify.com/artist/2voDdEXDJcUK3ssByTyGnD"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "Over The New World",
+      "url": "https://open.spotify.com/track/42fgMKagEXKDlAoYx9A0de"
+    },
+    {
+      "album": {
         "name": "overdose",
         "url": "https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8"
       },
@@ -30604,7 +30626,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-28",
       "duration_ms": 194000,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/3msF56KakCIEkByfQm0SDF"

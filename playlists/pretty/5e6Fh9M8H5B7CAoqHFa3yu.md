@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 362 likes - 2,952 songs - 7 day 3 hr 17 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 362 likes - 2,956 songs - 7 day 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2960,5 +2960,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2950 | [Twin Love](https://open.spotify.com/track/1u4zA3DZJaZ2dSsUhnsRKC) | [Slimeytee23](https://open.spotify.com/artist/1hiy2ZLpsXqRLuF7s92RDU), [NBD TOUBIEY](https://open.spotify.com/artist/30wLa6xEyDBxeRJzwyEpPu), [NBD YOUNG LORD](https://open.spotify.com/artist/5KxzPbKVTz8hYw5cMXhCaO), [MARAW](https://open.spotify.com/artist/6iG4LePQUr0cmkUgUanzYR) | [Love in the Hood](https://open.spotify.com/album/6FQsl1RFuWcQzklNjwcRbE) | 3:15 |
 | 2951 | [Never Survive](https://open.spotify.com/track/2hh5wvJxmdd7E4XTecD4Ac) | [Slimeytee23](https://open.spotify.com/artist/1hiy2ZLpsXqRLuF7s92RDU), [Oscar Ken](https://open.spotify.com/artist/18NBt7ThpqpvlMkCMIeCA1) | [A Minute of Your Time](https://open.spotify.com/album/5SuWHJeNlY71EnDtYuLL4E) | 1:36 |
 | 2952 | [Paraíso Contigo \- Quartetto Version](https://open.spotify.com/track/64MewhFOkEH1sTj5FsHu5W) | [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Paraíso Contigo \(Quartetto Version\)](https://open.spotify.com/album/24RFSsj66VDgh6bwGQvsAA) | 4:07 |
+| 2953 | [THE BEAT \- Radio Edit](https://open.spotify.com/track/3Ziusvq0xf6jbJu8YPY6dj) | [CARUSO](https://open.spotify.com/artist/4gPWSjh9OJolHoeTQ995Tw), [VALENZIANO](https://open.spotify.com/artist/6ZRVg1mv3nhx6METtSYaVj), [Mr Ludwik](https://open.spotify.com/artist/2EQ1ue9aPklRwKhAkUYmJd) | [THE BEAT](https://open.spotify.com/album/5l6zvfw7SLvy5dCAubAQGD) | 2:01 |
+| 2954 | [Chicago Slow Evening](https://open.spotify.com/track/59f99k0X8tvkoEtBP3KO9P) | [Carlito Home](https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0), [Mister BoO](https://open.spotify.com/artist/6r70GFn8sPjePrZadKcPHu) | [Chicago Slow Evening](https://open.spotify.com/album/54u39w6v10Pf3CTXCHwLHX) | 3:14 |
+| 2955 | [Passarinha](https://open.spotify.com/track/2f0EpzPUm4eTfIGa9s6zIZ) | [Amanda Mendonça](https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm) | [Passarinha](https://open.spotify.com/album/2Jw1vDxIEzMDeqOPpIptB2) | 3:37 |
+| 2956 | [Fuego](https://open.spotify.com/track/7404eAtT2tWG1YXp20Lkuu) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Fuego](https://open.spotify.com/album/5kWoswFSKFQBOQ00dle8UD) | 4:07 |
 
-Snapshot ID: `AAAMZNvWcGFI4PgerS8ZpxT6PCo1sg93`
+Snapshot ID: `AAAMaKAwshpagdWJBxfn83EddL5tUfpR`

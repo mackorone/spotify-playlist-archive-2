@@ -2,9 +2,9 @@
 
 ### [Jazz NEXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the sounds of South African Jazz\. Cover: Pilani Bubu
+> Journey through the sounds of South African Jazz\. Cover: Saul Madiope
 
-380 songs - 1 day 13 hr 25 min
+381 songs - 1 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Gog'uIdah](https://open.spotify.com/track/3kFS9rqpW3wRdlmuzun4r2) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Isambulo](https://open.spotify.com/album/1jUglZmiLScdfXJN2hrHak) | 3:40 | 2022-06-23 | 2022-11-02 |
 | [Gog'uIdah](https://open.spotify.com/track/5JcKd6KIvGnMFKGEx1HWNk) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 3:40 | 2022-06-23 | 2026-05-22 |
 | [Good Are Good](https://open.spotify.com/track/6CbwRNWnQArkcMvDeDNUBA) | [On Our Own Clock](https://open.spotify.com/artist/1OQvPdcUC8eNPYRUpq3PZM), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm), [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ), [Danalogue](https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu), [Lex Blondin](https://open.spotify.com/artist/7u3fT8eFtLdXEIE96pJROt), [Nosisi Ngakane](https://open.spotify.com/artist/7ivpT9OmPWesFxus412xjS), [Tebogo Austebza Sedumedi](https://open.spotify.com/artist/1Zvagd4zRf9DR19Afl3PF7), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Yahael Camara\-Onono](https://open.spotify.com/artist/6HmMGkTvyaMs7GnrYj7P7J), [Zoe Molelekwa](https://open.spotify.com/artist/3DJcHMfN5hF9f2RpHkXcHJ) | [On Our Own Clock](https://open.spotify.com/album/5GVwI0OfrqqHEyE8xEX38w) | 7:16 | 2022-04-28 | 2023-03-18 |
+| [Grace Is God](https://open.spotify.com/track/6LSGnFDu3liuNqrEGYGlGk) | [Saul Madiope](https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3), [Prod By Esco](https://open.spotify.com/artist/6kltOvShHbFG2ZZlZW0aSt), [Spice Drums](https://open.spotify.com/artist/2t94pHkpQ9heBi98hoeD7b), [S\-Que](https://open.spotify.com/artist/0vQFWM1zpxvMVOwTdvtWjP), [ThandoNje](https://open.spotify.com/artist/2fxiRVPAfRF85b0qWIHWEA) | [Di Jazz Tsa Ma Nikka](https://open.spotify.com/album/3yRLUs2wNkeQTKaf30mx6C) | 3:36 | 2026-11-27 |  |
 | [H.O.P.E](https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 6:05 | 2025-08-29 |  |
 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 | 2024-05-16 |  |
 | [Happenstance \- Skins \- Episode 02](https://open.spotify.com/track/156NNxRfflM59ng690cPHB) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Micca Manganye](https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae), [Jonno Sweetman](https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW) | [Happenstance \- Skins \(Episode 02\)](https://open.spotify.com/album/3n6CWYa6pPvelVqlWfO5Nf) | 17:13 | 2022-04-28 | 2023-08-26 |
@@ -208,7 +209,7 @@
 | [Melancholia \- Live in Cairo](https://open.spotify.com/track/6HIMyflR3HeKFHuH9iOw3w) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Another Side with Another Time Ensemble \(Live in Cairo\)](https://open.spotify.com/album/0gy0z1wYbwr1FEkCG9tvTA) | 4:38 | 2024-04-11 | 2025-11-17 |
 | [Mfaz 'omnyama](https://open.spotify.com/track/2yZi7rL3BYX7KmCcDIrUum) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 3:22 | 2026-04-29 | 2026-05-22 |
 | [Mindif \- Single Edit](https://open.spotify.com/track/0KfGdrpJ3Dn4eW7CQRqRgO) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Mindif](https://open.spotify.com/album/0fGJTOhEGxKMIEFtsemF19) | 4:16 | 2023-11-30 | 2025-09-04 |
-| [Modeh Ani](https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Modeh Ani](https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx) | 3:59 | 2026-06-18 |  |
+| [Modeh Ani](https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Modeh Ani](https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx) | 3:59 | 2026-06-18 | 2026-11-28 |
 | [Mogaetsho](https://open.spotify.com/track/4cs9zPibRaJWnpinq2OCjA) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/0gJH7Mg6iDdjxFssLUHTGj) | 5:32 | 2023-05-12 | 2023-10-12 |
 | [Mogaetsho](https://open.spotify.com/track/6M7qRhvKFVoczT8Nlrasdq) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/5qK3CSS06KxQ7zF4xnFWJB) | 5:32 | 2023-10-05 | 2024-01-26 |
 | [Molo Sisi](https://open.spotify.com/track/2Gi7DKVBgCMkWKKQgioOWZ) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Somandla](https://open.spotify.com/album/54L8Xvb3x6mVpFOg2io6rE) | 6:02 | 2022-04-28 | 2023-03-18 |

@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 242163,
+  "num_followers": 242202,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-11-27 05:01:54",
       "album": {
-        "name": "Covenant",
-        "url": "https://open.spotify.com/album/6GiboQ1HJHj05vBdjrcmuk"
-      },
-      "artists": [
-        {
-          "name": "BOUE",
-          "url": "https://open.spotify.com/artist/3FluCCMmkHvMQMCI4KwMAH"
-        },
-        {
-          "name": "Praise Lubangu",
-          "url": "https://open.spotify.com/artist/3EkrjQH6KyUDl0weOryOiq"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Covenant",
-      "url": "https://open.spotify.com/track/1ygx5QNNXt5IYhnwy7xuH0"
-    },
-    {
-      "added_at": "2026-11-27 05:01:54",
-      "album": {
         "name": "My Help Comes from the Lord",
         "url": "https://open.spotify.com/album/6o8NMn2fp0LA4yIPKexsvP"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 177701,
       "name": "My Help Comes from the Lord",
       "url": "https://open.spotify.com/track/7vsLRdQ5YCN2SJWSTWHfu6"
+    },
+    {
+      "added_at": "2026-11-27 05:01:54",
+      "album": {
+        "name": "Covenant",
+        "url": "https://open.spotify.com/album/6GiboQ1HJHj05vBdjrcmuk"
+      },
+      "artists": [
+        {
+          "name": "BOUE",
+          "url": "https://open.spotify.com/artist/3FluCCMmkHvMQMCI4KwMAH"
+        },
+        {
+          "name": "Praise Lubangu",
+          "url": "https://open.spotify.com/artist/3EkrjQH6KyUDl0weOryOiq"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Covenant",
+      "url": "https://open.spotify.com/track/1ygx5QNNXt5IYhnwy7xuH0"
     },
     {
       "added_at": "2026-11-27 05:01:54",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-11-27 05:01:54",
       "album": {
+        "name": "GOD's GOT WIFI",
+        "url": "https://open.spotify.com/album/2YxITqH5L9BukMHWYHipPs"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        }
+      ],
+      "duration_ms": 128360,
+      "name": "camera roll.wav",
+      "url": "https://open.spotify.com/track/1QT2OnickucvSGyQ6SlUas"
+    },
+    {
+      "added_at": "2026-11-27 05:01:54",
+      "album": {
         "name": "everywhere",
         "url": "https://open.spotify.com/album/7195r5c0jwNNsbvEDuTXbn"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 176129,
       "name": "Praise The Lord",
       "url": "https://open.spotify.com/track/1ZlVxozEZjkjt5tUhzTOL8"
-    },
-    {
-      "added_at": "2026-11-27 05:01:54",
-      "album": {
-        "name": "GOD's GOT WIFI",
-        "url": "https://open.spotify.com/album/2YxITqH5L9BukMHWYHipPs"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        }
-      ],
-      "duration_ms": 128360,
-      "name": "camera roll.wav",
-      "url": "https://open.spotify.com/track/1QT2OnickucvSGyQ6SlUas"
     },
     {
       "added_at": "2026-11-27 05:01:54",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-11-27 05:01:54",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/3im4azOVIjhYWRD3a8u8Ic"
-      },
-      "artists": [
-        {
-          "name": "KA2SH",
-          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
-        },
-        {
-          "name": "Coron3l",
-          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
-        }
-      ],
-      "duration_ms": 188793,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/02cqJ7yEmzwJoEzlWwdEn4"
-    },
-    {
-      "added_at": "2026-11-27 05:01:54",
-      "album": {
         "name": "For the Beauty of the Earth",
         "url": "https://open.spotify.com/album/2mdPjnmOTECU1KlRLk3Rsz"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 332991,
       "name": "For the Beauty of the Earth",
       "url": "https://open.spotify.com/track/0qi5pBHXka7TjyURP6gQMf"
+    },
+    {
+      "added_at": "2026-11-27 05:01:54",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3im4azOVIjhYWRD3a8u8Ic"
+      },
+      "artists": [
+        {
+          "name": "KA2SH",
+          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
+        },
+        {
+          "name": "Coron3l",
+          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
+        }
+      ],
+      "duration_ms": 188793,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/02cqJ7yEmzwJoEzlWwdEn4"
     },
     {
       "added_at": "2026-11-27 05:01:54",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-11-27 05:01:54",
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 255848,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
+    },
+    {
+      "added_at": "2026-11-27 05:01:54",
+      "album": {
         "name": "Tell The World",
         "url": "https://open.spotify.com/album/2JnYrqR2pB3DyPIzPfE6vs"
       },
@@ -1163,38 +1179,6 @@
     {
       "added_at": "2026-11-27 05:01:54",
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 255848,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
-    },
-    {
-      "added_at": "2026-11-27 05:01:54",
-      "album": {
-        "name": "Better Than My Life (Son Remix)",
-        "url": "https://open.spotify.com/album/6UUULf4mWFQUBkL1zx4HQC"
-      },
-      "artists": [
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 194388,
-      "name": "Better Than My Life - Son Remix",
-      "url": "https://open.spotify.com/track/2gVpnFafalanRH37ZttZSt"
-    },
-    {
-      "added_at": "2026-11-27 05:01:54",
-      "album": {
         "name": "What Freedom Feels Like",
         "url": "https://open.spotify.com/album/35sAGBJKAd11NRY4QqYUXF"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 166911,
       "name": "What Freedom Feels Like",
       "url": "https://open.spotify.com/track/3A1UybUdTZOf0RSRqKBc8I"
+    },
+    {
+      "added_at": "2026-11-27 05:01:54",
+      "album": {
+        "name": "Better Than My Life (Son Remix)",
+        "url": "https://open.spotify.com/album/6UUULf4mWFQUBkL1zx4HQC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 194388,
+      "name": "Better Than My Life - Son Remix",
+      "url": "https://open.spotify.com/track/2gVpnFafalanRH37ZttZSt"
     },
     {
       "added_at": "2026-11-27 05:01:54",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-11-27 05:01:54",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
+      },
+      "artists": [
+        {
+          "name": "Kislaw",
+          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
+    },
+    {
+      "added_at": "2026-11-27 05:01:54",
+      "album": {
         "name": "Energy (EchoStorms Remix)",
         "url": "https://open.spotify.com/album/1kRddLhejNCrVFcpci3UsX"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 220952,
       "name": "Save Me (Illingworth Remix)",
       "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
-    },
-    {
-      "added_at": "2026-11-27 05:01:54",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
-      },
-      "artists": [
-        {
-          "name": "Kislaw",
-          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
     },
     {
       "added_at": "2026-11-27 05:01:54",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-11-27 05:01:54",
       "album": {
-        "name": "SO GOOD !!!",
-        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
-      },
-      "artists": [
-        {
-          "name": "Poetics",
-          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
-        }
-      ],
-      "duration_ms": 120700,
-      "name": "SO GOOD !!!",
-      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
-    },
-    {
-      "added_at": "2026-11-27 05:01:54",
-      "album": {
         "name": "Miracles (Church Mix)",
         "url": "https://open.spotify.com/album/6jwPGICefQUEFkJ9FdbrWT"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 334439,
       "name": "Miracles - Church Mix",
       "url": "https://open.spotify.com/track/5XROQQHpGmUBhTlvBxoWdE"
+    },
+    {
+      "added_at": "2026-11-27 05:01:54",
+      "album": {
+        "name": "SO GOOD !!!",
+        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
+      },
+      "artists": [
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "duration_ms": 120700,
+      "name": "SO GOOD !!!",
+      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
     },
     {
       "added_at": "2026-11-27 05:01:54",
@@ -1967,22 +1967,22 @@
     {
       "added_at": "2026-11-27 05:01:54",
       "album": {
-        "name": "Hallelujah (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/5NEuCXZeMNBmWW1DlrYobh"
+        "name": "The Heart Of Worship",
+        "url": "https://open.spotify.com/album/7swXNmJHZnYG3LOxIVb4ua"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "BRIGHT",
+          "url": "https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 161176,
-      "name": "Hallelujah - R3HAB Remix",
-      "url": "https://open.spotify.com/track/5ngqSlRbYNhtAQgcTw8W12"
+      "duration_ms": 214123,
+      "name": "The Heart Of Worship - Remix",
+      "url": "https://open.spotify.com/track/7uuAV32otL9nZc4uWg9afA"
     }
   ],
   "unique_name": "Christian Dance",

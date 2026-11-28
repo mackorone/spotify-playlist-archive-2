@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 387742,
+  "num_followers": 387750,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1355,18 +1355,22 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Beyond",
-        "url": "https://open.spotify.com/album/0Nu4xhj7NxdUiL0eMy9yoQ"
+        "name": "Going In",
+        "url": "https://open.spotify.com/album/4g7qJhcnulLDRNqhtolo6X"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        },
+        {
+          "name": "The Song Confessional",
+          "url": "https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/5esPpmrM2AsyDVgOKzWQwU"
+      "duration_ms": 161324,
+      "name": "Going In",
+      "url": "https://open.spotify.com/track/2ZJ1cbWdNlBjMlWPnpSvYT"
     }
   ],
   "unique_name": "Easy Acoustic",
